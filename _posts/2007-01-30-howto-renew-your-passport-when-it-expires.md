@@ -1,0 +1,14 @@
+---
+id: 72
+title: 'HOWTO: Renew your Passport when it expires'
+date: 2007-01-30T12:49:48+00:00
+author: Merill Fernando
+layout: post
+guid: /post/2007/01/HOWTO-Renew-your-Passport-when-it-expires.aspx
+permalink: /2007/01/howto-renew-your-passport-when-it-expires/
+dsq_thread_id:
+  - "78234863"
+categories:
+  - Sri Lankan
+---
+<p>With my impending visit to the <a title="MVP Global Summit" href="http://mvp.support.microsoft.com/MVPsummit">MVP Global Summit 2007</a> in Seattle it was time to renew my passport which expired last year.</p> <p><a href="http://dineshpriyankara.spaces.live.com/">Dinesh</a> pointed me to the well laid out <a href="http://www.immigration.gov.lk/">Department of Immigration and Emigration</a> site from where I was able to download the <a href="http://www.immigration.gov.lk/html/online_services/downloads/index.html">application form</a>.</p> <p>Since my passport was the old M series it was valid for only 5 years, I believe the new N series ones are valid for ten years. You can extend the validity of your passport for another five years, currently the renewal rate is Rs 100/- per year.</p> <p>I had to visit the department twice. First to hand over the form and the payment and then they asked me to come two hours later to collect it. Three hours later when I went it was still not there, but I was able to get it&nbsp;after another 1/2 hour of waiting.</p> <p>Even with all the computerization and what not, our ingenious public officials find clever ways to devise schemes to take bribes and expedite&nbsp;the renewal process for "bribe givers" while inconveniencing the guys who do it the right way.</p> <p>Just after I parked the car at the nice car park opposite the department the ticket collector himself comes up and offers to get my passport renewed in 20 minutes. I turned him down.</p> <p>The whole things shows up in an ugly way when you go to collect your passport. There are just two guys handing out the passports to the 150+ people who are waiting at any given time to collect it, and the passports trickle down in batches of about 15 every 10 minutes.</p> <p>There are a another 15 plus officials (bribe takers)&nbsp;wearing the department tag who hang around waiting for their 'guys' (bribe giver)&nbsp;passport. They do this without an iota of shame in front of all 150+ people who are waiting to collect their passport. </p> <p>The guys who get theirs legally have to sign the application to say that they collected it, but no such thing for the bribe givers.</p> <p>Anyway given that we have one minister for anything that one can fart at, this sure is going to improve quite a lot. </p> <p>I meant the bribery taking and giving.</p>

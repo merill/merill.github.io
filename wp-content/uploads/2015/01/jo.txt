@@ -1,0 +1,89 @@
+
+<!-- ControllerParameters_model9270639: 0.9951682 -->
+<!-- /RSS/PodcastAudio.xslt_template9270639: 0.0053216 -->
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:widgets="http://www.joelosteen.com/widgets">
+  <channel>
+    <generator>GCMS RSS</generator>
+    <lastBuildDate>Fri, 23 Jan 2015 10:21:05 UT</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2015 10:21:05 UT</pubDate>
+    <language>en-us</language>
+    <title>Joel Osteen Ministries Podcast</title>
+    <description><![CDATA[Joel Osteen Ministries Podcast]]></description>
+    <link>http://www.joelosteen.com//Podcast</link>
+    <managingEditor>info@joelosteen.com (Joel Osteen Ministries)
+    </managingEditor>
+    <webMaster>info@joelosteen.com (Joel Osteen Ministries)
+    </webMaster>
+    <copyright>2015 </copyright>
+    <image>
+      <url>http://www.joelosteen.com//_controltemplates/Widgets/Styles/Images/podcastaudio.jpg</url>
+      <title>Joel Osteen Ministries Podcast</title>
+      <link>http://www.joelosteen.com//Podcast</link>
+      <width>96</width>
+      <height>35</height>
+      <description><![CDATA[Joel Osteen Ministries Podcast]]></description>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.joelosteen.com//Podcast" />
+    <itunes:summary>
+            Welcome to the weekly video Podcast from Joel Osteen.  Joel and Victoria Osteen are pastors of Lakewood Church in Houston, Texas, a vibrant and diverse church that Forbes calls the largest and fastest - growing congregation in America.
+          </itunes:summary>
+    <itunes:subtitle>Joel Osteen Ministries Podcast</itunes:subtitle>
+    <itunes:keywords>
+            Joel Osteen, Hope, Faith, Grace, Love, Bible, Jesus, Cross, Salvation, Truth
+          </itunes:keywords>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Religion &amp; Spirituality" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Joel Osteen</itunes:author>
+    <itunes:owner>
+      <itunes:email>info@joelosteen.com</itunes:email>
+      <itunes:name>Joel Osteen Ministries</itunes:name>
+    </itunes:owner>
+    <itunes:image href="http://www.joelosteen.com//_controltemplates/Widgets/Styles/Images/podcastaudio.jpg" />
+    <item>
+      <title>Invisible but Invaluable</title>
+      <link>http://www.joelosteen.com//ThisWeeksMessage</link>
+      <author>info@joelosteen.com</author>
+      <description><![CDATA[We need the help of others in order to fulfill our destiny, and guess what? Someone needs our help today, too! Every one of us should be invisible in somebody’s life—being behind the scenes, helping others grow, encouraging and pushing them forward, and calling out their seeds of greatness. <br/> <br/>Without Jonathan, David wouldn’t have been the great king. The prophet Elijah performed many great miracles, but behind the scenes, there was Elisha faithfully caring for his every need. Sometimes we are needed in other people’s lives to help them, to be their arms and feet, to lift up their faith when they can’t go on, and help them walk into greatness. Learn how to live each day helping others. As you make other people shine, God will make sure the right people will be there for you to help you shine and rise higher.]]></description>
+      <pubDate>Sun, 18 Jan 2015 06:00:00 UT</pubDate>
+      <enclosure url="http://media.lakewood.org.edgesuite.net/JOM/podcast/mp3_audio/640_Podcast.mp3" length="30" type="audio/mpeg" />
+      <guid isPermaLink="true">http://www.joelosteen.com//ThisWeeksMessage?podcastid=3944</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:author>info@joelosteen.com</itunes:author>
+      <itunes:subtitle>Invisible but Invaluable</itunes:subtitle>
+      <itunes:summary>We need the help of others in order to fulfill our destiny, and guess what? Someone needs our help today, too! Every one of us should be invisible in somebody’s life—being behind the scenes, helping others grow, encouraging and pushing them forward, and calling out their seeds of greatness. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Without Jonathan, David wouldn’t have been the great king. The prophet Elijah performed many great miracles, but behind the scenes, there was Elisha faithfully caring for his every need. Sometimes we are needed in other people’s lives to help them, to be their arms and feet, to lift up their faith when they can’t go on, and help them walk into greatness. Learn how to live each day helping others. As you make other people shine, God will make sure the right people will be there for you to help you shine and rise higher.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>no</itunes:block>
+    </item>
+    <item>
+      <title>Counted by The Creator</title>
+      <link>http://www.joelosteen.com//ThisWeeksMessage</link>
+      <author>info@joelosteen.com (Joel Osteen)</author>
+      <description><![CDATA[It’s easy to walk through life feeling limited. These limitations come in all different forms— from people and their discouraging words spoken over us, labels, genetics and family lineage, our own thoughts and insecurities, even our past and what we think we lack in potential. It can be a lot of things. But the good news is, God has already counted you worthy and put everything in you to fulfill His destiny in your life.<br/><br/>Find out how to walk in your full, God-given potential by narrowing your focus, letting go of lies and competition, and immersing yourself in God’s Word and His identity so you can flourish into all God has created you to be! Learn how to break the forces that would try to keep you hidden so you can shine bright and make a difference in this world!]]></description>
+      <pubDate>Sun, 11 Jan 2015 06:00:00 UT</pubDate>
+      <enclosure url="http://media.lakewood.org.edgesuite.net/JOM/podcast/mp3_audio/639_Podcast.mp3" length="30" type="audio/mpeg" />
+      <guid isPermaLink="true">http://www.joelosteen.com//ThisWeeksMessage?podcastid=3294</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:author>info@joelosteen.com (Joel Osteen)</itunes:author>
+      <itunes:subtitle>Counted by The Creator</itunes:subtitle>
+      <itunes:summary>It’s easy to walk through life feeling limited. These limitations come in all different forms— from people and their discouraging words spoken over us, labels, genetics and family lineage, our own thoughts and insecurities, even our past and what we think we lack in potential. It can be a lot of things. But the good news is, God has already counted you worthy and put everything in you to fulfill His destiny in your life.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Find out how to walk in your full, God-given potential by narrowing your focus, letting go of lies and competition, and immersing yourself in God’s Word and His identity so you can flourish into all God has created you to be! Learn how to break the forces that would try to keep you hidden so you can shine bright and make a difference in this world!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>no</itunes:block>
+    </item>
+    <item>
+      <title>Covered by Mercy</title>
+      <link>http://www.joelosteen.com//ThisWeeksMessage</link>
+      <author>info@joelosteen.com (Joel Osteen)</author>
+      <description><![CDATA[Do you ever feel disqualified from God’s goodness because of past mistakes? Well, you're not the only one! We all make mistakes in life and do things that we know we shouldn’t do. It’s easy to live in guilt and regret and not feel worthy of God’s love, favor and blessing. But the good news is, God has you covered. <br/>Discover the merciful goodness of God in this faith-building message as you explore the stories of men and women in the Bible who made mistakes but still saw God’s goodness, and not just His goodness—but His overwhelming flood of favor. You’ll be inspired to believe for this same mercy in your life as the spark of hope is ignited once again. You can and you will see God’s goodness again when you dare to believe again! Let this message teach you how.]]></description>
+      <pubDate>Sun, 04 Jan 2015 06:00:00 UT</pubDate>
+      <enclosure url="http://media.lakewood.org.edgesuite.net/JOM/podcast/mp3_audio/638_Podcast.mp3" length="30" type="audio/mpeg" />
+      <guid isPermaLink="true">http://www.joelosteen.com//ThisWeeksMessage?podcastid=3263</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:author>info@joelosteen.com (Joel Osteen)</itunes:author>
+      <itunes:subtitle>Covered by Mercy</itunes:subtitle>
+      <itunes:summary>Do you ever feel disqualified from God’s goodness because of past mistakes? Well, you're not the only one! We all make mistakes in life and do things that we know we shouldn’t do. It’s easy to live in guilt and regret and not feel worthy of God’s love, favor and blessing. But the good news is, God has you covered. &amp;lt;br/&amp;gt;Discover the merciful goodness of God in this faith-building message as you explore the stories of men and women in the Bible who made mistakes but still saw God’s goodness, and not just His goodness—but His overwhelming flood of favor. You’ll be inspired to believe for this same mercy in your life as the spark of hope is ignited once again. You can and you will see God’s goodness again when you dare to believe again! Let this message teach you how.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>no</itunes:block>
+    </item>
+  </channel>
+</rss><!-- NO cache output from www.joelosteen.com/RSS/Feed:{"t":"PodcastAudio","ct":"CustomList","cst":"Podcasts","IsLoggedIn":"True","IsPartner":"False"}-->

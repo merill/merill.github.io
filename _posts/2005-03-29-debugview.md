@@ -1,0 +1,23 @@
+---
+id: 220
+title: DebugView
+date: 2005-03-29T15:41:44+00:00
+author: Merill Fernando
+layout: post
+guid: /post/2005/03/DebugView.aspx
+permalink: /2005/03/debugview/
+dsq_thread_id:
+  - "79044673"
+categories:
+  - .NET
+  - Utilities
+---
+Another very nice tool is <i>DebugView</i>. This is a tool from <i>Sysinternals</i> that enables you to monitor all debug messages on your system. This allows you to have the following in your code:<br />
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify"><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: 'Courier New'"><?xml:namespace prefix ="" o /><o:p>&nbsp;</o:p></span></p>
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 1pt; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-element: para-border-div; mso-border-alt: solid windowtext .5pt">
+<p class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt; mso-layout-grid-align: none"><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-language: NL">Debug.Write("This is written trough System.Diagnostics.Debug.Write.");<o:p></o:p></span></p>
+<p class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt; mso-layout-grid-align: none"><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-language: NL">Trace.Write("This is written trough System.Diagnostics.Trace.Write.");<o:p></o:p></span></p>
+<p class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt; mso-layout-grid-align: none"><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-language: NL"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none; TEXT-ALIGN: justify; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt"><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-language: NL">Debug.WriteIf(inDebug, "This is written because inDebug is true.");<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: Verdana; mso-bidi-font-family: 'Courier New'"><o:p></o:p></span></p></div>
+<p><br />Having this in your code is very handy for debugging in an early stage, where you haven&rsquo;t added a logging component, such as <i>Enterprise Library</i>, yet. Or in a scenario where you don&rsquo;t want to attach the <i>Visual Studio Debugger</i>, or can&rsquo;t attach it, but still want to view some debug information from your program.<br /><br />It&rsquo;s also possible to connect to a remote computer, and intercept these debug messages remotely<br /><br /><img height="105" alt="050339debugviewremote" src="http://www.merill.net/wp-content/uploads/contentbinary/050339debugviewremote.jpg" width="410" border="0" /><br /><br />After having added code like this, the only thing that has to be done is open <i>DebugView</i> and run the program. <i>DebugView</i> would then intercept the messages and display them as following:<br /><br /><img height="190" alt="050339debugview" src="http://www.merill.net/wp-content/uploads/contentbinary/050339debugview.jpg" width="738" border="0" /><br /><br />This tool is only 240 KB in size, and completely free, which is really amazing for such a powerful and useful tool. </p>
+<p>Source: <a href="http://weblogs.asp.net/CumpsD/archive/2005/03/28/396022.aspx">http://weblogs.asp.net/CumpsD/archive/2005/03/28/396022.aspx</a></p>
