@@ -50,9 +50,6 @@ url: https://merill.net
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-feed:
-  path: feed/
-
 #
 # !! You don't need to change any of the configuration flags below !!
 #
