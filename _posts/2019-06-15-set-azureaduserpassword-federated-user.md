@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 ## Tip: Update the Azure AD password of a federated user
 
