@@ -1,21 +1,23 @@
 ---
 id: 1195
 title: Publishing private enterprise apps to the managed Google Play Store
-date: 2019-02-08T07:57:12+00:00
+date: {}
 author: Merill Fernando
 layout: post
-guid: http://merill.net/?p=1195
+guid: 'http://merill.net/?p=1195'
 permalink: /2019/02/publishing-private-enterprise-apps-to-the-managed-google-play-store/
 medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
+  - >-
+    O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
 xyz_lnap:
-  - "1"
+  - '1'
 xyz_twap:
-  - "1"
+  - '1'
 neve_meta_content_width:
-  - "70"
+  - '70'
 categories:
   - Office 365
+published: true
 ---
 <!-- wp:paragraph -->
 Here's a quick how to guide for publishing a private app to the managed Google Play store using the Custom App Publishing API and then surfacing it to your enterprise users through your EMM/MDM solution.
@@ -75,7 +77,7 @@ Update the devAccountId, apkPath and clientSecretsJson variables in the code bel
 
 <!-- wp:code -->
 
-<pre class="wp-block-code"><code>    class Program
+	class Program
     {
         static void Main(string[] args)
         {
@@ -118,6 +120,6 @@ Update the devAccountId, apkPath and clientSecretsJson variables in the code bel
             var response = request.Upload();
             Console.WriteLine("Status = " + response.Status);
         }
-    }</code></pre>
-
+    }
+	
 <!-- /wp:code -->
