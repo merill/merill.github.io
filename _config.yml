@@ -85,3 +85,15 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+# Used for proise.io config
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://merill.net'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
