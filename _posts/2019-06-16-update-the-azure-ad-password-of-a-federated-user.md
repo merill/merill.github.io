@@ -1,7 +1,7 @@
 ---
+layout: post
 published: true
 title: Update the Azure AD password of a federated user
-layout: post
 ---
 There are times you need to update the Azure AD password of a user that's synced from Active Directory. However running either Set-AzureADUserPassword or Set-MsolUserPassword fails with one of the following errors.
 
@@ -20,5 +20,6 @@ There is a simple hack to workaround this limitation. All you need to do is temp
     Set-AzureADUser -ObjectId xxxxx -UserPrincipalName user@domain.com
 
 That's it. The user will eventually be signed out of the apps they are in and will have to re-sign in again. 
+
 
 The new password will remain until the user changes their password on-prem in Active Directory which will then sync across to Azure Active Directory.
