@@ -21,5 +21,4 @@ There is a simple hack to workaround this limitation. All you need to do is temp
 
 That's it. The user will eventually be signed out of the apps they are in and will have to re-sign in again. 
 
-
 The new password will remain until the user changes their password on-prem in Active Directory which will then sync across to Azure Active Directory.
