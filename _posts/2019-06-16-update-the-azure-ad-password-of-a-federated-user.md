@@ -3,6 +3,7 @@ published: true
 title: Update the Azure AD password of a federated user
 ---
 There are times you need to update the Azure AD password of a user that's synced from Active Directory. However running either Set-AzureADUserPassword or Set-MsolUserPassword fails with one of the following errors.
+
 - Set-MsolUserPassword : You cannot reset a password for a federated user.
 - Set-AzureADUserPassword : Error occurred while executing SetUser Code: Request_BadRequest
 
