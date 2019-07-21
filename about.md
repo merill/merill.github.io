@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Merill Fernando
+Ex Microsoft MVP + Senior Architect + DevOps Lead for Telstra's Office 365 and Azure Active Directory (100k+ user base)
+Melbourne, Australia
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hey folks,
+
+Need to get in touch with me? Feel free to contact me on Twitter on LinkedIn. If you want to drop me an email send to merill at merill.net
+
+Cheers,
+Merill
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Twitter](https://twitter.com/merill)
+[LinkedIn])(https://www.linkedin.com/in/merill/)
