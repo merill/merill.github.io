@@ -20,4 +20,4 @@ Merill
 ### Contact me
 
 [Twitter](https://twitter.com/merill)
-[LinkedIn])(https://www.linkedin.com/in/merill/)
+[LinkedIn](https://www.linkedin.com/in/merill/)
