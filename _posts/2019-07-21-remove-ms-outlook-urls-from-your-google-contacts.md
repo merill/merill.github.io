@@ -9,6 +9,7 @@ If you wind up with 100s of contacts having weird urls like 'ms-outlook://people
 
 Have no fear [Google Script](https://script.google.com) is here to rescue us. A simple hack and five minutes later you can enjoy a fully cleaned up contacts list without all the Outlook junk. 
 
+```
   function myFunction() {
   var outlookJunkNote = "This contact is read-only. To make changes, tap the link above to edit in Outlook."
   var contacts = ContactsApp.getContacts();
@@ -32,6 +33,7 @@ Have no fear [Google Script](https://script.google.com) is here to rescue us. A 
     }
   }
 }
+```
 
 I have published the script over at Google Script so you can simply save it your account and run it to clean up your Google contacts. [Remove Outlook Junk Script](https://script.google.com/a/merill.net/d/17QekwOHQwWAbELmO2xgiHnrRLkzMyaXo-1Fe2L_cBhGitMhsXJvL3asF/edit?usp=sharing)
 
