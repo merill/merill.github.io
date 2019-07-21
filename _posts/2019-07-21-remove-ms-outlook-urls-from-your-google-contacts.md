@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Remove ms-outlook urls from your Google Contacts
 ---
 Microsoft Outlook for mobile is one of the best, if not the best mobile mail client out there. However things can get a bit messy if you use the Save Contacts feature on iOS and also have a third party contact sync app keeping iCloud and GMail contacts in sync. I use the awesome [Contacts Sync for Google](https://apps.apple.com/au/app/contacts-sync-for-google-gmail/id454390333)
@@ -36,4 +36,3 @@ Have no fear [Google Script](https://script.google.com) is here to rescue us. A 
 ```
 
 I have published the script over at Google Script so you can simply save it your account and run it to clean up your Google contacts. [Remove Outlook Junk Script](https://script.google.com/a/merill.net/d/17QekwOHQwWAbELmO2xgiHnrRLkzMyaXo-1Fe2L_cBhGitMhsXJvL3asF/edit?usp=sharing)
-
