@@ -106,3 +106,5 @@ prose:
           element: "checkbox"
           label: "Published"
           value: false
+
+theme: jekyll-theme-hacker
