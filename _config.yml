@@ -9,11 +9,14 @@ name: merill.net
 description: Cloud Architect + Microsoft 365 DevOps Lead
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/1288081?s=400&u=2cfc708646cbea4bceb1a054096e0a763bfb95d2&v=4
+avatar: https://avatars3.githubusercontent.com/u/1288081?s=460&v=4
 
 #
 # Flags below are optional
 #
+
+plugins:
+  - jekyll-paginate
 paginate: 10
 
 # Includes an icon in the footer for each username you enter
@@ -106,5 +109,3 @@ prose:
           element: "checkbox"
           label: "Published"
           value: false
-
-theme: jekyll-theme-hacker
