@@ -55,7 +55,7 @@ Set-AzureADUser -ObjectID <User Object ID> -PasswordPolicies "DisablePasswordExp
 
 Now for the catch. If you try this on a federated user account, AAD will complain its a synced account and throw the error "Unable to update the specified properties for on-premises mastered Directory Sync objects or objects". Nothing that some simple PowerShell can't solve. All you have to do is switch the user's UPN to a managed domain, update the policy and switch the UPN back to the federated one. There is no impact to the user (they won't see any sign in prompts or weird behaviour). Remember to use the user's GUID as the ObjectId instead of the UPN since we are swapping the UPNs around. I also added the .x@ to the temporary managedUpn to avoid conflicts where some users 
 
-```
+```powershell
 function SetPasswordPolicyNone($objectId, $upn)
 {
     $upnSplit = $upn.Split("@")
