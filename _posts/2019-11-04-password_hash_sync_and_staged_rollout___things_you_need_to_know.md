@@ -79,8 +79,9 @@ foreach ($user in $users){
 ```
 	
 Now for some notes/warnings
-	- You should do some reporting to understand the current state of the user's password policies. This article has some helpful scripts to do this. https://docs.microsoft.com/en-us/office365/admin/add-users/set-password-to-never-expire?view=o365-worldwide
-	- If you have some users or types of users on-prem that don't have a password expiry policy you will need to make sure you don't set their password policy to None. If you do it they will be prompted with the 'Change Password' flow in Azure AD even though their password has not expired on-prem. 
+- You should do some reporting to understand the current state of the user's password policies. This article has some helpful scripts to do this https://docs.microsoft.com/en-us/office365/admin/add-users/set-password-to-never-expire?view=o365-worldwide
+
+- If you have some users or types of users on-prem that don't have a password expiry policy you will need to make sure you don't set their password policy to None. If you do it they will be prompted with the 'Change Password' flow in Azure AD even though their password has not expired on-prem. 
 
 ## CA Policy to Lockdown access to the Security info page
 The [Security Info](https://docs.microsoft.com/en-us/azure/active-directory/user-help/security-info-setup-auth-app) page where your users can set up the MFA options is well protected by Microsoft once the user has set up an MFA option. Each time they access this page they will be prompted to perform an MFA.
