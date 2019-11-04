@@ -29,4 +29,4 @@ The new MSDN articles and help documents use these stencils so it's nice of Micr
 
 Here's a small sample of the available icons.
 
-<a href="http://merill.net/wp-content/uploads/2014/12/Office-365-Stencils.png"><img class="alignnone size-full wp-image-927" src="http://merill.net/wp-content/uploads/2014/12/Office-365-Stencils.png" alt="Office 365 Stencils" width="371" height="530" /></a>
+<a href="https://merill.net/wp-content/uploads/2014/12/Office-365-Stencils.png"><img class="alignnone size-full wp-image-927" src="https://merill.net/wp-content/uploads/2014/12/Office-365-Stencils.png" alt="Office 365 Stencils" width="371" height="530" /></a>

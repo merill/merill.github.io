@@ -52,7 +52,7 @@ Next you need to generate the private key that will be used to authenticate agai
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1196} -->
-<figure class="wp-block-image"><img src="http://merill.net/wp-content/uploads/2019/02/GoogleApiJson-1024x686.png" alt=" " class="wp-image-1196"/>
+<figure class="wp-block-image"><img src="https://merill.net/wp-content/uploads/2019/02/GoogleApiJson-1024x686.png" alt=" " class="wp-image-1196"/>
 
 <figcaption>Create private key for service account</figcaption>
 
