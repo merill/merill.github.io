@@ -39,15 +39,20 @@ The issue stems from the fact that password expiry status is not a true/false fl
 The good news is that the story is a lot better now (Nov 2019) than what is was a few months ago. What you need to do now is create a password policy in Azure AD that matches your on-prem policy (eg 90 day expiry). Then you need to do two things. 
   
 The first is to turn on _EnforceCloudPasswordPolicyForPasswordSyncedUsers_ in AAD. This will ensure that going forward whenever a user resets the password, AAD Connect will set that user's password policy from _DisablePasswordExpiration_ to _None_.
-	
+
+```
 Set-MsolDirSyncFeature -Feature EnforceCloudPasswordPolicyForPasswordSyncedUsers  $true
-	
+```
+
 However this is not going to go and fix each user's account. To do that you need to set it for each individual user like this.
-	
+
+```
 Set-AzureADUser -ObjectID <User Object ID> -PasswordPolicies "DisablePasswordExpiration"
-	
+```	
+
 Now for the catch. If you try this on a federated user account, AAD will complain its a synced account and throw the error "Unable to update the specified properties for on-premises mastered Directory Sync objects or objects". Nothing that some simple PowerShell can't solve. All you have to do is switch the user's UPN to a managed domain, update the policy and switch the UPN back to the federated one. There is no impact to the user (they won't see any sign in prompts or weird behaviour). Remember to use the user's GUID as the ObjectId instead of the UPN since we are swapping the UPNs around. I also added the .x@ to the temporary managedUpn to avoid conflicts where some users 
-	
+
+```
 function SetPasswordPolicyNone($objectId, $upn)
 {
     $upnSplit = $upn.Split("@")
@@ -68,6 +73,7 @@ foreach ($user in $users){
     Write-Host $user.userPrincipalName
     SetPasswordPolicyNone -upn $user.userPrincipalName -objectId $user.ObjectId
 }
+```
 	
 Now for some notes/warnings
 	- You should do some reporting to understand the current state of the user's password policies. This article has some helpful scripts to do this. https://docs.microsoft.com/en-us/office365/admin/add-users/set-password-to-never-expire?view=o365-worldwide
@@ -85,7 +91,7 @@ This way you can prevent intruders hijacking a user's account and setting up MFA
 
 
 
-# MFA configuration for end users
+## MFA configuration for end users
 This is more about end user comms and planning. You need to figure out how you guide your users through the process of setting up MFA.
 
 Microsoft has a good guide to set this up over https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted
@@ -97,7 +103,8 @@ If you are not licenced you will need to roll your own and come up with a plan t
 Unfortunately, reporting on the MFA options set up by the user is still locked down to the old MSOL PowerShell module. 
 
 This script will help create a report for you.
-	
+
+```	
 Remove-Item $outputCsvPath
 $result=@() 
 $inputUserCsv | ForEach-Object {
@@ -112,9 +119,15 @@ $inputUserCsv | ForEach-Object {
     }
     $result | Export-CSV $outputCsvPath -NoTypeInformation -Append
 }
-	
+```
 
-# Other titbits 
-	- Sites with domain hint : Microsoft has a warning about sites with domain hint. Yes they will still redirect the user to the federated sign in page, however most users will rarely see this page. If they have a PRT token or they've signed in before it will take them to the cloud authentication flow. The rare occurrence where they might see this is if they are on a mobile device that doesn't have single sign on (eg. Safari).
-	- Do I need to implement Seamless SSO? If all the users you are migrating are on Windows 10 and AAD Hybrid Joined then Seamless Sign On does not add any benefit. You can skip it altogether. However if you are migrating Windows 7 users to PHS then yes you should set up Seamless SSO
-	- What should I set the Active Directory Service Connection Point to? It's better to have the SCP point to the <mytenant>.onmicrosoft.com domain instead of your custom domain to avoid DNS and proxy issues related to your tenant.
+
+## Other titbits 
+### Sites with domain hint 
+Microsoft has a warning about sites with domain hint. Yes they will still redirect the user to the federated sign in page, however most users will rarely see this page. If they have a PRT token or they've signed in before it will take them to the cloud authentication flow. The rare occurrence where they might see this is if they are on a mobile device that doesn't have single sign on (eg. Safari).
+
+### Do I need to implement Seamless SSO? 
+If all the users you are migrating are on Windows 10 and AAD Hybrid Joined then Seamless Sign On does not add any benefit. You can skip it altogether. However if you are migrating Windows 7 users to PHS then yes you should set up Seamless SSO
+
+### What should I set the Active Directory Service Connection Point to? 
+It's better to have the SCP point to the <mytenant>.onmicrosoft.com domain instead of your custom domain to avoid DNS and proxy issues related to your tenant.
