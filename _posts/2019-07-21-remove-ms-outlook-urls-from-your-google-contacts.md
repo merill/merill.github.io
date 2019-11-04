@@ -35,4 +35,4 @@ Have no fear [Google Script](https://script.google.com) is here to rescue us. A 
 }
 ```
 
-I have published the script over at Google Script so you can simply save it your account and run it to clean up your Google contacts. [Remove Outlook Junk Script](https://script.google.com/a/merill.net/d/17QekwOHQwWAbELmO2xgiHnrRLkzMyaXo-1Fe2L_cBhGitMhsXJvL3asF/edit?usp=sharing)
+I have published the script over at Google Script so you can simply save it your account and run it to clean up your Google contacts. [Remove Outlook Junk Script](https://script.google.com/d/17QekwOHQwWAbELmO2xgiHnrRLkzMyaXo-1Fe2L_cBhGitMhsXJvL3asF/edit?usp=sharing)
