@@ -6,6 +6,7 @@ title: Password Hash Sync and Staged Rollout - Things you need to know
 Now that Staged Rollout is out of NDA, I can finally talk about one of the projects I've been working on for the last twelve months.
  
 **Why Staged Rollout?**
+
 How do you migrate from an on-prem identity provider to using Azure AD as the authentication provider? Before Staged Rollout was available the only option was either big-bang where you switched the entire domain from federated to managed or you had to mess with the user's UPN and temporarily move them to a managed domain. Not very great options which basically meant it made the already difficult task an almost impossible one.
 
 Thanks to Staged Rollout you can now migrate a few users at a time to native Azure AD authentication. The end result will be as simple as adding the users to an AAD group.
@@ -21,6 +22,8 @@ Check your conditional access policies and make sure you've covered all the scen
 ## Block Legacy Authentication
 You will also want to [block legacy authentication] (https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication). If not, you have opened the door for bad guys to run brute force attacks on your user passwords. A quick note that blocking legacy authentication will not break Exchange Active Sync sign ins (even though they use a form of basic auth). 
 You might have issues blocking legacy authentication for users that are on the LAN/VPN, especially if you have robot accounts using EWS APIs, old Outlook clients, etc. At a minimum you should set up a CA policy to block legacy auth requests coming in over the internet.
+
+![2019-11-01-437469.png](https://merill.net/assets/2019-11-01-437469.png)
 
 
 
