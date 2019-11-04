@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: merill.net
-email: merill@merill.net
-name: my utmost for his highest, my best for his glory
-description: Ramblings of an Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead
+title: "merill.net"
+email: "merill@merill.net"
+name: "my utmost for his highest, my best for his glory"
+description: "Ramblings of an Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://merill.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: merill
