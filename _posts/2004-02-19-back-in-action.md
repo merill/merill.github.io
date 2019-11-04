@@ -2,7 +2,7 @@
 id: 341
 title: Back In Action
 date: 2004-02-19T10:56:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Back-In-Action.aspx
 permalink: /2004/02/back-in-action/

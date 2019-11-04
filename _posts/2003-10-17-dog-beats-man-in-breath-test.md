@@ -2,7 +2,7 @@
 id: 494
 title: Dog beats man in breath test
 date: 2003-10-17T18:39:20+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/Dog-beats-man-in-breath-test.aspx
 permalink: /2003/10/dog-beats-man-in-breath-test/

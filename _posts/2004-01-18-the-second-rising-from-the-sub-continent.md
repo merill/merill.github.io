@@ -2,7 +2,7 @@
 id: 400
 title: The second rising from the sub-continent
 date: 2004-01-18T22:35:37+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/The-second-rising-from-the-sub-continent.aspx
 permalink: /2004/01/the-second-rising-from-the-sub-continent/

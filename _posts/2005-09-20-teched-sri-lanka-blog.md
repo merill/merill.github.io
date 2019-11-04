@@ -2,7 +2,7 @@
 id: 166
 title: Tech.Ed Sri Lanka Blog
 date: 2005-09-20T23:31:09+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/09/TechEd-Sri-Lanka-Blog.aspx
 permalink: /2005/09/teched-sri-lanka-blog/

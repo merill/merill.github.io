@@ -2,7 +2,7 @@
 id: 415
 title: 'Gates Previews &#8216;Amazing Decade&#8217;'
 date: 2004-01-09T12:00:07+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Gates-Previews-Amazing-Decade.aspx
 permalink: /2004/01/gates-previews-amazing-decade/

@@ -2,7 +2,7 @@
 id: 547
 title: Messenger Plus for Messenger 6!
 date: 2003-07-19T17:52:54+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Messenger-Plus-for-Messenger-6!.aspx
 permalink: /2003/07/messenger-plus-for-messenger-6/

@@ -2,7 +2,7 @@
 id: 227
 title: Microsoft Offers Free Exam Retakes Worldwide
 date: 2005-03-03T15:49:34+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/03/Microsoft-Offers-Free-Exam-Retakes-Worldwide.aspx
 permalink: /2005/03/microsoft-offers-free-exam-retakes-worldwide/

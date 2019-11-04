@@ -2,7 +2,7 @@
 id: 294
 title: 'Spymac Launches The Internet&#8217;s First Free 1 Gigabyte Email Service'
 date: 2004-04-07T08:43:51+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/04/Spymac-Launches-The-Internets-First-Free-1-Gigabyte-Email-Service.aspx
 permalink: /2004/04/spymac-launches-the-internets-first-free-1-gigabyte-email-service/

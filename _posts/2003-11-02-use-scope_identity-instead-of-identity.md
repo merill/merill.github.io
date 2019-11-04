@@ -2,7 +2,7 @@
 id: 482
 title: Use scope_identity() instead of @@identity
 date: 2003-11-02T13:15:10+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Use-scope_identity()-instead-of-identity.aspx
 permalink: /2003/11/use-scope_identity-instead-of-identity/

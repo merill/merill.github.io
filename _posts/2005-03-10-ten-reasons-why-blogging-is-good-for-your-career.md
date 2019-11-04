@@ -2,7 +2,7 @@
 id: 223
 title: Ten Reasons Why Blogging is Good For Your Career
 date: 2005-03-10T21:38:39+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/03/Ten-Reasons-Why-Blogging-is-Good-For-Your-Career.aspx
 permalink: /2005/03/ten-reasons-why-blogging-is-good-for-your-career/

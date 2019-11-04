@@ -2,7 +2,7 @@
 id: 512
 title: Passed 70-300 Analyzing Requirements and Defining Microsoft .NET Solution Architectures
 date: 2003-09-14T18:15:56+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/09/Passed-70-300-Analyzing-Requirements-and-Defining-Microsoft-NET-Solution-Architectures.aspx
 permalink: /2003/09/passed-70-300-analyzing-requirements-and-defining-microsoft-net-solution-architectures/

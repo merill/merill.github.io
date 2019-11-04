@@ -2,7 +2,7 @@
 id: 609
 title: 'CKS: World Clock and Weather WebPart with Proxy Support'
 date: 2009-11-18T17:47:49+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2009/11/cks-world-clock-and-weather-webpart-with-proxy-support/
 permalink: /2009/11/cks-world-clock-and-weather-webpart-with-proxy-support/

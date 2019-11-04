@@ -2,7 +2,7 @@
 id: 458
 title: Microsoft In Sri Lanka
 date: 2003-12-10T13:38:57+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/Microsoft-In-Sri-Lanka.aspx
 permalink: /2003/12/microsoft-in-sri-lanka/

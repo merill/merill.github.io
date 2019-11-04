@@ -2,7 +2,7 @@
 id: 99
 title: Innovation Comes From Saying No
 date: 2006-11-01T01:49:52+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/11/Innovation-Comes-From-Saying-No.aspx
 permalink: /2006/11/innovation-comes-from-saying-no/

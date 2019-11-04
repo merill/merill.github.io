@@ -2,7 +2,7 @@
 id: 212
 title: Kottu Blog Drive
 date: 2005-04-08T12:40:46+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/Kottu-Blog-Drive.aspx
 permalink: /2005/04/kottu-blog-drive/

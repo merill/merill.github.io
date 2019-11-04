@@ -2,7 +2,7 @@
 id: 426
 title: Uncle Sam fingerprints visitors
 date: 2004-01-06T15:22:39+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Uncle-Sam-fingerprints-visitors.aspx
 permalink: /2004/01/uncle-sam-fingerprints-visitors/

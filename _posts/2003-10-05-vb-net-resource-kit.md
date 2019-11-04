@@ -2,7 +2,7 @@
 id: 502
 title: VB .NET Resource Kit
 date: 2003-10-05T12:58:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/VB-NET-Resource-Kit.aspx
 permalink: /2003/10/vb-net-resource-kit/

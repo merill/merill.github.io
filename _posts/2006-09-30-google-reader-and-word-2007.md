@@ -2,7 +2,7 @@
 id: 115
 title: Google Reader and Word 2007
 date: 2006-09-30T02:45:50+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/09/Google-Reader-and-Word-2007.aspx
 permalink: /2006/09/google-reader-and-word-2007/

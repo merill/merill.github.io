@@ -2,7 +2,7 @@
 id: 64
 title: Super secret project and the MVP Summit 2007 so far
 date: 2007-03-14T10:22:39+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/03/Super-secret-project-and-the-MVP-Summit-2007-so-far.aspx
 permalink: /2007/03/super-secret-project-and-the-mvp-summit-2007-so-far/

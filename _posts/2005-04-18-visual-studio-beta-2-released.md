@@ -2,7 +2,7 @@
 id: 207
 title: Visual Studio Beta 2 Released
 date: 2005-04-18T16:03:23+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/Visual-Studio-Beta-2-Released.aspx
 permalink: /2005/04/visual-studio-beta-2-released/

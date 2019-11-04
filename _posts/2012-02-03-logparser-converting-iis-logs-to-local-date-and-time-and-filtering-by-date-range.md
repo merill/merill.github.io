@@ -2,7 +2,7 @@
 id: 750
 title: 'LogParser &#8211; Converting IIS logs to local date and time and filtering by date range'
 date: 2012-02-03T07:02:26+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=750
 permalink: /2012/02/logparser-converting-iis-logs-to-local-date-and-time-and-filtering-by-date-range/

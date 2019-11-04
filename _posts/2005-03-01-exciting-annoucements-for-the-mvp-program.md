@@ -2,7 +2,7 @@
 id: 229
 title: Exciting annoucements for the MVP program
 date: 2005-03-01T12:57:12+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/03/Exciting-annoucements-for-the-MVP-program.aspx
 permalink: /2005/03/exciting-annoucements-for-the-mvp-program/

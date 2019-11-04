@@ -2,7 +2,7 @@
 id: 72
 title: 'HOWTO: Renew your Passport when it expires'
 date: 2007-01-30T12:49:48+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/01/HOWTO-Renew-your-Passport-when-it-expires.aspx
 permalink: /2007/01/howto-renew-your-passport-when-it-expires/

@@ -2,7 +2,7 @@
 id: 498
 title: Record Videos
 date: 2003-10-09T17:17:04+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/Record-Videos.aspx
 permalink: /2003/10/record-videos/

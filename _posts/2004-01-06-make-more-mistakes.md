@@ -2,7 +2,7 @@
 id: 429
 title: Make More Mistakes
 date: 2004-01-06T13:01:17+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Make-More-Mistakes.aspx
 permalink: /2004/01/make-more-mistakes/

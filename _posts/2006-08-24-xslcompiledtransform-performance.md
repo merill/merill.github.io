@@ -2,7 +2,7 @@
 id: 123
 title: XslCompiledTransform Performance
 date: 2006-08-24T15:59:49+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/08/XslCompiledTransform-Performance.aspx
 permalink: /2006/08/xslcompiledtransform-performance/

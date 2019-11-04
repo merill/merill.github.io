@@ -2,7 +2,7 @@
 id: 441
 title: England Vs Sri Lanka
 date: 2003-12-22T21:48:10+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/England-Vs-Sri-Lanka.aspx
 permalink: /2003/12/england-vs-sri-lanka/

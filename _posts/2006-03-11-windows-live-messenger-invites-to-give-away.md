@@ -2,7 +2,7 @@
 id: 149
 title: Windows Live Messenger invites to give away
 date: 2006-03-11T19:53:10+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/Windows-Live-Messenger-invites-to-give-away.aspx
 permalink: /2006/03/windows-live-messenger-invites-to-give-away/

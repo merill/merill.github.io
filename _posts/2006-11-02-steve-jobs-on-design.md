@@ -2,7 +2,7 @@
 id: 96
 title: Steve Jobs on Design
 date: 2006-11-02T13:07:53+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/11/Steve-Jobs-on-Design.aspx
 permalink: /2006/11/steve-jobs-on-design/

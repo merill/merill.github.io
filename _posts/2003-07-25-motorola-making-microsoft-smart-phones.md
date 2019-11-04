@@ -2,7 +2,7 @@
 id: 532
 title: Motorola making Microsoft Smart-phones
 date: 2003-07-25T23:38:04+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Motorola-making-Microsoft-Smart-phones.aspx
 permalink: /2003/07/motorola-making-microsoft-smart-phones/

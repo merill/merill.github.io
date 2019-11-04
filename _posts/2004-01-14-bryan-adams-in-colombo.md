@@ -2,7 +2,7 @@
 id: 402
 title: Bryan Adams in Colombo!
 date: 2004-01-14T13:36:32+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Bryan-Adams-in-Colombo!.aspx
 permalink: /2004/01/bryan-adams-in-colombo/

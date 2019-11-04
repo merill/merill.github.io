@@ -2,7 +2,7 @@
 id: 292
 title: What Anyone works in IT should remember every day
 date: 2004-04-29T00:41:37+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/04/What-Anyone-works-in-IT-should-remember-every-day.aspx
 permalink: /2004/04/what-anyone-works-in-it-should-remember-every-day/

@@ -2,7 +2,7 @@
 id: 57
 title: About the author?
 date: 2007-04-04T16:15:55+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/04/About-the-author.aspx
 permalink: /2007/04/about-the-author/

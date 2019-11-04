@@ -2,7 +2,7 @@
 id: 444
 title: Got Longhorn!
 date: 2003-12-20T00:26:36+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/Got-Longhorn!.aspx
 permalink: /2003/12/got-longhorn/

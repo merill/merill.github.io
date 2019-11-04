@@ -2,7 +2,7 @@
 id: 113
 title: Multi-Tasking makes you stupid
 date: 2006-10-02T12:55:06+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Multi-Tasking-makes-you-stupid.aspx
 permalink: /2006/10/multi-tasking-makes-you-stupid/

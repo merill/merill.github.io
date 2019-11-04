@@ -2,7 +2,7 @@
 id: 253
 title: Windows Forms Source for .NET Framework 2.0
 date: 2005-02-08T03:32:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/Windows-Forms-Source-for-NET-Framework-20.aspx
 permalink: /2005/02/windows-forms-source-for-net-framework-20/

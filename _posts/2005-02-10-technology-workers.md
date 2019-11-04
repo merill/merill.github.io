@@ -2,7 +2,7 @@
 id: 252
 title: Technology Workers
 date: 2005-02-10T03:23:20+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/Technology-Workers.aspx
 permalink: /2005/02/technology-workers/

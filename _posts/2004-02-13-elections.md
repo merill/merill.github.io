@@ -2,7 +2,7 @@
 id: 345
 title: Elections
 date: 2004-02-13T01:20:28+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Elections.aspx
 permalink: /2004/02/elections/

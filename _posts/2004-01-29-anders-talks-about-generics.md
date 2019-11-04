@@ -2,7 +2,7 @@
 id: 371
 title: Anders talks about Generics
 date: 2004-01-29T00:41:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Anders-talks-about-Generics.aspx
 permalink: /2004/01/anders-talks-about-generics/

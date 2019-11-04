@@ -2,7 +2,7 @@
 id: 270
 title: MVP Gift Voucher
 date: 2005-01-18T00:33:53+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/01/MVP-Gift-Voucher.aspx
 permalink: /2005/01/mvp-gift-voucher/

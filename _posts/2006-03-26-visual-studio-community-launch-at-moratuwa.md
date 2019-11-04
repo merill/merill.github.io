@@ -2,7 +2,7 @@
 id: 146
 title: Visual Studio Community Launch at Moratuwa
 date: 2006-03-26T01:13:26+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/Visual-Studio-Community-Launch-at-Moratuwa.aspx
 permalink: /2006/03/visual-studio-community-launch-at-moratuwa/

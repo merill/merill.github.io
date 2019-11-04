@@ -2,7 +2,7 @@
 id: 316
 title: From Boston
 date: 2004-03-06T02:47:28+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/03/From-Boston.aspx
 permalink: /2004/03/from-boston/

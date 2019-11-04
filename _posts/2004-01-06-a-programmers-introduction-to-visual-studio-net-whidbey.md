@@ -2,7 +2,7 @@
 id: 430
 title: 'A Programmer&#8217;s Introduction to Visual Studio .NET &#8220;Whidbey&#8221;'
 date: 2004-01-06T12:35:21+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/A-Programmers-Introduction-to-Visual-Studio-NET-Whidbey.aspx
 permalink: /2004/01/a-programmers-introduction-to-visual-studio-net-whidbey/

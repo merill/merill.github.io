@@ -2,7 +2,7 @@
 id: 357
 title: Can Apple Keep the Worms Out?
 date: 2004-02-09T11:51:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Can-Apple-Keep-the-Worms-Out.aspx
 permalink: /2004/02/can-apple-keep-the-worms-out/

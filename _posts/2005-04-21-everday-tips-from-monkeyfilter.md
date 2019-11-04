@@ -2,7 +2,7 @@
 id: 205
 title: Everday tips from MonkeyFilter
 date: 2005-04-21T02:29:30+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/Everday-tips-from-MonkeyFilter.aspx
 permalink: /2005/04/everday-tips-from-monkeyfilter/

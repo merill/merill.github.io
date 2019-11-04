@@ -2,7 +2,7 @@
 id: 89
 title: Ooh aah just a little bit!
 date: 2006-11-13T14:30:02+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/11/Ooh-aah-just-a-little-bit!.aspx
 permalink: /2006/11/ooh-aah-just-a-little-bit/

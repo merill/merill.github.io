@@ -2,7 +2,7 @@
 id: 1176
 title: Remove the ms-outlook attribute added to your contacts
 date: 2018-05-31T20:27:52+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=1176
 permalink: /2018/05/remove-the-ms-outlook-attribute-added-to-your-contacts/

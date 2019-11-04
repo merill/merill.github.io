@@ -2,7 +2,7 @@
 id: 604
 title: Google Wave Invites
 date: 2009-11-12T10:42:11+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2009/11/google-wave-invites/
 permalink: /2009/11/google-wave-invites/

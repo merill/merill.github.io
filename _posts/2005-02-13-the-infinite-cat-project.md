@@ -2,7 +2,7 @@
 id: 248
 title: The Infinite Cat Project
 date: 2005-02-13T07:58:52+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/The-Infinite-Cat-Project.aspx
 permalink: /2005/02/the-infinite-cat-project/

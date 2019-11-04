@@ -2,7 +2,7 @@
 id: 1195
 title: Publishing private enterprise apps to the managed Google Play Store
 date: 2019-02-08 20:27:52 +0000
-author: Merill Fernando
+
 
 guid: 'http://merill.net/?p=1195'
 permalink: /2019/02/publishing-private-enterprise-apps-to-the-managed-google-play-store/

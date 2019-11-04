@@ -2,7 +2,7 @@
 id: 517
 title: Career Calculus
 date: 2003-08-21T14:02:40+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/08/Career-Calculus.aspx
 permalink: /2003/08/career-calculus/

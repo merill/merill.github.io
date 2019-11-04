@@ -2,7 +2,7 @@
 id: 194
 title: How to become an early riser
 date: 2005-05-30T14:21:12+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/05/How-to-become-an-early-riser.aspx
 permalink: /2005/05/how-to-become-an-early-riser/

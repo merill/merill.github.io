@@ -2,7 +2,7 @@
 id: 340
 title: .NET Programming for Chimps
 date: 2004-02-19T13:41:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/NET-Programming-for-Chimps.aspx
 permalink: /2004/02/net-programming-for-chimps/

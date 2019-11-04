@@ -2,7 +2,7 @@
 id: 182
 title: Milk chocolate melts in your mouth, not on your ass
 date: 2005-06-15T19:29:58+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/06/Milk-chocolate-melts-in-your-mouth2c-not-on-your-ass.aspx
 permalink: /2005/06/milk-chocolate-melts-in-your-mouth-not-on-your-ass/

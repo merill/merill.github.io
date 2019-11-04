@@ -2,7 +2,7 @@
 id: 538
 title: Researchers Crack Windows Passwords in Seconds
 date: 2003-07-24T11:12:06+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Researchers-Crack-Windows-Passwords-in-Seconds.aspx
 permalink: /2003/07/researchers-crack-windows-passwords-in-seconds/

@@ -2,7 +2,7 @@
 id: 26
 title: Write CAML queries in code
 date: 2008-02-13T21:50:38+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/02/Write-CAML-queries-in-code.aspx
 permalink: /2008/02/write-caml-queries-in-code/

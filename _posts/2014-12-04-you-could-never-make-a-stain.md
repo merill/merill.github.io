@@ -2,7 +2,7 @@
 id: 895
 title: You could never make a stain
 date: 2014-12-04T21:59:48+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=895
 permalink: /2014/12/you-could-never-make-a-stain/

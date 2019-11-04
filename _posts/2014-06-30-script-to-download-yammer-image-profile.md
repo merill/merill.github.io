@@ -2,7 +2,7 @@
 id: 868
 title: Script to Download Yammer Image Profile
 date: 2014-06-30T14:37:01+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=868
 permalink: /2014/06/script-to-download-yammer-image-profile/

@@ -2,7 +2,7 @@
 id: 42
 title: 'My First Post&#8230;'
 date: 2007-12-11T06:37:53+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/12/My-First-Post.aspx
 permalink: /2007/12/my-first-post/

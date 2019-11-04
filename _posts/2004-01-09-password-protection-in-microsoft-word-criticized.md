@@ -2,7 +2,7 @@
 id: 413
 title: Password protection in Microsoft Word criticized
 date: 2004-01-09T12:04:41+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Password-protection-in-Microsoft-Word-criticized.aspx
 permalink: /2004/01/password-protection-in-microsoft-word-criticized/

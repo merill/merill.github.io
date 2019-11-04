@@ -2,7 +2,7 @@
 id: 234
 title: My home away from home
 date: 2005-02-19T11:04:06+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/My-home-away-from-home.aspx
 permalink: /2005/02/my-home-away-from-home/

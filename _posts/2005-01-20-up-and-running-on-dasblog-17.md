@@ -2,7 +2,7 @@
 id: 268
 title: Up and running on dasBlog 1.7
 date: 2005-01-20T03:27:20+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/01/Up-and-running-on-dasBlog-17.aspx
 permalink: /2005/01/up-and-running-on-dasblog-17/

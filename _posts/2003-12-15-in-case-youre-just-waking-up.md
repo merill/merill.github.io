@@ -2,7 +2,7 @@
 id: 449
 title: 'In case you&#8217;re just waking up&#8230;'
 date: 2003-12-15T01:49:51+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/In-case-youre-just-waking-up.aspx
 permalink: /2003/12/in-case-youre-just-waking-up/

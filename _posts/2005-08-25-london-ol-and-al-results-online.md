@@ -2,7 +2,7 @@
 id: 174
 title: London O/L and A/L Results Online
 date: 2005-08-25T17:23:13+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/08/London-OL-and-AL-Results-Online.aspx
 permalink: /2005/08/london-ol-and-al-results-online/

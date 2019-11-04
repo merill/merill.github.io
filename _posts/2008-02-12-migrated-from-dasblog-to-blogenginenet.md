@@ -2,7 +2,7 @@
 id: 27
 title: Migrated from dasBlog to BlogEngine.NET
 date: 2008-02-12T22:48:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/02/Migrated-from-dasBlog-to-BlogEngineNET.aspx
 permalink: /2008/02/migrated-from-dasblog-to-blogenginenet/

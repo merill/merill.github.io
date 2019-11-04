@@ -2,7 +2,7 @@
 id: 809
 title: Making SharePoint JSon calls from PowerShell in SharePoint 2013
 date: 2013-05-23T09:01:41+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=809
 permalink: /2013/05/making-sharepoint-json-calls-from-powershell-in-sharepoint-2013/

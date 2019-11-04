@@ -2,7 +2,7 @@
 id: 422
 title: 'For you linux guys who think Windows Server can&#8217;t hang&#8230;'
 date: 2004-01-09T00:09:42+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/For-you-linux-guys-who-think-Windows-Server-cant-hang.aspx
 permalink: /2004/01/for-you-linux-guys-who-think-windows-server-cant-hang/

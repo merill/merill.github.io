@@ -2,7 +2,7 @@
 id: 908
 title: Who decides what your going to read next?
 date: 2014-12-05T00:24:01+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=908
 permalink: /2014/12/who-decides-what-your-going-to-read-next/

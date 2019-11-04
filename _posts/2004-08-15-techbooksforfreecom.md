@@ -2,7 +2,7 @@
 id: 286
 title: techbooksforfree.com
 date: 2004-08-15T23:16:34+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/08/techbooksforfreecom.aspx
 permalink: /2004/08/techbooksforfreecom/

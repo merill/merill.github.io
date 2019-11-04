@@ -2,7 +2,7 @@
 id: 38
 title: 'Moq: Linq to Mock'
 date: 2007-12-19T15:29:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/12/Moq-Linq-to-Mock.aspx
 permalink: /2007/12/moq-linq-to-mock/

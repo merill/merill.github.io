@@ -2,7 +2,7 @@
 id: 184
 title: HOWTO make an air conditioner
 date: 2005-06-15T12:48:42+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/06/HOWTO-make-an-air-conditioner.aspx
 permalink: /2005/06/howto-make-an-air-conditioner/

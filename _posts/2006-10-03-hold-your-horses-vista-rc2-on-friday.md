@@ -2,7 +2,7 @@
 id: 110
 title: Hold your horses, Vista RC2 on Friday
 date: 2006-10-03T18:57:03+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Hold-your-horses2c-Vista-RC2-on-Friday.aspx
 permalink: /2006/10/hold-your-horses-vista-rc2-on-friday/

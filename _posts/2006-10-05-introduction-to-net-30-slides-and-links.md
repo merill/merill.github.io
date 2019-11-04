@@ -2,7 +2,7 @@
 id: 108
 title: Introduction to .NET 3.0 slides and links
 date: 2006-10-05T14:27:49+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Introduction-to-NET-30-slides-and-links.aspx
 permalink: /2006/10/introduction-to-net-30-slides-and-links/

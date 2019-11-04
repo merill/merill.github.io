@@ -2,7 +2,7 @@
 id: 51
 title: Code Profiling
 date: 2007-05-23T11:40:38+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/05/Code-Profiling.aspx
 permalink: /2007/05/code-profiling/

@@ -2,7 +2,7 @@
 id: 238
 title: Dataset performance in .NET Framework 2.0
 date: 2005-02-19T01:58:50+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/Dataset-performance-in-NET-Framework-20.aspx
 permalink: /2005/02/dataset-performance-in-net-framework-20/

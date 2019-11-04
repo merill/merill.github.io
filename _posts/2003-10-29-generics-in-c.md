@@ -2,7 +2,7 @@
 id: 488
 title: 'Generics in C#'
 date: 2003-10-29T14:02:33+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/Generics-in-C.aspx
 permalink: /2003/10/generics-in-c/

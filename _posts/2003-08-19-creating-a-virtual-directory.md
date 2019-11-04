@@ -2,7 +2,7 @@
 id: 518
 title: Creating a Virtual Directory
 date: 2003-08-19T22:58:01+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/08/Creating-a-Virtual-Directory.aspx
 permalink: /2003/08/creating-a-virtual-directory/

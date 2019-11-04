@@ -2,7 +2,7 @@
 id: 14
 title: WCF Add Service Reference gotcha with Windows Server
 date: 2008-04-18T09:11:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/04/WCF-Add-Service-Reference-gotcha-with-Windows-Server.aspx
 permalink: /2008/04/wcf-add-service-reference-gotcha-with-windows-server/

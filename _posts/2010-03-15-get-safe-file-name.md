@@ -2,7 +2,7 @@
 id: 631
 title: Get Safe File Name
 date: 2010-03-15T07:20:49+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2010/03/get-safe-file-name/
 permalink: /2010/03/get-safe-file-name/

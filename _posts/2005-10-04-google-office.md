@@ -2,7 +2,7 @@
 id: 160
 title: Google Office!
 date: 2005-10-04T19:43:22+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/10/Google-Office!.aspx
 permalink: /2005/10/google-office/

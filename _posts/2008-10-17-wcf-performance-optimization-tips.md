@@ -2,7 +2,7 @@
 id: 11
 title: WCF Performance Optimization Tips
 date: 2008-10-17T10:48:50+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/10/WCF-Performance-Optimization-Tips.aspx
 permalink: /2008/10/wcf-performance-optimization-tips/

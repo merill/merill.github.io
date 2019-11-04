@@ -2,7 +2,7 @@
 id: 732
 title: Generating a mock/stub WCF web service from a WSDL
 date: 2011-08-02T08:29:14+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=732
 permalink: /2011/08/generating-a-mockstub-wcf-web-service-from-a-wsdl/

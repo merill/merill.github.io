@@ -2,7 +2,7 @@
 id: 315
 title: Pictures from Boston
 date: 2004-03-10T09:38:12+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/03/Pictures-from-Boston.aspx
 permalink: /2004/03/pictures-from-boston/

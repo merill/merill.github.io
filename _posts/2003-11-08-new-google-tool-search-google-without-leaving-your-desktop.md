@@ -2,7 +2,7 @@
 id: 474
 title: New Google Tool. Search Google without leaving your desktop.
 date: 2003-11-08T01:30:49+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/New-Google-Tool-Search-Google-without-leaving-your-desktop.aspx
 permalink: /2003/11/new-google-tool-search-google-without-leaving-your-desktop/

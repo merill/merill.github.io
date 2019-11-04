@@ -2,7 +2,7 @@
 id: 346
 title: Software Testing on Mars
 date: 2004-02-12T15:51:32+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Software-Testing-on-Mars.aspx
 permalink: /2004/02/software-testing-on-mars/

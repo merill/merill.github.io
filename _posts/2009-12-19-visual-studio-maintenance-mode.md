@@ -2,7 +2,7 @@
 id: 626
 title: Visual Studio Maintenance Mode
 date: 2009-12-19T09:31:14+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2009/12/visual-studio-maintenance-mode/
 permalink: /2009/12/visual-studio-maintenance-mode/

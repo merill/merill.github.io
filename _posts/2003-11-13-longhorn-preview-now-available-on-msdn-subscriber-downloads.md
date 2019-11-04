@@ -2,7 +2,7 @@
 id: 471
 title: Longhorn Preview now available on MSDN Subscriber Downloads
 date: 2003-11-13T18:50:54+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Longhorn-Preview-now-available-on-MSDN-Subscriber-Downloads.aspx
 permalink: /2003/11/longhorn-preview-now-available-on-msdn-subscriber-downloads/

@@ -2,7 +2,7 @@
 id: 278
 title: Windows Genuine Advantage
 date: 2004-11-27T16:04:04+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/11/Windows-Genuine-Advantage.aspx
 permalink: /2004/11/windows-genuine-advantage/

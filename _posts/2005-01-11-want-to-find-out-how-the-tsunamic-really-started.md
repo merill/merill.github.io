@@ -2,7 +2,7 @@
 id: 272
 title: 'Want to find out how the Tsunamic REALLY started&#8230;'
 date: 2005-01-11T23:16:19+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/01/Want-to-find-out-how-the-Tsunamic-REALLY-started.aspx
 permalink: /2005/01/want-to-find-out-how-the-tsunamic-really-started/

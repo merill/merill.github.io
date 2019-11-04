@@ -2,7 +2,7 @@
 id: 284
 title: 'I&#8217;m Longhorn&#8217;ing now!'
 date: 2004-08-16T00:51:04+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/08/Im-Longhorning-now!.aspx
 permalink: /2004/08/im-longhorning-now/

@@ -2,7 +2,7 @@
 id: 317
 title: Rationalize Away, Brother!
 date: 2004-03-02T14:22:30+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/03/Rationalize-Away2c-Brother!.aspx
 permalink: /2004/03/rationalize-away-brother/

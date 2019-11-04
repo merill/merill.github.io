@@ -2,7 +2,7 @@
 id: 307
 title: Port Reporter
 date: 2004-03-21T01:51:08+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/03/Port-Reporter.aspx
 permalink: /2004/03/port-reporter/

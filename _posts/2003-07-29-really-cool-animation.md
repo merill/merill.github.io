@@ -2,7 +2,7 @@
 id: 529
 title: Really Cool Animation
 date: 2003-07-29T16:03:44+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Really-Cool-Animation.aspx
 permalink: /2003/07/really-cool-animation/

@@ -2,7 +2,7 @@
 id: 352
 title: Mozilla trots out Firefox browser
 date: 2004-02-11T13:48:40+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Mozilla-trots-out-Firefox-browser.aspx
 permalink: /2004/02/mozilla-trots-out-firefox-browser/

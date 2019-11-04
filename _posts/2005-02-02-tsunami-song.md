@@ -2,7 +2,7 @@
 id: 256
 title: Tsunami Song
 date: 2005-02-02T05:45:15+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/Tsunami-Song.aspx
 permalink: /2005/02/tsunami-song/

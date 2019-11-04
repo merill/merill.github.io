@@ -2,7 +2,7 @@
 id: 407
 title: Any News on the Microsoft Event?
 date: 2004-01-14T12:20:27+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Any-News-on-the-Microsoft-Event.aspx
 permalink: /2004/01/any-news-on-the-microsoft-event/

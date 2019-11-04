@@ -2,7 +2,7 @@
 id: 209
 title: My brother blogs
 date: 2005-04-12T18:58:13+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/My-brother-blogs.aspx
 permalink: /2005/04/my-brother-blogs/

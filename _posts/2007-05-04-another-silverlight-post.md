@@ -2,7 +2,7 @@
 id: 54
 title: Another Silverlight post
 date: 2007-05-04T14:09:34+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/05/Another-Silverlight-post.aspx
 permalink: /2007/05/another-silverlight-post/

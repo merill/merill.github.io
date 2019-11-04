@@ -2,7 +2,7 @@
 id: 329
 title: 'Two Mahanayakas condemn monks&#8217; election bid'
 date: 2004-02-24T12:21:43+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Two-Mahanayakas-condemn-monks-election-bid.aspx
 permalink: /2004/02/two-mahanayakas-condemn-monks-election-bid/

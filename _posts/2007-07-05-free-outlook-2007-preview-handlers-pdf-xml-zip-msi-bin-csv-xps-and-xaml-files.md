@@ -2,7 +2,7 @@
 id: 47
 title: Free Outlook 2007 Preview Handlers (PDF, XML, ZIP, MSI, BIN, CSV, XPS, and XAML files)
 date: 2007-07-05T21:04:07+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/07/Free-Outlook-2007-Preview-Handlers-(PDF2c-XML2c-ZIP2c-MSI2c-BIN2c-CSV2c-XPS2c-and-XAML-files).aspx
 permalink: /2007/07/free-outlook-2007-preview-handlers-pdf-xml-zip-msi-bin-csv-xps-and-xaml-files/

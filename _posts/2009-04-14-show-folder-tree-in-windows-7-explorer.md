@@ -2,7 +2,7 @@
 id: 575
 title: Show Folder Tree in Windows 7 Explorer
 date: 2009-04-14T07:41:38+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2009/04/show-folder-tree-in-windows-7-explorer/
 permalink: /2009/04/show-folder-tree-in-windows-7-explorer/

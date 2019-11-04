@@ -2,7 +2,7 @@
 id: 308
 title: The Benefits of Going Local
 date: 2004-03-21T01:49:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/03/The-Benefits-of-Going-Local.aspx
 permalink: /2004/03/the-benefits-of-going-local/

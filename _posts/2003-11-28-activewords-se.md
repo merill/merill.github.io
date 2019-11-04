@@ -2,7 +2,7 @@
 id: 460
 title: ActiveWords SE
 date: 2003-11-28T14:02:40+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/ActiveWords-SE.aspx
 permalink: /2003/11/activewords-se/

@@ -2,7 +2,7 @@
 id: 16
 title: Copy Paste Unformatted Text in Word
 date: 2008-04-03T09:00:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/04/Copy-Paste-Unformatted-Text-in-Word.aspx
 permalink: /2008/04/copy-paste-unformatted-text-in-word/

@@ -2,7 +2,7 @@
 id: 366
 title: Reporting Services
 date: 2004-01-30T22:56:14+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Reporting-Services.aspx
 permalink: /2004/01/reporting-services/

@@ -2,7 +2,7 @@
 id: 1005
 title: 'Fix: Windows 10 (Technical Preview) OneDrive Sync Issues with Office 2016 Preview'
 date: 2015-05-13T21:37:17+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=1005
 permalink: /2015/05/fix-windows-10-technical-preview-onedrive-sync-issues-with-office-2016-preview/

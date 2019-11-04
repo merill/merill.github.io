@@ -2,7 +2,7 @@
 id: 509
 title: Moving to Microsoft Visual Basic .NET
 date: 2003-09-16T12:10:36+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/09/Moving-to-Microsoft-Visual-Basic-NET.aspx
 permalink: /2003/09/moving-to-microsoft-visual-basic-net/

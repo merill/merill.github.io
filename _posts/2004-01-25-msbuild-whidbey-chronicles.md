@@ -2,7 +2,7 @@
 id: 381
 title: 'MSBuild &#8211; Whidbey Chronicles'
 date: 2004-01-25T13:49:34+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/MSBuild---Whidbey-Chronicles-.aspx
 permalink: /2004/01/msbuild-whidbey-chronicles/

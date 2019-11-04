@@ -2,7 +2,7 @@
 id: 157
 title: Please update your feeds
 date: 2006-02-10T14:18:02+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/02/Please-update-your-feeds.aspx
 permalink: /2006/02/please-update-your-feeds/

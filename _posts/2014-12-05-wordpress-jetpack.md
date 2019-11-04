@@ -2,7 +2,7 @@
 id: 933
 title: WordPress JetPack
 date: 2014-12-05T12:30:02+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=933
 permalink: /2014/12/wordpress-jetpack/

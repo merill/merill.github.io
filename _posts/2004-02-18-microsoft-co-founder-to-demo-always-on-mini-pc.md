@@ -2,7 +2,7 @@
 id: 342
 title: Microsoft co-founder to demo always-on mini PC
 date: 2004-02-18T20:04:33+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Microsoft-co-founder-to-demo-always-on-mini-PC.aspx
 permalink: /2004/02/microsoft-co-founder-to-demo-always-on-mini-pc/

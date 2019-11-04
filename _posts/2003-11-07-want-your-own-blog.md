@@ -2,7 +2,7 @@
 id: 476
 title: Want your own blog?
 date: 2003-11-07T14:34:16+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Want-your-own-blog.aspx
 permalink: /2003/11/want-your-own-blog/

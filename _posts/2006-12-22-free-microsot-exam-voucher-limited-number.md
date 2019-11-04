@@ -2,7 +2,7 @@
 id: 82
 title: 'Free Microsot Exam Voucher [Limited Number]'
 date: 2006-12-22T12:49:36+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/12/Free-Microsot-Exam-Voucher-Limited-Number.aspx
 permalink: /2006/12/free-microsot-exam-voucher-limited-number/

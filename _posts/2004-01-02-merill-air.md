@@ -2,7 +2,7 @@
 id: 437
 title: Merill-Air
 date: 2004-01-02T19:52:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Merill-Air.aspx
 permalink: /2004/01/merill-air/

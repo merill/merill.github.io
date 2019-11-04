@@ -2,7 +2,7 @@
 id: 296
 title: He’s Still Having Fun
 date: 2004-04-02T08:53:42+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/04/Hee28099s-Still-Having-Fun.aspx
 permalink: '/2004/04/he%e2%80%99s-still-having-fun/'

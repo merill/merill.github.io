@@ -2,7 +2,7 @@
 id: 104
 title: 'Google Reader &#8211; Design Simplicity'
 date: 2006-10-11T11:06:37+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Google-Reader---Design-Simplicity.aspx
 permalink: /2006/10/google-reader-design-simplicity/

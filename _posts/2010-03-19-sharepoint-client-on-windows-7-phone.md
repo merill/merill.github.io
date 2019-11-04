@@ -2,7 +2,7 @@
 id: 637
 title: SharePoint Client on Windows 7 Phone
 date: 2010-03-19T16:26:01+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2010/03/sharepoint-client-on-windows-7-phone/
 permalink: /2010/03/sharepoint-client-on-windows-7-phone/

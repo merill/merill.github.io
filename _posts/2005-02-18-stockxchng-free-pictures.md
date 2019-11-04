@@ -2,7 +2,7 @@
 id: 241
 title: 'stock.xchng: Free pictures'
 date: 2005-02-18T08:15:50+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/stockxchng-Free-pictures.aspx
 permalink: /2005/02/stockxchng-free-pictures/

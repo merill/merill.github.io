@@ -2,7 +2,7 @@
 id: 336
 title: Basics for Building Microsoft Office Access 2003 Runtime-Based Solutions
 date: 2004-02-20T13:51:26+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Basics-for-Building-Microsoft-Office-Access-2003-Runtime-Based-Solutions.aspx
 permalink: /2004/02/basics-for-building-microsoft-office-access-2003-runtime-based-solutions/

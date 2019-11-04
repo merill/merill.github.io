@@ -2,7 +2,7 @@
 id: 373
 title: The Sun Also Surprises
 date: 2004-01-28T01:12:55+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/The-Sun-Also-Surprises.aspx
 permalink: /2004/01/the-sun-also-surprises/

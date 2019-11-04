@@ -2,7 +2,7 @@
 id: 483
 title: Keyboard Shortcuts
 date: 2003-11-01T16:25:15+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Keyboard-Shortcuts.aspx
 permalink: /2003/11/keyboard-shortcuts/

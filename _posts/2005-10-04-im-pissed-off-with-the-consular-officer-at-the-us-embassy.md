@@ -2,7 +2,7 @@
 id: 159
 title: 'I&#8217;m pissed off with the consular officer at the US Embassy'
 date: 2005-10-04T20:23:11+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/10/Im-pissed-off-with-the-consular-officer-at-the-US-Embassy.aspx
 permalink: /2005/10/im-pissed-off-with-the-consular-officer-at-the-us-embassy/

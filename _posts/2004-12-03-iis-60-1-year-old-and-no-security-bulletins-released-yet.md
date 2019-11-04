@@ -2,7 +2,7 @@
 id: 276
 title: IIS 6.0, 1 year old and NO security bulletins released yet!
 date: 2004-12-03T23:27:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/12/IIS-602c-1-year-old-and-NO-security-bulletins-released-yet!.aspx
 permalink: /2004/12/iis-60-1-year-old-and-no-security-bulletins-released-yet/

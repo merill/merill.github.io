@@ -2,7 +2,7 @@
 id: 134
 title: MSDN June Webcasts
 date: 2006-05-31T14:20:45+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/05/MSDN-June-Webcasts.aspx
 permalink: /2006/05/msdn-june-webcasts/

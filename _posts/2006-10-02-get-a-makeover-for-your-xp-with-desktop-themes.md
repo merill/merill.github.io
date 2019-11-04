@@ -2,7 +2,7 @@
 id: 114
 title: Get a makeover for your XP with Desktop Themes
 date: 2006-10-02T12:07:06+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Get-a-makeover-for-your-XP-with-Desktop-Themes.aspx
 permalink: /2006/10/get-a-makeover-for-your-xp-with-desktop-themes/

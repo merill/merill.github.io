@@ -2,7 +2,7 @@
 id: 62
 title: 'Wait for us&#8230;'
 date: 2007-03-25T15:57:05+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/03/Wait-for-us.aspx
 permalink: /2007/03/wait-for-us/

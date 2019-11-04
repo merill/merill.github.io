@@ -2,7 +2,7 @@
 id: 173
 title: Merill Takes The Red Pill
 date: 2005-09-01T21:37:52+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/09/Merill-Takes-The-Red-Pill.aspx
 permalink: /2005/09/merill-takes-the-red-pill/

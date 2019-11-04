@@ -2,7 +2,7 @@
 id: 31
 title: 'Joshua &amp; water'
 date: 2008-02-02T12:55:48+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/02/Joshua-amp3b-water.aspx
 permalink: /2008/02/joshua-water/

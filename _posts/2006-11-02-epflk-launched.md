@@ -2,7 +2,7 @@
 id: 97
 title: EPF.lk launched
 date: 2006-11-02T12:36:54+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/11/EPFlk-launched.aspx
 permalink: /2006/11/epflk-launched/

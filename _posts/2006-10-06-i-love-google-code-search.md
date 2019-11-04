@@ -2,7 +2,7 @@
 id: 107
 title: I LOVE Google Code Search!
 date: 2006-10-06T01:34:59+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/I-LOVE-Google-Code-Search!.aspx
 permalink: /2006/10/i-love-google-code-search/

@@ -2,7 +2,7 @@
 id: 105
 title: Bye, bye SmartClient, hello WebApp
 date: 2006-10-10T03:13:01+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Bye2c-bye-SmartClient2c-hello-WebApp.aspx
 permalink: /2006/10/bye-bye-smartclient-hello-webapp/

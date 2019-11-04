@@ -2,7 +2,7 @@
 id: 214
 title: How to become a Microsoft MVP
 date: 2005-04-05T00:41:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/How-to-become-a-Microsoft-MVP.aspx
 permalink: /2005/04/how-to-become-a-microsoft-mvp/

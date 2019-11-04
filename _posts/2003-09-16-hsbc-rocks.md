@@ -2,7 +2,7 @@
 id: 511
 title: HSBC Rocks!
 date: 2003-09-16T11:43:16+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/09/HSBC-Rocks!.aspx
 permalink: /2003/09/hsbc-rocks/

@@ -2,7 +2,7 @@
 id: 461
 title: Tech Rich Guy Give It Back
 date: 2003-11-28T13:56:15+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Tech-Rich-Guy-Give-It-Back.aspx
 permalink: /2003/11/tech-rich-guy-give-it-back/

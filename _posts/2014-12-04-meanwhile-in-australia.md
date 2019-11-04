@@ -2,7 +2,7 @@
 id: 904
 title: 'Meanwhile in Australia&#8230;'
 date: 2014-12-04T23:34:10+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=904
 permalink: /2014/12/meanwhile-in-australia/

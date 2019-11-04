@@ -2,7 +2,7 @@
 id: 564
 title: Ranaviru Fund
 date: 2009-02-06T17:42:07+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2009/02/ranaviru-fund/
 permalink: /2009/02/ranaviru-fund/

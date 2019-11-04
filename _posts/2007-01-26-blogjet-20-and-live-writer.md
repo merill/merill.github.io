@@ -2,7 +2,7 @@
 id: 73
 title: BlogJet 2.0 and Live Writer
 date: 2007-01-26T12:15:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/01/BlogJet-20-and-Live-Writer.aspx
 permalink: /2007/01/blogjet-20-and-live-writer/

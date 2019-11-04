@@ -2,7 +2,7 @@
 id: 893
 title: Locked the two boys in their room
 date: 2014-12-04T21:54:53+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=893
 permalink: /2014/12/locked-the-two-boys-in-their-room/

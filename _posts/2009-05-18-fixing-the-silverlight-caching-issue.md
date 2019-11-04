@@ -2,7 +2,7 @@
 id: 579
 title: Fixing the Silverlight caching issue
 date: 2009-05-18T15:24:09+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=579
 permalink: /2009/05/fixing-the-silverlight-caching-issue/

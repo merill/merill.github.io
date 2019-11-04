@@ -2,7 +2,7 @@
 id: 153
 title: Turning back the clock
 date: 2006-03-06T13:25:57+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/Turning-back-the-clock.aspx
 permalink: /2006/03/turning-back-the-clock/

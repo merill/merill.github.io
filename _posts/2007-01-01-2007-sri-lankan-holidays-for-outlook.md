@@ -2,7 +2,7 @@
 id: 78
 title: 2007 Sri Lankan Holidays for Outlook
 date: 2007-01-01T14:54:11+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/01/2007-Sri-Lankan-Holidays-for-Outlook.aspx
 permalink: /2007/01/2007-sri-lankan-holidays-for-outlook/

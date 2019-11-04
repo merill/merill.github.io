@@ -2,7 +2,7 @@
 id: 211
 title: 'Chris Brumme&#8230; Where are you?'
 date: 2005-04-08T19:40:39+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/Chris-Brumme-Where-are-you.aspx
 permalink: /2005/04/chris-brumme-where-are-you/

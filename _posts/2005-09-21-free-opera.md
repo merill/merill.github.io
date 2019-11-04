@@ -2,7 +2,7 @@
 id: 164
 title: Free Opera!
 date: 2005-09-21T12:45:30+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/09/Free-Opera!.aspx
 permalink: /2005/09/free-opera/

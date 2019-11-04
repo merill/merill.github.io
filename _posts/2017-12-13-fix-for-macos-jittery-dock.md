@@ -2,7 +2,7 @@
 id: 1114
 title: Fix for MacOS Jittery Dock
 date: 2017-12-13T21:04:53+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=1114
 permalink: /2017/12/fix-for-macos-jittery-dock/

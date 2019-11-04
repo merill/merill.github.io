@@ -2,7 +2,7 @@
 id: 442
 title: 'Buy Microsoft BizTalk Server 2004&#8230; and help save the world'
 date: 2003-12-20T00:58:46+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/Buy-Microsoft-BizTalk-Server-2004-and-help-save-the-world.aspx
 permalink: /2003/12/buy-microsoft-biztalk-server-2004-and-help-save-the-world/

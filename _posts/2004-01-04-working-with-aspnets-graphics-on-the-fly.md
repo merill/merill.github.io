@@ -2,7 +2,7 @@
 id: 434
 title: 'Working with ASP.NET&#8217;s Graphics on the fly?'
 date: 2004-01-04T16:42:38+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Working-with-ASPNETs-Graphics-on-the-fly.aspx
 permalink: /2004/01/working-with-aspnets-graphics-on-the-fly/

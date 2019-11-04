@@ -2,7 +2,7 @@
 id: 7
 title: Melbourne
 date: 2008-12-10T07:44:34+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/12/Melbourne.aspx
 permalink: /2008/12/melbourne/

@@ -2,7 +2,7 @@
 id: 218
 title: Green-card regulations encourage offshoring
 date: 2005-03-30T11:45:15+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/03/Green-card-regulations-encourage-offshoring.aspx
 permalink: /2005/03/green-card-regulations-encourage-offshoring/

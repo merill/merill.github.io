@@ -2,7 +2,7 @@
 id: 85
 title: Microsoft Innovations
 date: 2006-12-01T20:04:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/12/Microsoft-Innovations.aspx
 permalink: /2006/12/microsoft-innovations/

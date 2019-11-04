@@ -2,7 +2,7 @@
 id: 285
 title: The state of the nation
 date: 2004-08-16T00:19:16+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/08/The-state-of-the-nation.aspx
 permalink: /2004/08/the-state-of-the-nation/

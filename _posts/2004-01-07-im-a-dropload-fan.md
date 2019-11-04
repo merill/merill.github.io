@@ -2,7 +2,7 @@
 id: 424
 title: 'I&#8217;m a DropLoad fan!'
 date: 2004-01-07T00:56:02+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Im-a-DropLoad-fan!.aspx
 permalink: /2004/01/im-a-dropload-fan/

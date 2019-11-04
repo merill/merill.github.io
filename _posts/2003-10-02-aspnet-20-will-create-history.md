@@ -2,7 +2,7 @@
 id: 504
 title: ASP.NET 2.0 Will Create History
 date: 2003-10-02T22:50:54+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/ASPNET-20-Will-Create-History.aspx
 permalink: /2003/10/aspnet-20-will-create-history/

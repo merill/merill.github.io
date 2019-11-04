@@ -2,7 +2,7 @@
 id: 103
 title: Is your company proud of you?
 date: 2006-10-18T12:06:59+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Is-your-company-proud-of-you.aspx
 permalink: /2006/10/is-your-company-proud-of-you/

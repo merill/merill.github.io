@@ -2,7 +2,7 @@
 id: 493
 title: 'Colombo, Sri Lanka: Bus Route'
 date: 2003-10-17T19:38:59+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/Colombo2c-Sri-Lanka-Bus-Route.aspx
 permalink: /2003/10/colombo-sri-lanka-bus-route/

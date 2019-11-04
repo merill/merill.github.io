@@ -2,7 +2,7 @@
 id: 5
 title: Viewing the disk space usage (size) of all the tables in a SQL Server 2005/2008 database
 date: 2008-12-31T06:49:11+00:00
-author: Merill Fernando
+
 
 guid: /post/2008/12/Viewing-the-disk-space-usage-(size)-of-all-the-tables-in-a-SQL-Server-20052008-database.aspx
 permalink: /2008/12/viewing-the-disk-space-usage-size-of-all-the-tables-in-a-sql-server-20052008-database/

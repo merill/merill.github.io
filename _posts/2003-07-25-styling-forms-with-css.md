@@ -2,7 +2,7 @@
 id: 534
 title: Styling Forms With CSS
 date: 2003-07-25T11:13:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Styling-Forms-With-CSS.aspx
 permalink: /2003/07/styling-forms-with-css/

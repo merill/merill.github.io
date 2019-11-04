@@ -2,7 +2,7 @@
 id: 58
 title: SQL Server User Group
 date: 2007-04-03T11:29:32+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/04/SQL-Server-User-Group.aspx
 permalink: /2007/04/sql-server-user-group/

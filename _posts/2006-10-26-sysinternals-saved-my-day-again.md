@@ -2,7 +2,7 @@
 id: 100
 title: Sysinternals saved my day. Again!
 date: 2006-10-26T10:20:18+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Sysinternals-saved-my-day-Again!.aspx
 permalink: /2006/10/sysinternals-saved-my-day-again/

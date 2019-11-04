@@ -2,7 +2,7 @@
 id: 537
 title: Spam Mail Trick
 date: 2003-07-24T13:12:30+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Spam-Mail-Trick.aspx
 permalink: /2003/07/spam-mail-trick/

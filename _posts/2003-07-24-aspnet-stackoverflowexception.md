@@ -2,7 +2,7 @@
 id: 535
 title: ASP.NET StackOverflowException
 date: 2003-07-24T21:00:56+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/ASPNET-StackOverflowException.aspx
 permalink: /2003/07/aspnet-stackoverflowexception/

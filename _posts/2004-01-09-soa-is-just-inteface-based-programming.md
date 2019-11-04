@@ -2,7 +2,7 @@
 id: 418
 title: SOA is Just Inteface Based Programming?
 date: 2004-01-09T00:17:30+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/SOA-is-Just-Inteface-Based-Programming.aspx
 permalink: /2004/01/soa-is-just-inteface-based-programming/

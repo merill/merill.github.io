@@ -2,7 +2,7 @@
 id: 112
 title: TNL Rocks with Podcasts
 date: 2006-10-02T21:14:55+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/TNL-Rocks-with-Podcasts.aspx
 permalink: /2006/10/tnl-rocks-with-podcasts/

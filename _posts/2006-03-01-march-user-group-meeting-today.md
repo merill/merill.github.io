@@ -2,7 +2,7 @@
 id: 154
 title: March user group meeting today
 date: 2006-03-01T13:37:45+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/March-user-group-meeting-today.aspx
 permalink: /2006/03/march-user-group-meeting-today/

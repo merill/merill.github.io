@@ -2,7 +2,7 @@
 id: 204
 title: Remotely Enable Remote Desktop
 date: 2005-04-21T02:43:21+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/Remotely-Enable-Remote-Desktop.aspx
 permalink: /2005/04/remotely-enable-remote-desktop/

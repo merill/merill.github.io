@@ -2,7 +2,7 @@
 id: 221
 title: IE Search Prefixes
 date: 2005-03-29T13:14:10+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/03/IE-Search-Prefixes.aspx
 permalink: /2005/03/ie-search-prefixes/

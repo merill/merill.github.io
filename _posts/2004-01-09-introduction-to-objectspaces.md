@@ -2,7 +2,7 @@
 id: 419
 title: Introduction to ObjectSpaces
 date: 2004-01-09T00:14:58+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Introduction-to-ObjectSpaces.aspx
 permalink: /2004/01/introduction-to-objectspaces/

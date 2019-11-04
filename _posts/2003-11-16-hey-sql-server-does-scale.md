@@ -2,7 +2,7 @@
 id: 468
 title: Hey, SQL Server DOES scale!
 date: 2003-11-16T12:43:37+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Hey2c-SQL-Server-DOES-scale!.aspx
 permalink: /2003/11/hey-sql-server-does-scale/

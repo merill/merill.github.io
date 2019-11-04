@@ -2,7 +2,7 @@
 id: 128
 title: June User Group Meeting
 date: 2006-06-08T13:59:42+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/06/June-User-Group-Meeting.aspx
 permalink: /2006/06/june-user-group-meeting/

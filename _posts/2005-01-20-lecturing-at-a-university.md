@@ -2,7 +2,7 @@
 id: 262
 title: Lecturing at a University
 date: 2005-01-20T17:11:45+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/01/Lecturing-at-a-University.aspx
 permalink: /2005/01/lecturing-at-a-university/

@@ -2,7 +2,7 @@
 id: 333
 title: 'Ranatunge &#8211; Warne Friendly Banter'
 date: 2004-02-23T12:03:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Ranatunge---Warne-Friendly-Banter-.aspx
 permalink: /2004/02/ranatunge-warne-friendly-banter/

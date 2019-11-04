@@ -2,7 +2,7 @@
 id: 158
 title: So tell me again, why is it an interesting time to be a Windows developer?
 date: 2005-10-04T21:55:07+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/10/So-tell-me-again2c-why-is-it-an-interesting-time-to-be-a-Windows-developer.aspx
 permalink: /2005/10/so-tell-me-again-why-is-it-an-interesting-time-to-be-a-windows-developer/

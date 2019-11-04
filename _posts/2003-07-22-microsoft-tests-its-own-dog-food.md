@@ -2,7 +2,7 @@
 id: 545
 title: 'Microsoft tests its own &#8216;dog food&#8217;'
 date: 2003-07-22T13:17:52+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Microsoft-tests-its-own-dog-food.aspx
 permalink: /2003/07/microsoft-tests-its-own-dog-food/

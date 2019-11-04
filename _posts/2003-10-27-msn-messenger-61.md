@@ -2,7 +2,7 @@
 id: 490
 title: MSN Messenger 6.1
 date: 2003-10-27T16:46:42+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/MSN-Messenger-61.aspx
 permalink: /2003/10/msn-messenger-61/

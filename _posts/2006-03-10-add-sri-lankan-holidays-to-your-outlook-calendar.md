@@ -2,7 +2,7 @@
 id: 150
 title: Add Sri Lankan holidays to your Outlook calendar
 date: 2006-03-10T15:11:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/Add-Sri-Lankan-holidays-to-your-Outlook-calendar.aspx
 permalink: /2006/03/add-sri-lankan-holidays-to-your-outlook-calendar/

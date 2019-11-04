@@ -2,7 +2,7 @@
 id: 75
 title: Office 2007 Keyboard Shortcuts
 date: 2007-01-24T19:31:20+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/01/Office-2007-Keyboard-Shortcuts.aspx
 permalink: /2007/01/office-2007-keyboard-shortcuts/

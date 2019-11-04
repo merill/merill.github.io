@@ -2,7 +2,7 @@
 id: 1039
 title: Allowing third party applications in your Office 365 tenant
 date: 2016-08-11T23:09:13+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=1039
 permalink: /2016/08/allowing-third-party-applications-in-your-office-365-tenant/

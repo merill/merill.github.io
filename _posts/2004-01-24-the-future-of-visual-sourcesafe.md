@@ -2,7 +2,7 @@
 id: 385
 title: The Future of Visual SourceSafe
 date: 2004-01-24T22:43:44+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/The-Future-of-Visual-SourceSafe.aspx
 permalink: /2004/01/the-future-of-visual-sourcesafe/

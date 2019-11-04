@@ -2,7 +2,7 @@
 id: 225
 title: Crisis and chaos
 date: 2005-03-09T22:33:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/03/Crisis-and-chaos-.aspx
 permalink: /2005/03/crisis-and-chaos/

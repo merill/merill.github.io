@@ -2,7 +2,7 @@
 id: 152
 title: 'Samsunig i310 Announced &#8211; With an 8Gb HD!'
 date: 2006-03-07T01:25:46+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/Samsunig-i310-Announced---With-an-8Gb-HD!-.aspx
 permalink: /2006/03/samsunig-i310-announced-with-an-8gb-hd/

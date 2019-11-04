@@ -2,7 +2,7 @@
 id: 339
 title: Download Free ASP.NET Resource Kit
 date: 2004-02-19T14:23:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Download-Free-ASPNET-Resource-Kit.aspx
 permalink: /2004/02/download-free-aspnet-resource-kit/

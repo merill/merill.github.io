@@ -2,7 +2,7 @@
 id: 143
 title: 'IE7 Feature #1: Reopen Closed Tabs'
 date: 2006-03-30T13:42:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/IE7-Feature-1-Reopen-Closed-Tabs.aspx
 permalink: /2006/03/ie7-feature-1-reopen-closed-tabs/

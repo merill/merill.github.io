@@ -2,7 +2,7 @@
 id: 326
 title: Open Source In Developing Countries
 date: 2004-02-24T22:17:28+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Open-Source-In-Developing-Countries.aspx
 permalink: /2004/02/open-source-in-developing-countries/

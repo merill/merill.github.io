@@ -2,7 +2,7 @@
 id: 540
 title: NotifyWebLogsDotCom in BlogX
 date: 2003-07-23T19:11:39+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/NotifyWebLogsDotCom-in-BlogX.aspx
 permalink: /2003/07/notifyweblogsdotcom-in-blogx/

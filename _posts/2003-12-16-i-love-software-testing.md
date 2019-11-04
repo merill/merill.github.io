@@ -2,7 +2,7 @@
 id: 445
 title: I love software testing
 date: 2003-12-16T22:35:38+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/I-love-software-testing.aspx
 permalink: /2003/12/i-love-software-testing/

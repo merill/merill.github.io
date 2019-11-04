@@ -2,7 +2,7 @@
 id: 195
 title: The Admiral’s Pipe
 date: 2005-05-13T16:50:56+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/05/The-Admirale28099s-Pipe.aspx
 permalink: '/2005/05/the-admiral%e2%80%99s-pipe/'

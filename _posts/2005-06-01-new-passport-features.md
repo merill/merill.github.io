@@ -2,7 +2,7 @@
 id: 192
 title: New Passport Features
 date: 2005-06-01T16:06:16+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/06/New-Passport-Features.aspx
 permalink: /2005/06/new-passport-features/

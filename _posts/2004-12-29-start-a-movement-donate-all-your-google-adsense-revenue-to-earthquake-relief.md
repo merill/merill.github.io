@@ -2,7 +2,7 @@
 id: 275
 title: Start a movement! Donate all your Google AdSense Revenue to Earthquake Relief
 date: 2004-12-29T17:05:34+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/12/Start-a-movement!-Donate-all-your-Google-AdSense-Revenue-to-Earthquake-Relief.aspx
 permalink: /2004/12/start-a-movement-donate-all-your-google-adsense-revenue-to-earthquake-relief/

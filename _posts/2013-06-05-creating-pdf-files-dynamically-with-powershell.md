@@ -2,7 +2,7 @@
 id: 861
 title: Creating PDF files dynamically with PowerShell
 date: 2013-06-05T10:04:51+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=861
 permalink: /2013/06/creating-pdf-files-dynamically-with-powershell/

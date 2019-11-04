@@ -2,7 +2,7 @@
 id: 144
 title: Re-training graduates and the Imagine Cup 06
 date: 2006-03-30T12:15:47+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/Re-training-graduates-and-the-Imagine-Cup-06.aspx
 permalink: /2006/03/re-training-graduates-and-the-imagine-cup-06/

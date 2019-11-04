@@ -2,7 +2,7 @@
 id: 4
 title: Deleting millions of records from a table without blowing the transaction log
 date: 2009-01-02T08:26:56+00:00
-author: Merill Fernando
+
 
 guid: /post/2009/01/Deleting-millions-of-records-from-a-table-without-blowing-the-transaction-log.aspx
 permalink: /2009/01/deleting-millions-of-records-from-a-table-without-blowing-the-transaction-log/

@@ -2,7 +2,7 @@
 id: 131
 title: 'Imagine Cup &#8211; Panchayudha Wins!'
 date: 2006-06-01T14:49:55+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/06/Imagine-Cup---Panchayudha-Wins!.aspx
 permalink: /2006/06/imagine-cup-panchayudha-wins/

@@ -2,7 +2,7 @@
 id: 324
 title: Qantas Flight Reports
 date: 2004-02-26T16:28:46+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Qantas-Flight-Reports.aspx
 permalink: /2004/02/qantas-flight-reports/

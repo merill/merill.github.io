@@ -2,7 +2,7 @@
 id: 657
 title: 'Visual Studio 2010 Installation Issue &#8211; Setup Failed with HRESULT -2147467259'
 date: 2010-04-27T18:18:50+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=657
 permalink: /2010/04/visual-studio-2010-installation-issue-setup-failed-with-hresult-2147467259/

@@ -2,7 +2,7 @@
 id: 49
 title: Invisible backward compatibility in Vista
 date: 2007-05-29T20:31:51+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/05/Invisible-backward-compatibility-in-Vista.aspx
 permalink: /2007/05/invisible-backward-compatibility-in-vista/

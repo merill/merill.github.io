@@ -2,7 +2,7 @@
 id: 140
 title: ASP.NET Tips and Tricks
 date: 2006-04-06T12:08:10+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/04/ASPNET-Tips-and-Tricks.aspx
 permalink: /2006/04/aspnet-tips-and-tricks/

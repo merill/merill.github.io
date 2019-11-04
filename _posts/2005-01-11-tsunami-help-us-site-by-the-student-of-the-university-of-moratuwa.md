@@ -2,7 +2,7 @@
 id: 271
 title: 'Tsunami &#8216;Help Us&#8217; site by the student of the University of Moratuwa'
 date: 2005-01-11T23:28:10+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/01/Tsunami-Help-Us-site-by-the-student-of-the-University-of-Moratuwa.aspx
 permalink: /2005/01/tsunami-help-us-site-by-the-student-of-the-university-of-moratuwa/

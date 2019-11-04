@@ -2,7 +2,7 @@
 id: 1142
 title: Setting up WordPress as your micro blogging platform
 date: 2018-01-02T13:32:50+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=1142
 permalink: /2018/01/setting-up-wordpress-as-your-micro-blogging-platform/

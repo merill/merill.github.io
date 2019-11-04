@@ -2,7 +2,7 @@
 id: 387
 title: Authorization and Profile Application Block
 date: 2004-01-24T22:19:56+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Authorization-and-Profile-Application-Block.aspx
 permalink: /2004/01/authorization-and-profile-application-block/

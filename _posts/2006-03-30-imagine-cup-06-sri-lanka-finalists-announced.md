@@ -2,7 +2,7 @@
 id: 142
 title: Imagine Cup 06 Sri Lanka Finalists Announced
 date: 2006-03-30T16:50:42+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/03/Imagine-Cup-06-Sri-Lanka-Finalists-Announced.aspx
 permalink: /2006/03/imagine-cup-06-sri-lanka-finalists-announced/

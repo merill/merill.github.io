@@ -2,7 +2,7 @@
 id: 242
 title: Sending XHTML as text/html Considered Harmful
 date: 2005-02-18T02:35:32+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/Sending-XHTML-as-texthtml-Considered-Harmful.aspx
 permalink: /2005/02/sending-xhtml-as-texthtml-considered-harmful/

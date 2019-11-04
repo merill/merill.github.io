@@ -2,7 +2,7 @@
 id: 470
 title: Getting Ahead in Your Career
 date: 2003-11-14T12:06:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Getting-Ahead-in-Your-Career.aspx
 permalink: /2003/11/getting-ahead-in-your-career/

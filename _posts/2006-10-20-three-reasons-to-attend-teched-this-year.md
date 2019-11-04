@@ -2,7 +2,7 @@
 id: 101
 title: Three reasons to attend Tech.Ed this year
 date: 2006-10-20T13:28:21+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Three-reasons-to-attend-TechEd-this-year.aspx
 permalink: /2006/10/three-reasons-to-attend-teched-this-year/

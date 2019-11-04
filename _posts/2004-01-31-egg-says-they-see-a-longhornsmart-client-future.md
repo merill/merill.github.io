@@ -2,7 +2,7 @@
 id: 364
 title: Egg says they see a Longhorn/Smart Client future
 date: 2004-01-31T21:31:22+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Egg-says-they-see-a-LonghornSmart-Client-future.aspx
 permalink: /2004/01/egg-says-they-see-a-longhornsmart-client-future/

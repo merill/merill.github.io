@@ -2,7 +2,7 @@
 id: 375
 title: Dilmah Cricket Network
 date: 2004-01-28T00:48:36+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Dilmah-Cricket-Network.aspx
 permalink: /2004/01/dilmah-cricket-network/

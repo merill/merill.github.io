@@ -2,7 +2,7 @@
 id: 353
 title: Market Vote
 date: 2004-02-11T12:11:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Market-Vote.aspx
 permalink: /2004/02/market-vote/

@@ -2,7 +2,7 @@
 id: 251
 title: Microsoft Virtual Labs
 date: 2005-02-10T13:01:44+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/Microsoft-Virtual-Labs.aspx
 permalink: /2005/02/microsoft-virtual-labs/

@@ -2,7 +2,7 @@
 id: 175
 title: Google Talk
 date: 2005-08-24T16:21:04+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/08/Google-Talk.aspx
 permalink: /2005/08/google-talk/

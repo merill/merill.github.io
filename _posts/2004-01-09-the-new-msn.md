@@ -2,7 +2,7 @@
 id: 417
 title: The New MSN
 date: 2004-01-09T00:25:54+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/The-New-MSN.aspx
 permalink: /2004/01/the-new-msn/

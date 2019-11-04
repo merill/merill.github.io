@@ -2,7 +2,7 @@
 id: 219
 title: Microsoft Engineers
 date: 2005-03-30T00:44:03+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/03/Microsoft-Engineers.aspx
 permalink: /2005/03/microsoft-engineers/

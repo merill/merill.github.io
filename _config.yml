@@ -21,13 +21,14 @@
 title: "merill.net"
 email: "merill@merill.net"
 subtitle: "my utmost for his highest, my best for his glory"
-name: "my utmost for his highest, my best for his glory"
+name: "Merill Fernando"
 description: "Ramblings of an Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead"
 repository: "merill/merill.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://merill.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: merill
 github_username:  merill
+search: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
@@ -80,10 +81,33 @@ author:
   bio: "Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead"
   location: Melbourne, Australia
   avatar: "/assets/images/merill-profile.png"
+  og_image: "/assets/images/merill-profile.png"
   twitter: "merill"
   github: "merill"
   linkedin: "merill"
   email: merill@merill.net
+
+twitter:
+  username: "merill"
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/merill"
+    - "https://www.linkedin.com/in/merill"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/merill"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/merill"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linked-in"
+      url: "https://linkedin.com/in/merill"
 
 # Outputting
 permalink: /:year/:month/:title/

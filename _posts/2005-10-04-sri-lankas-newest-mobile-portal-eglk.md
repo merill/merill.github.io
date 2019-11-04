@@ -2,7 +2,7 @@
 id: 161
 title: 'Sri Lanka&#8217;s newest mobile portal: eg.lk'
 date: 2005-10-04T16:34:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/10/Sri-Lankas-newest-mobile-portal-eglk.aspx
 permalink: /2005/10/sri-lankas-newest-mobile-portal-eglk/

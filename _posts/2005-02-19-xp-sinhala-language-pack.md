@@ -2,7 +2,7 @@
 id: 235
 title: XP Sinhala Language Pack
 date: 2005-02-19T10:56:19+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/XP-Sinhala-Language-Pack.aspx
 permalink: /2005/02/xp-sinhala-language-pack/

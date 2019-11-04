@@ -2,7 +2,7 @@
 id: 90
 title: One tool to bind them all
 date: 2006-11-09T12:37:08+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/11/One-tool-to-bind-them-all.aspx
 permalink: /2006/11/one-tool-to-bind-them-all/

@@ -2,7 +2,7 @@
 id: 290
 title: 'Sweet Revenge: Sri Lanka takes the Cup'
 date: 2004-08-02T15:48:11+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/08/Sweet-Revenge-Sri-Lanka-takes-the-Cup.aspx
 permalink: /2004/08/sweet-revenge-sri-lanka-takes-the-cup/

@@ -2,7 +2,7 @@
 id: 91
 title: Ready for a new day?
 date: 2006-11-09T12:29:48+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/11/Ready-for-a-new-day.aspx
 permalink: /2006/11/ready-for-a-new-day/

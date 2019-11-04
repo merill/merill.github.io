@@ -2,7 +2,7 @@
 id: 111
 title: Lyrics Plugin for Windows Media Player
 date: 2006-10-03T11:49:14+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Lyrics-Plugin-for-Windows-Media-Player.aspx
 permalink: /2006/10/lyrics-plugin-for-windows-media-player/

@@ -1,6 +1,9 @@
 ---
 title: Password Hash Sync and Staged Rollout - Things you need to know
 toc: true
+tags:
+ - azuread
+ - conditionalAccess 
 ---
 Now that Staged Rollout is out of NDA, I can finally talk about one of the projects I've been working on for the last twelve months.
  

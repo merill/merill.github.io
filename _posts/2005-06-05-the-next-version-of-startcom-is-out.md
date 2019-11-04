@@ -2,7 +2,7 @@
 id: 191
 title: The Next Version of Start.com is Out
 date: 2005-06-05T00:00:22+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/06/The-Next-Version-of-Startcom-is-Out.aspx
 permalink: /2005/06/the-next-version-of-startcom-is-out/

@@ -2,7 +2,7 @@
 id: 678
 title: Limit SQL Server memory usage on your workstation, laptop or VM
 date: 2010-05-19T10:51:30+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=678
 permalink: /2010/05/limit-sql-server-memory-usage-on-your-workstation-laptop-or-vm/

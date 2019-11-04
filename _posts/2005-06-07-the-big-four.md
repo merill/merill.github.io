@@ -2,7 +2,7 @@
 id: 189
 title: The Big Four
 date: 2005-06-07T12:53:44+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/06/The-Big-Four.aspx
 permalink: /2005/06/the-big-four/

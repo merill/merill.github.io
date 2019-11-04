@@ -2,7 +2,7 @@
 id: 186
 title: IE Tabbed Browsing
 date: 2005-06-09T23:44:04+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/06/IE-Tabbed-Browsing.aspx
 permalink: /2005/06/ie-tabbed-browsing/

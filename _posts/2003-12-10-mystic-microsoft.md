@@ -2,7 +2,7 @@
 id: 456
 title: Mystic Microsoft
 date: 2003-12-10T14:30:25+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/Mystic-Microsoft.aspx
 permalink: /2003/12/mystic-microsoft/

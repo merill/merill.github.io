@@ -2,7 +2,7 @@
 id: 420
 title: Debugging Windows Services
 date: 2004-01-09T00:10:36+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Debugging-Windows-Services.aspx
 permalink: /2004/01/debugging-windows-services/

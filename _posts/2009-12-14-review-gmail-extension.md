@@ -2,7 +2,7 @@
 id: 623
 title: 'Review: Gmail Extension'
 date: 2009-12-14T21:20:48+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2009/12/review-gmail-extension/
 permalink: /2009/12/review-gmail-extension/

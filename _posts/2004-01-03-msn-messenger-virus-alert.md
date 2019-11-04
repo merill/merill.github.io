@@ -2,7 +2,7 @@
 id: 436
 title: MSN Messenger Virus Alert
 date: 2004-01-03T17:00:18+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/MSN-Messenger-Virus-Alert.aspx
 permalink: /2004/01/msn-messenger-virus-alert/

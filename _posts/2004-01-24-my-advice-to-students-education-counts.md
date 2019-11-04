@@ -2,7 +2,7 @@
 id: 388
 title: 'My Advice to Students: Education Counts'
 date: 2004-01-24T22:10:26+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/My-Advice-to-Students-Education-Counts.aspx
 permalink: /2004/01/my-advice-to-students-education-counts/

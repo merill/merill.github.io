@@ -2,7 +2,7 @@
 id: 43
 title: My last post here
 date: 2007-10-31T14:30:51+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/10/My-last-post-here.aspx
 permalink: /2007/10/my-last-post-here/

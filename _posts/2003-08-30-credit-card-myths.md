@@ -2,7 +2,7 @@
 id: 516
 title: Credit Card Myths
 date: 2003-08-30T01:03:30+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/08/Credit-Card-Myths.aspx
 permalink: /2003/08/credit-card-myths/

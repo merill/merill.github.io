@@ -2,7 +2,7 @@
 id: 279
 title: Microsoft Testing and Bug Tracking
 date: 2004-11-27T14:43:53+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/11/Microsoft-Testing-and-Bug-Tracking.aspx
 permalink: /2004/11/microsoft-testing-and-bug-tracking/

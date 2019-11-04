@@ -2,7 +2,7 @@
 id: 811
 title: Online XPath Tool
 date: 2013-05-23T09:09:22+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=811
 permalink: /2013/05/online-xpath-tool/

@@ -2,7 +2,7 @@
 id: 383
 title: Mars or AIDS?
 date: 2004-01-24T23:20:03+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Mars-or-AIDS.aspx
 permalink: /2004/01/mars-or-aids/

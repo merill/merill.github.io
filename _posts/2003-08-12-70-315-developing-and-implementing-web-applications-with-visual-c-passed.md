@@ -2,7 +2,7 @@
 id: 521
 title: '70-315 Developing and Implementing Web Applications with Visual C# &#8211; Passed'
 date: 2003-08-12T16:01:21+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/08/70-315-Developing-and-Implementing-Web-Applications-with-Visual-C---Passed.aspx
 permalink: /2003/08/70-315-developing-and-implementing-web-applications-with-visual-c-passed/

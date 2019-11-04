@@ -2,7 +2,7 @@
 id: 130
 title: On Sex and Linux
 date: 2006-06-05T07:15:18+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/06/On-Sex-and-Linux.aspx
 permalink: /2006/06/on-sex-and-linux/

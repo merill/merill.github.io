@@ -2,7 +2,7 @@
 id: 976
 title: Standalone Installer for Azure PowerShell modules
 date: 2014-12-09T12:49:40+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/?p=976
 permalink: /2014/12/standalone-installer-for-azure-powershell-modules/

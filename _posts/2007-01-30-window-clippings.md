@@ -2,7 +2,7 @@
 id: 70
 title: Window Clippings
 date: 2007-01-30T17:21:00+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/01/Window-Clippings.aspx
 permalink: /2007/01/window-clippings/

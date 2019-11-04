@@ -2,7 +2,7 @@
 id: 258
 title: 'Microsoft Exam Discount &#8211; Till May 2005'
 date: 2005-01-30T10:26:26+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/01/Microsoft-Exam-Discount---Till-May-2005.aspx
 permalink: /2005/01/microsoft-exam-discount-till-may-2005/

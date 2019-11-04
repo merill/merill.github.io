@@ -2,7 +2,7 @@
 id: 629
 title: 'SharpSvn: A Primer'
 date: 2010-03-12T10:03:14+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2010/03/sharpsvn-a-primer/
 permalink: /2010/03/sharpsvn-a-primer/

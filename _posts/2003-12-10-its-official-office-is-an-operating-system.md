@@ -2,7 +2,7 @@
 id: 455
 title: 'It&#8217;s Official &#8212; Office is an Operating System'
 date: 2003-12-10T14:34:58+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/12/Its-Official----Office-is-an-Operating-System.aspx
 permalink: /2003/12/its-official-office-is-an-operating-system/

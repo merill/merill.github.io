@@ -2,7 +2,7 @@
 id: 393
 title: Linux is not free, part II
 date: 2004-01-23T13:21:13+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Linux-is-not-free2c-part-II.aspx
 permalink: /2004/01/linux-is-not-free-part-ii/

@@ -2,7 +2,7 @@
 id: 169
 title: Windows Vista 2 Screenshots
 date: 2005-09-08T14:38:47+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/09/Windows-Vista-2-Screenshots.aspx
 permalink: /2005/09/windows-vista-2-screenshots/

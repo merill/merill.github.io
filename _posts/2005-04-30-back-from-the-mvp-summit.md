@@ -2,7 +2,7 @@
 id: 201
 title: Back from the MVP Summit
 date: 2005-04-30T16:28:57+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/04/Back-from-the-MVP-Summit.aspx
 permalink: /2005/04/back-from-the-mvp-summit/

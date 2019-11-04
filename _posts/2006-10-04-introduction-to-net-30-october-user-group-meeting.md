@@ -2,7 +2,7 @@
 id: 109
 title: 'Introduction to .NET 3.0 &#8211; October User Group Meeting'
 date: 2006-10-04T13:36:41+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/10/Introduction-to-NET-30---October-User-Group-Meeting.aspx
 permalink: /2006/10/introduction-to-net-30-october-user-group-meeting/

@@ -2,7 +2,7 @@
 id: 244
 title: Sighseeing in Boston
 date: 2005-02-13T15:12:57+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/02/Sighseeing-in-Boston.aspx
 permalink: /2005/02/sighseeing-in-boston/

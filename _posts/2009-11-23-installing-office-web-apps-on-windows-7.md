@@ -2,7 +2,7 @@
 id: 616
 title: Installing Office Web Apps on Windows 7
 date: 2009-11-23T08:22:31+00:00
-author: Merill Fernando
+
 
 guid: http://merill.net/2009/11/installing-office-web-apps-on-windows-7/
 permalink: /2009/11/installing-office-web-apps-on-windows-7/

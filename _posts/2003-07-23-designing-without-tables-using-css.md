@@ -2,7 +2,7 @@
 id: 542
 title: Designing Without Tables Using CSS
 date: 2003-07-23T14:12:58+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/07/Designing-Without-Tables-Using-CSS.aspx
 permalink: /2003/07/designing-without-tables-using-css/

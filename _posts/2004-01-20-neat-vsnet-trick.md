@@ -2,7 +2,7 @@
 id: 398
 title: Neat VS.NET Trick
 date: 2004-01-20T21:45:18+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Neat-VSNET-Trick.aspx
 permalink: /2004/01/neat-vsnet-trick/

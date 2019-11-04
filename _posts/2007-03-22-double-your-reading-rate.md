@@ -2,7 +2,7 @@
 id: 63
 title: Double your reading rate
 date: 2007-03-22T13:00:05+00:00
-author: Merill Fernando
+
 
 guid: /post/2007/03/Double-your-reading-rate.aspx
 permalink: /2007/03/double-your-reading-rate/

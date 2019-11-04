@@ -2,7 +2,7 @@
 id: 394
 title: Free Code Coverage Tools
 date: 2004-01-23T13:20:29+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Free-Code-Coverage-Tools.aspx
 permalink: /2004/01/free-code-coverage-tools/

@@ -2,7 +2,7 @@
 id: 501
 title: Changes to the Default Handling of ActiveX Controls by Internet Explorer
 date: 2003-10-08T14:17:24+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/10/Changes-to-the-Default-Handling-of-ActiveX-Controls-by-Internet-Explorer.aspx
 permalink: /2003/10/changes-to-the-default-handling-of-activex-controls-by-internet-explorer/

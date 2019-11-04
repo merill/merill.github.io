@@ -2,7 +2,7 @@
 id: 348
 title: Is the bad guy in Sri Lanka a lady?
 date: 2004-02-11T15:55:58+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/02/Is-the-bad-guy-in-Sri-Lanka-a-lady-.aspx
 permalink: /2004/02/is-the-bad-guy-in-sri-lanka-a-lady/

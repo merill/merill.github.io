@@ -2,7 +2,7 @@
 id: 473
 title: Tweakomatic
 date: 2003-11-11T17:55:12+00:00
-author: Merill Fernando
+
 
 guid: /post/2003/11/Tweakomatic.aspx
 permalink: /2003/11/tweakomatic/

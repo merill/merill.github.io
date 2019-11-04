@@ -2,7 +2,7 @@
 id: 187
 title: Free E-Learning and Skills Assessments for VS 2005/SQL Server 2005
 date: 2005-06-09T01:45:24+00:00
-author: Merill Fernando
+
 
 guid: /post/2005/06/Free-E-Learning-and-Skills-Assessments-for-VS-2005SQL-Server-2005.aspx
 permalink: /2005/06/free-e-learning-and-skills-assessments-for-vs-2005sql-server-2005/

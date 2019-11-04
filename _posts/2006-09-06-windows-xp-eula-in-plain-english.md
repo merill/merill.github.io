@@ -2,7 +2,7 @@
 id: 122
 title: Windows XP EULA in Plain English
 date: 2006-09-06T11:24:31+00:00
-author: Merill Fernando
+
 
 guid: /post/2006/09/Windows-XP-EULA-in-Plain-English.aspx
 permalink: /2006/09/windows-xp-eula-in-plain-english/

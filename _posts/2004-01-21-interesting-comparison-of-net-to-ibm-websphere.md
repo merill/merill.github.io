@@ -2,7 +2,7 @@
 id: 397
 title: Interesting comparison of .NET to IBM WebSphere
 date: 2004-01-21T12:28:54+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Interesting-comparison-of-NET-to-IBM-WebSphere.aspx
 permalink: /2004/01/interesting-comparison-of-net-to-ibm-websphere/

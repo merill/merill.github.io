@@ -2,7 +2,7 @@
 id: 376
 title: Bill Gates receives knighthood
 date: 2004-01-27T23:58:43+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Bill-Gates-receives-knighthood.aspx
 permalink: /2004/01/bill-gates-receives-knighthood/

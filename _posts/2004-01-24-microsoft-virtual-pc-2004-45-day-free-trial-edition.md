@@ -2,7 +2,7 @@
 id: 386
 title: Microsoft Virtual PC 2004 45-Day Free Trial Edition
 date: 2004-01-24T22:21:53+00:00
-author: Merill Fernando
+
 
 guid: /post/2004/01/Microsoft-Virtual-PC-2004-45-Day-Free-Trial-Edition.aspx
 permalink: /2004/01/microsoft-virtual-pc-2004-45-day-free-trial-edition/
