@@ -20,6 +20,7 @@
 
 title: "merill.net"
 email: "merill@merill.net"
+subtitle: "my utmost for his highest, my best for his glory"
 name: "my utmost for his highest, my best for his glory"
 description: "Ramblings of an Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,7 +30,7 @@ github_username:  merill
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default," "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 plugins:
