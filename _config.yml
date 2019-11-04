@@ -108,6 +108,9 @@ footer:
     - label: "Linked In"
       icon: "fab fa-fw fa-linked-in"
       url: "https://linkedin.com/in/merill"
+    - label: "Dev.To"
+      icon: "fab fa-fw fa-dev"
+      url: "https://dev.to/merill"
 
 # Outputting
 permalink: /:year/:month/:title/
