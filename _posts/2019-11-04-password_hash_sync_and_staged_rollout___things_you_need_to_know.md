@@ -92,6 +92,10 @@ This way you can prevent intruders hijacking a user's account and setting up MFA
 
 
 
+![2019-11-01-842606.png](https://merill.net/assets/2019-11-01-842606.png)
+![2019-11-01-718026.png](https://merill.net/assets/2019-11-01-718026.png)
+
+
 
 
 ## MFA configuration for end users
