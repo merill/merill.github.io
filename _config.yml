@@ -33,9 +33,24 @@ github_username:  merill
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default," "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
+# Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
 defaults:
   # _posts
   - scope:
