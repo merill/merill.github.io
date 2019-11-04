@@ -3,7 +3,7 @@ id: 713
 title: FBA Configuration Manager for SharePoint 2010
 date: 2010-12-02T14:54:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=713
 permalink: /2010/12/fba-configuration-manager-for-sharepoint-2010/
 dsq_thread_id:

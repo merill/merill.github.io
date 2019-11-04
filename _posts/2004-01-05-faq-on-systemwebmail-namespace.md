@@ -3,7 +3,7 @@ id: 433
 title: FAQ on System.Web.Mail Namespace
 date: 2004-01-05T11:50:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/FAQ-on-SystemWebMail-Namespace.aspx
 permalink: /2004/01/faq-on-systemwebmail-namespace/
 categories:

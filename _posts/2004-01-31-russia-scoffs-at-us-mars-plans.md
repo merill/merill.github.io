@@ -3,7 +3,7 @@ id: 365
 title: Russia Scoffs at U.S. Mars Plans
 date: 2004-01-31T21:30:16+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Russia-Scoffs-at-US-Mars-Plans.aspx
 permalink: /2004/01/russia-scoffs-at-us-mars-plans/
 dsq_thread_id:

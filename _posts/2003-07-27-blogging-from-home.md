@@ -3,7 +3,7 @@ id: 531
 title: Blogging from Home
 date: 2003-07-27T02:01:54+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Blogging-from-Home.aspx
 permalink: /2003/07/blogging-from-home/
 categories:

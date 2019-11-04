@@ -3,7 +3,7 @@ id: 466
 title: Microsoft and Groove Networks help Sri Lanka Peace
 date: 2003-11-18T21:42:28+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Microsoft-and-Groove-Networks-help-Sri-Lanka-Peace.aspx
 permalink: /2003/11/microsoft-and-groove-networks-help-sri-lanka-peace/
 dsq_thread_id:

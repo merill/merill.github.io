@@ -3,7 +3,7 @@ id: 298
 title: Good News and Bad
 date: 2004-04-01T11:34:25+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/04/Good-News-and-Bad.aspx
 permalink: /2004/04/good-news-and-bad/
 dsq_thread_id:

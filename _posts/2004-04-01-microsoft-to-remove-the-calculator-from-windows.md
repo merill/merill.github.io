@@ -3,7 +3,7 @@ id: 300
 title: Microsoft to remove the Calculator from Windows
 date: 2004-04-01T03:03:56+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/04/Microsoft-to-remove-the-Calculator-from-Windows.aspx
 permalink: /2004/04/microsoft-to-remove-the-calculator-from-windows/
 dsq_thread_id:

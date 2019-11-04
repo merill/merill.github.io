@@ -3,7 +3,7 @@ id: 354
 title: Parliament Dissolution May Cost Sri Lanka Billions in Aid
 date: 2004-02-10T23:36:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Parliament-Dissolution-May-Cost-Sri-Lanka-Billions-in-Aid.aspx
 permalink: /2004/02/parliament-dissolution-may-cost-sri-lanka-billions-in-aid/
 dsq_thread_id:

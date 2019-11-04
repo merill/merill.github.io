@@ -3,7 +3,7 @@ id: 265
 title: Testing BlogJet
 date: 2005-01-20T13:58:25+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/Testing-BlogJet.aspx
 permalink: /2005/01/testing-blogjet/
 dsq_thread_id:

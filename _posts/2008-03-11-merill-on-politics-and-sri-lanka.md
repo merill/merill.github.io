@@ -3,7 +3,7 @@ id: 22
 title: Merill on Politics and Sri Lanka
 date: 2008-03-11T10:23:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/03/Merill-on-Politics-and-Sri-Lanka.aspx
 permalink: /2008/03/merill-on-politics-and-sri-lanka/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 463
 title: Longhorn Transformation Pack
 date: 2003-11-28T13:29:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Longhorn-Transformation-Pack.aspx
 permalink: /2003/11/longhorn-transformation-pack/
 categories:

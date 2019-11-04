@@ -3,7 +3,7 @@ id: 141
 title: '.NET User Group: Smart Client Deep Dive'
 date: 2006-03-31T15:16:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/03/NET-User-Group-Smart-Client-Deep-Dive.aspx
 permalink: /2006/03/net-user-group-smart-client-deep-dive/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 116
 title: Guidance Explorer goes online
 date: 2006-09-27T12:29:31+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/09/Guidance-Explorer-goes-online.aspx
 permalink: /2006/09/guidance-explorer-goes-online/
 dsq_thread_id:

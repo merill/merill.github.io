@@ -3,7 +3,7 @@ id: 813
 title: Things to watch out for when migrating SharePoint 2010 FAST Search to SharePoint 2013
 date: 2013-05-27T14:08:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=813
 permalink: /2013/05/things-to-watch-out-for-when-migrating-sharepoint-2010-fast-search-to-sharepoint-2013/
 dsq_thread_id:

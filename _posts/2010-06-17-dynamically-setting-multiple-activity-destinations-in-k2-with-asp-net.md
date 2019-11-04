@@ -3,7 +3,7 @@ id: 690
 title: Dynamically setting multiple activity destinations in K2 with ASP .NET
 date: 2010-06-17T14:18:42+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=690
 permalink: /2010/06/dynamically-setting-multiple-activity-destinations-in-k2-with-asp-net/
 dsq_thread_id:

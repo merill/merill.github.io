@@ -3,7 +3,7 @@ id: 322
 title: activePDF Unveils FREE PDF Creator
 date: 2004-02-27T12:59:26+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/activePDF-Unveils-FREE-PDF-Creator.aspx
 permalink: /2004/02/activepdf-unveils-free-pdf-creator/
 dsq_thread_id:

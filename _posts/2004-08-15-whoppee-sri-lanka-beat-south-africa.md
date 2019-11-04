@@ -3,7 +3,7 @@ id: 288
 title: Whoppee Sri Lanka beat South Africa
 date: 2004-08-15T22:48:14+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/08/Whoppee-Sri-Lanka-beat-South-Africa.aspx
 permalink: /2004/08/whoppee-sri-lanka-beat-south-africa/
 dsq_thread_id:

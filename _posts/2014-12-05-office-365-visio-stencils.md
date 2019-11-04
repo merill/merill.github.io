@@ -3,7 +3,7 @@ id: 925
 title: Office 365 Visio Stencils
 date: 2014-12-05T11:52:02+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=925
 permalink: /2014/12/office-365-visio-stencils/
 dsq_thread_id:

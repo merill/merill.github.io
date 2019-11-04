@@ -3,7 +3,7 @@ id: 13
 title: Taking notes with Evernote
 date: 2008-06-07T20:00:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/06/Taking-notes-with-Evernote.aspx
 permalink: /2008/06/taking-notes-with-evernote/
 dsq_thread_id:

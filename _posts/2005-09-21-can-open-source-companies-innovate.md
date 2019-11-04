@@ -3,7 +3,7 @@ id: 165
 title: Can open source companies innovate?
 date: 2005-09-21T12:36:33+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/09/Can-open-source-companies-innovate.aspx
 permalink: /2005/09/can-open-source-companies-innovate/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 410
 title: Microsoft Skills Assessment Home
 date: 2004-01-12T20:59:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Microsoft-Skills-Assessment-Home.aspx
 permalink: /2004/01/microsoft-skills-assessment-home/
 dsq_thread_id:

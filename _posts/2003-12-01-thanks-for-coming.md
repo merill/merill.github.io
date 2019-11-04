@@ -3,7 +3,7 @@ id: 459
 title: Thanks for coming!
 date: 2003-12-01T14:02:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Thanks-for-coming!.aspx
 permalink: /2003/12/thanks-for-coming/
 dsq_thread_id:

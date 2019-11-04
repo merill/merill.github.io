@@ -3,7 +3,7 @@ id: 247
 title: Firefox Pomposity
 date: 2005-02-13T09:15:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Firefox-Pomposity.aspx
 permalink: /2005/02/firefox-pomposity/
 dsq_thread_id:

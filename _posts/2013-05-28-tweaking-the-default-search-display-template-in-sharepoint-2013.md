@@ -3,7 +3,7 @@ id: 821
 title: Tweaking the default search display template in SharePoint 2013
 date: 2013-05-28T12:51:32+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=821
 permalink: /2013/05/tweaking-the-default-search-display-template-in-sharepoint-2013/
 dsq_thread_id:

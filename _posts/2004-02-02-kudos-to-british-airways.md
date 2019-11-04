@@ -3,7 +3,7 @@ id: 362
 title: 'Kudo&#8217;s to British Airways'
 date: 2004-02-02T19:14:02+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Kudos-to-British-Airways.aspx
 permalink: /2004/02/kudos-to-british-airways/
 categories:

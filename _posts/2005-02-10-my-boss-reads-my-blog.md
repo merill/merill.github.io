@@ -3,7 +3,7 @@ id: 250
 title: My Boss reads my blog!
 date: 2005-02-10T14:26:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/My-Boss-reads-my-blog!.aspx
 permalink: /2005/02/my-boss-reads-my-blog/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 541
 title: 'Michael Jackson &#8216;speechless&#8217; on P2P jail bill'
 date: 2003-07-23T17:45:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Michael-Jackson-speechless-on-P2P-jail-bill.aspx
 permalink: /2003/07/michael-jackson-speechless-on-p2p-jail-bill/
 dsq_thread_id:

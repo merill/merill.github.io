@@ -3,7 +3,7 @@ id: 569
 title: Microsoft .NET Framework 3.5 SP1 breaks Microsoft CCF (Customer Care Framework)
 date: 2009-02-26T12:27:32+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/02/microsoft-net-framework-35-sp1-breaks-microsoft-ccf-customer-care-framework/
 permalink: /2009/02/microsoft-net-framework-35-sp1-breaks-microsoft-ccf-customer-care-framework/
 dsq_thread_id:

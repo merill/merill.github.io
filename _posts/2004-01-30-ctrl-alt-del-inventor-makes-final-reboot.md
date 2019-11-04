@@ -3,7 +3,7 @@ id: 368
 title: Ctrl-Alt-Del inventor makes final reboot
 date: 2004-01-30T16:38:31+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Ctrl-Alt-Del-inventor-makes-final-reboot.aspx
 permalink: /2004/01/ctrl-alt-del-inventor-makes-final-reboot/
 dsq_thread_id:

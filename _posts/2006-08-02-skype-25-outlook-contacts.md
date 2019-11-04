@@ -3,7 +3,7 @@ id: 126
 title: 'Skype 2.5 &#8211; Outlook Contacts'
 date: 2006-08-02T12:16:28+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/08/Skype-25---Outlook-Contacts.aspx
 permalink: /2006/08/skype-25-outlook-contacts/
 dsq_thread_id:

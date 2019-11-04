@@ -3,7 +3,7 @@ id: 668
 title: SQL Server 2008 Service Weirdness
 date: 2010-05-01T15:59:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=668
 permalink: /2010/05/sql-server-2008-service-weirdness/
 dsq_thread_id:

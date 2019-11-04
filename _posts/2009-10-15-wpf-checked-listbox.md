@@ -3,7 +3,7 @@ id: 591
 title: WPF Checked ListBox
 date: 2009-10-15T09:44:16+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/10/wpf-checked-listbox/
 permalink: /2009/10/wpf-checked-listbox/
 dsq_thread_id:

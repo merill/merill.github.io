@@ -3,7 +3,7 @@ id: 995
 title: How to get the Azure AD Tenant ID without PowerShell
 date: 2015-01-16T08:24:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=995
 permalink: /2015/01/how-to-get-the-azure-ad-tenant-id-without-powershell/
 snap_isAutoPosted:

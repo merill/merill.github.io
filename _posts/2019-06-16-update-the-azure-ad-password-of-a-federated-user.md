@@ -1,5 +1,5 @@
 ---
-layout: post
+
 published: true
 title: Update the Azure AD password of a federated user
 ---

@@ -3,7 +3,7 @@ id: 522
 title: MSN Search
 date: 2003-08-09T16:00:16+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/08/MSN-Search.aspx
 permalink: /2003/08/msn-search/
 categories:

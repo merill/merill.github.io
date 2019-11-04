@@ -3,7 +3,7 @@ id: 389
 title: Microsoft Quietly Posts New MBSA
 date: 2004-01-24T21:48:44+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Microsoft-Quietly-Posts-New-MBSA.aspx
 permalink: /2004/01/microsoft-quietly-posts-new-mbsa/
 dsq_thread_id:

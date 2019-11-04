@@ -3,7 +3,7 @@ id: 170
 title: Lunch with Jim and Rasmus
 date: 2005-09-07T19:33:37+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/09/Lunch-with-Jim-and-Rasmus.aspx
 permalink: /2005/09/lunch-with-jim-and-rasmus/
 dsq_thread_id:

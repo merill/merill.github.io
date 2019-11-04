@@ -3,7 +3,7 @@ id: 56
 title: Joshua @ 4 months
 date: 2007-04-06T15:29:13+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/04/Joshua--4-months.aspx
 permalink: /2007/04/joshua-4-months/
 dsq_thread_id:

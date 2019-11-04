@@ -3,7 +3,7 @@ id: 355
 title: 'Users Can&#8217;t Know Their Requirements Early'
 date: 2004-02-10T22:27:08+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Users-Cant-Know-Their-Requirements-Early.aspx
 permalink: /2004/02/users-cant-know-their-requirements-early/
 categories:

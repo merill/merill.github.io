@@ -3,7 +3,7 @@ id: 282
 title: 'Murali&#8217;s redemption, and our arrogance'
 date: 2004-08-17T15:31:45+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/08/Muralis-redemption2c-and-our-arrogance.aspx
 permalink: /2004/08/muralis-redemption-and-our-arrogance/
 dsq_thread_id:

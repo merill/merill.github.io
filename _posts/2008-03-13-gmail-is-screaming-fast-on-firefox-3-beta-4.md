@@ -3,7 +3,7 @@ id: 20
 title: GMail is SCREAMING fast on FireFox 3 Beta 4
 date: 2008-03-13T09:06:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/03/GMail-is-SCREAMING-fast-on-FireFox-3-Beta-4.aspx
 permalink: /2008/03/gmail-is-screaming-fast-on-firefox-3-beta-4/
 dsq_thread_id:

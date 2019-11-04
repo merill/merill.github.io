@@ -3,7 +3,7 @@ id: 1003
 title: 'Fix: Cannot sign in because the server version is incompatible with Skype for Business'
 date: 2015-05-07T10:56:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=1003
 permalink: /2015/05/fix-cannot-sign-in-because-the-server-version-is-incompatible-with-skype-for-business/
 snap_isAutoPosted:

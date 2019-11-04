@@ -3,7 +3,7 @@ id: 323
 title: MVC and WARS
 date: 2004-02-26T16:59:01+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/MVC-and-WARS.aspx
 permalink: /2004/02/mvc-and-wars/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 132
 title: Guidance Automation Toolkit
 date: 2006-05-31T17:22:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/05/Guidance-Automation-Toolkit.aspx
 permalink: /2006/05/guidance-automation-toolkit/
 dsq_thread_id:

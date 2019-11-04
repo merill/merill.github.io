@@ -3,7 +3,7 @@ id: 343
 title: Intel to Announce Telecommunications-Speed Breakthrough
 date: 2004-02-13T12:30:09+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Intel-to-Announce-Telecommunications-Speed-Breakthrough.aspx
 permalink: /2004/02/intel-to-announce-telecommunications-speed-breakthrough/
 dsq_thread_id:

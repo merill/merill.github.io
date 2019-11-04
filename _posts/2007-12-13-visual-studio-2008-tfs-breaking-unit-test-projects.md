@@ -3,7 +3,7 @@ id: 41
 title: Visual Studio 2008 TFS breaking Unit Test Projects
 date: 2007-12-13T16:02:42+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/12/Visual-Studio-2008-TFS-breaking-Unit-Test-Projects.aspx
 permalink: /2007/12/visual-studio-2008-tfs-breaking-unit-test-projects/
 dsq_thread_id:

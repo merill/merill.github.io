@@ -3,7 +3,7 @@ id: 60
 title: 'Mobile projection &amp; 64GB Flash'
 date: 2007-03-28T13:16:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/03/Mobile-projection-amp3b-64GB-Flash.aspx
 permalink: /2007/03/mobile-projection-64gb-flash/
 dsq_thread_id:

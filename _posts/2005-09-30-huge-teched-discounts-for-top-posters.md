@@ -3,7 +3,7 @@ id: 162
 title: Huge Tech.Ed discounts for top posters!
 date: 2005-09-30T13:59:29+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/09/Huge-TechEd-discounts-for-top-posters!.aspx
 permalink: /2005/09/huge-teched-discounts-for-top-posters/
 dsq_thread_id:

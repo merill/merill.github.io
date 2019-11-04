@@ -3,7 +3,7 @@ id: 35
 title: Playing the currency game
 date: 2008-01-11T15:49:21+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/01/Playing-the-currency-game.aspx
 permalink: /2008/01/playing-the-currency-game/
 dsq_thread_id:

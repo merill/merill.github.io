@@ -3,7 +3,7 @@ id: 887
 title: One small tip for parents
 date: 2014-12-04T21:47:50+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=887
 permalink: /2014/12/one-small-tip-for-parents/
 dsq_thread_id:

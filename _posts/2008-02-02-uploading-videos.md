@@ -3,7 +3,7 @@ id: 30
 title: Uploading Videos
 date: 2008-02-02T14:39:29+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/02/Uploading-Videos.aspx
 permalink: /2008/02/uploading-videos/
 dsq_thread_id:

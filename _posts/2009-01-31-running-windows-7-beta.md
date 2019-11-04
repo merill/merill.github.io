@@ -3,7 +3,7 @@ id: 562
 title: Running Windows 7 Beta
 date: 2009-01-31T08:48:09+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/01/running-windows-7-beta/
 permalink: /2009/01/running-windows-7-beta/
 dsq_thread_id:

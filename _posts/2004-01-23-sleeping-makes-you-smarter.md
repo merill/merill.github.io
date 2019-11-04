@@ -3,7 +3,7 @@ id: 392
 title: Sleeping makes you smarter?
 date: 2004-01-23T16:15:32+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Sleeping-makes-you-smarter.aspx
 permalink: /2004/01/sleeping-makes-you-smarter/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 450
 title: .NET Online Seminars
 date: 2003-12-13T13:07:42+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/NET-Online-Seminars.aspx
 permalink: /2003/12/net-online-seminars/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 273
 title: The Tsunami Effect
 date: 2005-01-08T14:07:47+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/The-Tsunami-Effect.aspx
 permalink: /2005/01/the-tsunami-effect/
 categories:

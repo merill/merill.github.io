@@ -3,7 +3,7 @@ id: 69
 title: I LOVE open source software like this
 date: 2007-01-31T12:30:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/01/I-LOVE-open-source-software-like-this.aspx
 permalink: /2007/01/i-love-open-source-software-like-this/
 dsq_thread_id:

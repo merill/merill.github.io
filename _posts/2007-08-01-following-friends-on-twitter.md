@@ -3,7 +3,7 @@ id: 45
 title: Following friends on Twitter
 date: 2007-08-01T22:53:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/08/Following-friends-on-Twitter.aspx
 permalink: /2007/08/following-friends-on-twitter/
 dsq_thread_id:

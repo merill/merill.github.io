@@ -3,7 +3,7 @@ id: 12
 title: Silverlight
 date: 2008-10-15T14:46:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/10/Silverlight.aspx
 permalink: /2008/10/silverlight/
 dsq_thread_id:

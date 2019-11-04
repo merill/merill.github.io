@@ -3,7 +3,7 @@ id: 440
 title: 'Back from Vacation / Driver&#8217;s License Exam'
 date: 2003-12-30T00:46:35+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Back-from-Vacation--Drivers-License-Exam.aspx
 permalink: /2003/12/back-from-vacation-drivers-license-exam/
 dsq_thread_id:

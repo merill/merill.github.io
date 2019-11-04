@@ -3,7 +3,7 @@ id: 243
 title: One Free GMail Invitation
 date: 2005-02-18T02:05:47+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/One-Free-GMail-Invitation.aspx
 permalink: /2005/02/one-free-gmail-invitation/
 dsq_thread_id:

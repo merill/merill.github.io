@@ -3,7 +3,7 @@ id: 405
 title: Microsoft takes on Linux with free tools
 date: 2004-01-14T12:36:54+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Microsoft-takes-on-Linux-with-free-tools.aspx
 permalink: /2004/01/microsoft-takes-on-linux-with-free-tools/
 categories:

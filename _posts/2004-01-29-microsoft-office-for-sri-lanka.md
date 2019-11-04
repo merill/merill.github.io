@@ -3,7 +3,7 @@ id: 370
 title: Microsoft Office for Sri Lanka
 date: 2004-01-29T16:37:59+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Microsoft-Office-for-Sri-Lanka.aspx
 permalink: /2004/01/microsoft-office-for-sri-lanka/
 dsq_thread_id:

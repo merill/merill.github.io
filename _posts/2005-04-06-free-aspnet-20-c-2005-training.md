@@ -3,7 +3,7 @@ id: 213
 title: 'Free ASP.NET 2.0 C# 2005 Training!'
 date: 2005-04-06T01:13:29+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/04/Free-ASPNET-20-C-2005-Training!.aspx
 permalink: /2005/04/free-aspnet-20-c-2005-training/
 categories:

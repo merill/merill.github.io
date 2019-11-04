@@ -3,7 +3,7 @@ id: 469
 title: HSBC Internet Banking is Free!
 date: 2003-11-14T12:30:30+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/HSBC-Internet-Banking-is-Free!.aspx
 permalink: /2003/11/hsbc-internet-banking-is-free/
 categories:

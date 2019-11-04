@@ -3,7 +3,7 @@ id: 478
 title: EasyToggle (Tab Navigation)
 date: 2003-11-07T14:17:32+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/EasyToggle-(Tab-Navigation).aspx
 permalink: /2003/11/easytoggle-tab-navigation/
 dsq_thread_id:

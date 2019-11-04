@@ -3,7 +3,7 @@ id: 231
 title: Singapore
 date: 2005-02-22T02:47:24+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Singapore.aspx
 permalink: /2005/02/singapore/
 categories:

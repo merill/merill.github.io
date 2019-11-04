@@ -3,7 +3,7 @@ id: 425
 title: 'Grokker and Vivisimo: new ways to search'
 date: 2004-01-07T00:48:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Grokker-and-Vivisimo-new-ways-to-search.aspx
 permalink: /2004/01/grokker-and-vivisimo-new-ways-to-search/
 categories:

@@ -2,7 +2,7 @@
 id: 28
 title: Getting ModifyUserPropertyByAccountName to work
 date: 2008-02-05T13:47:53+00:00
-layout: post
+
 guid: /post/2008/02/Getting-ModifyUserPropertyByAccountName-to-work.aspx
 permalink: /2008/02/getting-modifyuserpropertybyaccountname-to-work/
 dsq_thread_id:

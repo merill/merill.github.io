@@ -3,7 +3,7 @@ id: 803
 title: 'Mobile Apps: Native or Web?'
 date: 2012-12-12T18:12:35+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=803
 permalink: /2012/12/mobile-apps-native-or-web/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 320
 title: What does your phone number spell?
 date: 2004-02-27T13:40:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/What-does-your-phone-number-spell.aspx
 permalink: /2004/02/what-does-your-phone-number-spell/
 dsq_thread_id:

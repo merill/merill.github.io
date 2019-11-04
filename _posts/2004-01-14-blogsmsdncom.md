@@ -3,7 +3,7 @@ id: 404
 title: blogs.msdn.com
 date: 2004-01-14T12:44:38+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/blogsmsdncom.aspx
 permalink: /2004/01/blogsmsdncom/
 categories:

@@ -3,7 +3,7 @@ id: 17
 title: Oh MSDN Language Filter
 date: 2008-04-02T09:20:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/04/Oh-MSDN-Language-Filter.aspx
 permalink: /2008/04/oh-msdn-language-filter/
 dsq_thread_id:

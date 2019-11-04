@@ -3,7 +3,7 @@ id: 188
 title: 'Turnabout &#8211; Greasemonkey for Internet Explorer (Yep, It&#8217;s Another One)'
 date: 2005-06-08T23:46:13+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/06/Turnabout---Greasemonkey-for-Internet-Explorer-(Yep2c-Its-Another-One)-.aspx
 permalink: /2005/06/turnabout-greasemonkey-for-internet-explorer-yep-its-another-one/
 dsq_thread_id:

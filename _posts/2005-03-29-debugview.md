@@ -3,7 +3,7 @@ id: 220
 title: DebugView
 date: 2005-03-29T15:41:44+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/03/DebugView.aspx
 permalink: /2005/03/debugview/
 dsq_thread_id:

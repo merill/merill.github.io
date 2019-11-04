@@ -3,7 +3,7 @@ id: 497
 title: Whoa! Nokia Phones Exploding!
 date: 2003-10-10T14:09:32+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/Whoa!-Nokia-Phones-Exploding!.aspx
 permalink: /2003/10/whoa-nokia-phones-exploding/
 dsq_thread_id:

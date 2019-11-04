@@ -3,7 +3,7 @@ id: 228
 title: .NET User Group Meeting in Colombo today
 date: 2005-03-02T13:19:47+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/03/NET-User-Group-Meeting-in-Colombo-today.aspx
 permalink: /2005/03/net-user-group-meeting-in-colombo-today/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 236
 title: Co0L, chEcK THis 0U+
 date: 2005-02-19T10:49:38+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Co0L2c-chEcK-THis-0U2b-.aspx
 permalink: /2005/02/co0l-check-this-0u/
 dsq_thread_id:

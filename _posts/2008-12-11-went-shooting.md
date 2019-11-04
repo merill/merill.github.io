@@ -3,7 +3,7 @@ id: 6
 title: Went shooting
 date: 2008-12-11T08:23:42+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/12/Went-shooting.aspx
 permalink: /2008/12/went-shooting/
 dsq_thread_id:

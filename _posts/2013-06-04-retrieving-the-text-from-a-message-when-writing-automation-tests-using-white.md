@@ -3,7 +3,7 @@ id: 858
 title: Retrieving the text from a message when writing automation tests using White
 date: 2013-06-04T23:03:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=858
 permalink: /2013/06/retrieving-the-text-from-a-message-when-writing-automation-tests-using-white/
 dsq_thread_id:

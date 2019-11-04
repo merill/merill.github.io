@@ -3,7 +3,7 @@ id: 94
 title: Publishing your SQL Server 2005 database?
 date: 2006-11-03T11:16:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/11/Publishing-your-SQL-Server-2005-database.aspx
 permalink: /2006/11/publishing-your-sql-server-2005-database/
 dsq_thread_id:

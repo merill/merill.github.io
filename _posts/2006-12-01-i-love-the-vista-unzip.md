@@ -3,7 +3,7 @@ id: 84
 title: I love the Vista unzip
 date: 2006-12-01T20:11:05+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/12/I-love-the-Vista-unzip.aspx
 permalink: /2006/12/i-love-the-vista-unzip/
 categories:

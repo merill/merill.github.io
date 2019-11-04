@@ -3,7 +3,7 @@ id: 216
 title: Private universities and Sri Lankan bloggers
 date: 2005-03-30T13:00:09+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/03/Private-universities-and-Sri-Lankan-bloggers.aspx
 permalink: /2005/03/private-universities-and-sri-lankan-bloggers/
 dsq_thread_id:

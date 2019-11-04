@@ -3,7 +3,7 @@ id: 313
 title: Microsoft Delays Yukon and Whidbey until 2005
 date: 2004-03-12T04:32:08+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/Microsoft-Delays-Yukon-and-Whidbey-until-2005.aspx
 permalink: /2004/03/microsoft-delays-yukon-and-whidbey-until-2005/
 dsq_thread_id:

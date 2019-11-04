@@ -3,7 +3,7 @@ id: 48
 title: The two Scotts
 date: 2007-06-05T13:55:50+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/06/The-two-Scotts.aspx
 permalink: /2007/06/the-two-scotts/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 487
 title: The Business of Software
 date: 2003-10-29T14:06:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/The-Business-of-Software.aspx
 permalink: /2003/10/the-business-of-software/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 121
 title: Get your copy of Vista RC1 today
 date: 2006-09-15T12:03:05+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/09/Get-your-copy-of-Vista-RC1-today.aspx
 permalink: /2006/09/get-your-copy-of-vista-rc1-today/
 dsq_thread_id:

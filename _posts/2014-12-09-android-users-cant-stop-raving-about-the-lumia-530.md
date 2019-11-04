@@ -3,7 +3,7 @@ id: 973
 title: 'Android users can&#8217;t stop raving about the Lumia 530'
 date: 2014-12-09T06:52:07+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=973
 permalink: /2014/12/android-users-cant-stop-raving-about-the-lumia-530/
 snap_isAutoPosted:

@@ -3,7 +3,7 @@ id: 237
 title: Windows Beats Linux in Live Security Contest
 date: 2005-02-19T10:30:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Windows-Beats-Linux-in-Live-Security-Contest.aspx
 permalink: /2005/02/windows-beats-linux-in-live-security-contest/
 dsq_thread_id:

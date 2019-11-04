@@ -3,7 +3,7 @@ id: 403
 title: TheServerSide.Net
 date: 2004-01-14T13:29:10+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/TheServerSideNet.aspx
 permalink: /2004/01/theserversidenet/
 categories:

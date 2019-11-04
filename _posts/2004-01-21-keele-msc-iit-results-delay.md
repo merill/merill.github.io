@@ -3,7 +3,7 @@ id: 396
 title: 'Keele MSc @ IIT &#8211; Results Delay'
 date: 2004-01-21T14:11:20+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Keele-MSc--IIT---Results-Delay.aspx
 permalink: /2004/01/keele-msc-iit-results-delay/
 dsq_thread_id:

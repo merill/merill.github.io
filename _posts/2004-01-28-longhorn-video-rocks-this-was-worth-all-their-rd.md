@@ -3,7 +3,7 @@ id: 372
 title: 'LongHorn Video rocks &#8211; this was worth all their R&#038;D'
 date: 2004-01-28T23:32:43+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/LongHorn-Video-rocks---this-was-worth-all-their-RD-.aspx
 permalink: /2004/01/longhorn-video-rocks-this-was-worth-all-their-rd/
 categories:

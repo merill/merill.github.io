@@ -3,7 +3,7 @@ id: 369
 title: ASP.NET Applications without Web Projects
 date: 2004-01-30T12:15:38+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/ASPNET-Applications-without-Web-Projects.aspx
 permalink: /2004/01/aspnet-applications-without-web-projects/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 117
 title: What are you waiting for? Get your own domain today!
 date: 2006-09-26T01:10:14+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/09/What-are-you-waiting-for-Get-your-own-domain-today!.aspx
 permalink: /2006/09/what-are-you-waiting-for-get-your-own-domain-today/
 dsq_thread_id:

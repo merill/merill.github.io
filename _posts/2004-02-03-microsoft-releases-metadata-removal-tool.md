@@ -3,7 +3,7 @@ id: 361
 title: Microsoft releases metadata removal tool
 date: 2004-02-03T17:08:45+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Microsoft-releases-metadata-removal-tool.aspx
 permalink: /2004/02/microsoft-releases-metadata-removal-tool/
 dsq_thread_id:

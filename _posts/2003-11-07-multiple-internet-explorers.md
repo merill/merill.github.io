@@ -3,7 +3,7 @@ id: 479
 title: Multiple Internet Explorers
 date: 2003-11-07T13:38:54+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Multiple-Internet-Explorers.aspx
 permalink: /2003/11/multiple-internet-explorers/
 categories:

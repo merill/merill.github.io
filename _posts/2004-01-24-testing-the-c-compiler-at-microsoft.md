@@ -3,7 +3,7 @@ id: 390
 title: 'Testing The C# Compiler at Microsoft'
 date: 2004-01-24T21:44:13+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Testing-The-C-Compiler-at-Microsoft.aspx
 permalink: /2004/01/testing-the-c-compiler-at-microsoft/
 dsq_thread_id:

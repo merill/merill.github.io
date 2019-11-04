@@ -3,7 +3,7 @@ id: 266
 title: Photo Gallery
 date: 2005-01-20T03:56:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/Photo-Gallery.aspx
 permalink: /2005/01/photo-gallery/
 dsq_thread_id:

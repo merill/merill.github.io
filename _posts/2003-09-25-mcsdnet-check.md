@@ -3,7 +3,7 @@ id: 507
 title: 'MCSD.NET &#8211; Check!'
 date: 2003-09-25T22:26:42+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/09/MCSDNET---Check!.aspx
 permalink: /2003/09/mcsdnet-check/
 dsq_thread_id:

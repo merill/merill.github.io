@@ -3,7 +3,7 @@ id: 139
 title: So what’s the first timezone PITA for you?
 date: 2006-04-17T20:06:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/04/So-whate28099s-the-first-timezone-PITA-for-you.aspx
 permalink: '/2006/04/so-what%e2%80%99s-the-first-timezone-pita-for-you/'
 dsq_thread_id:

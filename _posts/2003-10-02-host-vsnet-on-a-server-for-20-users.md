@@ -3,7 +3,7 @@ id: 505
 title: Host VS.NET on a Server for 20 Users
 date: 2003-10-02T12:19:34+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/Host-VSNET-on-a-Server-for-20-Users.aspx
 permalink: /2003/10/host-vsnet-on-a-server-for-20-users/
 dsq_thread_id:

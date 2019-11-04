@@ -3,7 +3,7 @@ id: 8
 title: Could it be true? Is Live Search (Kumo) really getting better than the great Goog?
 date: 2008-12-03T10:21:06+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/12/Could-it-be-true-Is-Live-Search-(Kumo)-really-getting-better-than-the-great-Goog.aspx
 permalink: /2008/12/could-it-be-true-is-live-search-kumo-really-getting-better-than-the-great-goog/
 dsq_thread_id:

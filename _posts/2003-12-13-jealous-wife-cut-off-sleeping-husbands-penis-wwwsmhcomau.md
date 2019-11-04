@@ -3,7 +3,7 @@ id: 451
 title: 'Jealous wife &#8216;cut off sleeping husband&#8217;s penis&#8217; &#8211; www.smh.com.au'
 date: 2003-12-13T13:06:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Jealous-wife-cut-off-sleeping-husbands-penis---wwwsmhcomau.aspx
 permalink: /2003/12/jealous-wife-cut-off-sleeping-husbands-penis-wwwsmhcomau/
 dsq_thread_id:

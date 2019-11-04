@@ -3,7 +3,7 @@ id: 59
 title: Backup your data for free
 date: 2007-03-29T13:19:34+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/03/Backup-your-data-for-free.aspx
 permalink: /2007/03/backup-your-data-for-free/
 dsq_thread_id:

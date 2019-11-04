@@ -3,7 +3,7 @@ id: 332
 title: zone24x7 vacancies
 date: 2004-02-23T20:06:34+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/zone24x7-vacancies.aspx
 permalink: /2004/02/zone24x7-vacancies/
 dsq_thread_id:

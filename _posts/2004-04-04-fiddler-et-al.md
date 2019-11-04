@@ -3,7 +3,7 @@ id: 295
 title: Fiddler, et al
 date: 2004-04-04T08:35:14+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/04/Fiddler2c-et-al.aspx
 permalink: /2004/04/fiddler-et-al/
 categories:

@@ -3,7 +3,7 @@ id: 508
 title: The Power of the Human Mind
 date: 2003-09-16T20:47:09+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/09/The-Power-of-the-Human-Mind.aspx
 permalink: /2003/09/the-power-of-the-human-mind/
 dsq_thread_id:

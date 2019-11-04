@@ -3,7 +3,7 @@ id: 50
 title: Debugging SQL Server 2005 Stored Procedures in Visual Studio
 date: 2007-05-23T12:36:40+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/05/Debugging-SQL-Server-2005-Stored-Procedures-in-Visual-Studio.aspx
 permalink: /2007/05/debugging-sql-server-2005-stored-procedures-in-visual-studio/
 dsq_thread_id:

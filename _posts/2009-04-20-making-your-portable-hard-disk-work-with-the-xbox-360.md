@@ -3,7 +3,7 @@ id: 576
 title: Making your portable hard disk work with the XBox 360
 date: 2009-04-20T10:12:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/04/making-your-portable-hard-disk-work-with-the-xbox-360/
 permalink: /2009/04/making-your-portable-hard-disk-work-with-the-xbox-360/
 dsq_thread_id:

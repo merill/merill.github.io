@@ -3,7 +3,7 @@ id: 349
 title: PC drives will reach 600GB by 2007, industry says
 date: 2004-02-11T15:33:38+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/PC-drives-will-reach-600GB-by-20072c-industry-says.aspx
 permalink: /2004/02/pc-drives-will-reach-600gb-by-2007-industry-says/
 categories:

@@ -3,7 +3,7 @@ id: 527
 title: MCP, MCAD, MCSE, MCSD Numbers Worldwide
 date: 2003-07-30T13:35:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/MCP2c-MCAD2c-MCSE2c-MCSD-Numbers-Worldwide.aspx
 permalink: /2003/07/mcp-mcad-mcse-mcsd-numbers-worldwide/
 dsq_thread_id:

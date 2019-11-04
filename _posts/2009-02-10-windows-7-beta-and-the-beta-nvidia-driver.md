@@ -3,7 +3,7 @@ id: 565
 title: Windows 7 beta and the beta nVidia Driver
 date: 2009-02-10T07:59:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/02/windows-7-beta-and-the-beta-nvidia-driver/
 permalink: /2009/02/windows-7-beta-and-the-beta-nvidia-driver/
 dsq_thread_id:

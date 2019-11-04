@@ -3,7 +3,7 @@ id: 495
 title: 'Why I F***ing Hate WebLogs'
 date: 2003-10-15T22:06:20+00:00
 author: Merill Fernando
-layout: post
+
 guid: '/post/2003/10/Why-I-F***ing-Hate-WebLogs.aspx'
 permalink: /2003/10/why-i-fing-hate-weblogs/
 dsq_thread_id:

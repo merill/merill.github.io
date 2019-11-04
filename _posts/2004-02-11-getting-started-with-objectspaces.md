@@ -3,7 +3,7 @@ id: 350
 title: Getting Started with ObjectSpaces
 date: 2004-02-11T15:14:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Getting-Started-with-ObjectSpaces.aspx
 permalink: /2004/02/getting-started-with-objectspaces/
 categories:

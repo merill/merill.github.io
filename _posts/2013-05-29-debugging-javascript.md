@@ -3,7 +3,7 @@ id: 808
 title: Debugging Javascript
 date: 2013-05-29T08:33:01+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=808
 permalink: /2013/05/debugging-javascript/
 dsq_thread_id:

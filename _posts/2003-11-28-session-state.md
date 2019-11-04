@@ -3,7 +3,7 @@ id: 465
 title: Session State
 date: 2003-11-28T12:49:13+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Session-State.aspx
 permalink: /2003/11/session-state/
 dsq_thread_id:

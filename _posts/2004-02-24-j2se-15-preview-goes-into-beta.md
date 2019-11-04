@@ -3,7 +3,7 @@ id: 330
 title: J2SE 1.5 Preview Goes Into Beta
 date: 2004-02-24T12:11:20+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/J2SE-15-Preview-Goes-Into-Beta.aspx
 permalink: /2004/02/j2se-15-preview-goes-into-beta/
 dsq_thread_id:

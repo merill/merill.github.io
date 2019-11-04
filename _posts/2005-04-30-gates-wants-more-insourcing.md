@@ -3,7 +3,7 @@ id: 200
 title: Gates wants more insourcing
 date: 2005-04-30T16:33:01+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/04/Gates-wants-more-insourcing.aspx
 permalink: /2005/04/gates-wants-more-insourcing/
 categories:

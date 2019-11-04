@@ -3,7 +3,7 @@ id: 737
 title: Configure the Belkin Play Max router for SLT ADSL Broadband
 date: 2011-09-16T21:57:54+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=737
 permalink: /2011/09/configure-the-belkin-play-max-router-for-slt-adsl-broadband/
 dsq_thread_id:

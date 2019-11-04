@@ -3,7 +3,7 @@ id: 337
 title: A Quick Look At the Win2K Stolen Source
 date: 2004-02-20T13:19:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/A-Quick-Look-At-the-Win2K-Stolen-Source.aspx
 permalink: /2004/02/a-quick-look-at-the-win2k-stolen-source/
 dsq_thread_id:

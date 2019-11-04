@@ -3,7 +3,7 @@ id: 641
 title: .NET 4 Free Beta Exam Vouchers
 date: 2010-03-24T09:18:54+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2010/03/net-4-free-beta-exam-vouchers/
 permalink: /2010/03/net-4-free-beta-exam-vouchers/
 dsq_thread_id:

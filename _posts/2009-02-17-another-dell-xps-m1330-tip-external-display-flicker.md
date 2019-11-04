@@ -3,7 +3,7 @@ id: 568
 title: 'Another Dell XPS M1330 tip: External Display Flicker'
 date: 2009-02-17T06:57:26+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/02/another-dell-xps-m1330-tip-external-display-flicker/
 permalink: /2009/02/another-dell-xps-m1330-tip-external-display-flicker/
 dsq_thread_id:

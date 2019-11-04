@@ -3,7 +3,7 @@ id: 427
 title: 'Adobe Acrobat &#8211; Fast Web View'
 date: 2004-01-06T14:18:55+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Adobe-Acrobat---Fast-Web-View.aspx
 permalink: /2004/01/adobe-acrobat-fast-web-view/
 dsq_thread_id:

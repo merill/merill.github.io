@@ -3,7 +3,7 @@ id: 327
 title: It’s the whining Aussies now
 date: 2004-02-24T19:23:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Ite28099s-the-whining-Aussies-now.aspx
 permalink: '/2004/02/it%e2%80%99s-the-whining-aussies-now/'
 categories:

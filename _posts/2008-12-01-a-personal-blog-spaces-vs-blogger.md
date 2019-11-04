@@ -3,7 +3,7 @@ id: 9
 title: 'A Personal Blog: Spaces vs Blogger'
 date: 2008-12-01T15:42:46+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/12/A-Personal-Blog-Spaces-vs-Blogger.aspx
 permalink: /2008/12/a-personal-blog-spaces-vs-blogger/
 dsq_thread_id:

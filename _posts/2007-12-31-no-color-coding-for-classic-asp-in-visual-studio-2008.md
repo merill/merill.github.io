@@ -3,7 +3,7 @@ id: 37
 title: No color coding for Classic ASP in Visual Studio 2008
 date: 2007-12-31T18:35:11+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/12/No-color-coding-for-Classic-ASP-in-Visual-Studio-2008.aspx
 permalink: /2007/12/no-color-coding-for-classic-asp-in-visual-studio-2008/
 dsq_thread_id:

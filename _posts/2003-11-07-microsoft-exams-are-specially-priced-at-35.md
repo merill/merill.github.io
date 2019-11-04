@@ -3,7 +3,7 @@ id: 475
 title: Microsoft exams are specially priced at $35
 date: 2003-11-07T23:02:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Microsoft-exams-are-specially-priced-at-2435.aspx
 permalink: /2003/11/microsoft-exams-are-specially-priced-at-35/
 categories:

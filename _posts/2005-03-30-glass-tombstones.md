@@ -3,7 +3,7 @@ id: 217
 title: Glass tombstones
 date: 2005-03-30T12:38:31+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/03/Glass-tombstones.aspx
 permalink: /2005/03/glass-tombstones/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 328
 title: A fine gesture that will strengthen the game
 date: 2004-02-24T14:32:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/A-fine-gesture-that-will-strengthen-the-game.aspx
 permalink: /2004/02/a-fine-gesture-that-will-strengthen-the-game/
 dsq_thread_id:

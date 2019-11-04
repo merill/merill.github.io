@@ -3,7 +3,7 @@ id: 306
 title: Google before asking questions
 date: 2004-03-21T02:13:10+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/Google-before-asking-questions.aspx
 permalink: /2004/03/google-before-asking-questions/
 dsq_thread_id:

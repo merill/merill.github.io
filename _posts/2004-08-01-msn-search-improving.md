@@ -3,7 +3,7 @@ id: 291
 title: MSN Search Improving
 date: 2004-08-01T13:09:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/08/MSN-Search-Improving.aspx
 permalink: /2004/08/msn-search-improving/
 categories:

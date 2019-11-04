@@ -3,7 +3,7 @@ id: 74
 title: Free Download Manager
 date: 2007-01-26T12:02:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/01/Free-Download-Manager.aspx
 permalink: /2007/01/free-download-manager/
 dsq_thread_id:

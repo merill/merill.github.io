@@ -3,7 +3,7 @@ id: 406
 title: Flaw threatens VoIP networks
 date: 2004-01-14T12:29:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Flaw-threatens-VoIP-networks.aspx
 permalink: /2004/01/flaw-threatens-voip-networks/
 categories:

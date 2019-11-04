@@ -3,7 +3,7 @@ id: 193
 title: 'Trixie &#8211; Greasemonkey for Internet Explorer'
 date: 2005-06-01T15:08:03+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/06/Trixie---Greasemonkey-for-Internet-Explorer.aspx
 permalink: /2005/06/trixie-greasemonkey-for-internet-explorer/
 dsq_thread_id:

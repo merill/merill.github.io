@@ -3,7 +3,7 @@ id: 301
 title: Israel unveils tiny drones
 date: 2004-03-27T11:20:34+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/Israel-unveils-tiny-drones.aspx
 permalink: /2004/03/israel-unveils-tiny-drones/
 dsq_thread_id:

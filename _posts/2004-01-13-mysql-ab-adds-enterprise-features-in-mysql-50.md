@@ -3,7 +3,7 @@ id: 409
 title: MySQL AB Adds Enterprise Features in MySQL 5.0
 date: 2004-01-13T21:02:33+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/MySQL-AB-Adds-Enterprise-Features-in-MySQL-50.aspx
 permalink: /2004/01/mysql-ab-adds-enterprise-features-in-mysql-50/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 303
 title: Victim Of Peace
 date: 2004-03-26T00:48:32+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/Victim-Of-Peace.aspx
 permalink: /2004/03/victim-of-peace/
 dsq_thread_id:

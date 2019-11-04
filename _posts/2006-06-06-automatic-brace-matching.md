@@ -3,7 +3,7 @@ id: 129
 title: Automatic Brace Matching
 date: 2006-06-06T12:55:05+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/06/Automatic-Brace-Matching.aspx
 permalink: /2006/06/automatic-brace-matching/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 81
 title: www.joshuaf.net
 date: 2006-12-29T12:35:01+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/12/wwwjoshuafnet.aspx
 permalink: /2006/12/wwwjoshuafnet/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 358
 title: Open Source Testing
 date: 2004-02-08T00:13:57+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Open-Source-Testing.aspx
 permalink: /2004/02/open-source-testing/
 dsq_thread_id:

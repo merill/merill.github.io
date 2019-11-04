@@ -3,7 +3,7 @@ id: 356
 title: Microsoft to preview Whidbey toolset
 date: 2004-02-09T16:33:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Microsoft-to-preview-Whidbey-toolset.aspx
 permalink: /2004/02/microsoft-to-preview-whidbey-toolset/
 dsq_thread_id:

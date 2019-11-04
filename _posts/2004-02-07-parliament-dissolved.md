@@ -3,7 +3,7 @@ id: 359
 title: Parliament Dissolved?
 date: 2004-02-07T01:09:35+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Parliament-Dissolved.aspx
 permalink: /2004/02/parliament-dissolved/
 dsq_thread_id:

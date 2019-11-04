@@ -3,7 +3,7 @@ id: 363
 title: Guess what happened at the superbowl halftime show
 date: 2004-02-02T19:10:39+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Guess-what-happened-at-the-superbowl-halftime-show.aspx
 permalink: /2004/02/guess-what-happened-at-the-superbowl-halftime-show/
 categories:

@@ -3,7 +3,7 @@ id: 25
 title: 'Making use of the &#8216;??&#8217; operator in C#'
 date: 2008-02-18T04:40:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/02/Making-use-of-the--operator-in-C.aspx
 permalink: /2008/02/making-use-of-the-operator-in-c/
 dsq_thread_id:

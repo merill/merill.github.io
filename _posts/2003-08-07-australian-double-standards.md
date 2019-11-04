@@ -3,7 +3,7 @@ id: 524
 title: Australian Double Standards
 date: 2003-08-07T21:39:59+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/08/Australian-Double-Standards.aspx
 permalink: /2003/08/australian-double-standards/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 648
 title: 'Icons &amp; Illustrations for SharePoint Architecture Diagrams'
 date: 2010-03-26T12:05:47+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2010/03/icons-illustrations-for-sharepoint-architecture-diagrams/
 permalink: /2010/03/icons-illustrations-for-sharepoint-architecture-diagrams/
 dsq_thread_id:

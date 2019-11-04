@@ -3,7 +3,7 @@ id: 660
 title: SharePoint 2010 Service Manager
 date: 2010-04-29T22:43:38+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=660
 permalink: /2010/04/sharepoint-2010-service-manager/
 dsq_thread_id:

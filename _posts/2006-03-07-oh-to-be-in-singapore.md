@@ -3,7 +3,7 @@ id: 151
 title: Oh to be in Singapore
 date: 2006-03-07T19:56:45+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/03/Oh-to-be-in-Singapore.aspx
 permalink: /2006/03/oh-to-be-in-singapore/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 990
 title: 'Windows 10&#8217;s snap to edge feature is really useful in a multi monitor setup'
 date: 2014-12-11T12:23:14+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=990
 permalink: /2014/12/windows-10s-snap-to-edge-feature-is-really-useful-in-a-multi-monitor-setup/
 snap_isAutoPosted:

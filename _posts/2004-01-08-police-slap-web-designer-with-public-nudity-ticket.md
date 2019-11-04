@@ -3,7 +3,7 @@ id: 423
 title: Police slap Web designer with public nudity ticket
 date: 2004-01-08T13:08:05+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Police-slap-Web-designer-with-public-nudity-ticket.aspx
 permalink: /2004/01/police-slap-web-designer-with-public-nudity-ticket/
 categories:

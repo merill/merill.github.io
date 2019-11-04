@@ -3,7 +3,7 @@ id: 510
 title: Office 2003 Released
 date: 2003-09-16T11:52:11+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/09/Office-2003-Released.aspx
 permalink: /2003/09/office-2003-released/
 categories:

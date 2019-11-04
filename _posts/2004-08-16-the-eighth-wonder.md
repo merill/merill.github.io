@@ -3,7 +3,7 @@ id: 283
 title: The eighth wonder!
 date: 2004-08-16T14:19:16+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/08/The-eighth-wonder!.aspx
 permalink: /2004/08/the-eighth-wonder/
 dsq_thread_id:

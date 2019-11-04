@@ -3,7 +3,7 @@ id: 578
 title: Changing the default schema in Oracle
 date: 2009-04-28T13:14:01+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/04/changing-the-default-schema-in-oracle/
 permalink: /2009/04/changing-the-default-schema-in-oracle/
 dsq_thread_id:

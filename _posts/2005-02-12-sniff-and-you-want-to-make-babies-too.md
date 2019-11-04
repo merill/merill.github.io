@@ -3,7 +3,7 @@ id: 249
 title: Sniff, and you want to make babies too
 date: 2005-02-12T07:29:51+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Sniff2c-and-you-want-to-make-babies-too.aspx
 permalink: /2005/02/sniff-and-you-want-to-make-babies-too/
 categories:

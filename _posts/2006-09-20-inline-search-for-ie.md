@@ -3,7 +3,7 @@ id: 120
 title: Inline Search for IE
 date: 2006-09-20T13:47:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/09/Inline-Search-for-IE.aspx
 permalink: /2006/09/inline-search-for-ie/
 dsq_thread_id:

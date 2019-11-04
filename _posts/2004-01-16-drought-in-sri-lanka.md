@@ -3,7 +3,7 @@ id: 401
 title: Drought in Sri Lanka
 date: 2004-01-16T11:37:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Drought-in-Sri-Lanka.aspx
 permalink: /2004/01/drought-in-sri-lanka/
 categories:

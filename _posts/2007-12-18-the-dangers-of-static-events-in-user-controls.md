@@ -3,7 +3,7 @@ id: 39
 title: The Dangers of Static Events In User Controls
 date: 2007-12-18T14:18:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/12/The-Dangers-of-Static-Events-In-User-Controls.aspx
 permalink: /2007/12/the-dangers-of-static-events-in-user-controls/
 dsq_thread_id:

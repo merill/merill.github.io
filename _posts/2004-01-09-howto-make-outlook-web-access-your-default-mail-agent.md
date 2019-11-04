@@ -3,7 +3,7 @@ id: 412
 title: 'HOWTO: Make Outlook Web Access Your Default Mail Agent'
 date: 2004-01-09T12:07:19+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/HOWTO-Make-Outlook-Web-Access-Your-Default-Mail-Agent.aspx
 permalink: /2004/01/howto-make-outlook-web-access-your-default-mail-agent/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 29
 title: Efficiently Delete / Purge All Items from a SharePoint List
 date: 2008-02-04T14:01:44+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/02/Efficiently-Delete--Purge-All-Items-from-a-SharePoint-List.aspx
 permalink: /2008/02/efficiently-delete-purge-all-items-from-a-sharepoint-list/
 dsq_thread_id:

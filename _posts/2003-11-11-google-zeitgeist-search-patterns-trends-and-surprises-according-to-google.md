@@ -3,7 +3,7 @@ id: 472
 title: 'Google Zeitgeist &#8211; Search patterns, trends, and surprises according to Google'
 date: 2003-11-11T21:55:54+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Google-Zeitgeist---Search-patterns2c-trends2c-and-surprises-according-to-Google.aspx
 permalink: /2003/11/google-zeitgeist-search-patterns-trends-and-surprises-according-to-google/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 318
 title: 'Microsoft Exams 30% Discount'
 date: 2004-03-01T20:54:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/Microsoft-Exams-3025-Discount.aspx
 permalink: /2004/03/microsoft-exams-30-discount/
 dsq_thread_id:

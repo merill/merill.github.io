@@ -3,7 +3,7 @@ id: 331
 title: Microsoft Places Bet On Whitehorse
 date: 2004-02-24T11:55:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Microsoft-Places-Bet-On-Whitehorse.aspx
 permalink: /2004/02/microsoft-places-bet-on-whitehorse/
 categories:

@@ -3,7 +3,7 @@ id: 526
 title: Tracking Accounts using Microsoft Money
 date: 2003-07-31T18:52:33+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Tracking-Accounts-using-Microsoft-Money.aspx
 permalink: /2003/07/tracking-accounts-using-microsoft-money/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 274
 title: Who is Scott?
 date: 2005-01-07T15:01:37+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/Who-is-Scott.aspx
 permalink: /2005/01/who-is-scott/
 dsq_thread_id:

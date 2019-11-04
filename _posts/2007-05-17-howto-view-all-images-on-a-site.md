@@ -3,7 +3,7 @@ id: 52
 title: 'HOWTO: View all images on a site'
 date: 2007-05-17T12:09:10+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/05/HOWTO-View-all-images-on-a-site.aspx
 permalink: /2007/05/howto-view-all-images-on-a-site/
 dsq_thread_id:

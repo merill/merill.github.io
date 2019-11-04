@@ -3,7 +3,7 @@ id: 499
 title: Academic Resource Kit for .NET
 date: 2003-10-08T23:42:51+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/Academic-Resource-Kit-for-NET.aspx
 permalink: /2003/10/academic-resource-kit-for-net/
 dsq_thread_id:

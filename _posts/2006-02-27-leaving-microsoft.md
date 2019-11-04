@@ -3,7 +3,7 @@ id: 155
 title: Leaving Microsoft
 date: 2006-02-27T12:42:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/02/Leaving-Microsoft.aspx
 permalink: /2006/02/leaving-microsoft/
 dsq_thread_id:

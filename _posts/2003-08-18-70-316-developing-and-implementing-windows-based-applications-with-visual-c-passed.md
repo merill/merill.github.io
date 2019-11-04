@@ -3,7 +3,7 @@ id: 519
 title: '70-316 Developing and Implementing  Windows-based Applications with Visual C# &#8211; Passed'
 date: 2003-08-18T23:15:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/08/70-316-Developing-and-Implementing--Windows-based-Applications-with-Visual-C---Passed.aspx
 permalink: /2003/08/70-316-developing-and-implementing-windows-based-applications-with-visual-c-passed/
 categories:

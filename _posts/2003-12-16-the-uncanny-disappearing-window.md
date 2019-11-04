@@ -3,7 +3,7 @@ id: 447
 title: The Uncanny Disappearing Window
 date: 2003-12-16T12:41:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/The-Uncanny-Disappearing-Window.aspx
 permalink: /2003/12/the-uncanny-disappearing-window/
 dsq_thread_id:

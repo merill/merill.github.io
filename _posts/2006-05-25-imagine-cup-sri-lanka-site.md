@@ -3,7 +3,7 @@ id: 135
 title: Imagine Cup Sri Lanka site
 date: 2006-05-25T16:06:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/05/Imagine-Cup-Sri-Lanka-site.aspx
 permalink: /2006/05/imagine-cup-sri-lanka-site/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 335
 title: Tour plea to Murali
 date: 2004-02-22T12:56:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Tour-plea-to-Murali.aspx
 permalink: /2004/02/tour-plea-to-murali/
 dsq_thread_id:

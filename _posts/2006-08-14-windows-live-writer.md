@@ -3,7 +3,7 @@ id: 125
 title: Windows Live Writer
 date: 2006-08-14T12:12:50+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/08/Windows-Live-Writer.aspx
 permalink: /2006/08/windows-live-writer/
 dsq_thread_id:

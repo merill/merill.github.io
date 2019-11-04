@@ -3,7 +3,7 @@ id: 24
 title: What are you blogging today?
 date: 2008-02-27T17:51:44+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/02/What-are-you-blogging-today.aspx
 permalink: /2008/02/what-are-you-blogging-today/
 dsq_thread_id:

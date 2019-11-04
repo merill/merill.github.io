@@ -3,7 +3,7 @@ id: 267
 title: Kavinda blogging
 date: 2005-01-20T03:44:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/Kavinda-blogging.aspx
 permalink: /2005/01/kavinda-blogging/
 categories:

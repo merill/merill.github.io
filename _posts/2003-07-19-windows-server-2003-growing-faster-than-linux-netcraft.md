@@ -3,7 +3,7 @@ id: 546
 title: 'Windows Server 2003 growing faster than Linux &#8211; Netcraft'
 date: 2003-07-19T20:57:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Windows-Server-2003-growing-faster-than-Linux---Netcraft.aspx
 permalink: /2003/07/windows-server-2003-growing-faster-than-linux-netcraft/
 categories:

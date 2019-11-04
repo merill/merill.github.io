@@ -3,7 +3,7 @@ id: 549
 title: SQL Server (Yukon)
 date: 2003-07-19T16:49:09+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/SQL-Server-(Yukon).aspx
 permalink: /2003/07/sql-server-yukon/
 categories:

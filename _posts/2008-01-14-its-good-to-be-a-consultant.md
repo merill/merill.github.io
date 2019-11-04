@@ -3,7 +3,7 @@ id: 34
 title: 'It&#8217;s good to be a consultant'
 date: 2008-01-14T08:35:33+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/01/Its-good-to-be-a-consultant.aspx
 permalink: /2008/01/its-good-to-be-a-consultant/
 dsq_thread_id:

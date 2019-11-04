@@ -3,7 +3,7 @@ id: 520
 title: Mio8380 SmartPhone
 date: 2003-08-13T15:22:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/08/Mio8380-SmartPhone.aspx
 permalink: /2003/08/mio8380-smartphone/
 dsq_thread_id:

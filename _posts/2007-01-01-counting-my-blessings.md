@@ -3,7 +3,7 @@ id: 79
 title: Counting my blessings
 date: 2007-01-01T13:37:59+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/01/Counting-my-blessings.aspx
 permalink: /2007/01/counting-my-blessings/
 categories:

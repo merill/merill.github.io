@@ -3,7 +3,7 @@ id: 179
 title: 'Ajax &#8211; July User Group Meeting'
 date: 2005-07-07T11:31:31+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/07/Ajax---July-User-Group-Meeting.aspx
 permalink: /2005/07/ajax-july-user-group-meeting/
 dsq_thread_id:

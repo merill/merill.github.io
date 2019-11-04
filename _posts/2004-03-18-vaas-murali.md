@@ -3,7 +3,7 @@ id: 310
 title: 'Vaas &#038; Murali'
 date: 2004-03-18T03:21:28+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/Vaas--Murali.aspx
 permalink: /2004/03/vaas-murali/
 categories:

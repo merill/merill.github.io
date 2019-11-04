@@ -3,7 +3,7 @@ id: 439
 title: A Sri Lankan Portal owned by you and me?
 date: 2003-12-30T01:06:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/A-Sri-Lankan-Portal-owned-by-you-and-me.aspx
 permalink: /2003/12/a-sri-lankan-portal-owned-by-you-and-me/
 dsq_thread_id:

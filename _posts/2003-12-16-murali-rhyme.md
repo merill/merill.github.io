@@ -3,7 +3,7 @@ id: 446
 title: Murali Rhyme
 date: 2003-12-16T21:49:57+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Murali-Rhyme.aspx
 permalink: /2003/12/murali-rhyme/
 dsq_thread_id:

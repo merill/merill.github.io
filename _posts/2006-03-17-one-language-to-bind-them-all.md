@@ -3,7 +3,7 @@ id: 148
 title: One Language to Bind Them All
 date: 2006-03-17T18:50:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/03/One-Language-to-Bind-Them-All.aspx
 permalink: /2006/03/one-language-to-bind-them-all/
 categories:

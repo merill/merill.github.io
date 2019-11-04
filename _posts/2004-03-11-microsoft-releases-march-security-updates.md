@@ -3,7 +3,7 @@ id: 314
 title: Microsoft Releases March Security Updates
 date: 2004-03-11T07:08:19+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/Microsoft-Releases-March-Security-Updates.aspx
 permalink: /2004/03/microsoft-releases-march-security-updates/
 dsq_thread_id:

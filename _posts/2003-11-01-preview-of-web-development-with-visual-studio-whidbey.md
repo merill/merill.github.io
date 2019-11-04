@@ -3,7 +3,7 @@ id: 484
 title: Preview of Web Development with Visual Studio Whidbey
 date: 2003-11-01T15:23:10+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Preview-of-Web-Development-with-Visual-Studio-Whidbey.aspx
 permalink: /2003/11/preview-of-web-development-with-visual-studio-whidbey/
 categories:

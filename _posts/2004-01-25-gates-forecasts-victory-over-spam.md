@@ -3,7 +3,7 @@ id: 380
 title: Gates forecasts victory over spam
 date: 2004-01-25T13:59:41+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Gates-forecasts-victory-over-spam.aspx
 permalink: /2004/01/gates-forecasts-victory-over-spam/
 categories:

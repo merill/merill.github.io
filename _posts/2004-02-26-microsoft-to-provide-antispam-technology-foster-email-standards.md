@@ -3,7 +3,7 @@ id: 325
 title: Microsoft to Provide Antispam Technology, Foster Email Standards
 date: 2004-02-26T12:50:56+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Microsoft-to-Provide-Antispam-Technology2c-Foster-Email-Standards.aspx
 permalink: /2004/02/microsoft-to-provide-antispam-technology-foster-email-standards/
 categories:

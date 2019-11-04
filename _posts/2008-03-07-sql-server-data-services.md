@@ -3,7 +3,7 @@ id: 23
 title: SQL Server Data Services
 date: 2008-03-07T07:23:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/03/SQL-Server-Data-Services.aspx
 permalink: /2008/03/sql-server-data-services/
 dsq_thread_id:

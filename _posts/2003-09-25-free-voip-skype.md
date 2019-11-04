@@ -3,7 +3,7 @@ id: 506
 title: 'Free VOIP &#8211; Skype'
 date: 2003-09-25T22:29:37+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/09/Free-VOIP---Skype.aspx
 permalink: /2003/09/free-voip-skype/
 dsq_thread_id:

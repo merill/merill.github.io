@@ -3,7 +3,7 @@ id: 1074
 title: 'Blocking Microsoft Flow&#8217;s access to your Office 365 tenant'
 date: 2017-01-25T14:33:26+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=1074
 permalink: /2017/01/blocking-microsoft-flows-access-to-your-office-365-tenant/
 medium_post:

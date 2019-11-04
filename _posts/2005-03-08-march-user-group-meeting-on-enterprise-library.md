@@ -3,7 +3,7 @@ id: 226
 title: March User Group Meeting on Enterprise Library
 date: 2005-03-08T01:27:22+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/03/March-User-Group-Meeting-on-Enterprise-Library.aspx
 permalink: /2005/03/march-user-group-meeting-on-enterprise-library/
 dsq_thread_id:

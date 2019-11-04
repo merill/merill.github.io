@@ -3,7 +3,7 @@ id: 467
 title: Shake it off!
 date: 2003-11-18T14:50:06+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Shake-it-off!.aspx
 permalink: /2003/11/shake-it-off/
 dsq_thread_id:

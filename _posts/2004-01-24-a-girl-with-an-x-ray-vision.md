@@ -3,7 +3,7 @@ id: 384
 title: A Girl with an X-ray vision
 date: 2004-01-24T23:09:03+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/A-Girl-with-an-X-ray-vision.aspx
 permalink: /2004/01/a-girl-with-an-x-ray-vision/
 categories:

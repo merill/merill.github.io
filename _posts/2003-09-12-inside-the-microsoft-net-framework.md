@@ -3,7 +3,7 @@ id: 514
 title: Inside the Microsoft .NET Framework
 date: 2003-09-12T12:30:26+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/09/Inside-the-Microsoft-NET-Framework.aspx
 permalink: /2003/09/inside-the-microsoft-net-framework/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 230
 title: Back in Sri Lanka
 date: 2005-02-28T14:32:31+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Back-in-Sri-Lanka.aspx
 permalink: /2005/02/back-in-sri-lanka/
 dsq_thread_id:

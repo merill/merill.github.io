@@ -3,7 +3,7 @@ id: 536
 title: -gry Puzzle
 date: 2003-07-24T15:08:11+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/-gry-Puzzle.aspx
 permalink: /2003/07/gry-puzzle/
 dsq_thread_id:

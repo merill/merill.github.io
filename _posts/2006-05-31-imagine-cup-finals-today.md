@@ -3,7 +3,7 @@ id: 133
 title: 'Imagine Cup Finals &#8211; Today!'
 date: 2006-05-31T15:40:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/05/Imagine-Cup-Finals---Today!.aspx
 permalink: /2006/05/imagine-cup-finals-today/
 categories:

@@ -3,7 +3,7 @@ id: 119
 title: Blogging from home (finally!)
 date: 2006-09-21T22:37:34+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/09/Blogging-from-home-(finally!).aspx
 permalink: /2006/09/blogging-from-home-finally/
 dsq_thread_id:

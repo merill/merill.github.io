@@ -3,7 +3,7 @@ id: 176
 title: Job Openings at NuMatrix
 date: 2005-08-10T12:57:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/08/Job-Openings-at-NuMatrix.aspx
 permalink: /2005/08/job-openings-at-numatrix/
 dsq_thread_id:

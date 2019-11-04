@@ -3,7 +3,7 @@ id: 854
 title: Creating jUnit/xUnit compatible xml test tesults in PowerShell
 date: 2013-06-04T11:08:50+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=854
 permalink: /2013/06/creating-junitxunit-compatible-xml-test-tesults-in-powershell/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 438
 title: Horizon School
 date: 2003-12-30T01:09:28+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Horizon-School.aspx
 permalink: /2003/12/horizon-school/
 categories:

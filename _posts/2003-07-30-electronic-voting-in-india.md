@@ -3,7 +3,7 @@ id: 528
 title: Electronic Voting in India
 date: 2003-07-30T12:06:13+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Electronic-Voting-in-India.aspx
 permalink: /2003/07/electronic-voting-in-india/
 dsq_thread_id:

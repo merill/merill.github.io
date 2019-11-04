@@ -3,7 +3,7 @@ id: 477
 title: Sortable Table
 date: 2003-11-07T14:22:20+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Sortable-Table.aspx
 permalink: /2003/11/sortable-table/
 dsq_thread_id:

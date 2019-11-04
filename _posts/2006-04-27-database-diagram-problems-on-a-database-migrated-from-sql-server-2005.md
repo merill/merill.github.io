@@ -3,7 +3,7 @@ id: 138
 title: Database diagram problems on a database migrated from SQL Server 2005
 date: 2006-04-27T02:00:37+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/04/Database-diagram-problems-on-a-database-migrated-from-SQL-Server-2005.aspx
 permalink: /2006/04/database-diagram-problems-on-a-database-migrated-from-sql-server-2005/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 222
 title: Installing Visual Studio .NET on a Domain Controller
 date: 2005-03-14T20:23:22+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/03/Installing-Visual-Studio-NET-on-a-Domain-Controller.aspx
 permalink: /2005/03/installing-visual-studio-net-on-a-domain-controller/
 dsq_thread_id:

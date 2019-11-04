@@ -3,7 +3,7 @@ id: 92
 title: Gmail Mobile
 date: 2006-11-03T13:37:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/11/Gmail-Mobile.aspx
 permalink: /2006/11/gmail-mobile/
 dsq_thread_id:

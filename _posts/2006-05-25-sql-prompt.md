@@ -3,7 +3,7 @@ id: 136
 title: SQL Prompt
 date: 2006-05-25T15:52:30+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/05/SQL-Prompt.aspx
 permalink: /2006/05/sql-prompt/
 dsq_thread_id:

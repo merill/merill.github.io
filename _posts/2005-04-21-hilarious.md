@@ -3,7 +3,7 @@ id: 202
 title: Hilarious!
 date: 2005-04-21T15:27:45+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/04/Hilarious!.aspx
 permalink: /2005/04/hilarious/
 dsq_thread_id:

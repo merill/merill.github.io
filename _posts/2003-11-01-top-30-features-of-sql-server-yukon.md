@@ -3,7 +3,7 @@ id: 486
 title: 'Top 30 Features of SQL Server &#8220;Yukon&#8221;'
 date: 2003-11-01T00:05:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Top-30-Features-of-SQL-Server-Yukon.aspx
 permalink: /2003/11/top-30-features-of-sql-server-yukon/
 dsq_thread_id:

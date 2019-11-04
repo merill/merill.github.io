@@ -3,7 +3,7 @@ id: 523
 title: 70-315 Exam Preparation
 date: 2003-08-09T15:43:44+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/08/70-315-Exam-Preparation.aspx
 permalink: /2003/08/70-315-exam-preparation/
 dsq_thread_id:

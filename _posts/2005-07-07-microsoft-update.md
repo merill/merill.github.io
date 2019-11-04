@@ -3,7 +3,7 @@ id: 178
 title: Microsoft Update
 date: 2005-07-07T22:15:27+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/07/Microsoft-Update.aspx
 permalink: /2005/07/microsoft-update/
 dsq_thread_id:

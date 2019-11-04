@@ -3,7 +3,7 @@ id: 544
 title: Microsoft to the rescue?
 date: 2003-07-22T13:30:27+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Microsoft-to-the-rescue.aspx
 permalink: /2003/07/microsoft-to-the-rescue/
 dsq_thread_id:

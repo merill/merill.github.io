@@ -3,7 +3,7 @@ id: 378
 title: Simple tricks for more usable forms
 date: 2004-01-26T16:14:46+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Simple-tricks-for-more-usable-forms.aspx
 permalink: /2004/01/simple-tricks-for-more-usable-forms/
 dsq_thread_id:

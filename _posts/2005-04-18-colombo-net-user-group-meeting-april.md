@@ -3,7 +3,7 @@ id: 206
 title: 'Colombo .NET User Group Meeting &#8211; April'
 date: 2005-04-18T19:00:19+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/04/Colombo-NET-User-Group-Meeting---April.aspx
 permalink: /2005/04/colombo-net-user-group-meeting-april/
 dsq_thread_id:

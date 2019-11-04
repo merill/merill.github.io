@@ -3,7 +3,7 @@ id: 197
 title: BTA is hiring!
 date: 2005-05-04T20:09:29+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/05/BTA-is-hiring!.aspx
 permalink: /2005/05/bta-is-hiring/
 dsq_thread_id:

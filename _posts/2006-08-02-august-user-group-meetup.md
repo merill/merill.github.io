@@ -3,7 +3,7 @@ id: 127
 title: August User Group Meetup
 date: 2006-08-02T12:09:24+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/08/August-User-Group-Meetup.aspx
 permalink: /2006/08/august-user-group-meetup/
 categories:

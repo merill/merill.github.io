@@ -3,7 +3,7 @@ id: 432
 title: 'Jim Fawcette: &#8220;Why would anyone with excellent computer skills want to work&#8230;'
 date: 2004-01-06T12:21:55+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Jim-Fawcette-Why-would-anyone-with-excellent-computer-skills-want-to-work.aspx
 permalink: /2004/01/jim-fawcette-why-would-anyone-with-excellent-computer-skills-want-to-work/
 categories:

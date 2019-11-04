@@ -3,7 +3,7 @@ id: 533
 title: Americans love Dell, Microsoft (but Sony most of all)
 date: 2003-07-25T13:52:54+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Americans-love-Dell2c-Microsoft-(but-Sony-most-of-all).aspx
 permalink: /2003/07/americans-love-dell-microsoft-but-sony-most-of-all/
 categories:

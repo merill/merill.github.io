@@ -3,7 +3,7 @@ id: 496
 title: 'Bollywood &#8216;pen-pal&#8217; cheats US man'
 date: 2003-10-15T15:48:05+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/Bollywood-pen-pal-cheats-US-man.aspx
 permalink: /2003/10/bollywood-pen-pal-cheats-us-man/
 categories:

@@ -3,7 +3,7 @@ id: 171
 title: 'FOSS: Keynote'
 date: 2005-09-07T19:22:51+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/09/FOSS-Keynote.aspx
 permalink: /2005/09/foss-keynote/
 categories:

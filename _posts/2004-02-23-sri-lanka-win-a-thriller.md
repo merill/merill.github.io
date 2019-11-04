@@ -3,7 +3,7 @@ id: 334
 title: Sri Lanka Win a Thriller
 date: 2004-02-23T11:56:14+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Sri-Lanka-Win-a-Thriller.aspx
 permalink: /2004/02/sri-lanka-win-a-thriller/
 dsq_thread_id:

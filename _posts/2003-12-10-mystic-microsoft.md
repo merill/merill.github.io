@@ -3,7 +3,7 @@ id: 456
 title: Mystic Microsoft
 date: 2003-12-10T14:30:25+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Mystic-Microsoft.aspx
 permalink: /2003/12/mystic-microsoft/
 dsq_thread_id:

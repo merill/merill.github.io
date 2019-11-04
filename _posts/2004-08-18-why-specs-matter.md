@@ -3,7 +3,7 @@ id: 281
 title: Why specs matter
 date: 2004-08-18T14:33:01+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/08/Why-specs-matter.aspx
 permalink: /2004/08/why-specs-matter/
 dsq_thread_id:

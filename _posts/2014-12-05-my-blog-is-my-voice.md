@@ -3,7 +3,7 @@ id: 910
 title: My blog is my voice
 date: 2014-12-05T00:24:06+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=910
 permalink: /2014/12/my-blog-is-my-voice/
 dsq_thread_id:

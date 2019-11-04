@@ -3,7 +3,7 @@ id: 269
 title: My own fingerprint reader
 date: 2005-01-18T00:33:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/My-own-fingerprint-reader.aspx
 permalink: /2005/01/my-own-fingerprint-reader/
 dsq_thread_id:

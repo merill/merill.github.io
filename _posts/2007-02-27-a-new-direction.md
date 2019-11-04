@@ -3,7 +3,7 @@ id: 65
 title: A new direction?
 date: 2007-02-27T12:26:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/02/A-new-direction.aspx
 permalink: /2007/02/a-new-direction/
 dsq_thread_id:

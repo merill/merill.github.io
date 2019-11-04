@@ -3,7 +3,7 @@ id: 899
 title: God prefers kind athiests over hateful christians
 date: 2014-12-04T22:25:50+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=899
 permalink: /2014/12/god-prefers-kind-athiests-over-hateful-christians/
 dsq_thread_id:

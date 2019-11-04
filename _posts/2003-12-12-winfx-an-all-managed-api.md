@@ -3,7 +3,7 @@ id: 454
 title: 'WinFX: An All-Managed API'
 date: 2003-12-12T00:04:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/WinFX-An-All-Managed-API.aspx
 permalink: /2003/12/winfx-an-all-managed-api/
 dsq_thread_id:

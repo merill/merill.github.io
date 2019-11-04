@@ -3,7 +3,7 @@ id: 500
 title: Free Book on ASP.NET
 date: 2003-10-08T23:13:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/Free-Book-on-ASPNET.aspx
 permalink: /2003/10/free-book-on-aspnet/
 dsq_thread_id:

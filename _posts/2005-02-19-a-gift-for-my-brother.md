@@ -3,7 +3,7 @@ id: 233
 title: A gift for my brother
 date: 2005-02-19T11:17:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/A-gift-for-my-brother.aspx
 permalink: /2005/02/a-gift-for-my-brother/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 457
 title: Microsoft targets young geeks with blog service
 date: 2003-12-10T14:12:09+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Microsoft-targets-young-geeks-with-blog-service.aspx
 permalink: /2003/12/microsoft-targets-young-geeks-with-blog-service/
 categories:

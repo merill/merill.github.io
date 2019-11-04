@@ -3,7 +3,7 @@ id: 67
 title: TV Channels in Sri Lanka
 date: 2007-02-07T12:25:31+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/02/TV-Channels-in-Sri-Lanka.aspx
 permalink: /2007/02/tv-channels-in-sri-lanka/
 dsq_thread_id:

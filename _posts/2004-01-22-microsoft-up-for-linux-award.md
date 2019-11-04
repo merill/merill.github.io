@@ -3,7 +3,7 @@ id: 395
 title: Microsoft up for Linux award
 date: 2004-01-22T14:10:57+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Microsoft-up-for-Linux-award.aspx
 permalink: /2004/01/microsoft-up-for-linux-award/
 categories:

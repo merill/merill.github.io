@@ -3,7 +3,7 @@ id: 87
 title: Office 2007 UI Licensing
 date: 2006-11-23T12:35:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/11/Office-2007-UI-Licensing.aspx
 permalink: /2006/11/office-2007-ui-licensing/
 categories:

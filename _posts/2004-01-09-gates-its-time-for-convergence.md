@@ -3,7 +3,7 @@ id: 416
 title: 'Gates: It&#8217;s time for convergence'
 date: 2004-01-09T11:43:26+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Gates-Its-time-for-convergence.aspx
 permalink: /2004/01/gates-its-time-for-convergence/
 categories:

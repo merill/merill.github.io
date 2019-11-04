@@ -3,7 +3,7 @@ id: 453
 title: Javascript Trick
 date: 2003-12-12T01:00:19+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/Javascript-Trick.aspx
 permalink: /2003/12/javascript-trick/
 dsq_thread_id:

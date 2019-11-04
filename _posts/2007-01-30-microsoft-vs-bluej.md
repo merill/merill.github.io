@@ -3,7 +3,7 @@ id: 71
 title: Microsoft vs. BlueJ
 date: 2007-01-30T16:14:37+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/01/Microsoft-vs-BlueJ.aspx
 permalink: /2007/01/microsoft-vs-bluej/
 dsq_thread_id:

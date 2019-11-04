@@ -3,7 +3,7 @@ id: 421
 title: Minimize Outlook to notification area
 date: 2004-01-09T00:10:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Minimize-Outlook-to-notification-area.aspx
 permalink: /2004/01/minimize-outlook-to-notification-area/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 264
 title: Rebuilding Sri Lanka
 date: 2005-01-20T14:14:58+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/Rebuilding-Sri-Lanka.aspx
 permalink: /2005/01/rebuilding-sri-lanka/
 dsq_thread_id:

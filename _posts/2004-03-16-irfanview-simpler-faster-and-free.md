@@ -3,7 +3,7 @@ id: 311
 title: 'IrfanVIew &#8211; simpler, faster, and FREE'
 date: 2004-03-16T10:16:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/IrfanVIew---simpler2c-faster2c-and-FREE.aspx
 permalink: /2004/03/irfanview-simpler-faster-and-free/
 dsq_thread_id:

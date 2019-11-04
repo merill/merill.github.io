@@ -3,7 +3,7 @@ id: 124
 title: 'Review: eTickets.lk'
 date: 2006-08-22T12:02:11+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/08/Review-eTicketslk.aspx
 permalink: /2006/08/review-eticketslk/
 dsq_thread_id:

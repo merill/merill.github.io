@@ -3,7 +3,7 @@ id: 106
 title: Robot employees
 date: 2006-10-08T13:16:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/10/Robot-employees.aspx
 permalink: /2006/10/robot-employees/
 dsq_thread_id:

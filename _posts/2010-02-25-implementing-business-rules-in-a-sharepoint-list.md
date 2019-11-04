@@ -3,7 +3,7 @@ id: 627
 title: Implementing Business Rules in a SharePoint list
 date: 2010-02-25T07:57:28+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2010/02/implementing-business-rules-in-a-sharepoint-list/
 permalink: /2010/02/implementing-business-rules-in-a-sharepoint-list/
 dsq_thread_id:

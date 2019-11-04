@@ -3,7 +3,7 @@ id: 351
 title: 'ASP.NET 2.0: DataGrid Sample'
 date: 2004-02-11T14:22:35+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/ASPNET-20-DataGrid-Sample.aspx
 permalink: /2004/02/aspnet-20-datagrid-sample/
 dsq_thread_id:

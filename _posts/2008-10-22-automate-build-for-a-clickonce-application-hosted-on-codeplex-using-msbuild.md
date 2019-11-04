@@ -3,7 +3,7 @@ id: 10
 title: Automate Build for a ClickOnce Application Hosted on CodePlex using MSBuild
 date: 2008-10-22T08:51:20+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/10/Automate-Build-for-a-ClickOnce-Application-Hosted-on-CodePlex-using-MSBuild.aspx
 permalink: /2008/10/automate-build-for-a-clickonce-application-hosted-on-codeplex-using-msbuild/
 dsq_thread_id:

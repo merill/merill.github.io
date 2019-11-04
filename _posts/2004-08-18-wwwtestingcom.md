@@ -3,7 +3,7 @@ id: 280
 title: www.testing.com
 date: 2004-08-18T14:42:09+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/08/wwwtestingcom.aspx
 permalink: /2004/08/wwwtestingcom/
 dsq_thread_id:

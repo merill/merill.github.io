@@ -3,7 +3,7 @@ id: 347
 title: Intranet Open Source 2.7.2, Free
 date: 2004-02-12T12:46:52+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Intranet-Open-Source-2722c-Free.aspx
 permalink: /2004/02/intranet-open-source-272-free/
 dsq_thread_id:

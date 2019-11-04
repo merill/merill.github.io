@@ -3,7 +3,7 @@ id: 240
 title: MSDN Hard Drive Pilot
 date: 2005-02-18T08:53:28+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/MSDN-Hard-Drive-Pilot.aspx
 permalink: /2005/02/msdn-hard-drive-pilot/
 dsq_thread_id:

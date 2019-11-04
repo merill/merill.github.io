@@ -3,7 +3,7 @@ id: 246
 title: 'Writing is like prostitution&#8230;'
 date: 2005-02-13T10:06:16+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Writing-is-like-prostitution.aspx
 permalink: /2005/02/writing-is-like-prostitution/
 dsq_thread_id:

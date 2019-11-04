@@ -3,7 +3,7 @@ id: 93
 title: SQL query optimization
 date: 2006-11-03T12:29:11+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/11/SQL-query-optimization.aspx
 permalink: /2006/11/sql-query-optimization/
 dsq_thread_id:

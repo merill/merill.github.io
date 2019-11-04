@@ -3,7 +3,7 @@ id: 254
 title: Usability Engineering
 date: 2005-02-07T03:55:19+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Usability-Engineering.aspx
 permalink: /2005/02/usability-engineering/
 dsq_thread_id:

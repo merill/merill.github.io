@@ -3,7 +3,7 @@ id: 80
 title: TypeForwardedToAttributes
 date: 2006-12-30T14:55:44+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/12/TypeForwardedToAttributes.aspx
 permalink: /2006/12/typeforwardedtoattributes/
 dsq_thread_id:

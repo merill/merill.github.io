@@ -3,7 +3,7 @@ id: 443
 title: APICTA Awards
 date: 2003-12-20T00:39:57+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/12/APICTA-Awards.aspx
 permalink: /2003/12/apicta-awards/
 categories:

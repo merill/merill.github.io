@@ -3,7 +3,7 @@ id: 382
 title: Guerrilla gardening
 date: 2004-01-25T13:31:47+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Guerrilla-gardening.aspx
 permalink: /2004/01/guerrilla-gardening/
 categories:

@@ -3,7 +3,7 @@ id: 777
 title: Creating a BCS Content Source using PowerShell
 date: 2012-12-12T17:44:30+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=777
 permalink: /2012/12/creating-a-bcs-content-source-using-powershell/
 dsq_thread_id:

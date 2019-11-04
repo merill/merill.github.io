@@ -3,7 +3,7 @@ id: 462
 title: 'Do you have a 17&#8243; monitor?'
 date: 2003-11-28T13:34:19+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Do-you-have-a-17-monitor.aspx
 permalink: /2003/11/do-you-have-a-17-monitor/
 categories:

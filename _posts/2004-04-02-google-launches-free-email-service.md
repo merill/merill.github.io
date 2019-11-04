@@ -3,7 +3,7 @@ id: 297
 title: Google launches free email service
 date: 2004-04-02T08:05:22+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/04/Google-launches-free-email-service.aspx
 permalink: /2004/04/google-launches-free-email-service/
 dsq_thread_id:

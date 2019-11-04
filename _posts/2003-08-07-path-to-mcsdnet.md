@@ -3,7 +3,7 @@ id: 525
 title: Path to MCSD.NET
 date: 2003-08-07T12:32:11+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/08/Path-to-MCSDNET.aspx
 permalink: /2003/08/path-to-mcsdnet/
 dsq_thread_id:

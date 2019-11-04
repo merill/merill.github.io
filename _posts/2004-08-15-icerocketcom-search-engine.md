@@ -3,7 +3,7 @@ id: 287
 title: IceRocket.com Search Engine
 date: 2004-08-15T22:58:41+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/08/IceRocketcom-Search-Engine.aspx
 permalink: /2004/08/icerocketcom-search-engine/
 dsq_thread_id:

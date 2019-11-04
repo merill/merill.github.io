@@ -3,7 +3,7 @@ id: 210
 title: Imagine Cup Judging
 date: 2005-04-12T02:25:46+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/04/Imagine-Cup-Judging.aspx
 permalink: /2005/04/imagine-cup-judging/
 dsq_thread_id:

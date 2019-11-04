@@ -3,7 +3,7 @@ id: 55
 title: Getting your Cricket score fix
 date: 2007-04-13T12:24:12+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/04/Getting-your-Cricket-score-fix.aspx
 permalink: /2007/04/getting-your-cricket-score-fix/
 dsq_thread_id:

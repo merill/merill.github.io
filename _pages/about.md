@@ -1,11 +1,10 @@
 ---
-layout: page
 title: About
 permalink: /about/
 ---
 
 Merill Fernando
-Ex Microsoft MVP + Senior Architect + DevOps Lead for Telstra's Office 365 and Azure Active Directory (100k+ user base)
+Ex Microsoft MVP + Senior Architect + DevOps Lead for [Telstra's](https://telstra.com.au) Office 365 and Azure Active Directory (100k+ user base)
 Melbourne, Australia
 
 ### More Information
@@ -16,8 +15,3 @@ Need to get in touch with me? Feel free to contact me on Twitter on LinkedIn. If
 
 Cheers,
 Merill
-
-### Contact me
-
-[Twitter](https://twitter.com/merill)
-[LinkedIn](https://www.linkedin.com/in/merill/)

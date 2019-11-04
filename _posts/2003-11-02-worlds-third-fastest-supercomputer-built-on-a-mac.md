@@ -3,7 +3,7 @@ id: 481
 title: 'World&#8217;s Third Fastest Supercomputer Built On A Mac'
 date: 2003-11-02T16:26:17+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/11/Worlds-Third-Fastest-Supercomputer-Built-On-A-Mac.aspx
 permalink: /2003/11/worlds-third-fastest-supercomputer-built-on-a-mac/
 categories:

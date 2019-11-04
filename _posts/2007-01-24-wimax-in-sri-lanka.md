@@ -3,7 +3,7 @@ id: 76
 title: WiMAX in Sri Lanka
 date: 2007-01-24T10:56:05+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/01/WiMAX-in-Sri-Lanka.aspx
 permalink: /2007/01/wimax-in-sri-lanka/
 dsq_thread_id:

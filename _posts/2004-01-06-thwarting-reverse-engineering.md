@@ -3,7 +3,7 @@ id: 431
 title: Thwarting Reverse Engineering
 date: 2004-01-06T12:28:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Thwarting-Reverse-Engineering.aspx
 permalink: /2004/01/thwarting-reverse-engineering/
 dsq_thread_id:

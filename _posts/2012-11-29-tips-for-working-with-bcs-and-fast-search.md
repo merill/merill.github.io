@@ -3,7 +3,7 @@ id: 772
 title: Tips for working with BCS and FAST Search
 date: 2012-11-29T11:03:37+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=772
 permalink: /2012/11/tips-for-working-with-bcs-and-fast-search/
 dsq_thread_id:

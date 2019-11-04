@@ -3,7 +3,7 @@ id: 610
 title: 'Windows 7: WiFi slow to connect or Limited Connectivity'
 date: 2009-11-18T21:50:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/11/windows-7-wifi-slow-to-connect-or-limited-connectivity/
 permalink: /2009/11/windows-7-wifi-slow-to-connect-or-limited-connectivity/
 dsq_thread_id:

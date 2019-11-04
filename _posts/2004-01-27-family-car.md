@@ -3,7 +3,7 @@ id: 377
 title: Family Car
 date: 2004-01-27T23:55:31+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Family-Car.aspx
 permalink: /2004/01/family-car/
 categories:

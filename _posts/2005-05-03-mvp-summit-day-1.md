@@ -3,7 +3,7 @@ id: 199
 title: MVP Summit Day 1
 date: 2005-05-03T13:30:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/05/MVP-Summit-Day-1.aspx
 permalink: /2005/05/mvp-summit-day-1/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 539
 title: 'Match.com&#8217;s upgrade to .NET'
 date: 2003-07-23T19:43:14+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Matchcoms-upgrade-to-NET.aspx
 permalink: /2003/07/matchcoms-upgrade-to-net/
 dsq_thread_id:

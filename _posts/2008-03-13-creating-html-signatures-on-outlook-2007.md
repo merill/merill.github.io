@@ -3,7 +3,7 @@ id: 19
 title: Creating HTML Signatures on Outlook 2007
 date: 2008-03-13T10:51:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/03/Creating-HTML-Signatures-on-Outlook-2007.aspx
 permalink: /2008/03/creating-html-signatures-on-outlook-2007/
 dsq_thread_id:

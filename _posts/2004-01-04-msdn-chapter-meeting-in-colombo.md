@@ -3,7 +3,7 @@ id: 435
 title: MSDN Chapter Meeting in Colombo
 date: 2004-01-04T12:43:19+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/MSDN-Chapter-Meeting-in-Colombo.aspx
 permalink: /2004/01/msdn-chapter-meeting-in-colombo/
 dsq_thread_id:

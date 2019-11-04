@@ -3,7 +3,7 @@ id: 15
 title: Bill Gates was right about spam
 date: 2008-04-05T19:12:13+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/04/Bill-Gates-was-right-about-spam.aspx
 permalink: /2008/04/bill-gates-was-right-about-spam/
 dsq_thread_id:

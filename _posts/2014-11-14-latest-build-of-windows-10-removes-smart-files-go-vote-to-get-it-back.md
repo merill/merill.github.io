@@ -3,7 +3,7 @@ id: 883
 title: 'Latest build of Windows 10 removes &#8216;Smart Files&#8217;. Go vote to get it back'
 date: 2014-11-14T06:48:27+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=883
 permalink: /2014/11/latest-build-of-windows-10-removes-smart-files-go-vote-to-get-it-back/
 dsq_thread_id:

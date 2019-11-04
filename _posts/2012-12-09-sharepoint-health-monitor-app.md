@@ -3,7 +3,7 @@ id: 794
 title: SharePoint Health Monitor App
 date: 2012-12-09T23:37:26+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=794
 permalink: /2012/12/sharepoint-health-monitor-app/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 414
 title: 'Apple&#8217;s Unlikely Guardian Angel'
 date: 2004-01-09T12:02:01+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Apples-Unlikely-Guardian-Angel.aspx
 permalink: /2004/01/apples-unlikely-guardian-angel/
 dsq_thread_id:

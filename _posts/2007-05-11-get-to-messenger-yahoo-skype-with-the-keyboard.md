@@ -3,7 +3,7 @@ id: 53
 title: Get to Messenger, Yahoo, Skype with the keyboard
 date: 2007-05-11T16:44:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/05/Get-to-Messenger2c-Yahoo2c-Skype-with-the-keyboard.aspx
 permalink: /2007/05/get-to-messenger-yahoo-skype-with-the-keyboard/
 dsq_thread_id:

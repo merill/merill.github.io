@@ -3,7 +3,7 @@ id: 1099
 title: Azure + iPad = Productivity
 date: 2017-08-14T09:01:02+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=1099
 permalink: /2017/08/azure-ipad-productivity/
 medium_post:

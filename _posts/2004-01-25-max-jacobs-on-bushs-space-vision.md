@@ -3,7 +3,7 @@ id: 379
 title: 'Max Jacobs on Bush&#8217;s space vision'
 date: 2004-01-25T14:04:15+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Max-Jacobs-on-Bushs-space-vision.aspx
 permalink: /2004/01/max-jacobs-on-bushs-space-vision/
 dsq_thread_id:

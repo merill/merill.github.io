@@ -1,5 +1,5 @@
 ---
-layout: post
+
 published: true
 title: Remove ms-outlook urls from your Google Contacts
 ---

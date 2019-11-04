@@ -3,7 +3,7 @@ id: 68
 title: Oh Sri Lanka
 date: 2007-01-31T16:55:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2007/01/Oh-Sri-Lanka.aspx
 permalink: /2007/01/oh-sri-lanka/
 dsq_thread_id:

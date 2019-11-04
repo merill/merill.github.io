@@ -3,7 +3,7 @@ id: 492
 title: Free Anti-Virus Guard
 date: 2003-10-27T14:55:42+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/Free-Anti-Virus-Guard.aspx
 permalink: /2003/10/free-anti-virus-guard/
 dsq_thread_id:

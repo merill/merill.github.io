@@ -3,7 +3,7 @@ id: 321
 title: Radio Lovers
 date: 2004-02-27T13:15:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Radio-Lovers.aspx
 permalink: /2004/02/radio-lovers/
 categories:

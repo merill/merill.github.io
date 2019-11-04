@@ -3,7 +3,7 @@ id: 530
 title: Ranked First On Google!
 date: 2003-07-28T22:17:44+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Ranked-First-On-Google!.aspx
 permalink: /2003/07/ranked-first-on-google/
 dsq_thread_id:

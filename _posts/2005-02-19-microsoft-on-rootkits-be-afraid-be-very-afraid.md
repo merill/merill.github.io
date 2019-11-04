@@ -3,7 +3,7 @@ id: 232
 title: 'Microsoft on &#8216;Rootkits&#8217;: Be afraid. Be very afraid.'
 date: 2005-02-19T11:22:35+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/02/Microsoft-on-Rootkits-Be-afraid-Be-very-afraid.aspx
 permalink: /2005/02/microsoft-on-rootkits-be-afraid-be-very-afraid/
 categories:

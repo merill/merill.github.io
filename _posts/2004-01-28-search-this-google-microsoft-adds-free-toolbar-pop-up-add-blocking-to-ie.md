@@ -3,7 +3,7 @@ id: 374
 title: 'Search This, Google: Microsoft Adds Free Toolbar, Pop-Up Add Blocking to IE'
 date: 2004-01-28T00:58:30+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/Search-This2c-Google-Microsoft-Adds-Free-Toolbar2c-Pop-Up-Add-Blocking-to-IE.aspx
 permalink: /2004/01/search-this-google-microsoft-adds-free-toolbar-pop-up-add-blocking-to-ie/
 dsq_thread_id:

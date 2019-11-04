@@ -3,7 +3,7 @@ id: 21
 title: DasBlog to BlogML Converter
 date: 2008-03-13T08:45:00+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2008/03/DasBlog-to-BlogML-Converter.aspx
 permalink: /2008/03/dasblog-to-blogml-converter/
 dsq_thread_id:

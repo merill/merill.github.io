@@ -3,7 +3,7 @@ id: 95
 title: Outlook Shortcuts
 date: 2006-11-02T17:42:30+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/11/Outlook-Shortcuts.aspx
 permalink: /2006/11/outlook-shortcuts/
 dsq_thread_id:

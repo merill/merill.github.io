@@ -3,7 +3,7 @@ id: 360
 title: Microsoft Patches Three IE Security Holes
 date: 2004-02-06T20:01:48+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/02/Microsoft-Patches-Three-IE-Security-Holes.aspx
 permalink: /2004/02/microsoft-patches-three-ie-security-holes/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 163
 title: 'Don&#8217;t call it a comeback'
 date: 2005-09-27T16:40:10+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/09/Dont-call-it-a-comeback.aspx
 permalink: /2005/09/dont-call-it-a-comeback/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 673
 title: Feature differences between SharePoint 2007 Enterprise and Standard for a Publishing Portal
 date: 2010-05-04T09:26:51+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=673
 permalink: /2010/05/feature-differences-between-sharepoint-2007-enterprise-and-standard-for-a-publishing-portal/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 548
 title: Lousy Lanka Internet Connection
 date: 2003-07-19T17:17:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/07/Lousy-Lanka-Internet-Connection.aspx
 permalink: /2003/07/lousy-lanka-internet-connection/
 categories:

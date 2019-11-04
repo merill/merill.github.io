@@ -3,7 +3,7 @@ id: 503
 title: Cool Dialog Tip
 date: 2003-10-05T12:35:55+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2003/10/Cool-Dialog-Tip.aspx
 permalink: /2003/10/cool-dialog-tip/
 dsq_thread_id:

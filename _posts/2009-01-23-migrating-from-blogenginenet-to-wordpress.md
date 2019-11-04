@@ -3,7 +3,7 @@ id: 559
 title: Migrating from BlogEngine.NET to WordPress
 date: 2009-01-23T06:43:40+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/01/migrating-from-blogenginenet-to-wordpress/
 permalink: /2009/01/migrating-from-blogenginenet-to-wordpress/
 dsq_thread_id:

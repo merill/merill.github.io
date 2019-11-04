@@ -3,7 +3,7 @@ id: 183
 title: 'VB&#8217;s *My* for C# Developers'
 date: 2005-06-15T12:59:04+00:00
 author: Merill Fernando
-layout: post
+
 guid: '/post/2005/06/VBs-*My*-for-C-Developers.aspx'
 permalink: /2005/06/vbs-my-for-c-developers/
 dsq_thread_id:

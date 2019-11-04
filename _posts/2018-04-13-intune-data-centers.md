@@ -3,7 +3,7 @@ id: 1169
 title: Intune Data Centers
 date: 2018-04-13T21:44:18+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/?p=1169
 permalink: /2018/04/intune-data-centers/
 medium_post:

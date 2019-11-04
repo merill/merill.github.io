@@ -3,7 +3,7 @@ id: 577
 title: Date Ranges in Log Parser for EventLogs
 date: 2009-04-27T10:22:11+00:00
 author: Merill Fernando
-layout: post
+
 guid: http://merill.net/2009/04/date-ranges-in-log-parser-for-eventlogs/
 permalink: /2009/04/date-ranges-in-log-parser-for-eventlogs/
 dsq_thread_id:

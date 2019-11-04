@@ -3,7 +3,7 @@ id: 260
 title: No sex tonight?
 date: 2005-01-29T10:07:40+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/No-sex-tonight.aspx
 permalink: /2005/01/no-sex-tonight/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 293
 title: 'IIS Lockdown &#038; .NET'
 date: 2004-04-10T08:31:13+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/04/IIS-Lockdown--NET.aspx
 permalink: /2004/04/iis-lockdown-net/
 dsq_thread_id:

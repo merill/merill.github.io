@@ -3,7 +3,7 @@ id: 98
 title: Tech.Ed Keynote Review
 date: 2006-11-01T02:11:32+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2006/11/TechEd-Keynote-Review.aspx
 permalink: /2006/11/teched-keynote-review/
 dsq_thread_id:

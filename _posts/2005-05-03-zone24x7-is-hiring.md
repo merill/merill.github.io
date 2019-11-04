@@ -3,7 +3,7 @@ id: 198
 title: zone24x7 is hiring
 date: 2005-05-03T17:19:56+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/05/zone24x7-is-hiring.aspx
 permalink: /2005/05/zone24x7-is-hiring/
 dsq_thread_id:

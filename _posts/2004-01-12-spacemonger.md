@@ -3,7 +3,7 @@ id: 411
 title: SpaceMonger
 date: 2004-01-12T12:22:53+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/01/SpaceMonger.aspx
 permalink: /2004/01/spacemonger/
 categories:

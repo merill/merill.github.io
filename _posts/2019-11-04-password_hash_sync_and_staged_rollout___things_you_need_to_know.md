@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Password Hash Sync and Staged Rollout - Things you need to know
-
+toc: true
 ---
 Now that Staged Rollout is out of NDA, I can finally talk about one of the projects I've been working on for the last twelve months.
  
@@ -23,7 +22,7 @@ Check your conditional access policies and make sure you've covered all the scen
 You will also want to [block legacy authentication] (https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication). If not, you have opened the door for bad guys to run brute force attacks on your user passwords. A quick note that blocking legacy authentication will not break Exchange Active Sync sign ins (even though they use a form of basic auth). 
 You might have issues blocking legacy authentication for users that are on the LAN/VPN, especially if you have robot accounts using EWS APIs, old Outlook clients, etc. At a minimum you should set up a CA policy to block legacy auth requests coming in over the internet.
 
-![2019-11-01-437469.png](https://merill.net/assets/2019-11-01-437469.png)
+![2019-11-01-437469.png]({{site.baseurl}}/assets/2019-11-01-437469.png)
 
 
 
@@ -43,13 +42,13 @@ The good news is that the story is a lot better now (Nov 2019) than what is was 
   
 The first is to turn on _EnforceCloudPasswordPolicyForPasswordSyncedUsers_ in AAD. This will ensure that going forward whenever a user resets the password, AAD Connect will set that user's password policy from _DisablePasswordExpiration_ to _None_.
 
-```
+```powershell
 Set-MsolDirSyncFeature -Feature EnforceCloudPasswordPolicyForPasswordSyncedUsers  $true
 ```
 
 However this is not going to go and fix each user's account. To do that you need to set it for each individual user like this.
 
-```
+```powershell
 Set-AzureADUser -ObjectID <User Object ID> -PasswordPolicies "DisablePasswordExpiration"
 ```	
 
@@ -93,8 +92,8 @@ This way you can prevent intruders hijacking a user's account and setting up MFA
 
 
 
-![2019-11-01-842606.png](https://merill.net/assets/2019-11-01-842606.png)
-![2019-11-01-718026.png](https://merill.net/assets/2019-11-01-718026.png)
+![2019-11-01-842606.png]({{site.baseurl}}/assets/2019-11-01-842606.png)
+![2019-11-01-718026.png]({{site.baseurl}}/assets/2019-11-01-718026.png)
 
 
 

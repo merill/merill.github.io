@@ -3,7 +3,7 @@ id: 302
 title: ASP.NET is on a Tear!!
 date: 2004-03-26T04:07:29+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2004/03/ASPNET-is-on-a-Tear!!.aspx
 permalink: /2004/03/aspnet-is-on-a-tear/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 259
 title: Spamming in Sri Lanka
 date: 2005-01-30T09:39:23+00:00
 author: Merill Fernando
-layout: post
+
 guid: /post/2005/01/Spamming-in-Sri-Lanka.aspx
 permalink: /2005/01/spamming-in-sri-lanka/
 dsq_thread_id:
