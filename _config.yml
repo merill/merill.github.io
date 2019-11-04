@@ -23,6 +23,7 @@ email: "merill@merill.net"
 subtitle: "my utmost for his highest, my best for his glory"
 name: "my utmost for his highest, my best for his glory"
 description: "Ramblings of an Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead"
+repository: "merill/merill.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://merill.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: merill
@@ -50,7 +51,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  
+
 defaults:
   # _posts
   - scope:
@@ -92,10 +93,17 @@ paginate_path: /page:num/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: merill
+comments:
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : merill # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-33485614-1
+# Analytics
+analytics:
+  provider               : google # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-33485614-1
+    anonymize_ip         : # true, false (default)
 
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
