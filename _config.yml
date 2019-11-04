@@ -30,8 +30,7 @@ twitter_username: merill
 github_username:  merill
 
 # Build settings
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default," "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Plugins (previously gems:)
@@ -104,10 +103,6 @@ analytics:
   google:
     tracking_id          : UA-33485614-1
     anonymize_ip         : # true, false (default)
-
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 include: ["_pages"]
 
