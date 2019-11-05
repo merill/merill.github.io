@@ -10,14 +10,16 @@ There are times you need to update the Azure AD password of a user that's synced
 
 There is a simple hack to workaround this limitation. All you need to do is temporarily change the user's UserPrincipalName to that of a managed domain, update the password and then change the UserPrincipalName back to the federated domain.
 
-	# Change UPN to managed domain
-    Set-AzureADUser -ObjectId xxxxx -UserPrincipalName user@domain.onmicrosoft.com
-    
-    # Update the password
-    Set-AzureADUserPassword -ObjectId xxxxx
-    
-    # Change UPN back to the federated domain
-    Set-AzureADUser -ObjectId xxxxx -UserPrincipalName user@domain.com
+```powershell
+# Change UPN to managed domain
+Set-AzureADUser -ObjectId xxxxx -UserPrincipalName user@domain.onmicrosoft.com
+
+# Update the password
+Set-AzureADUserPassword -ObjectId xxxxx
+
+# Change UPN back to the federated domain
+Set-AzureADUser -ObjectId xxxxx -UserPrincipalName user@domain.com
+```
 
 That's it. The user will eventually be signed out of the apps they are in and will have to re-sign in again. 
 
