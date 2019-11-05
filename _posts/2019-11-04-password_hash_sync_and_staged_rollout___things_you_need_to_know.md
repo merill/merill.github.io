@@ -81,7 +81,7 @@ foreach ($user in $users){
 ```
 	
 Now for some notes/warnings
-- You should do some reporting to understand the current state of the user's password policies. This article has some helpful scripts to do this (https://docs.microsoft.com/en-us/office365/admin/add-users/set-password-to-never-expire?view=o365-worldwide)
+- You should do some reporting to understand the current state of the user's password policies. This article has some helpful scripts to do this [Set Password To Never Expire](https://docs.microsoft.com/en-us/office365/admin/add-users/set-password-to-never-expire?view=o365-worldwide)
 
 - If you have some users or types of users on-prem that don't have a password expiry policy you will need to make sure you don't set their password policy to None. If you do it they will be prompted with the 'Change Password' flow in Azure AD even though their password has not expired on-prem. 
 
@@ -90,7 +90,7 @@ The [Security Info](https://docs.microsoft.com/en-us/azure/active-directory/user
   
 However, the first time you add the user to the MFA group they will be able to access this page with just the username and password and sometimes this could be over the internet. My recommendation is to secure this page so that it is only accessible from a managed device (ie IsCompliant or Hybrid Joined) and to lock down un-managed devices to the LAN.
   
-This way you can prevent intruders hijacking a user's account and setting up MFA between the window where you add them to PHS and the user first logging in. Steps to turn this on can be found here (https://docs.microsoft.com/bs-latn-ba/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration)
+This way you can prevent intruders hijacking a user's account and setting up MFA between the window where you add them to PHS and the user first logging in. Steps to turn this on can be found at [Conditional Access Policies for Combined Registration](https://docs.microsoft.com/bs-latn-ba/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration)
 
 
 
@@ -104,7 +104,7 @@ This way you can prevent intruders hijacking a user's account and setting up MFA
 ## MFA configuration for end users
 This is more about end user comms and planning. You need to figure out how you guide your users through the process of setting up MFA.
 
-Microsoft has a good guide to set this up over (https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)
+Microsoft has a good guide to set this up over at [How To Get Started on MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)
 
 You get the best end user experience if you are licenced for Identity Protection (currently AAD P2) since it guides the user through the MFA set up process as part of their initial sign in.
 
