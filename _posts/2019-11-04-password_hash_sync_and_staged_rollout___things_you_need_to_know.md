@@ -22,7 +22,7 @@ The documentation for [Password Hash Sync](https://docs.microsoft.com/en-us/azur
 Check your conditional access policies and make sure you've covered all the scenarios. At a minimum, make sure you have MFA as a requirement for any user access that comes in over the internet. 
 
 ## Block Legacy Authentication
-You will also want to [block legacy authentication] (https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication). If not, you have opened the door for bad guys to run brute force attacks on your user passwords. A quick note that blocking legacy authentication will not break Exchange Active Sync sign ins (even though they use a form of basic auth). 
+You will also want to [block legacy authentication](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication). If not, you have opened the door for bad guys to run brute force attacks on your user passwords. A quick note that blocking legacy authentication will not break Exchange Active Sync sign ins (even though they use a form of basic auth). 
 You might have issues blocking legacy authentication for users that are on the LAN/VPN, especially if you have robot accounts using EWS APIs, old Outlook clients, etc. At a minimum you should set up a CA policy to block legacy auth requests coming in over the internet.
 
 ![2019-11-01-437469.png]({{site.baseurl}}/assets/2019-11-01-437469.png)
