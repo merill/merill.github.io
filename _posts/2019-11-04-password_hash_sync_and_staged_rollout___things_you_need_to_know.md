@@ -114,7 +114,7 @@ Unfortunately, reporting on the MFA options set up by the user is still locked d
 
 This script will help create a report for you.
 
-```	
+```powershell
 Remove-Item $outputCsvPath
 $result=@() 
 $inputUserCsv | ForEach-Object {
