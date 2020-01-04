@@ -1,8 +1,6 @@
 backend:
   name: git-gateway
-  repo: merill/merill.github.io
   branch: master
-  site_domain: merill.netlify.com
 
 media_folder: "images/uploads"
 
