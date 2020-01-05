@@ -3,6 +3,7 @@ backend:
   repo: merill/merill.github.io
   branch: master
   site_domain: merill.netlify.com
+  site_url: https://merill.net
 
 media_folder: "images/uploads"
 
