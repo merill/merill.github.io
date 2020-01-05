@@ -2,7 +2,7 @@ backend:
   name: github
   repo: merill/merill
   branch: master
-  site_domain: merill.netlify.com
+  site_domain: silly-goodall-642dc8.netlify.com
 
 media_folder: "images/uploads"
 
