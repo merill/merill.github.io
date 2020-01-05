@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: merill/merill
+  repo: merill/merill.github.io
   branch: master
   site_domain: silly-goodall-642dc8.netlify.com
 
