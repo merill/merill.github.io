@@ -22,7 +22,7 @@ title: "merill.net"
 email: "merill@merill.net"
 subtitle: "my utmost for his highest, my best for his glory"
 name: "Merill Fernando"
-description: "Ramblings of an Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead"
+description: "Ramblings of an Identity Microsoftie"
 repository: "merill/merill.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://merill.net" # the base hostname & protocol for your site, e.g. http://example.com
@@ -78,7 +78,7 @@ author:
   name: "Merill Fernando"
   uri: &uri "/about/"
   url: *uri
-  bio: "Ex-Microsoft MVP, Cloud Architect, Microsoft 365 DevOps Lead"
+  bio: "Senior Program Manager @ Microsoft | Azure AD | Identity CxP"
   location: Melbourne, Australia
   avatar: "/assets/images/merill-profile.png"
   og_image: "/assets/images/merill-profile.png"

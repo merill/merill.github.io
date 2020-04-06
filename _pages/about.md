@@ -4,8 +4,9 @@ permalink: /about/
 ---
 
 Merill Fernando
-Ex Microsoft MVP + Senior Architect + DevOps Lead for [Telstra's](https://telstra.com.au) Office 365 and Azure Active Directory (100k+ user base)
-Melbourne, Australia
+I'm a Senior Program Manager in the Identity CxP team at Microsoft and help some of our large customers in Australia get the most out of Azure Active Directory and related Identity technologies from Microsoft.
+
+This blog, it's content and opinions are my own and do not reflect the views of my company. All blog postings are provided "AS IS" with no warranties and is not supported by the author. All trademarks and copyrights belong to their owners and are used for identification only.
 
 ### More Information
 
