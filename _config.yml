@@ -78,7 +78,7 @@ author:
   name: "Merill Fernando"
   uri: &uri "/about/"
   url: *uri
-  bio: "Senior Program Manager @ Microsoft • Azure AD • Identity CxP"
+  bio: "Program Manager @ Microsoft • Azure AD • Identity CxP"
   location: Melbourne, Australia
   avatar: "/assets/images/merill-profile.png"
   og_image: "/assets/images/merill-profile.png"
