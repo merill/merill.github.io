@@ -2,7 +2,6 @@
 title: PowerShell script to generate a report on all Power BI workspaces and
   groups in your Microsoft 365 tenant
 category: tips
-date: 2020-06-10T03:57:58.514Z
 tags:
   - powershell
   - report
