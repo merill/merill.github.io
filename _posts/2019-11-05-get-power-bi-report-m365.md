@@ -1,10 +1,12 @@
 ---
-title: PowerShell script to generate a report on all Power BI workspaces and groups in your Microsoft 365 tenant
+title: PowerShell script to generate a report on all Power BI workspaces and
+  groups in your Microsoft 365 tenant
 category: tips
+date: 2020-06-10T03:57:58.514Z
 tags:
- - powershell
- - report
- - powerbi
+  - powershell
+  - report
+  - powerbi
 ---
 
 Here's a useful script I wrote the other day. This uses a few PowerShell modules to pull together information about all the Power BI workspaces in your Microsoft 365 tenant. This also includes the names of the Workspace/Group owners.
@@ -47,3 +49,4 @@ foreach ($ws in $workspaces) {
 }
 $wslist | Export-Csv .\PowerBI-Workspaces.csv -NoTypeInformation
 ```
+Update: Brent Pearce reached out to me with this note. "However I did have to tweak it a bit. Seems the Workspaces of type ‘Workspace’ the .User.UserPrincipalName is blank but the User.Identifier is populated."
