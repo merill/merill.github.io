@@ -1,0 +1,22 @@
+---
+title: Setting up Azure AD B2B Direct Federation with Google GSuite
+date: 2020-07-10T10:01:54.049Z
+tags:
+  - azuread
+---
+If you are looking to configure Azure AD B2B Direct Federation with Google's GSuite and running into issues here's a quick screenshot of how it needs to be set up on the GSuite end.
+
+**Service provider details**
+ACS URL: https://login.microsoftonline.com/login.srf
+Entity ID: urn:federation:MicrosoftOnline
+Name ID format: PERSISTENT
+Name ID: Basic Information > Primary Email
+
+**SAML Attribute Mapping**
+Primary email > http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress
+
+
+
+![](/images/uploads/gsuite-saml-app-1.png)
+
+![](/images/uploads/gsuite-saml-app-2.png)
