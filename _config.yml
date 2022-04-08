@@ -78,7 +78,7 @@ author:
   name: "Merill Fernando"
   uri: &uri "/about/"
   url: *uri
-  bio: "Program Manager @ Microsoft • Azure AD • Identity CxP"
+  bio: "Senior Product Manager @ Microsoft • Azure AD • Identity CxP"
   location: Melbourne, Australia
   avatar: "/assets/images/merill-profile.png"
   og_image: "/assets/images/merill-profile.png"
@@ -106,11 +106,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/merill"
     - label: "Linked In"
-      icon: "fab fa-fw fa-linked-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/merill"
-    - label: "Dev.To"
-      icon: "fab fa-fw fa-dev"
-      url: "https://dev.to/merill"
 
 # Outputting
 permalink: /:year/:month/:title/
