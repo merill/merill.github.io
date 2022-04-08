@@ -31,7 +31,7 @@ github_username:  merill
 search: true
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "default," "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Plugins (previously gems:)
