@@ -10,4 +10,14 @@ main:
   - title: "About"
     url: /about/
   - title: "Graph Permissions Explorer"
-    url: http://graphpermissions.merill.net/
+    url: https://graphpermissions.merill.net/
+  - title: "MS Identity Tools"
+    url: https://aka.ms/msid
+  - title: "Azure AD Exporter"
+    url: https://github.com/microsoft/azureadexporter
+  - title: "Azure AD Assessment"
+    url: https://github.com/AzureAD/AzureADAssessment/wiki
+  - title: "Inclusiveness Analyzer"
+    url: https://github.com/merill/InclusivenessAnalyzer
+  - title: "Microsoft 365 Gender Pronoun Kit"
+    url: https://github.com/merill/m365-gender-pronoun-kit
