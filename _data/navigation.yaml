@@ -1,23 +1,23 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Archive"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+    description: About me
+  - title: "Azure AD Exporter"
+    url: https://github.com/microsoft/azureadexporter
+    description: PowerShell module that exports all the config and data of an Azure AD tenant
   - title: "Graph Permissions Explorer"
     url: https://graphpermissions.merill.net/
   - title: "MS Identity Tools"
     url: https://aka.ms/msid
-  - title: "Azure AD Exporter"
-    url: https://github.com/microsoft/azureadexporter
   - title: "Azure AD Assessment"
     url: https://github.com/AzureAD/AzureADAssessment/wiki
   - title: "Inclusiveness Analyzer"
     url: https://github.com/merill/InclusivenessAnalyzer
   - title: "Microsoft 365 Gender Pronoun Kit"
     url: https://github.com/merill/m365-gender-pronoun-kit
+  - title: "Archive"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
