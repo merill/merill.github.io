@@ -11,5 +11,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- _posts/azuread-restricted-access-guest-permission-level.md
