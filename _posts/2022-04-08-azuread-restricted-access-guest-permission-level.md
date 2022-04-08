@@ -32,14 +32,14 @@ Restricted access blocks these commands from being run.
 
 ![Screenshot of PowerShell cmdlets to get-azureadgroupmember, get-azureaduser cmdlets returning Request denied error messages.](https://pbs.twimg.com/media/FO0evtVaIAEIdjN?format=jpg&name=large)
 
-This doc has a neat table summarizing the different access levels. [Default user permissions - Azure Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/users-default-permissions)
+This doc has a neat table summarizing the different access levels. [Default user permissions - Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/users-default-permissions)
 
-To learn more about the restricted permission, supported apps and config details see [Restrict guest user access permissions - Azure Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-restrict-guest-permissions)[](https://t.co/AlEacJkshV)
+To learn more about the restricted permission, supported apps and config details see [Restrict guest user access permissions - Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-restrict-guest-permissions)
 
 If you want to learn how to restrict PowerShell access for guests while staying with 'Limited access', that's a post for another day.
 
-BTW In Teams: 
+BTW In Teams
 
-Limited Access = Guests can search any user in the tenant by UPN/email and chat with them. 
+Limited Access = Guests can search any user in the tenant by UPN/email and chat with them.
 
 Restricted Access = Guests can only search and chat with users that are in the team/group(s) they have been invited to. They cannot lookup & chat with other users in the tenant
