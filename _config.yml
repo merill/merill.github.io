@@ -79,16 +79,13 @@ defaults:
 # Site owner
 author:
   name: "Merill Fernando"
-  uri: &uri "/about/"
-  url: *uri
+  url: "/about/"
   bio: "Senior Product Manager @ Microsoft • Azure AD • Identity CxP"
   location: Melbourne, Australia 🇦🇺
   avatar: "/assets/images/merill-profile.png"
   og_image: "/assets/images/merill-profile.png"
   twitter: "merill"
   github: "merill"
-  linkedin: "merill"
-  email: merill@merill.net
 
 # Social Sharing
 twitter:
