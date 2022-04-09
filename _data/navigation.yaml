@@ -1,13 +1,11 @@
 main:
-  - title: "About"
+  - title: "About me"
     url: /about/
-    description: "About me"
-  - title: "Azure AD Exporter"
+  - title: "AAD Exporter"
     url: https://github.com/microsoft/azureadexporter
-    description: "PowerShell module that exports all the config and data of an Azure AD tenant"
-  - title: "Graph Permissions Explorer"
+  - title: "Graph Permissions"
     url: https://graphpermissions.merill.net/
-  - title: "MS Identity Tools"
+  - title: "MSID Tools"
     url: https://aka.ms/msid
   - title: "Azure AD Assessment"
     url: https://github.com/AzureAD/AzureADAssessment/wiki
