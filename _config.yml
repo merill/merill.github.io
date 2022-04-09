@@ -90,8 +90,10 @@ author:
   linkedin: "merill"
   email: merill@merill.net
 
+# Social Sharing
 twitter:
   username: "merill"
+og_image: "/assets/images/merill-profile.png" #Open Graph/Twitter default site image
 
 social:
   type:  # Person or Organization (defaults to Person)
@@ -99,6 +101,7 @@ social:
   links:
     - "https://twitter.com/merill"
     - "https://www.linkedin.com/in/merill"
+
 
 footer:
   links:
