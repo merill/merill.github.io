@@ -65,6 +65,7 @@ defaults:
       comments: true
       share: true
       related: true
+      wide: true
       sidebar:
         nav: "projects"
 
