@@ -12,7 +12,7 @@ main:
 
 projects:
  - title: Projects
-    children:
+   children:
     - title: "AAD Exporter"
       url: https://github.com/microsoft/azureadexporter
     - title: "Graph Permissions"
