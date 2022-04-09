@@ -114,7 +114,7 @@ footer:
 
 # Outputting
 permalink: /:year/:month/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
