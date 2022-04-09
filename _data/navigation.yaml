@@ -25,11 +25,11 @@ main:
 projects:
  - title: Projects
    children:
-    - title: "AAD Exporter"
+    - title: "Azure AD Exporter"
       url: https://github.com/microsoft/azureadexporter
-    - title: "Graph Permissions"
+    - title: "Graph Permissions Explorer"
       url: https://graphpermissions.merill.net/
-    - title: "MSID Tools"
+    - title: "MS Identity Tools"
       url: https://aka.ms/msid
     - title: "Azure AD Assessment"
       url: https://github.com/AzureAD/AzureADAssessment/wiki
