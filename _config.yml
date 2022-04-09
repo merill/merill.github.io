@@ -65,7 +65,7 @@ defaults:
       comments: true
       share: true
       related: true
-      wide: true
+      classes: wide
       sidebar:
         nav: "projects"
 
@@ -76,6 +76,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
 
 # Site owner
 author:
