@@ -9,7 +9,19 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-
+  - title: "Azure AD Exporter"
+    url: https://github.com/microsoft/azureadexporter
+  - title: "Graph Permissions Explorer"
+    url: https://graphpermissions.merill.net/
+  - title: "MSID Tools"
+    url: https://aka.ms/msid
+  - title: "Azure AD Assessment"
+    url: https://github.com/AzureAD/AzureADAssessment/wiki
+  - title: "Inclusiveness Analyzer"
+    url: https://github.com/merill/InclusivenessAnalyzer
+  - title: "Microsoft 365 Gender Pronoun Kit"
+    url: https://github.com/merill/m365-gender-pronoun-kit
+    
 projects:
  - title: Projects
    children:
