@@ -29,6 +29,7 @@ url: "https://merill.net" # the base hostname & protocol for your site, e.g. htt
 twitter_username: merill
 github_username:  merill
 search: true
+breadcrumbs: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
@@ -79,7 +80,7 @@ author:
   uri: &uri "/about/"
   url: *uri
   bio: "Senior Product Manager @ Microsoft • Azure AD • Identity CxP"
-  location: Melbourne, Australia
+  location: Melbourne, Australia 🇦🇺
   avatar: "/assets/images/merill-profile.png"
   og_image: "/assets/images/merill-profile.png"
   twitter: "merill"
