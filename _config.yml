@@ -29,7 +29,7 @@ url: "https://merill.net" # the base hostname & protocol for your site, e.g. htt
 twitter_username: merill
 github_username:  merill
 search: true
-breadcrumbs: true
+breadcrumbs: false
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
