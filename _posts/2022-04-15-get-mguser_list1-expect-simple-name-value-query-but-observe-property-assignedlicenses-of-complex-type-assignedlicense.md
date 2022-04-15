@@ -9,13 +9,16 @@ tags:
 ---
 Are you seeing this message when trying to get user license information using the Graph API. 
 
-_Expect simple name=value query, but observe property 'assignedLicenses' of complex type 'AssignedLicense'._
+_Expect simple name=value query, but observe property 'assignedLicenses' of complex type 'AssignedLicense'.
 
+```powershell
     ❯ Get-MgUser -Filter 'assignedLicenses/$count eq 0'
     Get-MgUser_List1: Expect simple name=value query, but observe property 'assignedLicenses' of complex type 'AssignedLicense'.
+```
 
 The fix is quite simple. Set the ConsistencyLevel header to **eventual** and pass in a variable to store the count of the result set and you are good to go.
 
+```powershell
     ❯ Get-MgUser -Filter 'assignedLicenses/$count eq 0' -ConsistencyLevel eventual -CountVariable licensedUserCount -All
     
     Id                                   DisplayName     Mail                           UserPrincipalName
@@ -25,3 +28,4 @@ The fix is quite simple. Set the ConsistencyLevel header to **eventual** and pas
     37e5a3d1-f92b-4a12-bb35-91bf80969810 Joshua Sal      user2@fakedomain.com           user2_fakedomain.com#EXT…
     5c8537e4-7d7f-4920-a921-382d91fa53fd Fake Damain     user@fakedomain.com            user_fakedomain.com#EXT#…
     640885de-9652-4fb2-8a87-963cc2f599a0 Chris Green     chris.green@yopmail.net        chris.green_yopmail.net#…
+```
