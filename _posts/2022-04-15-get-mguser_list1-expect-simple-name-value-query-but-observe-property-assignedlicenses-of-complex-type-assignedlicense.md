@@ -14,7 +14,7 @@ _Expect simple name=value query, but observe property 'assignedLicenses' of comp
     ❯ Get-MgUser -Filter 'assignedLicenses/$count eq 0'
     Get-MgUser_List1: Expect simple name=value query, but observe property 'assignedLicenses' of complex type 'AssignedLicense'.
 
-The fix is quite simple. Add the ConsistencyLevel header and pass
+The fix is quite simple. Set the ConsistencyLevel header to **eventual** and pass in a variable to store the count of the result set and you are good to go.
 
     ❯ Get-MgUser -Filter 'assignedLicenses/$count eq 0' -ConsistencyLevel eventual -CountVariable licensedUserCount -All
     
