@@ -16,3 +16,4 @@ pages:
 - _posts/azure-ad-nudge-authenticator-registration-campaign-failing-to-prompt-users.md
 - _posts/graph-powershell-conversion-analyzer.md
 - _posts/parsing-the-azure-ad-federationmetadata.xml-in-powershell.md
+- privacy.md
