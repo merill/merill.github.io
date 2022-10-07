@@ -5,6 +5,8 @@ tags: []
 
 ---
 
+NOTE: I have moved this page over to [https://github.com/microsoft/aka](https://github.com/microsoft/aka#readme) to allow other folks to contribute. Please head over there.
+
 I’m a command line guy and hate having to click to get to various Azure AD pages. 
 
 Overtime I created these shortcuts and thought you might find them helpful.
@@ -51,5 +53,10 @@ If you liked those here are some of my favourite Identity related shortcuts.
 |[aka.ms/my-account](https://aka.ms/my-account)|My Account|
 |[aka.ms/my-groups](https://aka.ms/my-groups)|My Groups|
 |[aka.ms/my-access](https://aka.ms/my-access)|My Access Packages|
+|[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
+|[aka.ms/mfasetup](https://aka.ms/mfasetup)|Alternative for My Security|
+|[aka.ms/ge](https://aka.ms/ge)|Graph Explorer|
+|[aka.ms/ge](https://aka.ms/in)|Intune|
 
 Have I missed anything? Have new suggestions? Let me know at [twitter.com/merill](https://twitter.com/merill).
+
