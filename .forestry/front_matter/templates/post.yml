@@ -13,5 +13,4 @@ fields:
   label: tags
 pages:
 - _posts/2022-04-15-get-mguser_list1-expect-simple-name-value-query-but-observe-property-assignedlicenses-of-complex-type-assignedlicense.md
-- _posts/azure-ad-shortcuts.md
 - privacy.md

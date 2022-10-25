@@ -1,12 +1,17 @@
 ---
-title: Azure AD PowerShell script to generate a report on authentication methods registered by your users
+title: Azure AD PowerShell script to generate a report on authentication methods registered
+  by your users
 category: tips
 tags:
-  - powershell
-  - report
-  - azuread
-  - graph
+- powershell
+- report
+- azuread
+- graph
+
 ---
+NOTE: This API has been deprecated. Please use [List userRegistrationDetails - Microsoft Graph beta | Microsoft Learn](https://learn.microsoft.com/en-us/graph/api/authenticationmethodsroot-list-userregistrationdetails?view=graph-rest-beta&tabs=http) instead.
+
+***
 
 The new User Authentication Methods Activity report is great. Did you know it has an awesome API as well?
 
