@@ -9,8 +9,7 @@ tags:
 - graph
 
 ---
-
-NOTE: This API has been deprecated. Please use [List userRegistrationDetails - Microsoft Graph beta | Microsoft Learn](https://learn.microsoft.com/en-us/graph/api/authenticationmethodsroot-list-userregistrationdetails?view=graph-rest-beta&tabs=http) instead.
+NOTE: This API has been deprecated. Please use [List userRegistrationDetails - Microsoft Graph beta](https://learn.microsoft.com/en-us/graph/api/authenticationmethodsroot-list-userregistrationdetails?view=graph-rest-beta&tabs=http) instead.
 
 ***
 
