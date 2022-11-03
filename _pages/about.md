@@ -11,6 +11,8 @@ This blog, it's content and opinions are my own and do not reflect the views of 
 Here are a few of the things I've built or contributed to.
 
 ### Graph PowerShell
+* [[cmd.ms]](https://cmd.ms)
+  * Your Microsoft Cloud command line.
 * [Graph X-Ray](https://graphxray.merill.net)
   * Fiddler for Microsoft! Convert your actions in the Azure Portal to Graph PowerShell commands.
 * [Graph Permissions Explorer](https://graphpermissions.merill.net)
