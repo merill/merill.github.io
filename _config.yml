@@ -113,6 +113,9 @@ footer:
     - label: "Linked In"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/merill"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://infosec.exchange/@merill"
 
 # Outputting
 permalink: /:year/:month/:title/
