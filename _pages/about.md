@@ -27,7 +27,7 @@ Here are a few of the things I've built or contributed to.
   * Collection of useful cmdlets for common Azure AD functionality
 
 ### Diversity & Inclusion
-* [Inclusiveness Analyzer](https://github.com/merill/InclusivenessAnalyzer)
+* [Inclusiveness Analyzer](https://inclusivenessanalyzer.com)
   * Helps developers write code and comments using inclusive language.
 * [Microsoft 365 Gender Pronoun Kit](https://github.com/merill/m365-gender-pronoun-kit)
   * Guidance for organisations to configure Microsoft 365 to allow employees to show their pronoun.
@@ -40,4 +40,4 @@ Hey folks,
 Need to get in touch with me? Feel free to contact me on Twitter or LinkedIn. If you want to drop me an email send to merill at merill.net
 
 Cheers,
-Merill
+<a rel="me" href="https://infosec.exchange/@merill">Merill</a>
