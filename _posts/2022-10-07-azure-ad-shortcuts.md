@@ -2,14 +2,14 @@
 title: Azure AD Shortcuts
 category: tips
 tags: []
-
+description: I’m a command line guy and hate having to click to get to various Azure AD pages. Over time I created these shortcuts and thought you might find them helpful. 
 ---
 
 NOTE: I have moved this page over to [https://github.com/microsoft/aka](https://github.com/microsoft/aka#readme) to allow other folks to contribute. Please head over there.
 
 I’m a command line guy and hate having to click to get to various Azure AD pages. 
 
-Overtime I created these shortcuts and thought you might find them helpful.
+Over time I created these shortcuts and thought you might find them helpful.
 
 Here is how it works. Open a new tab and type [aka.ms/ad/{command}](https://aka.ms/ad/list)
 
