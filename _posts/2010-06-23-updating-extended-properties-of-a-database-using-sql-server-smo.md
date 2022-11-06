@@ -4,7 +4,7 @@ title: Updating Extended Properties of a Database using SQL Server SMO
 date: 2010-06-23T11:28:01+00:00
 
 
-guid: http://merill.net/?p=710
+guid: https://merill.net/?p=710
 permalink: /2010/06/updating-extended-properties-of-a-database-using-sql-server-smo/
 dsq_thread_id:
   - "110433721"

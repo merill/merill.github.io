@@ -4,7 +4,7 @@ title: Configure the Belkin Play Max router for SLT ADSL Broadband
 date: 2011-09-16T21:57:54+00:00
 
 
-guid: http://merill.net/?p=737
+guid: https://merill.net/?p=737
 permalink: /2011/09/configure-the-belkin-play-max-router-for-slt-adsl-broadband/
 dsq_thread_id:
   - "971115777"
@@ -26,6 +26,6 @@ The connectivity is really good and I don't have any dead spots in the house.
 
 Here are a few screenshots of the config page for SLT's settings.
 
-<a href="https://merill.net/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE.png"><img class="alignnone size-medium wp-image-739" title="Belkin-Router-Config-PPPoE" src="https://merill.net/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE-300x216.png" alt="" width="300" height="216" /></a>
+<a href="https://merill.net/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE.png"><img class="alignnone size-medium wp-image-739" title="Belkin-Router-Config-PPPoE" src="/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE-300x216.png" alt="" width="300" height="216" /></a>
 
-<a href="https://merill.net/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE-VPI-VCI.png"><img class="alignnone size-medium wp-image-740" title="Belkin-Router-Config-PPPoE-VPI-VCI" src="https://merill.net/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE-VPI-VCI-300x206.png" alt="" width="300" height="206" /></a>
+<a href="https://merill.net/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE-VPI-VCI.png"><img class="alignnone size-medium wp-image-740" title="Belkin-Router-Config-PPPoE-VPI-VCI" src="/wp-content/uploads/2011/09/Belkin-Router-Config-PPPoE-VPI-VCI-300x206.png" alt="" width="300" height="206" /></a>

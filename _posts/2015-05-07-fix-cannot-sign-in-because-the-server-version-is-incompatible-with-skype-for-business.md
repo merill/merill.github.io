@@ -4,7 +4,7 @@ title: 'Fix: Cannot sign in because the server version is incompatible with Skyp
 date: 2015-05-07T10:56:15+00:00
 
 
-guid: http://merill.net/?p=1003
+guid: https://merill.net/?p=1003
 permalink: /2015/05/fix-cannot-sign-in-because-the-server-version-is-incompatible-with-skype-for-business/
 snap_isAutoPosted:
   - "1"

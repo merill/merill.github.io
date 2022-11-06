@@ -13,5 +13,5 @@ categories:
 ---
 <p>I have installed an interesting application - <a href="http://blogjet.com/">BlogJet</a>. It's a cool Windows client for my blog tool (as well as for other tools). Get your copy here: <a href="http://blogjet.com/">http://blogjet.com</a></p>
 <p><em>"Computers are useless. They can only give you answers." -- Pablo Picasso</em></p>
-<p><img height="299" alt="Optimism" src="http://www.merill.net/wp-content/uploads/contentbinary/OPTIMISM_small.jpg" width="636" border="0" /></p>
+<p><img height="299" alt="Optimism" src="/wp-content/uploads/contentbinary/OPTIMISM_small.jpg" width="636" border="0" /></p>
 <p><em>Nadeera mailed me this image yesterday and I was feeling down in the dumps too after my car&nbsp;met with an accident (my lousy driving). But things got better as the day progressed.</em></p>

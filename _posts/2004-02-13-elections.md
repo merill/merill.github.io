@@ -14,7 +14,7 @@ categories:
 <body xmlns="http://www.w3.org/1999/xhtml">
     <div class="Section1">
         <p class="MsoNormal">
-            Dammika and I have been having an interesting <a href="http://www.merill.net/commentview.aspx/4a7f4241-a161-4353-b764-63c8f3062c42">discussion</a> on
+            Dammika and I have been having an interesting <a href="https://merill.net/commentview.aspx/4a7f4241-a161-4353-b764-63c8f3062c42">discussion</a> on
             the current political state. Now this is what I like to see. What are your thoughts
             on this?
         </p>

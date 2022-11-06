@@ -4,7 +4,7 @@ title: Azure + iPad = Productivity
 date: 2017-08-14T09:01:02+00:00
 
 
-guid: http://merill.net/?p=1099
+guid: https://merill.net/?p=1099
 permalink: /2017/08/azure-ipad-productivity/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:69:"https://cdn-images-1.medium.com/fit/c/200/200/0*nOSMyIhdQJ9325FH.jpeg";s:10:"author_url";s:26:"https://medium.com/@merill";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"817f6762dc8c";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"99858869fb3c";s:6:"status";s:6:"public";s:3:"url";s:63:"https://medium.com/@merill/azure-ipad-productivity-817f6762dc8c";}'
@@ -36,7 +36,7 @@ The DevTest Labs is a neat Azure service that gives you a virtual machine runnin
 <strong>IFTT</strong>
 
 The dollars can add up quickly when you leave a high end virtual machine running on Azure. Using a combo of Azure Runbooks, web hooks and IFTT buttons, I was able to set up a nice widget that would let me quickly start up and shut down my VM. Using iOS widgets and IFTT, it was just a swipe away from the home screen on my iPad/iPhone to start up my VM.
-<img src="https://merill.net/wp-content/uploads/2017/08/IMG_0316-300x225.png" alt="" width="300" height="225" class="alignnone size-medium wp-image-1100" />
+<img src="/wp-content/uploads/2017/08/IMG_0316-300x225.png" alt="" width="300" height="225" class="alignnone size-medium wp-image-1100" />
 
 <strong>Jump Desktop Connect</strong>
 

@@ -4,7 +4,7 @@ title: 'Fix: Windows 10 (Technical Preview) OneDrive Sync Issues with Office 201
 date: 2015-05-13T21:37:17+00:00
 
 
-guid: http://merill.net/?p=1005
+guid: https://merill.net/?p=1005
 permalink: /2015/05/fix-windows-10-technical-preview-onedrive-sync-issues-with-office-2016-preview/
 snap_isAutoPosted:
   - "1"
@@ -32,6 +32,6 @@ I'm guessing this is something to do with the Office 2016 preview since I've bee
 
 This not only fixed the sync issue but also made Office use the local files instead of taking a few seconds connecting to OneDrive each time I saved.
 
-<a href="https://merill.net/wp-content/uploads/2015/05/OneDriveSync.png"><img class="alignnone size-full wp-image-1006" src="https://merill.net/wp-content/uploads/2015/05/OneDriveSync.png" alt="OneDriveSync" width="454" height="510" /></a>
+<a href="https://merill.net/wp-content/uploads/2015/05/OneDriveSync.png"><img class="alignnone size-full wp-image-1006" src="/wp-content/uploads/2015/05/OneDriveSync.png" alt="OneDriveSync" width="454" height="510" /></a>
 
 I know you can <a href="https://softwarekeep.ca/download-microsoft-office/office-for-mac.html">buy Microsoft Office for Mac</span></a> now, but after all these years, I'm going to stick to what I know.

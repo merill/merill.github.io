@@ -4,7 +4,7 @@ title: 'Windows 8 &#8211; New Folder'
 date: 2012-03-12T17:32:28+00:00
 
 
-guid: http://merill.net/?p=752
+guid: https://merill.net/?p=752
 permalink: /2012/03/windows-8-new-folder/
 dsq_thread_id:
   - "970085132"

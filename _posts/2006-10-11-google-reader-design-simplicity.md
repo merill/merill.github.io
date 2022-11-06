@@ -9,7 +9,7 @@ permalink: /2006/10/google-reader-design-simplicity/
 categories:
   - Technology
 ---
-<p>Joe Wilcox of <a href="http://www.microsoftmonitor.com/archives/2006/10/google_reader.html">Microsoft Monitor joins</a> the ever growing group that keeps <a href="http://www.merill.net/ByeByeSmartClientHelloWebApp.aspx">raving</a> about Google Reader.
+<p>Joe Wilcox of <a href="http://www.microsoftmonitor.com/archives/2006/10/google_reader.html">Microsoft Monitor joins</a> the ever growing group that keeps <a href="https://merill.net/ByeByeSmartClientHelloWebApp.aspx">raving</a> about Google Reader.
 </p><p>He touches on one of the key aspects in product design where many software products falter. 
 </p><blockquote><p>Little details matter, when evaluating the simplicity and complexity attributes. Unlike other readers that generally require users to mark or set preferences to mark feeds read, Google Reader automatically marks them read as the reader advances from one retrieved post to another. When the user scrolls down to the end of the page of cached feeds, Google Reader automatically refreshes the browser with new feeds. 
 </p></blockquote><blockquote><p>These functions work by default, without the user setting preferences. I see this as sign of Google designing for common tasks. By contrast, I see Microsoft often overly focused on customization. That's fine if the customization is a layer removed and the fundamental design principle is providing the <a href="http://www.microsoftmonitor.com/archives/005856.html">most utility for the most people</a>.

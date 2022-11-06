@@ -4,7 +4,7 @@ title: Dynamically setting multiple activity destinations in K2 with ASP .NET
 date: 2010-06-17T14:18:42+00:00
 
 
-guid: http://merill.net/?p=690
+guid: https://merill.net/?p=690
 permalink: /2010/06/dynamically-setting-multiple-activity-destinations-in-k2-with-asp-net/
 dsq_thread_id:
   - "108546559"
@@ -20,7 +20,7 @@ When building a typical workflow you usually know which user or group needs to p
 
 The issue I had to resolve recently involved having to build a workflow where the end-user gets to individually pick the users who will be performing the next step. Here's a view of  the workflow design.
 
-<a href="https://merill.net/wp-content/uploads/2010/06/K2-Multiple-Destination-Workflow.png"><img class="alignnone size-full wp-image-691" title="K2 Multiple=" src="https://merill.net/wp-content/uploads/2010/06/K2-Multiple-Destination-Workflow.png" alt="" width="696" height="478" /></a>
+<a href="https://merill.net/wp-content/uploads/2010/06/K2-Multiple-Destination-Workflow.png"><img class="alignnone size-full wp-image-691" title="K2 Multiple=" src="/wp-content/uploads/2010/06/K2-Multiple-Destination-Workflow.png" alt="" width="696" height="478" /></a>
 
 The scenario involved an application being submitted for review. The application would go to an individual who is responsible for assigning a group of users (destination users) to review the application. The twist was that it was the individual picking users for each application, it wasn't a fixed group or role. The screen mockup shows how they do it.
 
@@ -84,17 +84,17 @@ Fire up the K2 process designer and add the process xml field name <em>Reviewers
 
 To do this open the Process General Properties window, expand the right panel. From the list select the Process/Activity Data node, expand it to select the name of your process and right-click on it to click Add.. and get to the Add XML Field.
 
-<img class="alignnone size-full wp-image-696" title="K2 Add Process Xml Field" src="https://merill.net/wp-content/uploads/2010/06/K2-Add-Process-Xml-Field.png" alt="" width="306" height="192" />
+<img class="alignnone size-full wp-image-696" title="K2 Add Process Xml Field" src="/wp-content/uploads/2010/06/K2-Add-Process-Xml-Field.png" alt="" width="306" height="192" />
 
 Name the field 'Reviewers'.
 
-<img class="alignnone size-full wp-image-697" title="K2 Add Xml Field Dialog" src="https://merill.net/wp-content/uploads/2010/06/K2-Add-Xml-Field-Dialog.png" alt="" width="462" height="205" />
+<img class="alignnone size-full wp-image-697" title="K2 Add Xml Field Dialog" src="/wp-content/uploads/2010/06/K2-Add-Xml-Field-Dialog.png" alt="" width="462" height="205" />
 
 Switch to the XML Schema tab and browse to pick the xsd file created in Step 2.
 
 When you hit OK you should now be able to drill down and see the Users node.
 
-<img class="alignnone size-full wp-image-698" title="K2 Xml Field Step" src="https://merill.net/wp-content/uploads/2010/06/K2-Xml-Field-Step.png" alt="" width="188" height="183" />
+<img class="alignnone size-full wp-image-698" title="K2 Xml Field Step" src="/wp-content/uploads/2010/06/K2-Xml-Field-Step.png" alt="" width="188" height="183" />
 
 The key is to make sure that the node's icon has a green overlay which flags it as a repeating node. If it's there you should be fine. If not you need to repeat the steps above until you get the green overlay icon. Without it, the worklist item is not going to be assigned to multiple users.
 
@@ -102,18 +102,18 @@ The key is to make sure that the node's icon has a green overlay which flags it 
 
 Select the activity which needs to be executed in parallel and click on the Destination Users node. Switch to the Advanced Mode if you are not already in there (select the checkbox on the first page). In the Destination Rule Options select Plan per destination -&gt;All at once. We do this to tell K2 that when it goes to multiple users they will be able to open and work on the item in parallel.
 
-<img class="alignnone size-full wp-image-703" title="K2 Setup Destination 1" src="https://merill.net/wp-content/uploads/2010/06/K2-Setup-Destination-1.png" alt="" width="560" height="281" />
+<img class="alignnone size-full wp-image-703" title="K2 Setup Destination 1" src="/wp-content/uploads/2010/06/K2-Setup-Destination-1.png" alt="" width="560" height="281" />
 
 Select 'Create a slot for each destination', this way each destination user get's their own slot.
 
-<img class="alignnone size-full wp-image-704" title="K2 Setup Destination 2" src="https://merill.net/wp-content/uploads/2010/06/K2-Setup-Destination-2.png" alt="" width="543" height="328" />
+<img class="alignnone size-full wp-image-704" title="K2 Setup Destination 2" src="/wp-content/uploads/2010/06/K2-Setup-Destination-2.png" alt="" width="543" height="328" />
 
 Click on the Edit button to configure the Destination sets.
 
-<img class="alignnone size-full wp-image-705" title="K2 Setup Destination 3" src="https://merill.net/wp-content/uploads/2010/06/K2-Setup-Destination-3.png" alt="" width="532" height="198" />
+<img class="alignnone size-full wp-image-705" title="K2 Setup Destination 3" src="/wp-content/uploads/2010/06/K2-Setup-Destination-3.png" alt="" width="532" height="198" />
 
 Click on the ellipsis to open the Context Browser, drill down to the Process Xml field that we setup earlier and drag the Users repeating node (the one with the green icon) onto Name column.
 
-<img class="alignnone size-full wp-image-706" title="K2 Setup Destination 4" src="https://merill.net/wp-content/uploads/2010/06/K2-Setup-Destination-4.png" alt="" width="734" height="323" />
+<img class="alignnone size-full wp-image-706" title="K2 Setup Destination 4" src="/wp-content/uploads/2010/06/K2-Setup-Destination-4.png" alt="" width="734" height="323" />
 
 You should now be all set to test out your dynamic multiple destination users! Running through the workflow you will now see that the worklist item gets assigned to each of the reviewers in parallel.

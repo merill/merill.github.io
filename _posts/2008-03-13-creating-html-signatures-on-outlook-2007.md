@@ -33,7 +33,7 @@ Here is a step-by-step on how to do this.
 2. Click on the Image button and upload the image that you want to include in your signature. Format the rest of your signature and Publish it. 
 </p>
 <p>
-&nbsp;<img src="http://www.merill.net/wp-content/uploads/files/GooglePagesSignature.png" alt="" align="left" />
+&nbsp;<img src="/wp-content/uploads/files/GooglePagesSignature.png" alt="" align="left" />
 </p>
 <p>
 &nbsp;
@@ -75,17 +75,17 @@ Here is a step-by-step on how to do this.
 3. In the resulting page, highlight any part of the page that you want to include in your signature and Copy it.
 </p>
 <p>
-&nbsp; <img src="http://www.merill.net/wp-content/uploads/files/GoogleCopySignature.png" alt="" />
+&nbsp; <img src="/wp-content/uploads/files/GoogleCopySignature.png" alt="" />
 </p>
 <p>
 4. Switch to Outlook 2007. In a new message, on the Message tab, in the Include group, click Signature, and then click Signatures.
 </p>
 <p>
 <br />
-<img src="http://www.merill.net/wp-content/uploads/files/Outlook2007SignatureStep2.gif" alt="" /><br />
+<img src="/wp-content/uploads/files/Outlook2007SignatureStep2.gif" alt="" /><br />
 6. On the E-mail Signature tab, click New. Type a name for the signature, and then click OK. 
 </p>
 <p>
 7. In the Edit signature box, paste in the signature that you copied from Google Pages. &nbsp;
 </p>
-<img src="http://www.merill.net/wp-content/uploads/files/Outlook2007SignatureStep3.gif" alt="" /><br />
+<img src="/wp-content/uploads/files/Outlook2007SignatureStep3.gif" alt="" /><br />

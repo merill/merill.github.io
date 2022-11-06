@@ -11,5 +11,5 @@ dsq_thread_id:
 categories:
   - .NET
 ---
-<p><img height="273" alt="GetvwdgraphicS" src="http://www.merill.net/wp-content/uploads/contentbinary/getvwdgraphicS.jpg" width="363" border="0" /></p>
+<p><img height="273" alt="GetvwdgraphicS" src="/wp-content/uploads/contentbinary/getvwdgraphicS.jpg" width="363" border="0" /></p>
 <p>Visual Studio Beta 2 Released along with a&nbsp;&lsquo;Go Live&rsquo; license, so you can start deploying your&nbsp;.NET 2.0 solutions on production machines themselves. What are you waiting for? Go get the download.</p>

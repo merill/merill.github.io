@@ -4,7 +4,7 @@ title: Standalone Installer for Azure PowerShell modules
 date: 2014-12-09T12:49:40+00:00
 
 
-guid: http://merill.net/?p=976
+guid: https://merill.net/?p=976
 permalink: /2014/12/standalone-installer-for-azure-powershell-modules/
 snap_isAutoPosted:
   - "1"
@@ -25,4 +25,4 @@ The <a href="http://azure.microsoft.com/en-us/documentation/articles/install-con
 
 Fortunately the standalone installer is available on GitHub at <a href="https://github.com/Azure/azure-sdk-tools/releases">https://github.com/Azure/azure-sdk-tools/releases</a>
 
-<a href="https://merill.net/wp-content/uploads/2014/12/AzurePowershell.png"><img class="alignnone size-full wp-image-977" src="https://merill.net/wp-content/uploads/2014/12/AzurePowershell.png" alt="AzurePowershell" width="646" height="250" /></a>
+<a href="https://merill.net/wp-content/uploads/2014/12/AzurePowershell.png"><img class="alignnone size-full wp-image-977" src="/wp-content/uploads/2014/12/AzurePowershell.png" alt="AzurePowershell" width="646" height="250" /></a>

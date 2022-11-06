@@ -4,7 +4,7 @@ title: 'Why I&#8217;m strongly considering temporarily moving to an iPhone till 
 date: 2014-11-12T19:26:43+00:00
 
 
-guid: http://merill.net/?p=881
+guid: https://merill.net/?p=881
 permalink: /2014/11/why-im-strongly-considering-temporarily-moving-to-an-iphone-till-windows-phone-catches-up/
 dsq_thread_id:
   - "3216710667"

@@ -13,4 +13,4 @@ categories:
 ---
 Google has started yet another war, this time taking on chat. MSN, Yahoo, Skype watchout!
 Go download from <a href="http://www.google.com/talk/">http://www.google.com/talk/</a> my username is merillf@gmail.com and I'm waiting for someone to chat with me on GTalk!<br>
-<img src="http://www.merill.net/wp-content/uploads/contentbinary/googletalk.gif" width="235" height="328" alt="" border="0">
+<img src="/wp-content/uploads/contentbinary/googletalk.gif" width="235" height="328" alt="" border="0">

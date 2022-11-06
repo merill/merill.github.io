@@ -12,5 +12,5 @@ categories:
   - Microsoft
 ---
 <p>Finally one less beta on my system.</p>
-<p><img alt="Office2007Download" src="http://www.merill.net/wp-content/uploads/binary/Office2007Download_small.jpg" border="0" /></p>
+<p><img alt="Office2007Download" src="/wp-content/uploads/binary/Office2007Download_small.jpg" border="0" /></p>
 <p>Office 2007 here I come!</p>

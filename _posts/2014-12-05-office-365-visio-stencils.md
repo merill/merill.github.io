@@ -4,7 +4,7 @@ title: Office 365 Visio Stencils
 date: 2014-12-05T11:52:02+00:00
 
 
-guid: http://merill.net/?p=925
+guid: https://merill.net/?p=925
 permalink: /2014/12/office-365-visio-stencils/
 dsq_thread_id:
   - "3291978874"
@@ -29,4 +29,4 @@ The new MSDN articles and help documents use these stencils so it's nice of Micr
 
 Here's a small sample of the available icons.
 
-<a href="https://merill.net/wp-content/uploads/2014/12/Office-365-Stencils.png"><img class="alignnone size-full wp-image-927" src="https://merill.net/wp-content/uploads/2014/12/Office-365-Stencils.png" alt="Office 365 Stencils" width="371" height="530" /></a>
+<a href="https://merill.net/wp-content/uploads/2014/12/Office-365-Stencils.png"><img class="alignnone size-full wp-image-927" src="/wp-content/uploads/2014/12/Office-365-Stencils.png" alt="Office 365 Stencils" width="371" height="530" /></a>

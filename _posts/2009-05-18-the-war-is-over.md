@@ -4,7 +4,7 @@ title: The War is Over
 date: 2009-05-18T16:25:43+00:00
 
 
-guid: http://merill.net/?p=582
+guid: https://merill.net/?p=582
 permalink: /2009/05/the-war-is-over/
 dsq_thread_id:
   - "77713034"

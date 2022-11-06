@@ -11,4 +11,4 @@ dsq_thread_id:
 categories:
   - Jokes
 ---
-Sulochanaa mailed me this joke, which takes a play on Tsunami.&nbsp;<a href="http://www.merill.net/wp-content/uploads/contentbinary/An_20Asteroid_20hits_20Colombo_20city.doc">An Asteroid hits Colombo city</a>
+Sulochanaa mailed me this joke, which takes a play on Tsunami.&nbsp;<a href="https://merill.net/wp-content/uploads/contentbinary/An_20Asteroid_20hits_20Colombo_20city.doc">An Asteroid hits Colombo city</a>

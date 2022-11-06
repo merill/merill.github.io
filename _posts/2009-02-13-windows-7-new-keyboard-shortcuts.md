@@ -4,7 +4,7 @@ title: 'Windows 7: New Keyboard Shortcuts'
 date: 2009-02-13T06:39:26+00:00
 
 
-guid: http://merill.net/2009/02/windows-7-new-keyboard-shortcuts/
+guid: https://merill.net/2009/02/windows-7-new-keyboard-shortcuts/
 permalink: /2009/02/windows-7-new-keyboard-shortcuts/
 dsq_thread_id:
   - "77713013"

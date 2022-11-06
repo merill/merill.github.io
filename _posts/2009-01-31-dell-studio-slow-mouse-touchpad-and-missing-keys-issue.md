@@ -4,7 +4,7 @@ title: 'Dell Studio: Slow mouse (touchpad) and missing keys issue'
 date: 2009-01-31T09:20:29+00:00
 
 
-guid: http://merill.net/2009/01/dell-studio-slow-mouse-touchpad-and-missing-keys-issue/
+guid: https://merill.net/2009/01/dell-studio-slow-mouse-touchpad-and-missing-keys-issue/
 permalink: /2009/01/dell-studio-slow-mouse-touchpad-and-missing-keys-issue/
 dsq_thread_id:
   - "77725572"

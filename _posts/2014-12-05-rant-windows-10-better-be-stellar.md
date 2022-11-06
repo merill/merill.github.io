@@ -4,7 +4,7 @@ title: 'Rant: Windows 10 better be stellar'
 date: 2014-12-05T06:24:16+00:00
 
 
-guid: http://merill.net/?p=918
+guid: https://merill.net/?p=918
 permalink: /2014/12/rant-windows-10-better-be-stellar/
 dsq_thread_id:
   - "3291267045"

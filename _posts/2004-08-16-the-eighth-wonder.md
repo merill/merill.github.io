@@ -14,5 +14,5 @@ categories:
 <DIV class=Section1>
 <DIV>
 <P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">One of my friends forwarded this to me. Would you risk entering this place?</SPAN></P></DIV>
-<P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Verdana"></SPAN></P></DIV><IMG class=inlinedMailPicture style="WIDTH: 504px; HEIGHT: 335px" height=310 src="http://www.merill.net/wp-content/uploads/contentbinary/pic19668.jpg" width=446 border=0> 
+<P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Verdana"></SPAN></P></DIV><IMG class=inlinedMailPicture style="WIDTH: 504px; HEIGHT: 335px" height=310 src="/wp-content/uploads/contentbinary/pic19668.jpg" width=446 border=0> 
 <DIV></DIV>

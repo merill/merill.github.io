@@ -4,7 +4,7 @@ title: 'Android users can&#8217;t stop raving about the Lumia 530'
 date: 2014-12-09T06:52:07+00:00
 
 
-guid: http://merill.net/?p=973
+guid: https://merill.net/?p=973
 permalink: /2014/12/android-users-cant-stop-raving-about-the-lumia-530/
 snap_isAutoPosted:
   - "1"
@@ -24,4 +24,4 @@ format: image
 ---
 Came across these comments on the 1/2 price Telstra Lumia 530 deal for $39 <a href="https://www.ozbargain.com.au/node/173750">https://www.ozbargain.com.au/node/173750</a>
 
-<a href="https://merill.net/wp-content/uploads/2014/12/Lumia-530-Raving.png"><img class="alignnone size-full wp-image-974" src="https://merill.net/wp-content/uploads/2014/12/Lumia-530-Raving.png" alt="Lumia 530 Raving" width="620" height="568" /></a>
+<a href="https://merill.net/wp-content/uploads/2014/12/Lumia-530-Raving.png"><img class="alignnone size-full wp-image-974" src="/wp-content/uploads/2014/12/Lumia-530-Raving.png" alt="Lumia 530 Raving" width="620" height="568" /></a>

@@ -4,7 +4,7 @@ title: Things to watch out for when migrating SharePoint 2010 FAST Search to Sha
 date: 2013-05-27T14:08:12+00:00
 
 
-guid: http://merill.net/?p=813
+guid: https://merill.net/?p=813
 permalink: /2013/05/things-to-watch-out-for-when-migrating-sharepoint-2010-fast-search-to-sharepoint-2013/
 dsq_thread_id:
   - "1324417246"

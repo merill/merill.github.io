@@ -4,7 +4,7 @@ title: Love never fails
 date: 2014-12-08T05:05:37+00:00
 
 
-guid: http://merill.net/?p=970
+guid: https://merill.net/?p=970
 permalink: /2014/12/love-never-fails/
 snap_isAutoPosted:
   - "1"

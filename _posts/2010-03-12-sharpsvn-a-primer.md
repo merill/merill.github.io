@@ -4,7 +4,7 @@ title: 'SharpSvn: A Primer'
 date: 2010-03-12T10:03:14+00:00
 
 
-guid: http://merill.net/2010/03/sharpsvn-a-primer/
+guid: https://merill.net/2010/03/sharpsvn-a-primer/
 permalink: /2010/03/sharpsvn-a-primer/
 dsq_thread_id:
   - "77802068"

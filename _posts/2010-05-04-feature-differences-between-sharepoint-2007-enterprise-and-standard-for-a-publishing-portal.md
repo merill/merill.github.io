@@ -4,7 +4,7 @@ title: Feature differences between SharePoint 2007 Enterprise and Standard for a
 date: 2010-05-04T09:26:51+00:00
 
 
-guid: http://merill.net/?p=673
+guid: https://merill.net/?p=673
 permalink: /2010/05/feature-differences-between-sharepoint-2007-enterprise-and-standard-for-a-publishing-portal/
 dsq_thread_id:
   - "92122147"
@@ -22,7 +22,7 @@ I basically resorted to manually comparing the differences between a site templa
 
 Here's the list if anyone ever needs this.
 
-<a href="https://merill.net/wp-content/uploads/2010/05/Publishing-Features-Standard-vs-Enterpise.png"><img class="alignnone size-medium wp-image-674" title="Publishing-Features-Standard-vs-Enterpise" src="https://merill.net/wp-content/uploads/2010/05/Publishing-Features-Standard-vs-Enterpise-300x222.png" alt="" width="300" height="222" /></a>
+<a href="https://merill.net/wp-content/uploads/2010/05/Publishing-Features-Standard-vs-Enterpise.png"><img class="alignnone size-medium wp-image-674" title="Publishing-Features-Standard-vs-Enterpise" src="/wp-content/uploads/2010/05/Publishing-Features-Standard-vs-Enterpise-300x222.png" alt="" width="300" height="222" /></a>
 
 Remove these features from a template created in the Enterprise edition if you want to deploy it on a Standard edition. Obviously you need to test to ensure that your template is not actually using any of the Enterprise features.
 <code>

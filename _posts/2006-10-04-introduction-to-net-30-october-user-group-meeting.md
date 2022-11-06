@@ -12,4 +12,4 @@ categories:
 <p>I will be presenting an &lsquo;Introduction to the .NET Framework 3.0&rsquo; today at the <a href="http://dotnetforum.lk/forums/18673/ShowPost.aspx">October User Group meeting</a> which will be held at the Microsoft &ndash; Sri Lanka.&nbsp;</p>
 <p><a href="http://manzi.wordpress.com/">Manoj</a> too will be co-presenting with me on Atlas,&nbsp;so remember to drop in early before the house gets full. </p>
 <p>NB: If your planning on attending, you might be interested in checking this post <a href="http://dotnetforum.lk/forums/18769/ShowPost.aspx">http://dotnetforum.lk/forums/18769/ShowPost.aspx</a>.</p>
-<p><img alt="Communitylogo" src="http://www.merill.net/wp-content/uploads/contentbinary/communitylogo.png" border="0" /></p>
+<p><img alt="Communitylogo" src="/wp-content/uploads/contentbinary/communitylogo.png" border="0" /></p>

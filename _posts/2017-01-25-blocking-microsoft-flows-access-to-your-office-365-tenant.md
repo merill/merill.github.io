@@ -4,7 +4,7 @@ title: 'Blocking Microsoft Flow&#8217;s access to your Office 365 tenant'
 date: 2017-01-25T14:33:26+00:00
 
 
-guid: http://merill.net/?p=1074
+guid: https://merill.net/?p=1074
 permalink: /2017/01/blocking-microsoft-flows-access-to-your-office-365-tenant/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:69:"https://cdn-images-1.medium.com/fit/c/200/200/0*nOSMyIhdQJ9325FH.jpeg";s:10:"author_url";s:26:"https://medium.com/@merill";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"227bcec7bee9";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"99858869fb3c";s:6:"status";s:6:"public";s:3:"url";s:97:"https://medium.com/@merill/blocking-microsoft-flows-access-to-your-office-365-tenant-227bcec7bee9";}'

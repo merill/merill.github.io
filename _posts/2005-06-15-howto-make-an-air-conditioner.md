@@ -36,7 +36,7 @@ I need to see how I can coax my friend working at <a href="http://www.auscoair.
 
 The system will cool an average room to a comfortable level in approximately 15-20 minutes. Depending on flow rate, a full bucket of water will last approximately 1-3 hours.
 
-It doesn't rip quite as hard as central air, but for less than $30 CAD I'm not complaining.<br clear="all" /><img src="http://www.merill.net/wp-content/uploads/contentbinary/05_2D06_2D15_2DWaterCooler.jpg" alt="Water Cooler" width="168" height="225" border="0" />
+It doesn't rip quite as hard as central air, but for less than $30 CAD I'm not complaining.<br clear="all" /><img src="/wp-content/uploads/contentbinary/05_2D06_2D15_2DWaterCooler.jpg" alt="Water Cooler" width="168" height="225" border="0" />
 
 </div>
 &nbsp;

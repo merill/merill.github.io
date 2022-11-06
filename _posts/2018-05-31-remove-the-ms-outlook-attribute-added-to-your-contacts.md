@@ -4,7 +4,7 @@ title: Remove the ms-outlook attribute added to your contacts
 date: 2018-05-31T20:27:52+00:00
 
 
-guid: http://merill.net/?p=1176
+guid: https://merill.net/?p=1176
 permalink: /2018/05/remove-the-ms-outlook-attribute-added-to-your-contacts/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:69:"https://cdn-images-1.medium.com/fit/c/200/200/0*nOSMyIhdQJ9325FH.jpeg";s:10:"author_url";s:26:"https://medium.com/@merill";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"a05a2a722663";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"99858869fb3c";s:6:"status";s:6:"public";s:3:"url";s:94:"https://medium.com/@merill/remove-the-ms-outlook-attribute-added-to-your-contacts-a05a2a722663";}'

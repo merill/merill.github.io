@@ -4,7 +4,7 @@ title: ULS Viewer stops working
 date: 2011-04-12T12:38:42+00:00
 
 
-guid: http://merill.net/?p=719
+guid: https://merill.net/?p=719
 permalink: /2011/04/uls-viewer-stops-working/
 dsq_thread_id:
   - "277425343"

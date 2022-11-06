@@ -4,7 +4,7 @@ title: 'Troubleshooting the &#8216;403 Forbidden&#8217; error for SharePoint &#0
 date: 2012-04-21T07:31:01+00:00
 
 
-guid: http://merill.net/?p=761
+guid: https://merill.net/?p=761
 permalink: /2012/04/troubleshooting-the-403-forbidden-error-for-sharepoint-asp-net-apps/
 dsq_thread_id:
   - "968818312"

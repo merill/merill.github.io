@@ -4,7 +4,7 @@ title: Script to Download Yammer Image Profile
 date: 2014-06-30T14:37:01+00:00
 
 
-guid: http://merill.net/?p=868
+guid: https://merill.net/?p=868
 permalink: /2014/06/script-to-download-yammer-image-profile/
 dsq_thread_id:
   - "2806524283"

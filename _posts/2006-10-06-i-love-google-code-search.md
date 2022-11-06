@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Tips
 ---
-<p><img alt="Codesearch_logo_sm" src="http://www.merill.net/codesearch_logo_sm.gif" border="0" /></p>
+<p><img alt="Codesearch_logo_sm" src="/codesearch_logo_sm.gif" border="0" /></p>
 <p>This is wicked cool! Check out google code search to find out how various commands are being used by developers. </p>
 <p>Say you want to figure out how to use the File.ReadAllText method from C#, it&rsquo;s as simple as typing <font face="Courier New" size="2">lang:C# File.ReadAllText</font> and this is what you <a href="http://google.com/codesearch?q=lang%3AC%23+File.ReadAllText&amp;btnG=Search+Code">get</a>. For VB use <font face="Courier New" size="2">lang:basic File.ReadAllText</font> </p>
 <p>What&rsquo;s cool is that it even looks up code&nbsp;inside zip files. Wait, it gets better, drill-down into a hit and&nbsp;you see a list of all the&nbsp;other code files in that zip/project.&nbsp;</p>

@@ -27,6 +27,6 @@ categories:
 <p>The whole experience was&nbsp;quite good, but it will be a long time before these become mainstream (I&rsquo;m only talking about Colombo). One impeding factor is that unlike in most other countries, the business model is not ad based instead an additional payment of 25/&ndash; is charged for each ticket. Given that these reservations are only available for balcony tickets this is not a major problem because I learned <a href="https://ticketbud.com/">how to sell tickets online</a> a while ago and understand the process.</p>
 <p>In addition to this the membership fee costs 250/&ndash; but as a promotional offer is free till August 23 (tomorrow). If I were you I would simply create a login for myself just in case. My advise to the company, drop this membership business.</p>
 <p>eTickets.lk uses a simple&nbsp;AJAXy interface to show the box plan and allows you to select the seats you want to book and add them to your shopping cart.</p>
-<p><img alt="eTickets.lk" src="http://www.merill.net/wp-content/uploads/contentbinary/eTickets.jpg" border="0" /></p>
+<p><img alt="eTickets.lk" src="/wp-content/uploads/contentbinary/eTickets.jpg" border="0" /></p>
 <p>The current listing shows only Liberty and Majestic cinemas, but they plan to add more stuff like concerts, theater and seminars.</p>
 <p>Oh and BTW the site is developed using ASP.NET, goody, goody!</p>

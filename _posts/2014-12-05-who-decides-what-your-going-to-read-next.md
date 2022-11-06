@@ -4,7 +4,7 @@ title: Who decides what your going to read next?
 date: 2014-12-05T00:24:01+00:00
 
 
-guid: http://merill.net/?p=908
+guid: https://merill.net/?p=908
 permalink: /2014/12/who-decides-what-your-going-to-read-next/
 dsq_thread_id:
   - "3290272759"

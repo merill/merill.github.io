@@ -12,4 +12,4 @@ categories:
   - Tips
 ---
 <p>I&rsquo;m in love with Skype&rsquo;s new integration feature with Outlook contacts, now I can pull up phone numbers in super quick time without having to use Outlook&rsquo;s contact search.</p>
-<p><img alt="Skype" src="http://www.merill.net/wp-content/uploads/contentbinary/Skype.jpg" border="0" /></p>
+<p><img alt="Skype" src="/wp-content/uploads/contentbinary/Skype.jpg" border="0" /></p>

@@ -4,7 +4,7 @@ title: 'A heart transformed by grace looks at the mistakes of others &#038; says
 date: 2014-12-05T07:09:47+00:00
 
 
-guid: http://merill.net/?p=921
+guid: https://merill.net/?p=921
 permalink: /2014/12/a-heart-transformed-by-grace-looks-at-the-mistakes-of-others-says-me-too-i-am-no-better-how-can-i-help-it-doesnt-say-i-knew-it/
 dsq_thread_id:
   - "3291406804"

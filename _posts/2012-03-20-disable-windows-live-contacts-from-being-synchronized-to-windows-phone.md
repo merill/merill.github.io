@@ -4,7 +4,7 @@ title: Disable Windows Live Contacts from being synchronized to Windows Phone
 date: 2012-03-20T10:50:18+00:00
 
 
-guid: http://merill.net/?p=758
+guid: https://merill.net/?p=758
 permalink: /2012/03/disable-windows-live-contacts-from-being-synchronized-to-windows-phone/
 dsq_thread_id:
   - "969082323"

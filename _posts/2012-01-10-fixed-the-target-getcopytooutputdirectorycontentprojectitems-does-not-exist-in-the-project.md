@@ -4,7 +4,7 @@ title: 'Fixed: The target &#8220;GetCopyToOutputDirectoryContentProjectItems&#82
 date: 2012-01-10T23:08:36+00:00
 
 
-guid: http://merill.net/?p=746
+guid: https://merill.net/?p=746
 permalink: /2012/01/fixed-the-target-getcopytooutputdirectorycontentprojectitems-does-not-exist-in-the-project/
 dsq_thread_id:
   - "968672787"

@@ -24,4 +24,4 @@ color:navy'>&nbsp;</span></p>
 
 </div>
 
-<div class="inlinedMailPictureBox"><a href="http://www.merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg"><img border="0" class="inlinedMailPicture" src="http://www.merill.net/wp-content/uploads/contentbinary/tzunami%20started-thumb.dasblog.JPG"></a><br><a class="inlinedMailPictureLink" href="http://www.merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg">tzunami started.jpg</a></div><p></p>
+<div class="inlinedMailPictureBox"><a href="https://merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg"><img border="0" class="inlinedMailPicture" src="/wp-content/uploads/contentbinary/tzunami%20started-thumb.dasblog.JPG"></a><br><a class="inlinedMailPictureLink" href="https://merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg">tzunami started.jpg</a></div><p></p>

@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Utilities
 ---
-<p><a href="http://lyricsplugin.com/"><img alt="Lyricspluginlogo" src="http://www.merill.net/wp-content/uploads/contentbinary/lyricspluginlogo.gif" border="0" /></a></p>
-<p><img alt="Lyricsplugin" src="http://www.merill.net/wp-content/uploads/contentbinary/lyricsplugin_small.jpg" border="0" /></p>
+<p><a href="http://lyricsplugin.com/"><img alt="Lyricspluginlogo" src="/wp-content/uploads/contentbinary/lyricspluginlogo.gif" border="0" /></a></p>
+<p><img alt="Lyricsplugin" src="/wp-content/uploads/contentbinary/lyricsplugin_small.jpg" border="0" /></p>
 <p>from <a href="http://www.lifehacker.com/software/download/download-of-the-day-lyrics-plugin-windows-204482.php">Lifehacker</a>: Lyrics Plugin is a piece of software tailored for music fans. To put it simply - it is an add-on to view lyrics in WinAmp or Windows Media Player. No more searching for lyrics. Just start listening to your favourite songs and lyrics will be displayed automatically. Oh, and if lyrics is not found, you can add it yourself :) </p>
 <p>[<a href="http://lyricsplugin.com/">Download</a>]</p>

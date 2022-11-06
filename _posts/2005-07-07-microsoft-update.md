@@ -12,4 +12,4 @@ categories:
   - Microsoft
 ---
 <p>Have you browsed to the shiny new <a href="http://update.microsoft.com/microsoftupdate/">Microsoft Update</a> site? Get all Microsoft products updated at one point (Windows and Office currently).</p>
-<p><img height="271" alt="Microsoft Update" src="http://www.merill.net/wp-content/uploads/contentbinary/05_2D7_2D2005microsoftupdate_small.jpg" width="320" border="0" /></p>
+<p><img height="271" alt="Microsoft Update" src="/wp-content/uploads/contentbinary/05_2D7_2D2005microsoftupdate_small.jpg" width="320" border="0" /></p>

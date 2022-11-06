@@ -52,8 +52,8 @@ categories:
 <p>END</p>
 <p>SELECT</font><font size="2"> </font><font color="#ff00ff" size="2">COUNT</font><font color="#808080" size="2">(*)</font><font size="2"> </font><font color="#0000ff" size="2">FROM</font><font size="2"> #filetab</p></font><font color="#0000ff" size="2">
 <p>DROP</font><font size="2"> </font><font color="#0000ff" size="2">TABLE</font><font size="2"> #filetab</p>
-<p dir="ltr"></font><a href="http://www.merill.net/wp-content/uploads/binary/Query1.sql">Query1.sql (722 KB)</a></p>
-<p dir="ltr"><a href="http://www.merill.net/wp-content/uploads/binary/Query2.sql">Query2.sql (401 KB)</a></p>
+<p dir="ltr"></font><a href="https://merill.net/wp-content/uploads/binary/Query1.sql">Query1.sql (722 KB)</a></p>
+<p dir="ltr"><a href="https://merill.net/wp-content/uploads/binary/Query2.sql">Query2.sql (401 KB)</a></p>
 <p dir="ltr">&nbsp;</p>
 <p dir="ltr">If you don&rsquo;t believe me, you can download the two sql statements and try running them on your machine. These scripts create a temporary table, insert data and then drop the table.</p>
 <p dir="ltr"><em>Query 1&nbsp;: First run 2 min 48 seconds, second run 2 min 28 seconds</em></p>

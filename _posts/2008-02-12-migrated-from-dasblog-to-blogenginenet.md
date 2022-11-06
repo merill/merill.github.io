@@ -40,7 +40,7 @@ This is what I did to get my posts over to BlogEngine.NET
 </p>
   
 <p>
-The next version of dasBlog is scheduled to include this tool out of the box but right now you&#39;ll need to download the <a href="http://www.paulvanbrenk.com/blog/2006/12/27/BlogMLSupportForDasBlogBeta.aspx">zip</a> that <a href="http://www.paulvanbrenk.com/blog">Paul Van Brenk</a> has made available. You&#39;ll need to run the code from Visual Studio and it exports all your posts into the handy BlogML format (If anyone want&#39;s this in a nice UI let me know and I can upload it). Edit: I&#39;ve released this now, see <a href="/post/2008/03/DasBlog-to-BlogML-Converter.aspx">http://merill.net/post/2008/03/DasBlog-to-BlogML-Converter.aspx</a>&nbsp; 
+The next version of dasBlog is scheduled to include this tool out of the box but right now you&#39;ll need to download the <a href="http://www.paulvanbrenk.com/blog/2006/12/27/BlogMLSupportForDasBlogBeta.aspx">zip</a> that <a href="http://www.paulvanbrenk.com/blog">Paul Van Brenk</a> has made available. You&#39;ll need to run the code from Visual Studio and it exports all your posts into the handy BlogML format (If anyone want&#39;s this in a nice UI let me know and I can upload it). Edit: I&#39;ve released this now, see <a href="/post/2008/03/DasBlog-to-BlogML-Converter.aspx">https://merill.net/post/2008/03/DasBlog-to-BlogML-Converter.aspx</a>&nbsp; 
 </p>
   
 <p>

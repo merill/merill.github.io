@@ -4,7 +4,7 @@ title: Workflow does not start automatically when bulk inserting items
 date: 2010-03-11T08:18:27+00:00
 
 
-guid: http://merill.net/2010/03/workflow-does-not-start-automatically-when-bulk-inserting-items/
+guid: https://merill.net/2010/03/workflow-does-not-start-automatically-when-bulk-inserting-items/
 permalink: /2010/03/workflow-does-not-start-automatically-when-bulk-inserting-items/
 dsq_thread_id:
   - "77838167"

@@ -4,7 +4,7 @@ title: Fix for MacOS Jittery Dock
 date: 2017-12-13T21:04:53+00:00
 
 
-guid: http://merill.net/?p=1114
+guid: https://merill.net/?p=1114
 permalink: /2017/12/fix-for-macos-jittery-dock/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:69:"https://cdn-images-1.medium.com/fit/c/200/200/0*nOSMyIhdQJ9325FH.jpeg";s:10:"author_url";s:26:"https://medium.com/@merill";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"5d41520043be";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"99858869fb3c";s:6:"status";s:6:"public";s:3:"url";s:66:"https://medium.com/@merill/fix-for-macos-jittery-dock-5d41520043be";}'
@@ -29,4 +29,4 @@ Is your MacOS dock jittering and driving you nuts? In my case this was being cau
 
 The issue is most probably being caused by the last app you added to the list (in my case it was Synergy).
 
-<img class="alignnone wp-image-1117 size-large" src="https://merill.net/wp-content/uploads/2017/12/Jittery-1024x878.jpg" alt="" width="660" height="566" />
+<img class="alignnone wp-image-1117 size-large" src="/wp-content/uploads/2017/12/Jittery-1024x878.jpg" alt="" width="660" height="566" />

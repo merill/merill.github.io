@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Tips
 ---
-<p><img alt="Robotemployees" src="http://www.merill.net/wp-content/uploads/contentbinary/robotemployees.jpg" border="0" /></p>
+<p><img alt="Robotemployees" src="/wp-content/uploads/contentbinary/robotemployees.jpg" border="0" /></p>
 <p>An excellent <a href="http://headrush.typepad.com/creating_passionate_users/2006/10/knocking_the_ex.html">post</a> by Kathy, here&rsquo;s an extract:</p>
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 <p>In an earlier post I said, <i>"If you asked the head of a company which employee they'd prefer: the perfect team player who doesn't rock the boat or the one who is brave enough to stand up and fight for something rather than accept the watered-down group think that maintains the status quo (or makes things worse), who would they SAY they'd choose? Who would they REALLY choose?</I></P>

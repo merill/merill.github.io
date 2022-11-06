@@ -4,7 +4,7 @@ title: One small tip for parents
 date: 2014-12-04T21:47:50+00:00
 
 
-guid: http://merill.net/?p=887
+guid: https://merill.net/?p=887
 permalink: /2014/12/one-small-tip-for-parents/
 dsq_thread_id:
   - "3289699873"

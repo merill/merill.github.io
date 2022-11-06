@@ -4,7 +4,7 @@ title: Installing SharePoint Server 2010 on Windows 7
 date: 2009-11-23T07:37:15+00:00
 
 
-guid: http://merill.net/2009/11/installing-sharepoint-serve-2010-on-windows-7/
+guid: https://merill.net/2009/11/installing-sharepoint-serve-2010-on-windows-7/
 permalink: /2009/11/installing-sharepoint-serve-2010-on-windows-7/
 dsq_thread_id:
   - "77723161"

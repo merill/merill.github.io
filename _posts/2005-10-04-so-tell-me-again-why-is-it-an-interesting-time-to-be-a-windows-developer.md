@@ -21,6 +21,6 @@ Microsoft’s largest assault ever on the enterprise.</p>
 <p>- The breath and depth of new technology from Microsoft is 
 staggering, from four new APIs to new versions of its Office, SharePoint, Visual 
 Studio, CRM, ERP and other apps.</p>
-<p><a href="http://www.infoworld.com/infoworld/img/40FEenterprise_ch1.gif"><img style="WIDTH: 500px; HEIGHT: 470px" alt="" hspace="0" src="http://www.merill.net/wp-content/uploads/contentbinary/40FEenterprise_ch1.gif" border="0"></a></p>
+<p><a href="http://www.infoworld.com/infoworld/img/40FEenterprise_ch1.gif"><img style="WIDTH: 500px; HEIGHT: 470px" alt="" hspace="0" src="/wp-content/uploads/contentbinary/40FEenterprise_ch1.gif" border="0"></a></p>
 <p>So what are you waiting for? Get your ass down to <a href="http://www.teched.lk">Tech.Ed Sri Lanka</a> and check them all 
 out.</p>

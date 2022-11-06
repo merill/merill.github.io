@@ -4,7 +4,7 @@ title: FBA Configuration Manager for SharePoint 2010
 date: 2010-12-02T14:54:18+00:00
 
 
-guid: http://merill.net/?p=713
+guid: https://merill.net/?p=713
 permalink: /2010/12/fba-configuration-manager-for-sharepoint-2010/
 dsq_thread_id:
   - "183217666"
@@ -24,7 +24,7 @@ I've taken a different approach to Steve's, instead of using a feature and a tim
 
 The utility makes a back-up of all of the web.configs before updating them. I've also included the sample membership and role providers that Steve provided.
 
-<a href="https://merill.net/wp-content/uploads/2010/12/ConfigureMembershipProvider1.png"><img class="alignnone size-full wp-image-715" title="ConfigureMembershipProvider" src="https://merill.net/wp-content/uploads/2010/12/ConfigureMembershipProvider1.png" alt="" width="695" /></a>
+<a href="https://merill.net/wp-content/uploads/2010/12/ConfigureMembershipProvider1.png"><img class="alignnone size-full wp-image-715" title="ConfigureMembershipProvider" src="/wp-content/uploads/2010/12/ConfigureMembershipProvider1.png" alt="" width="695" /></a>
 
 The PowerShell script to perform the update uses the same engine as the UI. 
 

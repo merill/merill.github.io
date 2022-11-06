@@ -20,7 +20,7 @@ categories:
  <tr>
   <td valign=top style='border:none;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-  width=150 height=202 src="http://www.merill.net/wp-content/uploads/contentbinary/image0011.jpg"
+  width=150 height=202 src="/wp-content/uploads/contentbinary/image0011.jpg"
   alt="Was this a decisive moment? Tillakaratne Dilshan celebrates his spectacular catch of Rahul Dravid in the Asia Cup final  &copy; AFP"
   border=0></span></p>
   </td>

@@ -4,7 +4,7 @@ title: Migrating from BlogEngine.NET to WordPress
 date: 2009-01-23T06:43:40+00:00
 
 
-guid: http://merill.net/2009/01/migrating-from-blogenginenet-to-wordpress/
+guid: https://merill.net/2009/01/migrating-from-blogenginenet-to-wordpress/
 permalink: /2009/01/migrating-from-blogenginenet-to-wordpress/
 dsq_thread_id:
   - "77715097"
@@ -16,7 +16,7 @@ tags:
   - migrate
   - wordpress
 ---
-Yet another migration post, feels like just yesterday I <a href="http://merill.net/2008/02/migrated-from-dasblog-to-blogenginenet/">migrated from dasBlog to BlogEngine.NET</a>.
+Yet another migration post, feels like just yesterday I <a href="https://merill.net/2008/02/migrated-from-dasblog-to-blogenginenet/">migrated from dasBlog to BlogEngine.NET</a>.
 
 My justification was that I didn’t want to be manually updating my blog with each new release.
 
@@ -26,7 +26,7 @@ So here’s how I made the move.
 <ul>
 	<li>First I setup a new instance of WordPress on my host account. Now this is the absolutest fun part, with <a href="http://cpanel-host.com/fantastico/">Fantastico</a> it takes just two clicks and literally two seconds to install WP, plus upgrading to the latest version of WordPress is going to be a breeze as well!</li>
 </ul>
-<blockquote><a rel="lightbox" title="Fantastico" href="https://merill.net/wp-content/uploads/2009/01/fantasticowordpressinstall.jpg"><img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="fantastico-wordpress-install" src="https://merill.net/wp-content/uploads/2009/01/fantasticowordpressinstall-thumb.jpg" border="0" alt="fantastico-wordpress-install" width="240" height="219" /></a></blockquote>
+<blockquote><a rel="lightbox" title="Fantastico" href="https://merill.net/wp-content/uploads/2009/01/fantasticowordpressinstall.jpg"><img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="fantastico-wordpress-install" src="/wp-content/uploads/2009/01/fantasticowordpressinstall-thumb.jpg" border="0" alt="fantastico-wordpress-install" width="240" height="219" /></a></blockquote>
 <ul>
 	<li>Next we’ll export our posts to BlogML from the BlogEngine.NET admin site.</li>
 	<li>You’ll need to tweak this file a bit before the import. Search for .axd files and you’ll realize the first problem. BlogEngine seems to pull down the images through an .axd file, a simple search and replace should fix this problem. You might want to move your images to the wp-content/uploads folder as well since it will become easier to backup your stuff.</li>

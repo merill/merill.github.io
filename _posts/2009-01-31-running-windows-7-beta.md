@@ -4,7 +4,7 @@ title: Running Windows 7 Beta
 date: 2009-01-31T08:48:09+00:00
 
 
-guid: http://merill.net/2009/01/running-windows-7-beta/
+guid: https://merill.net/2009/01/running-windows-7-beta/
 permalink: /2009/01/running-windows-7-beta/
 dsq_thread_id:
   - "77832579"

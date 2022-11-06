@@ -4,7 +4,7 @@ title: On Ode To My Father
 date: 2012-09-06T14:20:51+00:00
 
 
-guid: http://merill.net/?p=767
+guid: https://merill.net/?p=767
 permalink: /2012/09/on-ode-to-my-father/
 dsq_thread_id:
   - "968648782"

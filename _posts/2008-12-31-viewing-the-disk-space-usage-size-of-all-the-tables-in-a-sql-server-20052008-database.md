@@ -131,7 +131,7 @@ categories:
 
 <p>Quick extra tip, if you export the result-set to Excel you can do additional sorts to figure out more stuff. For example the first table on this list was taking up 47GB of disk space in a 63 GB database. With the index taking more space than the actual data! But this is more of an OLAP db with just one batch update daily and optimized for retrieving data faster so I guess that's okay.</p>
 
-<p><a href="http://www.merill.net/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage.jpg" rel="lightbox"><img title="sql-disk-space-usage" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="141" alt="sql-disk-space-usage" src="http://www.merill.net/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage_thumb.jpg" width="667" border="0" /></a> </p>
+<p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage.jpg" rel="lightbox"><img title="sql-disk-space-usage" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="141" alt="sql-disk-space-usage" src="/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage_thumb.jpg" width="667" border="0" /></a> </p>
 
 <p>&#160;</p>
 <style type="text/css">

@@ -4,7 +4,7 @@ title: Publishing private enterprise apps to the managed Google Play Store
 date: 2019-02-08 20:27:52 +0000
 
 
-guid: 'http://merill.net/?p=1195'
+guid: 'https://merill.net/?p=1195'
 permalink: /2019/02/publishing-private-enterprise-apps-to-the-managed-google-play-store/
 medium_post:
   - >-
@@ -52,7 +52,7 @@ Next you need to generate the private key that will be used to authenticate agai
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1196} -->
-<figure class="wp-block-image"><img src="https://merill.net/wp-content/uploads/2019/02/GoogleApiJson-1024x686.png" alt=" " class="wp-image-1196"/>
+<figure class="wp-block-image"><img src="/wp-content/uploads/2019/02/GoogleApiJson-1024x686.png" alt=" " class="wp-image-1196"/>
 
 <figcaption>Create private key for service account</figcaption>
 

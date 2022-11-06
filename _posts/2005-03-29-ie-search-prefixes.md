@@ -21,7 +21,7 @@ categories:
 <div class="PostInfos"><b></b></div>
 <div class="PostContent">We're always looking for ways to give you search results faster.&nbsp; The popular <a href="http://channel9.msdn.com/wiki/default.aspx/Channel9.DesktopSearchShortcuts"><font color="#355ea0">Desktop Search Shortcuts</font></a> from <a href="http://toolbar.msn.com/"><font color="#355ea0">MSN Desktop Search</font></a> are good examples of this.&nbsp; On a related note, Internet Explorer (5.0 and above) has a little known feature that lets you quickly search for something on any site: IE Search prefixes. 
 <p>After the search prefixes are set up, you can type a single word identifier (prefix) and search query in the IE address bar to send the query to any website.&nbsp; For example, the prefix "msn" can go to MSN Search and typing "msn chicken fried rice" in the IE address bar sends the query "chicken fried rice" to our web search.</p>
-<p>&nbsp;</p><img height="192" alt="05-03-29 extensions" src="http://www.merill.net/wp-content/uploads/contentbinary/05_2D03_2D29_20extensions.jpg" width="769" border="0" /> 
+<p>&nbsp;</p><img height="192" alt="05-03-29 extensions" src="/wp-content/uploads/contentbinary/05_2D03_2D29_20extensions.jpg" width="769" border="0" /> 
 <p><a href="http://msnsearch.members.winisp.net/files/IE_Search_Prefixes.zip"><font color="#355ea0">This script</font></a> installs the search prefixes below to your machine.&nbsp; The "Alternate" column lists additional prefixes to launch the same query (e.g. "images corvette" and "image corvette" both do the same thing).</p>
 <p>
 <table class="dontmatchme" style="FONT-SIZE: 8pt" cellspacing="4" cellpadding="2" bgcolor="#dddddd">
