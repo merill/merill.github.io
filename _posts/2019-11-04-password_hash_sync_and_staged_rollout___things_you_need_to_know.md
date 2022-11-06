@@ -4,6 +4,7 @@ toc: true
 tags:
  - azuread
  - conditionalAccess 
+date: 2019-11-04 20:27:52 +0000
 ---
 Now that Staged Rollout is out of NDA, I can finally talk about one of the projects I've been working on for the last twelve months.
  

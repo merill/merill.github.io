@@ -2,7 +2,7 @@
 title: Azure AD Nudge (Authenticator registration campaign) failing to prompt users
 category: Tips
 tags: []
-
+date: 2022-04-15 20:27:52 +0000
 ---
 Getting users to go to the [aka.ms/mysecurityinfo]() page and set up the Authenticator app for MFA is not an easy task.
 

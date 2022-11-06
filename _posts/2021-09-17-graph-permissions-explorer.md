@@ -5,7 +5,7 @@ tags:
 - permissions
 - azuread
 - graph
-
+date: 2021-09-17 20:27:52 +0000
 ---
 If you are a developer in the Microsoft 365 ecosystem you will be well versed with the [Microsoft Graph API reference docs](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0) and most probably know about permission scopes (eg. User.Read).
 

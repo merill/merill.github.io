@@ -2,7 +2,8 @@
 title: Graph PowerShell Conversion Analyzer
 category: azuread
 tags: []
-
+excerpt: Graph PowerShell Analyzer is an app that helps you convert Azure AD PowerShell scripts to Graph PowerShell.
+date: 2022-04-25 20:27:52 +0000
 ---
 ![Screenshot of Graph PowerShell Analyzer](/images/uploads/gps.png "https://graphpowershell.merill.net")
 

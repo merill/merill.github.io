@@ -7,7 +7,7 @@ tags:
 - report
 - azuread
 - graph
-
+date: 2021-02-26 20:27:52 +0000
 ---
 NOTE: This API has been deprecated. Please use [List userRegistrationDetails - Microsoft Graph beta](https://learn.microsoft.com/en-us/graph/api/authenticationmethodsroot-list-userregistrationdetails?view=graph-rest-beta&tabs=http) instead.
 

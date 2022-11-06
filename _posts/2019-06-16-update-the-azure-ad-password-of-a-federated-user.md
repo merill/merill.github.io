@@ -1,7 +1,8 @@
 ---
-
 published: true
 title: Update the Azure AD password of a federated user
+date: 2019-06-16 20:27:52 +0000
+
 ---
 There are times you need to update the Azure AD password of a user that's synced from Active Directory. However running either Set-AzureADUserPassword or Set-MsolUserPassword fails with one of the following errors.
 

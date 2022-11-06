@@ -1,5 +1,7 @@
 ---
 title: Intune Custom Notifications
+date: 2019-08-06 20:27:52 +0000
+
 ---
 Google recently released the details of some [major iOS security flaws](https://www.theverge.com/2019/7/30/20746827/apple-ios-security-flaw-imessage-google-project-zero). The good thing is that Apple already released the patch for five of them in the iOS 12.4 update a few weeks ago. The bad thing is that more than 90% of our corporate user base did not have the update applied.
 

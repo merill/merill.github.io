@@ -1,14 +1,12 @@
 main:
   - title: "Home"
     url: /
+  - title: "Blog"
+    url: /blog/
   - title: "About me"
     url: /about/
   - title: "Archive"
     url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "[cmd.ms] The Microsoft Cloud Command Line"
     url: https://cmd.ms  
   - title: "Azure AD Exporter"
@@ -22,7 +20,7 @@ main:
   - title: "Azure AD Assessment"
     url: https://github.com/AzureAD/AzureADAssessment/wiki
   - title: "Inclusiveness Analyzer"
-    url: https://github.com/merill/InclusivenessAnalyzer
+    url: https://inclusivenessanalyzer.com
   - title: "Microsoft 365 Gender Pronoun Kit"
     url: https://github.com/merill/m365-gender-pronoun-kit
     
@@ -42,6 +40,6 @@ projects:
     - title: "Azure AD Assessment"
       url: https://github.com/AzureAD/AzureADAssessment/wiki
     - title: "Inclusiveness Analyzer"
-      url: https://github.com/merill/InclusivenessAnalyzer
+      url: https://inclusivenessanalyzer.com
     - title: "Microsoft 365 Gender Pronoun Kit"
       url: https://github.com/merill/m365-gender-pronoun-kit

@@ -5,7 +5,7 @@ category: azuread
 tags:
 - powershell
 - graph
-
+date: 2022-04-15 22:27:52 +0000
 ---
 Are you seeing this message when trying to get user license information using the Graph API. 
 

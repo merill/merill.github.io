@@ -6,6 +6,7 @@ tags:
   - powershell
   - report
   - powerbi
+date: 2019-11-05 20:27:52 +0000
 ---
 
 Here's a useful script I wrote the other day. This uses a few PowerShell modules to pull together information about all the Power BI workspaces in your Microsoft 365 tenant. This also includes the names of the Workspace/Group owners.

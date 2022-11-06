@@ -4,7 +4,7 @@ category: Tips
 tags:
 - powershell
 - azuread
-
+date: 2021-04-13 20:27:52 +0000
 ---
 If you try to parse Azure AD's federation metadata xml in PowerShell using a script like the one below you most probably end up with the error "The specified node cannot be inserted as the valid child of this node, because the specified node is the wrong
 type."

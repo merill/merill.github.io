@@ -7,12 +7,17 @@ I'm a Senior Product Manager in the Azure AD (Identity) team at Microsoft. I foc
 
 This blog, it's content and opinions are my own and do not reflect the views of my company. All blog postings are provided "AS IS" with no warranties and is not supported by the author. All trademarks and copyrights belong to their owners and are used for identification only.
 
-## Projects
+## My apps and projects
+
 Here are a few of the things I've built or contributed to.
 
-### Graph PowerShell
+### Microsoft Community
+
 * [[cmd.ms]](https://cmd.ms)
   * Your Microsoft Cloud command line.
+
+### Graph PowerShell
+
 * [Graph X-Ray](https://graphxray.merill.net)
   * Fiddler for Microsoft! Convert your actions in the Azure Portal to Graph PowerShell commands.
 * [Graph Permissions Explorer](https://graphpermissions.merill.net)
@@ -23,15 +28,15 @@ Here are a few of the things I've built or contributed to.
   * PowerShell module that exports all the config and data of an Azure AD tenant.
 * [Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment/wiki)
   * Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations.
-* [MSIdentityTools](http://aka.ms/msid)
+* [MSIdentityTools](https://aka.ms/msid)
   * Collection of useful cmdlets for common Azure AD functionality
 
 ### Diversity & Inclusion
+
 * [Inclusiveness Analyzer](https://inclusivenessanalyzer.com)
   * Helps developers write code and comments using inclusive language.
 * [Microsoft 365 Gender Pronoun Kit](https://github.com/merill/m365-gender-pronoun-kit)
   * Guidance for organisations to configure Microsoft 365 to allow employees to show their pronoun.
-
 
 ### More Information
 
@@ -40,4 +45,5 @@ Hey folks,
 Need to get in touch with me? Feel free to contact me on Twitter or LinkedIn. If you want to drop me an email send to merill at merill.net
 
 Cheers,
+
 <a rel="me" href="https://infosec.exchange/@merill">Merill</a>

@@ -4,7 +4,7 @@ category: azuread
 tags:
 - external identities
 - azuread
-
+date: 2022-04-08 20:27:52 +0000
 ---
 ICYMI We introduced a new guest permission level in Azure AD that restricts what guests can view about other directory objects in your tenant.
 
