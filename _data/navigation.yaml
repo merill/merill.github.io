@@ -9,6 +9,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "[cmd.ms] The Microsoft Cloud Command Line"
+    url: https://cmd.ms  
   - title: "Azure AD Exporter"
     url: https://github.com/microsoft/azureadexporter
   - title: "Graph Permissions Explorer"
@@ -27,6 +29,8 @@ main:
 projects:
  - title: Projects
    children:
+    - title: "[cmd.ms] The Microsoft Cloud Command Line"
+      url: https://cmd.ms
     - title: "Azure AD Exporter"
       url: https://github.com/microsoft/azureadexporter
     - title: "Graph Permissions Explorer"
