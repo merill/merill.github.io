@@ -1,0 +1,3 @@
+/.well-known/host-meta* https://m.merill.net/.well-known/host-meta:splat 301
+/.well-known/webfinger* https://m.merill.net/.well-known/webfinger:splat 301
+/.well-known/nodeinfo* https://m.merill.net/.well-known/nodeinfo:splat 301
