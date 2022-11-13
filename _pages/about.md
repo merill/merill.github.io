@@ -46,4 +46,4 @@ Need to get in touch with me? Feel free to contact me on Twitter or LinkedIn. If
 
 Cheers,
 
-<a rel="me" href="https://infosec.exchange/@merill">Merill</a>
+<a rel="me" href="https://infosec.exchange/@merill">Merill</a> <a rel="me" href="https://toot.merill.net/@merill">Fernando</a>
