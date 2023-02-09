@@ -3,7 +3,7 @@ title: Azure AD Extensions and Attributes
 category: tips
 tags: []
 excerpt: A comparison of the five different types of Azure AD extensions and attributes.
-date: 2023-02-10 22:39:52 +0000
+date: 2023-02-09 22:39:52 +0000
 ---
 
 A comparison of the five different types of Azure AD extensions and attributes.
