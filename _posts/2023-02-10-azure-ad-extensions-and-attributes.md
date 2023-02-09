@@ -2,7 +2,7 @@
 title: Azure AD Extensions and Attributes
 category: tips
 tags: []
-excerpt: I’m a command line guy and hate having to click to get to various Azure AD pages. Over time I created these shortcuts and thought you might find them helpful.
+excerpt: A comparison of the five different types of Azure AD extensions and attributes.
 date: 2023-02-10 22:39:52 +0000
 ---
 
