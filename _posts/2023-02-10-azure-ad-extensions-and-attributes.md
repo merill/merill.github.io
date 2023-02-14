@@ -1,5 +1,5 @@
 ---
-title: Azure AD Extensions and Attributes
+title: Azure AD and Microsoft Graph Extensions and Attributes
 category: tips
 tags:
 - azuread
@@ -8,7 +8,7 @@ excerpt: A comparison of the five different types of Azure AD extensions and att
 date: 2023-02-09 22:39:52 +0000
 ---
 
-A comparison of the five different types of Microsoft Azure AD / Graph extensions and attributes.
+A comparison of the five different types of Microsoft Azure AD + Graph extensions and attributes.
 
 ||[Extension Attributes](https://learn.microsoft.com/graph/extensibility-overview?tabs=http) 1-15 (aka onPremisesExtensionAttributes)|[Directory extensions](https://learn.microsoft.com/graph/api/resources/extensionProperty?view=graph-rest-1.0) (aka AAD extensions)|[Schema extensions](https://learn.microsoft.com/graph/api/resources/schemaextension)|[Open extensions](https://learn.microsoft.com/graph/api/resources/opentypeextension)|[Custom security attributes](https://learn.microsoft.com/azure/active-directory/fundamentals/custom-security-attributes-overview)|
 |----|:-:|:-:|:-:|:-:|:-:|
@@ -17,7 +17,11 @@ A comparison of the five different types of Microsoft Azure AD / Graph extension
 |[Conditional Access - App Filter](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-filter-for-applications)|❌|❌|❌|❌|✅|
 |[Conditional Access - Device Filter](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-condition-filters-for-devices)|✅|❌|❌|❌|❌|
 |Admin user interface|✅|❌|❌|❌|✅|
+|[Cross-Tenant synchronization](https://learn.microsoft.com/en-us/azure/active-directory/multi-tenant-organizations/cross-tenant-synchronization-overview)|✅|✅|❌|❌|❌|
+|[App user provisioning](https://learn.microsoft.com/en-us/azure/active-directory/multi-tenant-organizations/cross-tenant-synchronization-overview)|✅|✅|❌|❌|❌|
+|[Entitlement Management - Lifecycle Workflows](https://learn.microsoft.com/en-us/azure/active-directory/governance/how-to-lifecycle-workflow-sync-attributes)|✅|✅|❌|❌|❌|
 |Filterable|✅|✅|✅|❌|✅|
+|[External identities - Self-service sign up flow](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/self-service-sign-up-user-flow)|✅|✅|❌|❌|❌|
 |[Usable for customizing token claims](https://learn.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)|✅|✅|❌|❌|❌|
 |Requires AAD P1/P2 license|❌|❌|❌|❌|✅|
 |[Azure ABAC](https://learn.microsoft.com/azure/role-based-access-control/conditions-overview)|❌|❌|❌|❌|✅|
