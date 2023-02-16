@@ -19,7 +19,8 @@ A comparison of the five different types of Microsoft Azure AD + Graph extension
 |Admin user interface|✅|❌|❌|❌|✅|
 |[Cross-Tenant synchronization](https://learn.microsoft.com/en-us/azure/active-directory/multi-tenant-organizations/cross-tenant-synchronization-overview)|✅|✅|❌|❌|❌|
 |[App user provisioning](https://learn.microsoft.com/en-us/azure/active-directory/multi-tenant-organizations/cross-tenant-synchronization-overview)|✅|✅|❌|❌|❌|
-|[Entitlement Management - Lifecycle Workflows](https://learn.microsoft.com/en-us/azure/active-directory/governance/how-to-lifecycle-workflow-sync-attributes)|✅|✅|❌|❌|❌|
+|[Entitlement Management automatic assignment](https://learn.microsoft.com/en-us/azure/active-directory/governance/how-to-lifecycle-workflow-sync-attributes)|✅|✅|❌|❌|❌|
+|[Lifecycle Workflows execution conditions scope](https://learn.microsoft.com/en-us/azure/active-directory/governance/how-to-lifecycle-workflow-sync-attributes)|✅|✅|❌|❌|❌|
 |Filterable|✅|✅|✅|❌|✅|
 |[External identities - Self-service sign up flow](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/self-service-sign-up-user-flow)|✅|✅|❌|❌|❌|
 |[Usable for customizing token claims](https://learn.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)|✅|✅|❌|❌|❌|
