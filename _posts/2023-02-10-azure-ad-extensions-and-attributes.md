@@ -28,10 +28,12 @@ A comparison of the five different types of Microsoft Azure AD + Graph extension
 |[Azure ABAC](https://learn.microsoft.com/azure/role-based-access-control/conditions-overview)|❌|❌|❌|❌|✅|
 |[Block read access](https://learn.microsoft.com/azure/active-directory/fundamentals/custom-security-attributes-overview#why-use-custom-security-attributes)|❌|❌|❌|❌|✅|
 |Strongly typed|❌|✅|✅|❌|✅|
-|Support multi-valued attributes|✅|✅|❌|❌|✅|
-|Sync data from on-prem using AD connect|✅|✅|❌|❌|❌|
+|Support multi-valued attributes|✅|✅<sup>1<sup>|❌|❌|✅|
+|Azure AD Connect and Cloud Sync|✅|✅|❌|❌|❌|
 |Supported resources|user • device|user • group • administrativeUnit • application • device • organization|user • group • administrativeUnit • application • contact • device • event • message • organization • post|user • group • contact • device • event • message • organization • post • todoTask • todoTaskList|user • servicePrincipal|
 |Data types|String|Binary • Boolean • DateTime • Integer • LargeInteger • String (256 char)|Binary • Boolean • DateTime • Integer • String|String|Boolean • Integer • String|
 |Max limits|15 per object|100 extensions across all types and all applications|100 per resource|2 per creator app per resource|50 per object • 500 attributes per tenant • More info|
 |When to use|• Simpler way to leverage on-prem data or Exchange data<br/>• Wanting a simple string attribute on a user/device which can be used in multiple applications as a claim|• Extending AAD resources with more attributes<br/>• Need more strongly-typed attributes than extension attributes 1-15<br/>• With AAD Connect Sync, can also sync on-prem or SharePoint data|• To extend Graph resources<br/>• Don’t require attributes as part of user authentication and as a claim|Directly add attributes to single Graph object, rather than through an extension schema|Store confidential data
 |Key notes|• Can only sync for users with onPremisesSyncEnabled<br/>• Cannot be updated by Microsoft Graph unless users/devices are cloud only (not synced from on-prem)|• Extension is created on an app object, then target resource(s) are manually updated with value<br/>• AAD Connect Sync uses directory extensions|Extension is created as stand-alone resource, then applied to object|Simple setup and usage|Built with security and least privilege|
+
+<sup>1</sup> Multi-value support in directory extensions is limited to attributes synchronized from on-prem. It is not possible to create new multi-valued directory extensions in Azure AD.
