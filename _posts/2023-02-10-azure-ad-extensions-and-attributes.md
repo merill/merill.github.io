@@ -39,11 +39,12 @@ Remember to use the ClientId and TenantId parameters when signing in.
 
 ![Screenshot signing in with the new app in PowerShell](/images/uploads/graphpowershellcustomappsignin.png)
 
-**Restricted user access**
+## Restricted user access
 
 I would also recommend limiting the users that have access to these Graph PowerShell applications. To do this browse to the Enterprise Applications [adapps.cmd.ms](https://adapps.cmd.ms] blade, select the app and in Properties set **Assignment required?** to **Yes**. Then grant access to the required folks from the **Users** blade.
 
-**Windows PowerShell 5.1**
+## Windows PowerShell 5.1
+
 The steps above will get you working with PowerShell 7, which is what you SHOULD be using. In the unfortunate event that you are stuck with Windows PowerShell 5.1 you need to do one more thing.
 
 * Open the app you just created in **App registrations** [\[adappreg.cmd.ms\]](https://adappreg.cmd.ms)
