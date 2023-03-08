@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Senior Product Manager in the Azure AD (Identity) team at Microsoft. I focus on Azure AD extensibility which includes the Identity side of Graph API and Graph PowerShell. I also help some of our largest Azure AD customers in Australia get the most out of Azure Active Directory and related Identity technologies from Microsoft.
+I'm a Product Manager in the Azure AD (Identity) team at Microsoft. I focus on Azure AD extensibility which includes the Identity side of Graph API and Graph PowerShell. I also help some of our largest Azure AD customers in Australia get the most out of Azure Active Directory and related Identity technologies from Microsoft.
 
 This blog, it's content and opinions are my own and do not reflect the views of my company. All blog postings are provided "AS IS" with no warranties and is not supported by the author. All trademarks and copyrights belong to their owners and are used for identification only.
 
