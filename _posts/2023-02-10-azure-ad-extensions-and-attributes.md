@@ -14,6 +14,7 @@ A comparison of the five different types of Microsoft Azure AD + Graph extension
 |----|:-:|:-:|:-:|:-:|:-:|
 |Audience|IT Admins • Devs|IT Admins • Devs|Devs|Devs|IT Admins • Devs|
 |[Dynamic group membership rule](https://learn.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership)|✅|✅|❌|❌|❌|
+|[Conditional Access - Users and groups](https://learn.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership)|✅|✅|❌|❌|❌|
 |[Conditional Access - App Filter](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-filter-for-applications)|❌|❌|❌|❌|✅|
 |[Conditional Access - Device Filter](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-condition-filters-for-devices)|✅|❌|❌|❌|❌|
 |Admin user interface|✅|❌|❌|❌|✅|
