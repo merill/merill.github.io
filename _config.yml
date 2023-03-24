@@ -66,6 +66,7 @@ social:
   links:
     - "https://twitter.com/merill"
     - "https://www.linkedin.com/in/merill"
+    - "https://www.youtube.com/@merill.fernando"
 
 # Analytics
 analytics:
@@ -78,7 +79,7 @@ analytics:
 author:
   name: "Merill Fernando"
   url: "/about/"
-  bio: "Senior Product Manager @ Microsoft • Azure AD • Identity CxP"
+  bio: "Principal Product Manager @ Microsoft • Azure AD • Identity CxP"
   location: Melbourne, Australia 🇦🇺
   avatar: "/assets/images/merill-profile.png"
   og_image: "/assets/images/merill-profile.png"
@@ -86,6 +87,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/merill"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/@merill.fernando"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/merill"
@@ -102,6 +106,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/merill"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/@merill.fernando"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/merill"
