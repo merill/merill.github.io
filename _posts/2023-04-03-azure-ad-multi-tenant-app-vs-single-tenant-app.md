@@ -49,3 +49,7 @@ Here are some further reading on the topic of multi-tenancy. These are meant for
 👉 [https://learn.microsoft.com/en-us/azure/architecture/multitenant-identity/](https://learn.microsoft.com/en-us/azure/architecture/multitenant-identity/ "https://learn.microsoft.com/en-us/azure/architecture/multitenant-identity/")
 
 👉 [https://learn.microsoft.com/en-us/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant](https://learn.microsoft.com/en-us/azure/architecture/multitenant-identity/ "https://learn.microsoft.com/en-us/azure/architecture/multitenant-identity/")
+
+Note: This MSRC blog post provides additional guidance on how you can review the multi-tenant apps in your tenant and switch them to a single tenant app if multi-tenant is not a requirement.
+
+[Guidance on Potential Misconfiguration of Authorization of Multi-Tenant Applications that use Azure AD | MSRC Blog | Microsoft Security Response Center](https://msrc.microsoft.com/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad/)
