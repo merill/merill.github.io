@@ -16,7 +16,7 @@ Multi-tenant apps are meant for ISVs and SaaS vendors to create an instance of a
 
 When an app is created as a multi-tenant app, ANY user from ANY Azure AD tenant can visit the app's url and sign in.
 
-If you create a multi-tenant app in your corporate tenant and apply a conditional access policy. The policy only applies to users in your tenant.
+If you create a multi-tenant app in your corporate tenant and apply a conditional access policy. The policy only applies to users and guests in your tenant.
 
 ⚠️ I'll repeat ➟ your CA policies do not apply to users signing into your multi-tenant app in their own tenant.
 
