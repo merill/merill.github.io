@@ -13,8 +13,12 @@ Here are a few of the things I've built or contributed to.
 
 ### Microsoft Community
 
-* [[cmd.ms]](https://cmd.ms)
+* [cmd.ms](https://cmd.ms)
   * Your Microsoft Cloud command line.
+* [akaSearch.net](https://akaSearch.net)
+  * Community contributed search engine for aka.ms links
+* [aka.ms/AppNames](https://aka.ms/AppNames)
+  * Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs
 
 ### Graph PowerShell
 
@@ -24,8 +28,8 @@ Here are a few of the things I've built or contributed to.
   * Site that shows all the Graph APIs and data exposed for a given Graph Permission.
 * [Graph PowerShell Conversion Analyzer](https://graphpowershell.merill.net/)
   * Get help converting your Azure AD and MSOL PowerShell cmdlets to Graph PowerShell.
-* [Azure AD Exporter](https://github.com/microsoft/azureadexporter)
-  * PowerShell module that exports all the config and data of an Azure AD tenant.
+* [Entra Exporter](https://github.com/microsoft/EntraExporter)
+  * PowerShell module that exports all the config and data of a Microsoft Entra tenant.
 * [Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment/wiki)
   * Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations.
 * [MSIdentityTools](https://aka.ms/msid)
