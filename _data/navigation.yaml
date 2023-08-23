@@ -7,34 +7,28 @@ main:
     url: /about/
   - title: "Archive"
     url: /year-archive/
-  - title: "[cmd.ms] The Microsoft Cloud Command Line"
-    url: https://cmd.ms  
-  - title: "Azure AD Exporter"
-    url: https://github.com/microsoft/azureadexporter
-  - title: "Graph Permissions Explorer"
-    url: https://graphpermissions.merill.net/
-  - title: "Graph X-Ray"
-    url: https://graphxray.merill.net/    
-  - title: "MSID Tools"
-    url: https://aka.ms/msid
-  - title: "Azure AD Assessment"
-    url: https://github.com/AzureAD/AzureADAssessment/wiki
-  - title: "Inclusiveness Analyzer"
-    url: https://inclusivenessanalyzer.com
-  - title: "Microsoft 365 Gender Pronoun Kit"
-    url: https://github.com/merill/m365-gender-pronoun-kit
     
 projects:
- - title: Projects
+ - title: My Apps & Projects
    children:
-    - title: "[cmd.ms] The Microsoft Cloud Command Line"
+    - title: "Entra.news Weekly Newsletter"
+      url: https://entra.news
+    - title: "idPowerToys"
+      url: https://idPowerToys.com
+    - title: "cmd.ms"
       url: https://cmd.ms
-    - title: "Azure AD Exporter"
-      url: https://github.com/microsoft/azureadexporter
-    - title: "Graph Permissions Explorer"
-      url: https://graphpermissions.merill.net/
+    - title: "Entra Exporter"
+      url: https://aka.ms/EntraExporter
     - title: "Graph X-Ray"
       url: https://graphxray.merill.net/      
+    - title: "Graph Permissions Explorer"
+      url: https://graphpermissions.merill.net/
+    - title: "AAD PS to Graph PS Script Converter"
+      url: https://graphpowershell.merill.net/
+    - title: "aka.ms/AppNames"
+      url: https://aka.ms/AppNames/
+    - title: "aka.ms search"
+      url: https://akasearch.net/
     - title: "MS Identity Tools"
       url: https://aka.ms/msid
     - title: "Azure AD Assessment"

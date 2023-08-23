@@ -13,6 +13,10 @@ Here are a few of the things I've built or contributed to.
 
 ### Microsoft Community
 
+* [idPowerToys.com](https://idPowerToys.com)
+  * Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
+* [Entra.News](https://entra.news)
+  * Stay up to date on all things Entra with this weekly newsletter with the latest updates on Microsoft Entra from both Microsoft and the community.
 * [cmd.ms](https://cmd.ms)
   * Your Microsoft Cloud command line.
 * [akaSearch.net](https://akaSearch.net)
