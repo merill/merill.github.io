@@ -17,18 +17,35 @@ Here are a few of the things I've built or contributed to.
 
 ### Microsoft Community
 
-* [idPowerToys.com](https://idPowerToys.com)
-  * Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
-* [Entra.News](https://entra.news)
-  * Stay up to date on all things Entra with this weekly newsletter with the latest updates on Microsoft Entra from both Microsoft and the community.
+Utilities that anyone in the Microsoft community will find useful.
+
 * [cmd.ms](https://cmd.ms)
   * Your Microsoft Cloud command line.
 * [akaSearch.net](https://akaSearch.net)
   * Community contributed search engine for aka.ms links
+* [Refined Microsoft Learn](https://github.com/merill/refined-microsoft-learn)
+  * Browser extension to make Microsoft Learn distraction free and focus on the content.
+
+### Microsoft Entra
+
+Utilities for Microsoft 365 and Microsoft Entra admins and cybersecurity folks.
+
+* [idPowerToys.com](https://idPowerToys.com)
+  * Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
+* [Entra.News](https://entra.news)
+  * Stay up to date on all things Entra with this weekly newsletter with the latest updates on Microsoft Entra from both Microsoft and the community.
 * [aka.ms/AppNames](https://aka.ms/AppNames)
   * Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs
+* [Entra Exporter](https://github.com/microsoft/EntraExporter)
+  * PowerShell module that exports all the config and data of a Microsoft Entra tenant.
+* [Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment/wiki)
+  * Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations.
+* [MSIdentityTools](https://aka.ms/msid)
+  * Collection of useful cmdlets for common Azure AD functionality
 
-### Graph PowerShell
+### Microsoft Graph
+
+Utilities for everyone that works with Microsoft Graph and Graph PowerShell.
 
 * [Graph X-Ray](https://graphxray.merill.net)
   * Fiddler for Microsoft! Convert your actions in the Azure Portal to Graph PowerShell commands.
@@ -36,12 +53,6 @@ Here are a few of the things I've built or contributed to.
   * Site that shows all the Graph APIs and data exposed for a given Graph Permission.
 * [Graph PowerShell Conversion Analyzer](https://graphpowershell.merill.net/)
   * Get help converting your Azure AD and MSOL PowerShell cmdlets to Graph PowerShell.
-* [Entra Exporter](https://github.com/microsoft/EntraExporter)
-  * PowerShell module that exports all the config and data of a Microsoft Entra tenant.
-* [Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment/wiki)
-  * Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations.
-* [MSIdentityTools](https://aka.ms/msid)
-  * Collection of useful cmdlets for common Azure AD functionality
 
 ### Diversity & Inclusion
 
@@ -58,4 +69,4 @@ Need to get in touch with me? Feel free to contact me on Twitter or LinkedIn. If
 
 Cheers,
 
-<a rel="me" href="https://infosec.exchange/@merill">Merill</a> <a rel="me" href="https://toot.merill.net/@merill">Fernando</a>
+<a rel="me" href="https://infosec.exchange/@merill">Merill Fernando</a>

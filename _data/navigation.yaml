@@ -37,3 +37,5 @@ projects:
       url: https://inclusivenessanalyzer.com
     - title: "Microsoft 365 Gender Pronoun Kit"
       url: https://github.com/merill/m365-gender-pronoun-kit
+    - title: "Refined Microsoft Learn"
+      url: https://github.com/merill/refined-microsoft-learn
