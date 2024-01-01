@@ -3,7 +3,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a Product Manager in the Azure AD (Identity) team at Microsoft. I focus on Azure AD extensibility which includes the Identity side of Graph API and Graph PowerShell. I also help some of our largest Azure AD customers in Australia get the most out of Azure Active Directory and related Identity technologies from Microsoft.
+I'm a Product Manager at Microsoft in the Microsoft Entra, Customer Acceleration Team (CAT). In my day job I help some of Microsoft's largest enterprise customers deploy Microsoft Entra succesfully. I also collaborate with product and engineering teams on new Microsoft Entra features with a focus on the Identity side of Microsoft Graph.
+
+In my free time I like to build tools and apps to help the community and also share my knowledge through social media. Below you can find some of the things I've built and contributed to.
+
+#### Disclaimer
 
 This blog, it's content and opinions are my own and do not reflect the views of my company. All blog postings are provided "AS IS" with no warranties and is not supported by the author. All trademarks and copyrights belong to their owners and are used for identification only.
 
