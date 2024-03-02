@@ -1,17 +1,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /blog/
   - title: "About me"
     url: /about/
-  - title: "Archive"
-    url: /year-archive/
+  - title: "Podcasts"
+    url: /podcasts/
     
 projects:
  - title: My Apps & Projects
    children:
-    - title: "Entra.news Weekly Newsletter"
+    - title: "Entra.News newsletter"
       url: https://entra.news
     - title: "idPowerToys"
       url: https://idPowerToys.com
