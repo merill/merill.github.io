@@ -12,7 +12,7 @@ projects:
     - title: "Entra.News newsletter"
       url: https://entra.news
     - title: "idPowerToys"
-      url: https://idPowerToys.com
+      url: https://idPowerToys.merill.net
     - title: "cmd.ms"
       url: https://cmd.ms
     - title: "Entra Exporter"
@@ -25,6 +25,8 @@ projects:
       url: https://graphpowershell.merill.net/
     - title: "aka.ms/AppNames"
       url: https://aka.ms/AppNames/
+    - title: "M365 Message Center Archive"
+      url: https://mc.merill.net/
     - title: "aka.ms search"
       url: https://akasearch.net/
     - title: "MS Identity Tools"
