@@ -1,7 +1,7 @@
 ---
-title: Invoke-MgGraphRequest -OutputFilePath vs | Out-File Performance Comparison
+title: Invoke-MgGraphRequest -OutputFilePath vs Out-File Performance Comparison
 description: "Which is faster? Using Invoke-MgGraphRequest -OutputFilePath vs Invoke-MgGraphRequest | Out-File"
-date: 2023-08-23T10:15:34.156Z
+date: 2024-08-07T10:15:34.156Z
 preview: ""
 tags: []
 categories: []
