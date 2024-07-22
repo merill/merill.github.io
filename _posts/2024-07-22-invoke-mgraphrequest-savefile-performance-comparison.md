@@ -46,8 +46,6 @@ TotalSeconds      : 0.4035508
 
 Here's what I get when I ran the same command with different output types. There was no clear winner and they all ranged between 0.2 and 0.5 seconds.
 
-```powershell
-
 | OutputType          | TotalSeconds |
 | ------------------- | ------------ |
 | Json                | 0.4035508    |
