@@ -21,6 +21,8 @@ Utilities that anyone in the Microsoft community will find useful.
 
 * [cmd.ms](https://cmd.ms)
   * Your Microsoft Cloud command line.
+* [maester.dev](https://maester.dev)
+  * Microsoft test automation framework + security analyzer.
 * [akaSearch.net](https://akaSearch.net)
   * Community contributed search engine for aka.ms links
 * [Microsoft 365 Message Center Archive](https://mc.merill.net/)
@@ -32,10 +34,10 @@ Utilities that anyone in the Microsoft community will find useful.
 
 Utilities for Microsoft 365 and Microsoft Entra admins and cybersecurity folks.
 
-* [idPowerToys.merill.net](https://idPowerToys.merill.net)
-  * Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 * [Entra.News](https://entra.news)
   * Stay up to date on all things Entra with this weekly newsletter with the latest updates on Microsoft Entra from both Microsoft and the community.
+* [idPowerToys.merill.net](https://idPowerToys.merill.net)
+  * Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 * [aka.ms/AppNames](https://aka.ms/AppNames)
   * Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs
 * [Entra Exporter](https://github.com/microsoft/EntraExporter)

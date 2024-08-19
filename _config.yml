@@ -84,6 +84,9 @@ author:
   avatar: "/assets/images/merill-profile.png"
   og_image: "/assets/images/merill-profile.png"
   links:
+    - label: "Threads"
+      icon: "fab fa-brands fa-threads"
+      url: "https://www.threads.net/@merillf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/merill"
@@ -93,7 +96,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/merill"
-    - label: "Linked In"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/merill"
     - label: "Mastodon"
