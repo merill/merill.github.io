@@ -28,7 +28,7 @@ The fix was fairly simple:
 
 So let's break down the fix.
 
-The key difference is the `/microsoft.graph.user` at the end of the query. This tells the Graph API to filter the members by the `extensionAttribute15` property of the `microsoft.graph.user` object.
+The key difference is the `/microsoft.graph.user` at the end of url path. This tells Graph API to only return members that are of type `user` and then filter by the `extensionAttribute15` property of the `microsoft.graph.user` object.
 
 Why did the original query fail?
 
@@ -36,7 +36,13 @@ The `administrativeUnit` object like the `group` object is a directory container
 
 Here's a visual representation of the directory object hierarchy:
 
-![Graph directory object hierarchy](/images/uploads/graphdirectoryobjects.png)
+![Illustration showing directory object inheritance hierarchy with the DirectoryObject base type and child types](/images/uploads/graphdirectoryobjects.png)
+
+When you create a group or an administrative unit, you can add users, devices, and other groups to it. Each of these objects have their own set of properties.
+
+When you query a directory container like a group or an administrative unit, you are querying against all the objects in the container.
+
+![Screenshot of an Entra group that contains users, groups and devices](/images/uploads/entra-group-list.png)
 
 So while you can query against properties that exist in all objects like `displayName`, `id`, etc., you cannot query against properties that are specific to a certain object type.
 
