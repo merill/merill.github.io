@@ -60,11 +60,9 @@
     },
     {
       "title": "uploads",
-      "path": "[[workspace]]/_site/images/uploads"
-    },
-    {
-      "title": "uploads",
       "path": "[[workspace]]/images/uploads"
     }
-  ]
+  ],
+  "frontMatter.website.host": "https://merill.net",
+  "frontMatter.git.enabled": true
 }
