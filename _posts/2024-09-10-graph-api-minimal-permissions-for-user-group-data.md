@@ -31,7 +31,5 @@ So what's the least privilege permission that will grant access to just the disp
 
 As of today, the answer is [`GroupMember.Read.All`](https://graphpermissions.merill.net/permission/GroupMember.Read.All) permission. The reason I say "as of today" is because the permissions are constantly being updated and new permissions are being added, so it is always a good idea to check the docs for the least privilege permissions. Since I did this frequently I built a site to easily show the least privilege permissions [Microsoft Graph permissions reference](https://graphpermissions.merill.net/).
 
-```powershell
-
 ![screenshot showing querying by group member with user.read permission](/images/uploads/GetGroupMember-UserReadAllAndGroupMemberReadAll.png)
 
