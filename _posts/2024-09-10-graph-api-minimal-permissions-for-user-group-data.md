@@ -25,7 +25,13 @@ Now this would be perfectly valid if your app needed just the ID of the group.
 
 However if the app needs the name and other details of the group then you will need to grant additional permissions.
 
-Now the permission one that comes to mind is [Group.Read.All]() someone wo `GroupMember.Read.All` permission.
+My immediate thought was to grant [Group.Read.All](https://graphpermissions.merill.net/permission/Group.Read.All) but this is a scary permissions, especially when it is an application permission. This will grant tenant wide access to read any information stored in a Group or Team. This includes files and messages in a channel.
+
+So what's the least privilege permission that will grant access to just the display name?
+
+As of today, the answer is [`GroupMember.Read.All`](https://graphpermissions.merill.net/permission/GroupMember.Read.All) permission. The reason I say "as of today" is because the permissions are constantly being updated and new permissions are being added, so it is always a good idea to check the docs for the least privilege permissions. Since I did this frequently I built a site to easily show the least privilege permissions [Microsoft Graph permissions reference](https://graphpermissions.merill.net/).
+
+```powershell
 
 ![screenshot showing querying by group member with user.read permission](/images/uploads/GetGroupMember-UserReadAllAndGroupMemberReadAll.png)
 
