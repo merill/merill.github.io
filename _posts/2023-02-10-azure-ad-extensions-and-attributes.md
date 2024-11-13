@@ -29,7 +29,7 @@ A comparison of the five different types of Microsoft Azure AD + Graph extension
 |[Azure ABAC](https://learn.microsoft.com/azure/role-based-access-control/conditions-overview)|❌|❌|❌|❌|✅|
 |[Block read access](https://learn.microsoft.com/azure/active-directory/fundamentals/custom-security-attributes-overview#why-use-custom-security-attributes)|❌|❌|❌|❌|✅|
 |Strongly typed|❌|✅|✅|❌|✅|
-|Support multi-valued attributes|✅|✅<sup>1<sup>|❌|❌|✅|
+|Support multi-valued attributes|✅|✅<sup>1<sup>|❌|✅|✅|
 |Azure AD Connect and Cloud Sync|✅|✅|❌|❌|❌|
 |Supported resources|user • device|user • group • administrativeUnit • application • device • organization|user • group • administrativeUnit • application • contact • device • event • message • organization • post|user • group • contact • device • event • message • organization • post • todoTask • todoTaskList|user • servicePrincipal|
 |Data types|String|Binary • Boolean • DateTime • Integer • LargeInteger • String (256 char)|Binary • Boolean • DateTime • Integer • String|String|Boolean • Integer • String|

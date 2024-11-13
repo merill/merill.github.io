@@ -29,15 +29,11 @@ Rebuilding all the folks you know or finding people with similar interests take 
 
 ### ✅ Starter Packs
 
-These are lists that folks have made. Follow these starter packs to connect with other Microsoft community members.
+These are lists of Bluesky users that you can bulk follow. The starter packs help you quickly get started on Bluesky and follow folks in the Microsoft community.
 
-- [MVPs](https://bsky.app/starter-pack/tobiasfenster.io/3l7ed6ge7gs2r)
-- [Microsoft Modern Work (M365)](https://bsky.app/starter-pack/modernworkmentor.com/3labwwq32nu2y)
-- [Xbox Essential](https://bsky.app/starter-pack/deadly-headley.bsky.social/3l7fctgd7gw2h)
-- [Microsoft Cloud & Security](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j)
-- [Microsoft Intune](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t)
+See [bluesky.ms/starterpacks](https://bluesky.ms/starterpacks) for the latest list.
 
-You can also find other non-Microsoft starter packs over at https://blueskydirectory.com/starter-packs
+You can also find other non-Microsoft starter packs over at [blueskydirectory.com/starter-packs](https://blueskydirectory.com/starter-packs)
 
 ✅ Help others find you
 
