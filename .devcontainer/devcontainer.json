@@ -1,0 +1,23 @@
+{
+    "name": "SeanKilleen.com dev container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [
+        4000
+    ],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "streetsidesoftware.code-spell-checker",
+                "oderwat.indent-rainbow",
+                "mdickin.markdown-shortcuts",
+                "davidanson.vscode-markdownlint",
+                "redhat.vscode-yaml",
+                "github.vscode-pull-request-github",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    },
+    "postStartCommand": "bundle install"
+}
