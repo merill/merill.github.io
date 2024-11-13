@@ -1,5 +1,5 @@
 {
-    "name": "SeanKilleen.com dev container",
+    "name": "Merill.net dev container",
     "build": {
         "dockerfile": "Dockerfile"
     },
