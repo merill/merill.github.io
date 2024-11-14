@@ -13,7 +13,7 @@ categories:
 ---
 
 <p>Ahh.. Feels so sweet to be back online. My hosting server got screwed up and 
-I had to wait till Madura got back to work to fix it up. Wierdly, all that was 
+I had to wait till Madura got back to work to fix it up. Weirdly, all that was 
 needed was to just start up the IIS service. Grr... why didn't I look into 
 that.</p>
 <p>Lot's of stuff has been happening since I was offline. The Tech.Ed site (<a href="http://www.teched.lk">www.teched.lk</a>) went live, registrations have now 

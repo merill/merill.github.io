@@ -13,7 +13,7 @@ categories:
 tags:
   - silverlight
 ---
-Fell into this trap today. I deployed an update of my silverlight project to the Sharepoint site but on some machines the browser continously kept loading the older version.
+Fell into this trap today. I deployed an update of my silverlight project to the Sharepoint site but on some machines the browser continuously kept loading the older version.
 
 I racked my brain trying to figure out how to add ETags to a xap file and yet keep the deployment simple. The answer though is unbelievably simple in this case. Update your AssemblyVersion when compiling. That's it. IIS takes care of sending the update through to all the browsers.
 

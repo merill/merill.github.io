@@ -12,4 +12,4 @@ categories:
   - Twitter
 format: status
 ---
-My blog (<a href="https://merill.net">https://merill.net</a>) is my voice. It existed before Twitter/FB and will live long after they die. So I'm leveraging IFTT ftw
+My blog (<a href="https://merill.net">https://merill.net</a>) is my voice. It existed before Twitter/FB and will live long after they die. So I'm leveraging IFTTT ftw

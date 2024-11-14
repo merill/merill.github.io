@@ -1,0 +1,24 @@
+name: Housekeeping
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  spellchecking:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v4
+      - name: Run spell check
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: install cSpell
+        run: npm install -g cspell
+      - name: run cSpell
+        run: cspell --config ./cSpell.json --no-progress "**/*.md"
