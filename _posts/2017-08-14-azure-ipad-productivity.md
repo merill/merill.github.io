@@ -33,9 +33,9 @@ So this weekend I went about setting up a workflow that would let me access a po
 
 The DevTest Labs is a neat Azure service that gives you a virtual machine running the greatest and latest version of Visual Studio. You can save yourself a ton of time by not having to deal with downloading and waiting through a Visual Studio install.
 
-<strong>IFTT</strong>
+<strong>IFTTT</strong>
 
-The dollars can add up quickly when you leave a high end virtual machine running on Azure. Using a combo of Azure Runbooks, web hooks and IFTT buttons, I was able to set up a nice widget that would let me quickly start up and shut down my VM. Using iOS widgets and IFTT, it was just a swipe away from the home screen on my iPad/iPhone to start up my VM.
+The dollars can add up quickly when you leave a high end virtual machine running on Azure. Using a combo of Azure Runbooks, web hooks and IFTTT buttons, I was able to set up a nice widget that would let me quickly start up and shut down my VM. Using iOS widgets and IFTTT, it was just a swipe away from the home screen on my iPad/iPhone to start up my VM.
 <img src="/wp-content/uploads/2017/08/IMG_0316-300x225.png" alt="" width="300" height="225" class="alignnone size-medium wp-image-1100" />
 
 <strong>Jump Desktop Connect</strong>
