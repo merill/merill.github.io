@@ -21,6 +21,7 @@ The advantage with this script is that you don't need the app to be approved by 
 
 Here's the PowerShell script that will get you there.
 
+```ps
 	<#
 	.SYNOPSIS
 		This script downloads the profile image urls of all the users from Yammer, creates a csv file and uploads it to the YammerProfile document library.
@@ -177,3 +178,4 @@ Here's the PowerShell script that will get you there.
 	$ErrorActionPreference = "stop"
 	LoadPSSnapIn
 	return Main
+```
