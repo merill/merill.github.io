@@ -2,14 +2,23 @@
     "version": "0.2",
     "language": "en-GB",
     "words": [
+        "Analyzer",
         "bluesky",
+        "CAML",
         "Canva",
         "Entra",
+        "Evernote",
+        "favorite",
+        "Hanselman",
         "Hashtable",
         "ICYMI",
+        "INETA",
+        "LINQ",
         "merill",
         "MSRC",
-        "TLDR"
+        "TLDR",
+        "VSTO",
+        "VSTS"
     ],
     "ignoreWords": [],
     "ignoreRegExpList": [
