@@ -12,15 +12,20 @@
         "Hanselman",
         "Hashtable",
         "ICYMI",
+        "Indi",
         "INETA",
         "LINQ",
+        "Mahangu",
+        "Manzi",
         "merill",
         "MSRC",
         "TLDR",
         "VSTO",
         "VSTS"
     ],
-    "ignoreWords": [],
+    "ignoreWords": [
+        "contentbinary"
+    ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
         "```[a-z]*\n[\\s\\S]*?\n```", // Markdown code blocks. h/t https://coderwall.com/p/r6b4xg/regex-to-match-github-s-markdown-code-blocks,
