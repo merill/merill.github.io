@@ -80,7 +80,7 @@ Which can be fixed by qualifying the query with the `microsoft.graph.user` objec
 /groups/<guid>/members/microsoft.graph.user?$filter=onPremisesExtensionAttributes/extensionAttribute10 eq 'ABC'&$count=true
 ```
 
-Here's the TL;DR:
+Here's the TLDR:
 
 ![alt text](/images/uploads/GraphFilter.png)
 
