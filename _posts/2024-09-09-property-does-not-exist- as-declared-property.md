@@ -14,6 +14,7 @@ The request was to find all the members in an Administrative Unit with a specifi
 However this query errored out as an unsupported query.
 
 ❌
+
 ```
 /directory/administrativeUnits/<guid>/members?$filter=onPremisesExtensionAttributes/extensionAttribute10 eq 'ABC'&$count=true
 
@@ -24,6 +25,7 @@ message: "Property 'extensionAttribute10' does not exist as a declared property 
 The fix was fairly simple, just add `/microsoft.graph.user` at the end of the url path.
 
 ✅
+
 ```
 /directory/administrativeUnits/<guid>/members/microsoft.graph.user?$filter=onPremisesExtensionAttributes/extensionAttribute10 eq 'ABC'&$count=true
 ```
@@ -53,6 +55,7 @@ So while you can query against special properties like `id` and `displayName` yo
 This explains why a query for `displayName` will work without qualifying the query with the object type.
 
 ✅
+
 ```
 /groups/<guid>/members?$filter=displayName eq 'John'&$count=true
 ```
@@ -64,6 +67,7 @@ Once you qualify the query to filter by the `microsoft.graph.user` object, the q
 To close it off with another example, this query for `groups` will fail for the same reason.
 
 ❌
+
 ```
 /groups/<guid>/members?$filter=onPremisesExtensionAttributes/extensionAttribute10 eq 'ABC'&$count=true
 ```
@@ -71,11 +75,12 @@ To close it off with another example, this query for `groups` will fail for the 
 Which can be fixed by qualifying the query with the `microsoft.graph.user` object type.
 
 ✅
+
 ```
 /groups/<guid>/members/microsoft.graph.user?$filter=onPremisesExtensionAttributes/extensionAttribute10 eq 'ABC'&$count=true
 ```
 
-Here's the TLDR;
+Here's the TL;DR:
 
 ![alt text](/images/uploads/GraphFilter.png)
 
