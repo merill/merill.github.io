@@ -19,7 +19,7 @@ categories:
 <ol>
 <li>Entries will close on 28th April 2005.</li>
 <li>The blogger with the most number of new blogger friends introduced will get the prize.</li>
-<li>Minimum ammount of new bloggers per person is 3. If you don&rsquo;t have at least three, don&rsquo;t bother entering.</li>
+<li>Minimum amount of new bloggers per person is 3. If you don&rsquo;t have at least three, don&rsquo;t bother entering.</li>
 <li>Your new bloggers must be active, and must make at least 5 posts before you can enter them on your form.</li>
 <li>If we find anyone has been <em>posing</em> as a new blogger or has otherwise cheated in any way, we will steal all their Mp3s and then trash their hard drive. And oh, we wont consider them for the prize as well.</li></ol>
 <p><strong>So like, what are the prizes man?</strong><br />Shut up and listen. The winner (as in, the blogger who has introduced the most number of new bloggers by the end of the competition) will get <strong>1 years free hosting and a free domain name</strong>. Rumour also has it that he / she might be taken aboard kottu to work with the rest of the (rather overworked) staff.</p>
