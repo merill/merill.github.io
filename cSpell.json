@@ -5,10 +5,14 @@
         "ABAC",
         "Analyzer",
         "awesomest",
+        "Behavior",
         "bluesky",
+        "blueskydirectory",
         "CAML",
         "Canva",
+        "clipart",
         "Dadda",
+        "datasheet",
         "dialog",
         "Entra",
         "Evernote",
@@ -23,6 +27,7 @@
         "INETA",
         "Intune",
         "jittering",
+        "Linksys",
         "LINQ",
         "liter",
         "Lumia",
@@ -35,6 +40,7 @@
         "NSFW",
         "Sharepoint",
         "Sonos",
+        "starterpacks",
         "svcutil",
         "Tada",
         "timezone",
@@ -43,12 +49,14 @@
         "USAID",
         "Visio",
         "VSTO",
-        "VSTS"
+        "VSTS",
+        "wifi"
     ],
     "ignoreWords": [
         "contentbinary",
         "alignnone",
-        "mssdmn"
+        "mssdmn",
+        "Consolas"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
