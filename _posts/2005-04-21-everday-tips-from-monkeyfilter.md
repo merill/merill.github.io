@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Tips
 ---
-<p>An assload of handy (and sometimes hilarious and asinine) everyday tips. Some NSFW. Here&rsquo;s few of my faves:</p>
+<p>An ass-load of handy (and sometimes hilarious and asinine) everyday tips. Some NSFW. Here&rsquo;s few of my faves:</p>
 <ul>
 <li>When you drop a small object, like a pill, DO NOT flail about trying to catch it; instead stand still and watch it land. </li>
 <li>Half the time trying to catch it means it bounces off you in some bizarre direction, or that you don&rsquo;t see where it actually goes. </li>
