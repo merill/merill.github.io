@@ -15,7 +15,7 @@ categories:
 We recently switched from developing in Vista to Windows Server 2003. Someone had the bright idea that we should develop in the same environment the application is going to be hosted on. Go figure.
 </p>
 <p>
-What that meant is that you run into wierd issues like this one. When trying to add a Service Reference to a WCF service hosted under IIS you keep getting this &#39;Add Service Reference&nbsp;Error&#39;:
+What that meant is that you run into weird issues like this one. When trying to add a Service Reference to a WCF service hosted under IIS you keep getting this &#39;Add Service Reference&nbsp;Error&#39;:
 </p>
 <p>
 <font face="courier new,courier">Metadata contains a reference that cannot be resolved: &#39;http://merill/Services.Host/ClientProfile.svc?wsdl&#39;.<br />

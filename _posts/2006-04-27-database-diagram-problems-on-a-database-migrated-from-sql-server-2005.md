@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - SQL
 ---
-<p>I ran into a wierd error message when trying to view the Diagrams on a database that was migrated to SQL Server 2005.&nbsp;Something about the user not being valid and to change the database owner. </p>
+<p>I ran into a weird error message when trying to view the Diagrams on a database that was migrated to SQL Server 2005.&nbsp;Something about the user not being valid and to change the database owner. </p>
 <p>A quick search brought up this quick fix:</p>
 <p>Try running this command to&nbsp;change the compatibility level to SQL Server 2005.</p><font color="#0000ff" size="1">
 <p><font face="Lucida Console" size="2">EXEC</font></font><font face="Lucida Console" size="2"> <font color="#800000">sp_dbcmptlevel</font> database_name<font color="#808080">,</font> 90 </font></p>
