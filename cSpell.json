@@ -2,7 +2,9 @@
     "version": "0.2",
     "language": "en-GB",
     "words": [
+        "ABAC",
         "Analyzer",
+        "awesomest",
         "bluesky",
         "CAML",
         "Canva",
@@ -10,6 +12,7 @@
         "dialog",
         "Entra",
         "Evernote",
+        "fadeless",
         "favorite",
         "gotchas",
         "Hanselman",
@@ -36,13 +39,16 @@
         "Tada",
         "timezone",
         "TLDR",
+        "Tubecast",
         "USAID",
         "Visio",
         "VSTO",
         "VSTS"
     ],
     "ignoreWords": [
-        "contentbinary"
+        "contentbinary",
+        "alignnone",
+        "mssdmn"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
