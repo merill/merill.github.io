@@ -56,7 +56,9 @@
         "contentbinary",
         "alignnone",
         "mssdmn",
-        "Consolas"
+        "Consolas",
+        "csharpcode",
+        "kwrd"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
