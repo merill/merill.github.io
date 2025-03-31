@@ -39,7 +39,7 @@ breadcrumbs               : false
 words_per_minute          : 200
 comments:
   provider                : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-atom_feed:
+feed:
   posts_limit             : 999
   path                    : # blank (default) uses feed.xml
   hide                    : # true, false (default)
