@@ -38,7 +38,7 @@ font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><img width=242 height=218 id=" x0000 i1025"
-src="/wp-content/uploads/contentbinary/image001123.jpg"><o:p></o:p></span></font></p>
+src="https://merill.net/wp-content/uploads/contentbinary/image001123.jpg"><o:p></o:p></span></font></p>
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
@@ -49,7 +49,7 @@ font-family:Arial'>FYI: <st1:country-region w:st="on"><st1:place w:st="on">Sri
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><img width=167 height=229 id=" x0000 i1028"
-src="/wp-content/uploads/contentbinary/image0021.jpg"><o:p></o:p></span></font></p>
+src="https://merill.net/wp-content/uploads/contentbinary/image0021.jpg"><o:p></o:p></span></font></p>
 
 </div>
 

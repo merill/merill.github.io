@@ -12,4 +12,4 @@ categories:
   - Microsoft
 ---
 <p>For all you IE fans who&rsquo;ve been waiting for tabbed browsing, your waiting is all over. Get it now at MSN. <a href="http://toolbar.msn.com/">http://toolbar.msn.com</a> </p>
-<p><img height="230" alt="MSN Toolbar" src="/wp-content/uploads/contentbinary/tb_art.gif" width="260" border="0" /></p>
+<p><img height="230" alt="MSN Toolbar" src="https://merill.net/wp-content/uploads/contentbinary/tb_art.gif" width="260" border="0" /></p>

@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Microsoft
 ---
-<p><img alt="Readyforanewday" src="/wp-content/uploads/binary/readyforanewday_small1.jpg" border="0" /></p>
+<p><img alt="Readyforanewday" src="https://merill.net/wp-content/uploads/binary/readyforanewday_small1.jpg" border="0" /></p>
 <p>Get your hands on all the brand spanking new releases from a single location at <a href="http://msdn.microsoft.com/vstudio/devsolutions/">http://msdn.microsoft.com/vstudio/devsolutions/</a></p>
 <p>Includes download links to the .NET Framework 3.0, 2007 Office System and ASP.NET Ajax bits.</p>
 <p>I&rsquo;m downloading the fx3.0 sdk and run-times on last time.</p>

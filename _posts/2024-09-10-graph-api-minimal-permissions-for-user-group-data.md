@@ -19,7 +19,7 @@ When you run this query you do get the groups the user is a member of but it is 
 Invoke-GraphRequest -Uri 'https://graph.microsoft.com/v1.0/users/merill@elapora.com/memberOf/microsoft.graph.group?$select=displayName' | ConvertTo-Json
 ```
 
-![screenshot showing querying by group member with user.read permission](/images/uploads/ReadGroupMember.png)
+![screenshot showing querying by group member with user.read permission](https://merill.net/images/uploads/ReadGroupMember.png)
 
 Now this would be perfectly valid if your app needed just the ID of the group.
 
@@ -31,5 +31,5 @@ So what's the least privilege permission that will grant access to just the disp
 
 As of today, the answer is [`GroupMember.Read.All`](https://graphpermissions.merill.net/permission/GroupMember.Read.All) permission. The reason I say "as of today" is because the permissions are constantly being updated and new permissions are being added, so it is always a good idea to check the docs for the least privilege permissions. Since I did this frequently I built a site to easily show the least privilege permissions [Microsoft Graph permissions reference](https://graphpermissions.merill.net/).
 
-![screenshot showing querying by group member with user.read permission](/images/uploads/GetGroupMember-UserReadAllAndGroupMemberReadAll.png)
+![screenshot showing querying by group member with user.read permission](https://merill.net/images/uploads/GetGroupMember-UserReadAllAndGroupMemberReadAll.png)
 

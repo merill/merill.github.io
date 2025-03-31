@@ -16,4 +16,4 @@ It's a limitation since you can't use it with unmanaged devices, but that is exa
 The device platform relies on the user agent string which can be easily spoofed. Nicola has a good write up on this over at [Bypassing Conditional Access Device Platform Policies
 ](https://tech.nicolonsky.ch/bypassing-conditional-access-device-platform-policies/)
 
-![He man skeleton recommends using device filter over device platform](/images/uploads/devicefiltervsdeviceplatform.jpg)
+![He man skeleton recommends using device filter over device platform](https://merill.net/images/uploads/devicefiltervsdeviceplatform.jpg)

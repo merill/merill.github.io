@@ -26,7 +26,7 @@ Check your conditional access policies and make sure you've covered all the scen
 You will also want to [block legacy authentication](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication). If not, you have opened the door for bad guys to run brute force attacks on your user passwords. A quick note that blocking legacy authentication will not break Exchange Active Sync sign ins (even though they use a form of basic auth). 
 You might have issues blocking legacy authentication for users that are on the LAN/VPN, especially if you have robot accounts using EWS APIs, old Outlook clients, etc. At a minimum you should set up a CA policy to block legacy auth requests coming in over the internet.
 
-![2019-11-01-437469.png]({{site.baseurl}}/assets/2019-11-01-437469.png)
+![2019-11-01-437469.png](https://merill.net/assets/2019-11-01-437469.png)
 
 
 
@@ -96,8 +96,8 @@ This way you can prevent intruders hijacking a user's account and setting up MFA
 
 
 
-![2019-11-01-842606.png]({{site.baseurl}}/assets/2019-11-01-842606.png)
-![2019-11-01-718026.png]({{site.baseurl}}/assets/2019-11-01-718026.png)
+![2019-11-01-842606.png](https://merill.net/assets/2019-11-01-842606.png)
+![2019-11-01-718026.png](https://merill.net/assets/2019-11-01-718026.png)
 
 
 

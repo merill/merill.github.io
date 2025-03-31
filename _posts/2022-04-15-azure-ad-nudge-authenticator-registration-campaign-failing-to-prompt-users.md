@@ -8,11 +8,11 @@ Getting users to go to the [aka.ms/mysecurityinfo]() page and set up the Authent
 
 Azure AD's 'Nudge' feature allows you to run a [Microsoft Authenticator registration campaign](https://docs.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-registration-campaign) that interrupts a user signing in with SMS and nudges them to set up the Authenticator app.
 
-![](/images/uploads/improveyoursignin.png)
+![](https://merill.net/images/uploads/improveyoursignin.png)
 
 If you set this up but are not seeing users being nudged/prompted with the 'Improve your sign-ins' message its most probably because you have a conditional access policy for the 'Register security information' page.
 
-![](/images/uploads/securityinfo.png)
+![](https://merill.net/images/uploads/securityinfo.png)
 
 The nudge screen will not be displayed if a user’s sign in is in scope of a conditional access policy that blocks access to the "Register security information" page.
 

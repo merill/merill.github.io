@@ -283,7 +283,7 @@
 
 <p>Quick extra tip, if you export the result-set to Excel you can do additional sorts to figure out more stuff. For example the first table on this list was taking up 47GB of disk space in a 63 GB database. With the index taking more space than the actual data! But this is more of an OLAP db with just one batch update daily and optimized for retrieving data faster so I guess that's okay.</p>
 
-<p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage.jpg" rel="lightbox"><img title="sql-disk-space-usage" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="141" alt="sql-disk-space-usage" src="/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage_thumb.jpg" width="667" border="0" /></a> </p>
+<p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage.jpg" rel="lightbox"><img title="sql-disk-space-usage" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="141" alt="sql-disk-space-usage" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Viewingthediskspaceusageofallthetablesin_6829/sql-disk-space-usage_thumb.jpg" width="667" border="0" /></a> </p>
 
 <p>&#160;</p>
 <style type="text/css">
@@ -330,7 +330,7 @@
     </post>
     <post id="d49cf73c-2869-4172-9bf7-6317370db9ab" date-created="2008-12-11T08:23:42" date-modified="2008-12-11T08:23:42" approved="true" post-url="/post/2008/12/Went-shooting.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Went shooting]]></title>
-      <content type="text"><![CDATA[<p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/beretta_2.jpg" rel="lightbox"><img title="beretta" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="187" alt="beretta" src="/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/beretta_thumb.jpg" width="240" border="0" /></a> </p>  <p>So we went clay shooting yesterday with <a href="http://www.ozshooting.com.au/">Adam Tyler</a> (an Athen’s Olympic Bronze medalist and two time Commonwealth Gold medalist) showing us how it’s done.</p>  <p>After playing Counter Strike with the guys at office it felt good too hold a real live Beretta shot gun. Got four of the first five shots in the first round.</p>  <p>Here’s one where I hit the clay.</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/good-shot_2.jpg" rel="lightbox"><img title="good-shot" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="480" alt="good-shot" src="/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/good-shot_thumb.jpg" width="360" border="0" /></a> </p>  <p>The Melbourne Unique World team!</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/UniqueWorld%20Team.jpg" rel="lightbox"><img title="UniqueWorld Team" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="480" alt="UniqueWorld Team" src="/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/UniqueWorld%20Team_thumb.jpg" width="640" border="0" /></a></p>]]></content>
+      <content type="text"><![CDATA[<p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/beretta_2.jpg" rel="lightbox"><img title="beretta" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="187" alt="beretta" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/beretta_thumb.jpg" width="240" border="0" /></a> </p>  <p>So we went clay shooting yesterday with <a href="http://www.ozshooting.com.au/">Adam Tyler</a> (an Athen’s Olympic Bronze medalist and two time Commonwealth Gold medalist) showing us how it’s done.</p>  <p>After playing Counter Strike with the guys at office it felt good too hold a real live Beretta shot gun. Got four of the first five shots in the first round.</p>  <p>Here’s one where I hit the clay.</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/good-shot_2.jpg" rel="lightbox"><img title="good-shot" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="480" alt="good-shot" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/good-shot_thumb.jpg" width="360" border="0" /></a> </p>  <p>The Melbourne Unique World team!</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/UniqueWorld%20Team.jpg" rel="lightbox"><img title="UniqueWorld Team" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="480" alt="UniqueWorld Team" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Wentshooting_811D/UniqueWorld%20Team_thumb.jpg" width="640" border="0" /></a></p>]]></content>
       <post-name type="text"><![CDATA[Went shooting]]></post-name>
       <authors>
         <author ref="merill" />
@@ -352,7 +352,7 @@
     </post>
     <post id="017ab894-0431-4110-8aca-aa5151438a9a" date-created="2008-12-10T07:44:34" date-modified="2008-12-10T07:44:34" approved="true" post-url="/post/2008/12/Melbourne.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Melbourne]]></title>
-      <content type="text"><![CDATA[<p>It’s been nearly four months since I moved to Melbourne and having been in Sydney six months prior, Melbourne was indeed a welcome change.</p>  <p>Although it’s very easy to forget how beautiful it is here. My favorite part of the daily commute is the ten minute walk through Fawkner Park (named after Melbourne’s co-founder).</p>  <p>Here’s a bird’s eye view of Fawkner park.</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/Fawkner-Park_2.jpg" rel="lightbox"><img title="Fawkner-Park" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="480" alt="Fawkner-Park" src="/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/Fawkner-Park_thumb.jpg" width="380" border="0" /></a> </p>  <p>A few from today’s morning walk.</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0662.jpg" rel="lightbox"><img title="IMG_0662" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="480" alt="IMG_0662" src="/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0662_thumb.jpg" width="640" border="0" /></a> </p>  <p>&#160;</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0663.jpg" rel="lightbox"><img title="IMG_0663" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="348" alt="IMG_0663" src="/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0663_thumb.jpg" width="640" border="0" /></a> </p>  <p>&#160;</p>  <p>On sunny days we grab our lunch and head downstairs to have it at the park. It’s no wonder Melboune has consistently been at the top spot in the <a href="http://en.wikipedia.org/wiki/World's_Most_Livable_Cities">World’s Most Livable Cities</a> list over the years.</p>]]></content>
+      <content type="text"><![CDATA[<p>It’s been nearly four months since I moved to Melbourne and having been in Sydney six months prior, Melbourne was indeed a welcome change.</p>  <p>Although it’s very easy to forget how beautiful it is here. My favorite part of the daily commute is the ten minute walk through Fawkner Park (named after Melbourne’s co-founder).</p>  <p>Here’s a bird’s eye view of Fawkner park.</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/Fawkner-Park_2.jpg" rel="lightbox"><img title="Fawkner-Park" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="480" alt="Fawkner-Park" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/Fawkner-Park_thumb.jpg" width="380" border="0" /></a> </p>  <p>A few from today’s morning walk.</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0662.jpg" rel="lightbox"><img title="IMG_0662" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="480" alt="IMG_0662" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0662_thumb.jpg" width="640" border="0" /></a> </p>  <p>&#160;</p>  <p><a href="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0663.jpg" rel="lightbox"><img title="IMG_0663" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="348" alt="IMG_0663" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/Melbourne_7AF3/IMG_0663_thumb.jpg" width="640" border="0" /></a> </p>  <p>&#160;</p>  <p>On sunny days we grab our lunch and head downstairs to have it at the park. It’s no wonder Melboune has consistently been at the top spot in the <a href="http://en.wikipedia.org/wiki/World's_Most_Livable_Cities">World’s Most Livable Cities</a> list over the years.</p>]]></content>
       <post-name type="text"><![CDATA[Melbourne]]></post-name>
       <authors>
         <author ref="merill" />
@@ -370,7 +370,7 @@
     </post>
     <post id="f04ef16c-33c6-4f29-a89a-612da97cc555" date-created="2008-12-03T10:21:06" date-modified="2008-12-03T10:21:06" approved="true" post-url="/post/2008/12/Could-it-be-true-Is-Live-Search-(Kumo)-really-getting-better-than-the-great-Goog.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Could it be true? Is Live Search (Kumo) really getting better than the great Goog?]]></title>
-      <content type="text"><![CDATA[<p>So I wanted to find a tool that would do fast folder comparisons. Searching on Google gave me a lot of useless stuff most of them related to fast folder access or folder comparison but not ‘fast folder comparison’.</p>  <p>On a whim I switched live.com and lo and behold I was presented with UltraCompare in the search results with this to say:</p>  <p><em>Save time by performing an extremely <strong>fast</strong> <strong>folder</strong> <strong>comparison</strong> using just the sizes and timestamps of corresponding files.</em></p>  <p>Even a quoted search for “fast folder comparison” returns 8 results in Live but just 2 in Google.</p>  <p>Will I switch to Live search? No.</p>  <p>But something to keep in mind when I’m not getting the results I want on Google.</p>  <p>BTW: The Google Search Wiki is certainly intriguing. I totally dig neat Ajax stuff.</p>  <p><img title="GooglePromote" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="92" alt="GooglePromote" src="/wp-content/uploads/files/WindowsLiveWriter/CoulditbetrueIsLiveSearchKumoreallygetti_9F9D/GooglePromote_1.jpg" width="556" border="0" /></p>]]></content>
+      <content type="text"><![CDATA[<p>So I wanted to find a tool that would do fast folder comparisons. Searching on Google gave me a lot of useless stuff most of them related to fast folder access or folder comparison but not ‘fast folder comparison’.</p>  <p>On a whim I switched live.com and lo and behold I was presented with UltraCompare in the search results with this to say:</p>  <p><em>Save time by performing an extremely <strong>fast</strong> <strong>folder</strong> <strong>comparison</strong> using just the sizes and timestamps of corresponding files.</em></p>  <p>Even a quoted search for “fast folder comparison” returns 8 results in Live but just 2 in Google.</p>  <p>Will I switch to Live search? No.</p>  <p>But something to keep in mind when I’m not getting the results I want on Google.</p>  <p>BTW: The Google Search Wiki is certainly intriguing. I totally dig neat Ajax stuff.</p>  <p><img title="GooglePromote" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="92" alt="GooglePromote" src="https://merill.net/wp-content/uploads/files/WindowsLiveWriter/CoulditbetrueIsLiveSearchKumoreallygetti_9F9D/GooglePromote_1.jpg" width="556" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[Could it be true? Is Live Search (Kumo) really getting better than the great Goog?]]></post-name>
       <authors>
         <author ref="merill" />
@@ -518,7 +518,7 @@
     </post>
     <post id="d8db8d28-43ef-4d4b-975e-9ee124dc26f8" date-created="2008-10-17T10:48:50" date-modified="2008-10-17T10:51:55" approved="true" post-url="/post/2008/10/WCF-Performance-Optimization-Tips.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[WCF Performance Optimization Tips]]></title>
-      <content type="text"><![CDATA[<p>I wound up work on my last project and thought of sharing some performance challenges we faced when the product went live.</p>  <p>Keep in mind though that optimization options heavily rely on your application design and its usage scenarios.</p>  <p><strong>Usage Scenario</strong></p>  <p>The usage scenario for which the following optimizations worked are as follows. The WCF services are hosted under IIS and currently only serve requests that come from the desktop client application through the intranet. Roughly 300 instances of the client application will be used concurrently.</p>  <p>   <br /><strong>Long running calls      <br /></strong>The application design used the BackgroundWorker when making calls to the server but the actual WCF call was synchronous. Synchronous calls work well in most scenarios but when your service performs a long running task (&gt;1 sec) it blocks other clients from connecting to the server. Asynchronous calls make better sense in this scenario.     <br />Ref: <a href="http://msdn.microsoft.com/en-us/library/ms734701.aspx">Synchronous and Asynchronous Operations</a> </p>  <p><strong>Bindings      <br /></strong>When designing your application pick the binding carefully as this also affects performance. The WCF services were initially designed to use WSHttpBinding. This binding though affects performance especially when options such as security, reliable sessions and transaction flow are enabled. </p>  <p>As part of the performance tuning we switched to using BasicHttpBinding as none of the WS features were actually being used by the application. This dramatically improved performance because we cut down on all the acknowledgements. </p>  <p>&#160;</p>  <table border="0" cellspacing="0" cellpadding="2" width="400"><tbody>     <tr>       <td valign="top">Default WSHttpBinding          <br />with Reliable Session Enabled (9 messages)</td>        <td valign="top">BasicHttpBinding (2 messages)</td>     </tr>      <tr>       <td valign="top"><img style="display: inline" title="WsHttpBinding-Messages" border="0" alt="WsHttpBinding-Messages" src="/wp-content/uploads/binary/WCFPerformanceOptimizationTips_7C4A/WsHttpBindingMessages.jpg" width="388" height="264" /> </td>        <td valign="top"><img style="display: inline" title="BasicBinding-Messages" border="0" alt="BasicBinding-Messages" src="/wp-content/uploads/binary/WCFPerformanceOptimizationTips_7C4A/BasicBindingMessages.jpg" width="388" height="197" /> </td>     </tr>   </tbody></table>  <p>&#160;&#160; </p>  <p>The security we lost when switching over to BasicHttpBinding will be enforced at the network level by locking down the machines that are allowed to make calls to the service. </p>  <p>In our case we could have squeezed out more performance if we had used NetTcpBinding but that would have required IIS7 and WAS. </p>  <p>Ref:    <br />-&#160;&#160;&#160; <a href="http://www.pluralsight.com/community/blogs/aaron/archive/2007/03/22/46560.aspx">WCF Binding Comparison</a>     <br />-&#160;&#160;&#160; <a href="http://geekswithblogs.net/claeyskurt/archive/2008/04/22/121508.aspx">BasicHttpBinding compared to WSHttpBinding at SOAP packet level</a> [Note: Although this author recommends WS over Basic, Microsoft specifies that the secure and reliable sessions be disabled for Load Balanced environments which basically brings it down to Basic].     <br />-&#160;&#160;&#160; <a href="http://msdn.microsoft.com/en-us/library/ms730128.aspx">Load Balancing</a> </p>  <p><strong>Service Model Throttling      <br /></strong>The service throttling parameters are another key element to look at when performance tuning services. The name is a little misleading though as it tends to imply that you want to throttle your service when in fact these are the default settings that the Microsoft engineers have put in place to prevent DOS attacks against your service. </p>  <p>In our case due to the nature of our application usage these settings caused the server to queue new requests once the default throttling levels of 10 concurrent sessions were reached. What effectively happened was that once long running queries were being processed other requests started getting queued up even though the server memory and processor usage were very low. </p>  <p>The resolution for this was to increase the default values for these settings (shown below) to a few thousand. </p>  <div>   <div style="border-bottom-style: none; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: #f4f4f4; padding-left: 0px; width: 100%; padding-right: 0px; font-family: consolas, &#39;Courier New&#39;, courier, monospace; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px">     <pre style="border-bottom-style: none; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: white; margin: 0em; padding-left: 0px; width: 100%; padding-right: 0px; font-family: consolas, &#39;Courier New&#39;, courier, monospace; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px"><span style="color: #0000ff">&lt;</span><span style="color: #800000">behaviors</span><span style="color: #0000ff">&gt;</span> </pre>
+      <content type="text"><![CDATA[<p>I wound up work on my last project and thought of sharing some performance challenges we faced when the product went live.</p>  <p>Keep in mind though that optimization options heavily rely on your application design and its usage scenarios.</p>  <p><strong>Usage Scenario</strong></p>  <p>The usage scenario for which the following optimizations worked are as follows. The WCF services are hosted under IIS and currently only serve requests that come from the desktop client application through the intranet. Roughly 300 instances of the client application will be used concurrently.</p>  <p>   <br /><strong>Long running calls      <br /></strong>The application design used the BackgroundWorker when making calls to the server but the actual WCF call was synchronous. Synchronous calls work well in most scenarios but when your service performs a long running task (&gt;1 sec) it blocks other clients from connecting to the server. Asynchronous calls make better sense in this scenario.     <br />Ref: <a href="http://msdn.microsoft.com/en-us/library/ms734701.aspx">Synchronous and Asynchronous Operations</a> </p>  <p><strong>Bindings      <br /></strong>When designing your application pick the binding carefully as this also affects performance. The WCF services were initially designed to use WSHttpBinding. This binding though affects performance especially when options such as security, reliable sessions and transaction flow are enabled. </p>  <p>As part of the performance tuning we switched to using BasicHttpBinding as none of the WS features were actually being used by the application. This dramatically improved performance because we cut down on all the acknowledgements. </p>  <p>&#160;</p>  <table border="0" cellspacing="0" cellpadding="2" width="400"><tbody>     <tr>       <td valign="top">Default WSHttpBinding          <br />with Reliable Session Enabled (9 messages)</td>        <td valign="top">BasicHttpBinding (2 messages)</td>     </tr>      <tr>       <td valign="top"><img style="display: inline" title="WsHttpBinding-Messages" border="0" alt="WsHttpBinding-Messages" src="https://merill.net/wp-content/uploads/binary/WCFPerformanceOptimizationTips_7C4A/WsHttpBindingMessages.jpg" width="388" height="264" /> </td>        <td valign="top"><img style="display: inline" title="BasicBinding-Messages" border="0" alt="BasicBinding-Messages" src="https://merill.net/wp-content/uploads/binary/WCFPerformanceOptimizationTips_7C4A/BasicBindingMessages.jpg" width="388" height="197" /> </td>     </tr>   </tbody></table>  <p>&#160;&#160; </p>  <p>The security we lost when switching over to BasicHttpBinding will be enforced at the network level by locking down the machines that are allowed to make calls to the service. </p>  <p>In our case we could have squeezed out more performance if we had used NetTcpBinding but that would have required IIS7 and WAS. </p>  <p>Ref:    <br />-&#160;&#160;&#160; <a href="http://www.pluralsight.com/community/blogs/aaron/archive/2007/03/22/46560.aspx">WCF Binding Comparison</a>     <br />-&#160;&#160;&#160; <a href="http://geekswithblogs.net/claeyskurt/archive/2008/04/22/121508.aspx">BasicHttpBinding compared to WSHttpBinding at SOAP packet level</a> [Note: Although this author recommends WS over Basic, Microsoft specifies that the secure and reliable sessions be disabled for Load Balanced environments which basically brings it down to Basic].     <br />-&#160;&#160;&#160; <a href="http://msdn.microsoft.com/en-us/library/ms730128.aspx">Load Balancing</a> </p>  <p><strong>Service Model Throttling      <br /></strong>The service throttling parameters are another key element to look at when performance tuning services. The name is a little misleading though as it tends to imply that you want to throttle your service when in fact these are the default settings that the Microsoft engineers have put in place to prevent DOS attacks against your service. </p>  <p>In our case due to the nature of our application usage these settings caused the server to queue new requests once the default throttling levels of 10 concurrent sessions were reached. What effectively happened was that once long running queries were being processed other requests started getting queued up even though the server memory and processor usage were very low. </p>  <p>The resolution for this was to increase the default values for these settings (shown below) to a few thousand. </p>  <div>   <div style="border-bottom-style: none; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: #f4f4f4; padding-left: 0px; width: 100%; padding-right: 0px; font-family: consolas, &#39;Courier New&#39;, courier, monospace; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px">     <pre style="border-bottom-style: none; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: white; margin: 0em; padding-left: 0px; width: 100%; padding-right: 0px; font-family: consolas, &#39;Courier New&#39;, courier, monospace; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px"><span style="color: #0000ff">&lt;</span><span style="color: #800000">behaviors</span><span style="color: #0000ff">&gt;</span> </pre>
 
     <pre style="border-bottom-style: none; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: #f4f4f4; margin: 0em; padding-left: 0px; width: 100%; padding-right: 0px; font-family: consolas, &#39;Courier New&#39;, courier, monospace; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px">  <span style="color: #0000ff">&lt;</span><span style="color: #800000">serviceBehaviors</span><span style="color: #0000ff">&gt;</span> </pre>
 
@@ -673,7 +673,7 @@ Happy WCF programming on Windows Server!
     </post>
     <post id="48869806-0f44-4cbd-9b38-2d5dca3d0b7d" date-created="2008-04-05T19:12:13" date-modified="2008-04-05T19:12:13" approved="true" post-url="/post/2008/04/Bill-Gates-was-right-about-spam.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Bill Gates was right about spam]]></title>
-      <content type="text"><![CDATA[<p>In 2004 BillG made a statement that <a href="http://www.cbsnews.com/stories/2004/01/24/tech/main595595.shtml">spam will be solved in two years</a>. In 2008 I can prove that it is. </p> <p>Here's how my Inbox looks today.</p> <p><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="174" alt="Inbox" src="/wp-content/uploads/binary/BillGateswasrightaboutspam_10B97/Inbox.jpg" width="117" border="0"> </p> <p>That's 19,326 spam message caught in the last 30 days. Not a single spam slipped through and nothing was falsely flagged. </p> <p>What he wouldn't be happy about though is that it wasn't his team that solved it but the guys over at GMail.</p> <p>The Windows Live Mail client, unfortunately, flags my own messages as Junk.</p>]]></content>
+      <content type="text"><![CDATA[<p>In 2004 BillG made a statement that <a href="http://www.cbsnews.com/stories/2004/01/24/tech/main595595.shtml">spam will be solved in two years</a>. In 2008 I can prove that it is. </p> <p>Here's how my Inbox looks today.</p> <p><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="174" alt="Inbox" src="https://merill.net/wp-content/uploads/binary/BillGateswasrightaboutspam_10B97/Inbox.jpg" width="117" border="0"> </p> <p>That's 19,326 spam message caught in the last 30 days. Not a single spam slipped through and nothing was falsely flagged. </p> <p>What he wouldn't be happy about though is that it wasn't his team that solved it but the guys over at GMail.</p> <p>The Windows Live Mail client, unfortunately, flags my own messages as Junk.</p>]]></content>
       <post-name type="text"><![CDATA[Bill Gates was right about spam]]></post-name>
       <authors>
         <author ref="merill" />
@@ -692,7 +692,7 @@ Happy WCF programming on Windows Server!
 I was reading this old series of posts on the whole <a href="http://blogs.msdn.com/jensenh/archive/2006/04/05/568947.aspx">Office Ribbon bar design</a> (quite a fascinating from a developer perspective). I came across the comments where quite a few have ranted on the &#39;paste unformatted text&#39; as being more preferred than paste. I too used to be in that same group but that was before I came across this whole section dedicated to configuring copy-paste under the Advanced tab in Word options. Here you can configure the default paste action. For keyboard freaks there&#39;s always the Alt+H, V, S to get to the Paste dialog.
 </p>
 <p>
-<img src="/wp-content/uploads/files/cop-paste-office-2007.JPG" alt="" />
+<img src="https://merill.net/wp-content/uploads/files/cop-paste-office-2007.JPG" alt="" />
 </p>
 <p>
 While we&#39;re on the topic of Copy/Paste. Do yourself a favor and install <a href="http://bluemars.org/clipx/">ClipX</a>, you have absolutely no idea what your missing.
@@ -719,7 +719,7 @@ For the love of god why is the language filter on MSDN a list of checkboxes that
 <p>
 You&#39;d expect the guys at MSDN to have figured out how cookies work and remember the language you selected. But no, that would take the fun out of switching off each language one by one for each and every page.
 </p>
-<img src="/wp-content/uploads/files/MSDN-Language-Selection2.png" border="0" alt="" />
+<img src="https://merill.net/wp-content/uploads/files/MSDN-Language-Selection2.png" border="0" alt="" />
 ]]></content>
       <post-name type="text"><![CDATA[Oh MSDN Language Filter]]></post-name>
       <authors>
@@ -790,7 +790,7 @@ Here is a step-by-step on how to do this.
 2. Click on the Image button and upload the image that you want to include in your signature. Format the rest of your signature and Publish it. 
 </p>
 <p>
-&nbsp;<img src="/wp-content/uploads/files/GooglePagesSignature.png" alt="" align="left" />
+&nbsp;<img src="https://merill.net/wp-content/uploads/files/GooglePagesSignature.png" alt="" align="left" />
 </p>
 <p>
 &nbsp;
@@ -832,20 +832,20 @@ Here is a step-by-step on how to do this.
 3. In the resulting page, highlight any part of the page that you want to include in your signature and Copy it.
 </p>
 <p>
-&nbsp; <img src="/wp-content/uploads/files/GoogleCopySignature.png" alt="" />
+&nbsp; <img src="https://merill.net/wp-content/uploads/files/GoogleCopySignature.png" alt="" />
 </p>
 <p>
 4. Switch to Outlook 2007. In a new message, on the Message tab, in the Include group, click Signature, and then click Signatures.
 </p>
 <p>
 <br />
-<img src="/wp-content/uploads/files/Outlook2007SignatureStep2.gif" alt="" /><br />
+<img src="https://merill.net/wp-content/uploads/files/Outlook2007SignatureStep2.gif" alt="" /><br />
 6. On the E-mail Signature tab, click New. Type a name for the signature, and then click OK. 
 </p>
 <p>
 7. In the Edit signature box, paste in the signature that you copied from Google Pages. &nbsp;
 </p>
-<img src="/wp-content/uploads/files/Outlook2007SignatureStep3.gif" alt="" /><br />
+<img src="https://merill.net/wp-content/uploads/files/Outlook2007SignatureStep3.gif" alt="" /><br />
 ]]></content>
       <post-name type="text"><![CDATA[Creating HTML Signatures on Outlook 2007]]></post-name>
       <authors>
@@ -971,7 +971,7 @@ A couple of people have emailed me asking for the GUI version of the dasBlog to 
 Please let me know if you find any bugs and remember that I&#39;ve only created a simple UI wrapper over the <a href="http://www.paulvanbrenk.com/blog/2006/12/27/BlogMLSupportForDasBlogBeta.aspx">excellent work</a> done by Paul. 
 </p>
 <p>
-<img src="/wp-content/uploads/files/DasBlogML-Screenshot.JPG" alt="" />
+<img src="https://merill.net/wp-content/uploads/files/DasBlogML-Screenshot.JPG" alt="" />
 </p>
 ]]></content>
       <post-name type="text"><![CDATA[DasBlog to BlogML Converter]]></post-name>
@@ -1602,7 +1602,7 @@ Otherwise the ProcessBatchData call does nothing.]]></content>
     </post>
     <post id="e699cd16-87da-416b-a84d-a62c0677eb07" date-created="2008-02-02T14:39:29" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2008/02/Uploading-Videos.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Uploading Videos]]></title>
-      <content type="text"><![CDATA[<p>I've been playing with uploading videos today and <a href="http://video.msn.com/">MSN Video</a> seems to outshine the other when it comes to uploading as well as viewing video.</p> <p>The biggest strength being the uploader that comes built in to <a href="http://get.live.com/photogallery/overview">Windows Live Photo Gallery</a>. With <a href="http://get.live.com/photogallery/overview">YouTube</a> you need to wait for the whole video to upload which can take quite a lot of time, if not you need to muck around with some compression program and fine-tune the settings before doing the upload. I don't have the patience for that.</p> <p>The Photo Gallery uploader seems to compress the file as it uploads making it extremely fast.</p> <p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="449" alt="PublishVideoOnSoapbox" src="/wp-content/uploads/binary/UploadingVideos_DC09/PublishVideoOnSoapbox.png" width="659" border="0"></p> <p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="264" alt="UploadingToSoapbox" src="/wp-content/uploads/binary/UploadingVideos_DC09/UploadingToSoapbox.png" width="548" border="0">&nbsp; </p> <p>Then Windows Live Writer makes it as easy as Insert-&gt;Video to allow you to pick the video that you uploaded.</p> <p><img height="588" alt="Insert Video" src="/wp-content/uploads/binary/UploadingVideos_DC09/InsertVideo.png" width="498" border="0"></p>]]></content>
+      <content type="text"><![CDATA[<p>I've been playing with uploading videos today and <a href="http://video.msn.com/">MSN Video</a> seems to outshine the other when it comes to uploading as well as viewing video.</p> <p>The biggest strength being the uploader that comes built in to <a href="http://get.live.com/photogallery/overview">Windows Live Photo Gallery</a>. With <a href="http://get.live.com/photogallery/overview">YouTube</a> you need to wait for the whole video to upload which can take quite a lot of time, if not you need to muck around with some compression program and fine-tune the settings before doing the upload. I don't have the patience for that.</p> <p>The Photo Gallery uploader seems to compress the file as it uploads making it extremely fast.</p> <p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="449" alt="PublishVideoOnSoapbox" src="https://merill.net/wp-content/uploads/binary/UploadingVideos_DC09/PublishVideoOnSoapbox.png" width="659" border="0"></p> <p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="264" alt="UploadingToSoapbox" src="https://merill.net/wp-content/uploads/binary/UploadingVideos_DC09/UploadingToSoapbox.png" width="548" border="0">&nbsp; </p> <p>Then Windows Live Writer makes it as easy as Insert-&gt;Video to allow you to pick the video that you uploaded.</p> <p><img height="588" alt="Insert Video" src="https://merill.net/wp-content/uploads/binary/UploadingVideos_DC09/InsertVideo.png" width="498" border="0"></p>]]></content>
       <post-name type="text"><![CDATA[Uploading Videos]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1624,7 +1624,7 @@ Otherwise the ProcessBatchData call does nothing.]]></content>
     </post>
     <post id="6848b28b-9ed9-4615-8b81-39edb9684d68" date-created="2008-01-31T15:24:26" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2008/01/Rafael.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Rafael]]></title>
-      <content type="text"><![CDATA[<p><img height="300" alt="Imara &amp; Rafael" src="/wp-content/uploads/binary/Rafael_E6AE/ImaraRafael.jpg" width="400"> </p> <p>It turned out to be a wonderful coincidence that our second son Rafael decided to be born on our second wedding anniversary!</p> <p>The little fella has a loud voice and wakes his older brother up at night, but we all love him so much.</p> <p>Having a baby so many miles away from family and friends should have been a very difficult experience. On the contrary the midwives who delivered Rafael were so friendly and motherly that Imara, Joshua and I never felt any stress.</p> <p>I'm even more impressed by the fact that the midwives visit our house to check on the mother and baby and the constant care given. The Australian medical system by far would have to be one of the best in the world.</p> <p>Anyway's my mother in law just flew in from Sri Lanka today so that's going to make it a little more easier for Imara.</p>]]></content>
+      <content type="text"><![CDATA[<p><img height="300" alt="Imara &amp; Rafael" src="https://merill.net/wp-content/uploads/binary/Rafael_E6AE/ImaraRafael.jpg" width="400"> </p> <p>It turned out to be a wonderful coincidence that our second son Rafael decided to be born on our second wedding anniversary!</p> <p>The little fella has a loud voice and wakes his older brother up at night, but we all love him so much.</p> <p>Having a baby so many miles away from family and friends should have been a very difficult experience. On the contrary the midwives who delivered Rafael were so friendly and motherly that Imara, Joshua and I never felt any stress.</p> <p>I'm even more impressed by the fact that the midwives visit our house to check on the mother and baby and the constant care given. The Australian medical system by far would have to be one of the best in the world.</p> <p>Anyway's my mother in law just flew in from Sri Lanka today so that's going to make it a little more easier for Imara.</p>]]></content>
       <post-name type="text"><![CDATA[Rafael]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1668,7 +1668,7 @@ Otherwise the ProcessBatchData call does nothing.]]></content>
     </post>
     <post id="d275cef5-a33e-4ebf-81fb-5e0b35faa09d" date-created="2008-01-11T15:49:21" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2008/01/Playing-the-currency-game.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Playing the currency game]]></title>
-      <content type="text"><![CDATA[<p>If like me you frequently send money back to Sri Lanka, it's important to know how to play the game.</p> <p>You can save yourself some dollars or rupees by knowing if things are going up or down, here's where <a href="http://www.x-rates.com">x-rates.com</a> comes to help.</p> <p>Pick the two currencies from where your sending and receiving and hey presto you have a graph.</p> <p><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="246" alt="LKRAUD-conversion" src="/wp-content/uploads/contentbinary/WindowsLiveWriter/Playingthecurrencygame_ED2E/LKRAUD-conversion_1.jpg" width="430" border="0"> </p> <p>I for one will be waiting a couple more days before my next transfer.</p> <p>Oh and I nearly forgot, the guys at <a href="http://www.ceylincofastcash.com/">Ceylinco Fast Cash</a> give a really good service when sending money home. My last transfer went through like a breeze, in less than one hour, I deposited some money in Sydney and my brother withdrew from Colombo. Both of us were SMS'd every step of the way by their automated system. </p> <p>Plus if you use there service about 6 times they provide a number of free benefits including a "doctor on call and other medical services for your loved ones in Sri Lanka".</p>]]></content>
+      <content type="text"><![CDATA[<p>If like me you frequently send money back to Sri Lanka, it's important to know how to play the game.</p> <p>You can save yourself some dollars or rupees by knowing if things are going up or down, here's where <a href="http://www.x-rates.com">x-rates.com</a> comes to help.</p> <p>Pick the two currencies from where your sending and receiving and hey presto you have a graph.</p> <p><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="246" alt="LKRAUD-conversion" src="https://merill.net/wp-content/uploads/contentbinary/WindowsLiveWriter/Playingthecurrencygame_ED2E/LKRAUD-conversion_1.jpg" width="430" border="0"> </p> <p>I for one will be waiting a couple more days before my next transfer.</p> <p>Oh and I nearly forgot, the guys at <a href="http://www.ceylincofastcash.com/">Ceylinco Fast Cash</a> give a really good service when sending money home. My last transfer went through like a breeze, in less than one hour, I deposited some money in Sydney and my brother withdrew from Colombo. Both of us were SMS'd every step of the way by their automated system. </p> <p>Plus if you use there service about 6 times they provide a number of free benefits including a "doctor on call and other medical services for your loved ones in Sri Lanka".</p>]]></content>
       <post-name type="text"><![CDATA[Playing the currency game]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1680,7 +1680,7 @@ Otherwise the ProcessBatchData call does nothing.]]></content>
     </post>
     <post id="0ecfed3b-d32e-46c5-87e4-fda1b66bf0ec" date-created="2008-01-10T19:18:29" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2008/01/Tomorrow.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Tomorrow]]></title>
-      <content type="text"><![CDATA[<p><strong><img height="135" alt="tigerwoods" src="/wp-content/uploads/binary/Tomorrow_11D8A/tigerwoods.jpg" width="95" align="right"> "I view my life in a way … I'll explain it to you, OK? The greatest thing about tomorrow is, I will be better than I am today. And that's how I look at my life. I will be better as a golfer, I will be better as a person, I will be better as a father, I will be a better husband, I will be better as a friend. That's the beauty of tomorrow. There is no such thing as a setback. The lessons I learn today I will apply tomorrow, and I will be better."</strong>  <p>—<a href="http://sports.espn.go.com/golf/columns/story?columnist=diaz_jaime&amp;id=3158267">Tiger Woods</a></p>]]></content>
+      <content type="text"><![CDATA[<p><strong><img height="135" alt="tigerwoods" src="https://merill.net/wp-content/uploads/binary/Tomorrow_11D8A/tigerwoods.jpg" width="95" align="right"> "I view my life in a way … I'll explain it to you, OK? The greatest thing about tomorrow is, I will be better than I am today. And that's how I look at my life. I will be better as a golfer, I will be better as a person, I will be better as a father, I will be a better husband, I will be better as a friend. That's the beauty of tomorrow. There is no such thing as a setback. The lessons I learn today I will apply tomorrow, and I will be better."</strong>  <p>—<a href="http://sports.espn.go.com/golf/columns/story?columnist=diaz_jaime&amp;id=3158267">Tiger Woods</a></p>]]></content>
       <post-name type="text"><![CDATA[Tomorrow]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1886,7 +1886,7 @@ Chris]]></content>
     </post>
     <post id="0f9207d4-dbd0-4f22-90ae-336ea109900c" date-created="2007-10-05T16:02:16" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/10/Migrating.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Migrating]]></title>
-      <content type="text"><![CDATA[<p>Finally a post after an awfully long time. I'm in the midst of moving my life and twitter too is to blame. In the meantime I have this cute picture of Joshua.</p> <p><a href="https://merill.net/wp-content/uploads/binary/d3be6778a2da_A170/Joshua.jpg"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="500" alt="Joshua" src="/wp-content/uploads/binary/d3be6778a2da_A170/Joshua_thumb.jpg" width="660" border="0"></a></p>]]></content>
+      <content type="text"><![CDATA[<p>Finally a post after an awfully long time. I'm in the midst of moving my life and twitter too is to blame. In the meantime I have this cute picture of Joshua.</p> <p><a href="https://merill.net/wp-content/uploads/binary/d3be6778a2da_A170/Joshua.jpg"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="500" alt="Joshua" src="https://merill.net/wp-content/uploads/binary/d3be6778a2da_A170/Joshua_thumb.jpg" width="660" border="0"></a></p>]]></content>
       <post-name type="text"><![CDATA[Migrating]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1919,7 +1919,7 @@ Chris]]></content>
     </post>
     <post id="d297ca5f-164f-47c6-a266-f484c94dae13" date-created="2007-07-30T13:20:40" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/07/Twitter.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Twitter]]></title>
-      <content type="text"><![CDATA[<p><img alt="twitter" src="/wp-content/uploads/binary/Twitter_7A06/twitter.gif"> </p> <p>I just tried <a href="http://www.twitter.com">twitter</a>&nbsp;last week and was blown away! This is one really really cool service.</p> <p>For&nbsp;me the coolest part about it is the SMS/Texting feature. For those who haven't used it yet, think of&nbsp;it as a service which lets you&nbsp;SMS/Text all&nbsp;your friends by sending an SMS to just a single number that twitter gives.</p> <p>Twitter then goes out and updates everyone on your list by sending them SMS plus updating a whole lot of other&nbsp;places like your Facebook profile, your blog...</p> <p>Other features include sending the message from the Twitter website or even from a downloadable app (imagine that FREE SMS), if you want to you can send a message to just one friend.</p> <p>Note to Sri Lankan users,&nbsp;this works find on Dialog but a few of my friends on Mobitel had trouble getting setup. If any of you get this working with Mobitel please let me know.</p> <p>Once you have created a twitter account go to <a href="http://twitter.com/merill">http://twitter.com/merill</a> and 'follow me' to get my twitter updates.&nbsp;</p>]]></content>
+      <content type="text"><![CDATA[<p><img alt="twitter" src="https://merill.net/wp-content/uploads/binary/Twitter_7A06/twitter.gif"> </p> <p>I just tried <a href="http://www.twitter.com">twitter</a>&nbsp;last week and was blown away! This is one really really cool service.</p> <p>For&nbsp;me the coolest part about it is the SMS/Texting feature. For those who haven't used it yet, think of&nbsp;it as a service which lets you&nbsp;SMS/Text all&nbsp;your friends by sending an SMS to just a single number that twitter gives.</p> <p>Twitter then goes out and updates everyone on your list by sending them SMS plus updating a whole lot of other&nbsp;places like your Facebook profile, your blog...</p> <p>Other features include sending the message from the Twitter website or even from a downloadable app (imagine that FREE SMS), if you want to you can send a message to just one friend.</p> <p>Note to Sri Lankan users,&nbsp;this works find on Dialog but a few of my friends on Mobitel had trouble getting setup. If any of you get this working with Mobitel please let me know.</p> <p>Once you have created a twitter account go to <a href="http://twitter.com/merill">http://twitter.com/merill</a> and 'follow me' to get my twitter updates.&nbsp;</p>]]></content>
       <post-name type="text"><![CDATA[Twitter]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1930,7 +1930,7 @@ Chris]]></content>
     </post>
     <post id="430f9d22-4e6e-41e1-b746-61f2c0619a7a" date-created="2007-07-05T21:04:07" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/07/Free-Outlook-2007-Preview-Handlers-(PDF2c-XML2c-ZIP2c-MSI2c-BIN2c-CSV2c-XPS2c-and-XAML-files).aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Free Outlook 2007 Preview Handlers (PDF, XML, ZIP, MSI, BIN, CSV, XPS, and XAML files)]]></title>
-      <content type="text"><![CDATA[<p>If your using Vista or Outlook 2007 then the free Outlook Preview Handler&nbsp;in this <a href="http://msdn.microsoft.com/msdnmag/issues/07/01/PreviewHandlers/default.aspx">MSDN article</a> by Stephen Toub gives you a whole bunch of new files including PDF and ZIP support.</p> <p>Go get the install directly from <a href="http://download.microsoft.com/download/f/2/7/f279e71e-efb0-4155-873d-5554a0608523/PreviewHandlers2007_01.exe">here</a>.</p> <p><img height="161" alt="Zip Preview Outlook 2007" src="/wp-content/uploads/binary/FreeOutlook2007PreviewHandlersPDFXMLZIPM_E78D/ZipPreviewOutlook2007.gif" width="400"></p>]]></content>
+      <content type="text"><![CDATA[<p>If your using Vista or Outlook 2007 then the free Outlook Preview Handler&nbsp;in this <a href="http://msdn.microsoft.com/msdnmag/issues/07/01/PreviewHandlers/default.aspx">MSDN article</a> by Stephen Toub gives you a whole bunch of new files including PDF and ZIP support.</p> <p>Go get the install directly from <a href="http://download.microsoft.com/download/f/2/7/f279e71e-efb0-4155-873d-5554a0608523/PreviewHandlers2007_01.exe">here</a>.</p> <p><img height="161" alt="Zip Preview Outlook 2007" src="https://merill.net/wp-content/uploads/binary/FreeOutlook2007PreviewHandlersPDFXMLZIPM_E78D/ZipPreviewOutlook2007.gif" width="400"></p>]]></content>
       <post-name type="text"><![CDATA[Free Outlook 2007 Preview Handlers (PDF, XML, ZIP, MSI, BIN, CSV, XPS, and XAML files)]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1952,7 +1952,7 @@ Chris]]></content>
     </post>
     <post id="cc75eec6-1092-4186-b598-05ff795ff0ae" date-created="2007-06-05T13:55:50" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/06/The-two-Scotts.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[The two Scotts]]></title>
-      <content type="text"><![CDATA[<p>One of the cool things that happened at the MVP Summit this year was that I got to meet two people I really admire and both of them are Scotts. </p> <p>&nbsp;<a href="https://merill.net/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Guthrie_Merill.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="284" alt="Scott Guthrie Merill" src="/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Guthrie_Merill_thumb.jpg" width="400" border="0"></a> </p> <p><a href="https://merill.net/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Hanselman_Merill.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="197" alt="Scott Hanselman Merill MVPs" src="/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Hanselman_Merill_thumb.jpg" width="500" border="0"></a> </p> <p>What was even cooler was that Scott Hanselman recognized me at the summit, now that's one cool dude who <a href="http://www.hanselman.com/blog/BlogInteresting32WaysToKeepYourBlogFromSucking.aspx">knows his readers</a>. Hai there Scott!</p>]]></content>
+      <content type="text"><![CDATA[<p>One of the cool things that happened at the MVP Summit this year was that I got to meet two people I really admire and both of them are Scotts. </p> <p>&nbsp;<a href="https://merill.net/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Guthrie_Merill.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="284" alt="Scott Guthrie Merill" src="https://merill.net/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Guthrie_Merill_thumb.jpg" width="400" border="0"></a> </p> <p><a href="https://merill.net/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Hanselman_Merill.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="197" alt="Scott Hanselman Merill MVPs" src="https://merill.net/wp-content/uploads/binary/ScottHanselmansuredoesknowhisreaders_9362/Scott_Hanselman_Merill_thumb.jpg" width="500" border="0"></a> </p> <p>What was even cooler was that Scott Hanselman recognized me at the summit, now that's one cool dude who <a href="http://www.hanselman.com/blog/BlogInteresting32WaysToKeepYourBlogFromSucking.aspx">knows his readers</a>. Hai there Scott!</p>]]></content>
       <post-name type="text"><![CDATA[The two Scotts]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1972,7 +1972,7 @@ Chris]]></content>
       <title type="text"><![CDATA[Invisible backward compatibility in Vista]]></title>
       <content type="text"><![CDATA[<P>If you have Vista running try this. Open an Explorer window, move your mouse to the top <STRIKE>right</STRIKE> left corner (thanks <A href="http://www.kavinda.net">Kavinda</A>) and double-click.</P>
 <P>What happens next?</P>
-<P><A href="https://merill.net/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer4.jpg" atomicselection="true"><IMG height=475 src="/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer_thumb2.jpg" width=621 border=0></A></P>]]></content>
+<P><A href="https://merill.net/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer4.jpg" atomicselection="true"><IMG height=475 src="https://merill.net/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer_thumb2.jpg" width=621 border=0></A></P>]]></content>
       <post-name type="text"><![CDATA[Invisible backward compatibility in Vista]]></post-name>
       <authors>
         <author ref="admin" />
@@ -1998,7 +1998,7 @@ Chris]]></content>
     </post>
     <post id="8865d141-8742-4164-a364-8acc9a555edc" date-created="2007-05-23T12:36:40" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/05/Debugging-SQL-Server-2005-Stored-Procedures-in-Visual-Studio.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Debugging SQL Server 2005 Stored Procedures in Visual Studio]]></title>
-      <content type="text"><![CDATA[<p>I used to use the debug feature in Query Analyzer when working with SQL Server 2000 quite a lot. There were a number of time when I did want to do this in SQL Server 2005 but couldn't quite figure it out. I looked high and low on SQL Server Management Studio to no avail.</p> <p>The reason? Debugging was moved out of SQL Server Management Studio and into Visual Studio.</p> <p><img height="410" alt="Debug SQL Server Stored Procedure" src="/wp-content/uploads/binary/DebuggingSQLServer2005StoredProceduresin_713C/sqlserver2005Debugstoredprocedure4.gif" width="363"> </p> <p>Read all about it in this <a href="http://aspnet.4guysfromrolla.com/articles/051607-1.aspx">article</a> by Scott Mitchell.</p>]]></content>
+      <content type="text"><![CDATA[<p>I used to use the debug feature in Query Analyzer when working with SQL Server 2000 quite a lot. There were a number of time when I did want to do this in SQL Server 2005 but couldn't quite figure it out. I looked high and low on SQL Server Management Studio to no avail.</p> <p>The reason? Debugging was moved out of SQL Server Management Studio and into Visual Studio.</p> <p><img height="410" alt="Debug SQL Server Stored Procedure" src="https://merill.net/wp-content/uploads/binary/DebuggingSQLServer2005StoredProceduresin_713C/sqlserver2005Debugstoredprocedure4.gif" width="363"> </p> <p>Read all about it in this <a href="http://aspnet.4guysfromrolla.com/articles/051607-1.aspx">article</a> by Scott Mitchell.</p>]]></content>
       <post-name type="text"><![CDATA[Debugging SQL Server 2005 Stored Procedures in Visual Studio]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2010,7 +2010,7 @@ Chris]]></content>
     </post>
     <post id="0ed8680f-f89b-443e-b33c-7fb66d0cd2c4" date-created="2007-05-23T11:40:38" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/05/Code-Profiling.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Code Profiling]]></title>
-      <content type="text"><![CDATA[<p>Until yesterday, if anyone asked me about dynamic code profiling, I would have said that the only way to do it is to buy the Red Gate <a href="http://www.red-gate.com/products/ants_profiler/index.htm">ANTS Profiler</a> or the Jet Brains <a href="http://www.jetbrains.com/profiler">dotTrace Profiler</a>.</p> <p>Little did I know that I already had an excellent profiling tool installed right there on my machine for the last couple of years!</p> <p>So what am I talking about. It's the small menu option that you see under Tools called Performance. Aha so that's why I never knew about this all along. The VSTS most probably wanted this to be an easter egg!</p> <p><a href="https://merill.net/wp-content/uploads/binary/CodeProfiling_5DC8/VSTSCodeProfiler3.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="470" src="/wp-content/uploads/binary/CodeProfiling_5DC8/VSTSCodeProfiler_thumb1.jpg" width="517" border="0"></a> </p> <p>No worries though Orcas is going to fix this by renaming it to Profiler and moving it under the new Developer menu.</p> <p><a href="https://merill.net/wp-content/uploads/binary/CodeProfiling_5DC8/OrcaseDeveloperMenu6.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="377" src="/wp-content/uploads/binary/CodeProfiling_5DC8/OrcaseDeveloperMenu_thumb4.jpg" width="554" border="0"></a> </p> <p>No wonder that this rarely shows up on Live Search or Google. The keyword profiler is nowhere to be found even in the overview page of this feature on MSDN.</p> <p>So what can you do with the profiler today? Well you can use it to make your .NET applications super-duper fast. You'll find out things like which method gets called the most and which method takes most of the time to execute and a whole number of other things. </p>]]></content>
+      <content type="text"><![CDATA[<p>Until yesterday, if anyone asked me about dynamic code profiling, I would have said that the only way to do it is to buy the Red Gate <a href="http://www.red-gate.com/products/ants_profiler/index.htm">ANTS Profiler</a> or the Jet Brains <a href="http://www.jetbrains.com/profiler">dotTrace Profiler</a>.</p> <p>Little did I know that I already had an excellent profiling tool installed right there on my machine for the last couple of years!</p> <p>So what am I talking about. It's the small menu option that you see under Tools called Performance. Aha so that's why I never knew about this all along. The VSTS most probably wanted this to be an easter egg!</p> <p><a href="https://merill.net/wp-content/uploads/binary/CodeProfiling_5DC8/VSTSCodeProfiler3.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="470" src="https://merill.net/wp-content/uploads/binary/CodeProfiling_5DC8/VSTSCodeProfiler_thumb1.jpg" width="517" border="0"></a> </p> <p>No worries though Orcas is going to fix this by renaming it to Profiler and moving it under the new Developer menu.</p> <p><a href="https://merill.net/wp-content/uploads/binary/CodeProfiling_5DC8/OrcaseDeveloperMenu6.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="377" src="https://merill.net/wp-content/uploads/binary/CodeProfiling_5DC8/OrcaseDeveloperMenu_thumb4.jpg" width="554" border="0"></a> </p> <p>No wonder that this rarely shows up on Live Search or Google. The keyword profiler is nowhere to be found even in the overview page of this feature on MSDN.</p> <p>So what can you do with the profiler today? Well you can use it to make your .NET applications super-duper fast. You'll find out things like which method gets called the most and which method takes most of the time to execute and a whole number of other things. </p>]]></content>
       <post-name type="text"><![CDATA[Code Profiling]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2021,7 +2021,7 @@ Chris]]></content>
     </post>
     <post id="3fa4e751-415b-4fc9-8c87-e1aabd970800" date-created="2007-05-17T12:09:10" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/05/HOWTO-View-all-images-on-a-site.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[HOWTO: View all images on a site]]></title>
-      <content type="text"><![CDATA[<p>Did you know that you can view all the images on a site by searching for site:&lt;url&gt; e.g. site:merill.net. Works on Google Image search as well.</p> <p><a href="https://merill.net/wp-content/uploads/binary/8cbb6b8ca542_6AE1/livesearch4.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="445" src="/wp-content/uploads/binary/8cbb6b8ca542_6AE1/livesearch_thumb2.jpg" width="755" border="0"></a></p>]]></content>
+      <content type="text"><![CDATA[<p>Did you know that you can view all the images on a site by searching for site:&lt;url&gt; e.g. site:merill.net. Works on Google Image search as well.</p> <p><a href="https://merill.net/wp-content/uploads/binary/8cbb6b8ca542_6AE1/livesearch4.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="445" src="https://merill.net/wp-content/uploads/binary/8cbb6b8ca542_6AE1/livesearch_thumb2.jpg" width="755" border="0"></a></p>]]></content>
       <post-name type="text"><![CDATA[HOWTO: View all images on a site]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2066,7 +2066,7 @@ Chris]]></content>
     </post>
     <post id="ba7ae0e9-8e39-4cbd-b75e-a104468d2d18" date-created="2007-04-06T15:29:13" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/04/Joshua--4-months.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Joshua @ 4 months]]></title>
-      <content type="text"><![CDATA[<p>It's Joshua's fourth month today and I totally adore him!</p> <p><a href="https://merill.net/wp-content/uploads/binary/Joshua4months_9A25/Joshuafourmonths2.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="600" src="/wp-content/uploads/binary/Joshua4months_9A25/Joshuafourmonths_thumb.jpg" width="337" border="0"></a></p>]]></content>
+      <content type="text"><![CDATA[<p>It's Joshua's fourth month today and I totally adore him!</p> <p><a href="https://merill.net/wp-content/uploads/binary/Joshua4months_9A25/Joshuafourmonths2.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="600" src="https://merill.net/wp-content/uploads/binary/Joshua4months_9A25/Joshuafourmonths_thumb.jpg" width="337" border="0"></a></p>]]></content>
       <post-name type="text"><![CDATA[Joshua @ 4 months]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2092,7 +2092,7 @@ Chris]]></content>
     </post>
     <post id="5036acdf-fbde-4a84-a0fb-59a36309a7f2" date-created="2007-04-04T16:15:55" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/04/About-the-author.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[About the author?]]></title>
-      <content type="text"><![CDATA[<p>If your in the <a href="http://www.dotnetforum.lk">local forum</a>&nbsp;you'll know by now that I'll be speaking today on RAD as in <a href="http://www.rubyonrails.org/">RoR</a> speed. </p> <p>What's funny is the <em>'About the author: (Same as before)'</em> on the session outline.</p> <p><a href="https://merill.net/wp-content/uploads/binary/Abouttheauthor_895F/AboutTheAuthor9.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="102" src="/wp-content/uploads/binary/Abouttheauthor_895F/AboutTheAuthor_thumb7.jpg" width="473" border="0"></a></p>]]></content>
+      <content type="text"><![CDATA[<p>If your in the <a href="http://www.dotnetforum.lk">local forum</a>&nbsp;you'll know by now that I'll be speaking today on RAD as in <a href="http://www.rubyonrails.org/">RoR</a> speed. </p> <p>What's funny is the <em>'About the author: (Same as before)'</em> on the session outline.</p> <p><a href="https://merill.net/wp-content/uploads/binary/Abouttheauthor_895F/AboutTheAuthor9.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="102" src="https://merill.net/wp-content/uploads/binary/Abouttheauthor_895F/AboutTheAuthor_thumb7.jpg" width="473" border="0"></a></p>]]></content>
       <post-name type="text"><![CDATA[About the author?]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2125,7 +2125,7 @@ Chris]]></content>
       <content type="text"><![CDATA[<P>I ran across this on ScottH's <A href="http://www.hanselman.com/blog/OnLosingDataAndAFamilyBackupStrategy.aspx">post</A> today. The&nbsp;<A href="http://www.mozy.com">Mozy.com</A> gives you 2GB of backup storage&nbsp;for free. </P>
 <P>Currently, I use the free <A href="http://www.2brightsparks.com/syncback">SyncBack</A>&nbsp;utility to backup the stuff to an extra hard-drive on&nbsp;the local machine. I've thought of using <A href="http://en.wikipedia.org/wiki/GMail_Drive">GMail Drive</A> as a remote backup option but&nbsp;then I would have had to&nbsp;muck around with all the syncing. Plus it's basically a hack with the 10MB and .zip/.exe blocking limitations of GMail.</P>
 <P>Mozy on the other hand makes it all a breeze! The initial setup identified all my stuff like IE/Firefox favorites, contacts and email, My Documents, Visual Studio projects, the list goes on. I can also set when it should sync and how much bandwidth it should take etc. Cool!</P>
-<P><A href="https://merill.net/wp-content/uploads/binary/Backupyourdataforfree_7607/MozyScreenshot3.jpg" atomicselection="true"><IMG height=483 src="/wp-content/uploads/binary/Backupyourdataforfree_7607/MozyScreenshot_thumb1.jpg" width=685 border="0"></A></P>]]></content>
+<P><A href="https://merill.net/wp-content/uploads/binary/Backupyourdataforfree_7607/MozyScreenshot3.jpg" atomicselection="true"><IMG height=483 src="https://merill.net/wp-content/uploads/binary/Backupyourdataforfree_7607/MozyScreenshot_thumb1.jpg" width=685 border="0"></A></P>]]></content>
       <post-name type="text"><![CDATA[Backup your data for free]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2133,7 +2133,7 @@ Chris]]></content>
     </post>
     <post id="a6dd028f-a0a1-41a0-b272-4813199550b7" date-created="2007-03-28T13:16:48" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/03/Mobile-projection-amp3b-64GB-Flash.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Mobile projection &amp; 64GB Flash]]></title>
-      <content type="text"><![CDATA[<p>Two cool things that came through my feeds today include Samsung announcing a <a href="http://www.pcworld.com/article/id,130165-c,harddrives/article.html">64GB Flash Drive</a> and way cooler are the <a href="http://www.esato.com/news/article.php/id=1579">pico-projectors</a> which may some-day end up&nbsp;being embedded on a phone.</p> <p>The future looks good!</p> <p><a href="https://merill.net/wp-content/uploads/binary/Mobileprojection64GBFlash_7A56/MobileProjector4.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="350" src="/wp-content/uploads/binary/Mobileprojection64GBFlash_7A56/MobileProjector_thumb2.jpg" width="640" border="0"></a></p>]]></content>
+      <content type="text"><![CDATA[<p>Two cool things that came through my feeds today include Samsung announcing a <a href="http://www.pcworld.com/article/id,130165-c,harddrives/article.html">64GB Flash Drive</a> and way cooler are the <a href="http://www.esato.com/news/article.php/id=1579">pico-projectors</a> which may some-day end up&nbsp;being embedded on a phone.</p> <p>The future looks good!</p> <p><a href="https://merill.net/wp-content/uploads/binary/Mobileprojection64GBFlash_7A56/MobileProjector4.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="350" src="https://merill.net/wp-content/uploads/binary/Mobileprojection64GBFlash_7A56/MobileProjector_thumb2.jpg" width="640" border="0"></a></p>]]></content>
       <post-name type="text"><![CDATA[Mobile projection &amp; 64GB Flash]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2155,7 +2155,7 @@ Chris]]></content>
     </post>
     <post id="976166df-0a2a-4681-a815-3e5a3987e3ce" date-created="2007-03-25T15:57:05" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2007/03/Wait-for-us.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Wait for us...]]></title>
-      <content type="text"><![CDATA[<p>This says it all.</p> <p><a href="https://merill.net/wp-content/uploads/binary/Wait_8CC8/InziDravidCartoon2.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="300" alt="Inzamam &amp; Dravid comedy" src="/wp-content/uploads/binary/Wait_8CC8/InziDravidCartoon_thumb.jpg" width="397" border="0"></a> </p> <p>Beating India was sweet revenge. In the '99 World Cup, Dravid and Ganguly went on a run spree to eliminate us from the tournament.</p> <p>I'm glad that we returned the favor!</p>]]></content>
+      <content type="text"><![CDATA[<p>This says it all.</p> <p><a href="https://merill.net/wp-content/uploads/binary/Wait_8CC8/InziDravidCartoon2.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="300" alt="Inzamam &amp; Dravid comedy" src="https://merill.net/wp-content/uploads/binary/Wait_8CC8/InziDravidCartoon_thumb.jpg" width="397" border="0"></a> </p> <p>Beating India was sweet revenge. In the '99 World Cup, Dravid and Ganguly went on a run spree to eliminate us from the tournament.</p> <p>I'm glad that we returned the favor!</p>]]></content>
       <post-name type="text"><![CDATA[Wait for us...]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2251,7 +2251,7 @@ Chris]]></content>
       <content type="text"><![CDATA[<P>I take a lot of screenshots and Vista posed a problem with it's window shadows. My workaround was to place the screen behind a Notepad background before taking the screenshot.</P>
 <P>Enter <A href="http://weblogs.asp.net/kennykerr/archive/2007/01/28/window-clippings-1-5.aspx">Window Clippings</A> from Kenny Kerr, includes taking the shadow background and supports a whole lot of formats including smaller file sizes with .png</P>
 <P>The Snipping Tool in Vista just got retired.</P>
-<P><A href="https://merill.net/wp-content/uploads/binary/WindowClippings_AAB4/MerillFernandosWebLogWindowClippings23.png" atomicselection="true"><IMG height=582 src="/wp-content/uploads/binary/WindowClippings_AAB4/MerillFernandosWebLogWindowClippings2_thumb1.png" width=589 border=0></A></P>]]></content>
+<P><A href="https://merill.net/wp-content/uploads/binary/WindowClippings_AAB4/MerillFernandosWebLogWindowClippings23.png" atomicselection="true"><IMG height=582 src="https://merill.net/wp-content/uploads/binary/WindowClippings_AAB4/MerillFernandosWebLogWindowClippings2_thumb1.png" width=589 border=0></A></P>]]></content>
       <post-name type="text"><![CDATA[Window Clippings]]></post-name>
       <authors>
         <author ref="admin" />
@@ -2639,7 +2639,7 @@ Guys, you've got to give credit where it's due. ]]></content>
     <post id="644c8099-2fa0-4e57-b16a-71d97da32aa5" date-created="2006-11-13T14:30:02" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/11/Ooh-aah-just-a-little-bit!.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Ooh aah just a little bit!]]></title>
       <content type="text"><![CDATA[<p>Finally one less beta on my system.</p>
-<p><img alt="Office2007Download" src="/wp-content/uploads/binary/Office2007Download_small.jpg" border="0" /></p>
+<p><img alt="Office2007Download" src="https://merill.net/wp-content/uploads/binary/Office2007Download_small.jpg" border="0" /></p>
 <p>Office 2007 here I come!</p>]]></content>
       <post-name type="text"><![CDATA[Ooh aah just a little bit!]]></post-name>
       <authors>
@@ -2652,8 +2652,8 @@ Guys, you've got to give credit where it's due. ]]></content>
     <post id="ea0a8d76-2ab1-4058-a958-2bd43ea10c50" date-created="2006-11-09T12:37:08" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/11/One-tool-to-bind-them-all.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[One tool to bind them all]]></title>
       <content type="text"><![CDATA[<p>Or just two on this occassion. But man what a tool, Filemon and Regmon have been mashed-up into <a href="http://www.microsoft.com/technet/sysinternals/processesandthreads/processmonitor.mspx">one</a>. Better yet not just a mashup it has been written from the ground up and includes a number of enhancements.</p>
-<p><img alt="Procmon-main" src="/wp-content/uploads/binary/procmon_2Dmain.gif" border="0" /></p>
-<p><img alt="Procmon-proc" src="/wp-content/uploads/binary/procmon_2Dproc.gif" border="0" /></p>
+<p><img alt="Procmon-main" src="https://merill.net/wp-content/uploads/binary/procmon_2Dmain.gif" border="0" /></p>
+<p><img alt="Procmon-proc" src="https://merill.net/wp-content/uploads/binary/procmon_2Dproc.gif" border="0" /></p>
 <p>One less .exe on my Must Have program folder under <a href="http://www.microsoft.com/technet/sysinternals">SysInternals</a>.</p>
 <p>Download Process Monitor from <a href="http://www.microsoft.com/technet/sysinternals/processesandthreads/processmonitor.mspx">here</a>.</p>]]></content>
       <post-name type="text"><![CDATA[One tool to bind them all]]></post-name>
@@ -2666,7 +2666,7 @@ Guys, you've got to give credit where it's due. ]]></content>
     </post>
     <post id="0cab1475-ccb7-4b53-aa34-47af0cf6c820" date-created="2006-11-09T12:29:48" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/11/Ready-for-a-new-day.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Ready for a new day?]]></title>
-      <content type="text"><![CDATA[<p><img alt="Readyforanewday" src="/wp-content/uploads/binary/readyforanewday_small1.jpg" border="0" /></p>
+      <content type="text"><![CDATA[<p><img alt="Readyforanewday" src="https://merill.net/wp-content/uploads/binary/readyforanewday_small1.jpg" border="0" /></p>
 <p>Get your hands on all the brand spanking new releases from a single location at <a href="http://msdn.microsoft.com/vstudio/devsolutions/">http://msdn.microsoft.com/vstudio/devsolutions/</a></p>
 <p>Includes download links to the .NET Framework 3.0, 2007 Office System and ASP.NET Ajax bits.</p>
 <p>I&rsquo;m downloading the fx3.0 sdk and run-times on last time.</p>]]></content>
@@ -2680,9 +2680,9 @@ Guys, you've got to give credit where it's due. ]]></content>
     </post>
     <post id="7bbe4a6a-4f53-4251-8070-ccef5d06f162" date-created="2006-11-03T13:37:53" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/11/Gmail-Mobile.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Gmail Mobile]]></title>
-      <content type="text"><![CDATA[<p><img alt="GmailMobile1" src="/wp-content/uploads/binary/GmailMobile1.png" border="0" /></p>
+      <content type="text"><![CDATA[<p><img alt="GmailMobile1" src="https://merill.net/wp-content/uploads/binary/GmailMobile1.png" border="0" /></p>
 <p>Google has released Gmail Mobile, a new cell phone client application, for everyone's favorite web-based email service, Gmail.</p>
-<p><img alt="GmailMobile2" src="/wp-content/uploads/binary/GmailMobile2.png" border="0" /></p>
+<p><img alt="GmailMobile2" src="https://merill.net/wp-content/uploads/binary/GmailMobile2.png" border="0" /></p>
 <p>In general the new Gmail Mobile promises to let you do nearly everything with Gmail that you can do from your computer. To install Gmail Mobile, direct your mobile web browser to <a href="http://www.gmail.com/app" target="_blank">www.gmail.com/app</a>. [<a href="http://www.techcrunch.com/2006/11/02/gmail-for-mobile-launches-today/">TechCrunch</a>]</p>]]></content>
       <post-name type="text"><![CDATA[Gmail Mobile]]></post-name>
       <authors>
@@ -2999,7 +2999,7 @@ Wait till Live comes up with something better!]]></content>
     </post>
     <post id="861cdea5-9305-41f6-892d-45aa2101b6bc" date-created="2006-10-08T13:16:23" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/10/Robot-employees.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Robot employees]]></title>
-      <content type="text"><![CDATA[<p><img alt="Robotemployees" src="/wp-content/uploads/contentbinary/robotemployees.jpg" border="0" /></p>
+      <content type="text"><![CDATA[<p><img alt="Robotemployees" src="https://merill.net/wp-content/uploads/contentbinary/robotemployees.jpg" border="0" /></p>
 <p>An excellent <a href="http://headrush.typepad.com/creating_passionate_users/2006/10/knocking_the_ex.html">post</a> by Kathy, here&rsquo;s an extract:</p>
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 <p>In an earlier post I said, <i>"If you asked the head of a company which employee they'd prefer: the perfect team player who doesn't rock the boat or the one who is brave enough to stand up and fight for something rather than accept the watered-down group think that maintains the status quo (or makes things worse), who would they SAY they'd choose? Who would they REALLY choose?</I></P>
@@ -3060,7 +3060,7 @@ Wait till Live comes up with something better!]]></content>
 <p>As promised you can download the <a href="https://merill.net/wp-content/uploads/contentbinary/NET%203.0%201%20Hour%20Overview.ppt">.NET 3.0 Overview Presentation</a> [10MB]. Ed saved my day but had to fight the devil himself to get this presentation across to me.</p>
 <p>Julie Lerman has a <a href="http://blog.ziffdavis.com/devlife/archive/2006/10/01/43487.aspx">good post</a> that clarifies .NET roadmap and word soup. If you missed my session yesterday check out the video of a similar session from Tech.Ed Australia at <a href="http://blogs.msdn.com/charles_sterling/archive/2006/09/11/749226.aspx">Charles Strelings&rsquo;s blog</a>. I spent a whole night poring through the presentation to figure out the demo script and I&rsquo;m glad you all enjoyed it.</p>
 <p>FYI: The official .NET Framework 3.0 site is at <a href="http://www.netfx3.com/">www.netfx3.com</a></p>
-<p><img alt="Whatis" src="/wp-content/uploads/contentbinary/whatis.png" border="0" /></p>]]></content>
+<p><img alt="Whatis" src="https://merill.net/wp-content/uploads/contentbinary/whatis.png" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[Introduction to .NET 3.0 slides and links]]></post-name>
       <authors>
         <author ref="admin" />
@@ -3074,7 +3074,7 @@ Wait till Live comes up with something better!]]></content>
       <content type="text"><![CDATA[<p>I will be presenting an &lsquo;Introduction to the .NET Framework 3.0&rsquo; today at the <a href="http://dotnetforum.lk/forums/18673/ShowPost.aspx">October User Group meeting</a> which will be held at the Microsoft &ndash; Sri Lanka.&nbsp;</p>
 <p><a href="http://manzi.wordpress.com/">Manoj</a> too will be co-presenting with me on Atlas,&nbsp;so remember to drop in early before the house gets full. </p>
 <p>NB: If your planning on attending, you might be interested in checking this post <a href="http://dotnetforum.lk/forums/18769/ShowPost.aspx">http://dotnetforum.lk/forums/18769/ShowPost.aspx</a>.</p>
-<p><img alt="Communitylogo" src="/wp-content/uploads/contentbinary/communitylogo.png" border="0" /></p>]]></content>
+<p><img alt="Communitylogo" src="https://merill.net/wp-content/uploads/contentbinary/communitylogo.png" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[Introduction to .NET 3.0 - October User Group Meeting]]></post-name>
       <authors>
         <author ref="admin" />
@@ -3100,8 +3100,8 @@ Wait till Live comes up with something better!]]></content>
     </post>
     <post id="c9b8698a-5996-4388-b453-8af335581a48" date-created="2006-10-03T11:49:14" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/10/Lyrics-Plugin-for-Windows-Media-Player.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Lyrics Plugin for Windows Media Player]]></title>
-      <content type="text"><![CDATA[<p><a href="http://lyricsplugin.com/"><img alt="Lyricspluginlogo" src="/wp-content/uploads/contentbinary/lyricspluginlogo.gif" border="0" /></a></p>
-<p><img alt="Lyricsplugin" src="/wp-content/uploads/contentbinary/lyricsplugin_small.jpg" border="0" /></p>
+      <content type="text"><![CDATA[<p><a href="http://lyricsplugin.com/"><img alt="Lyricspluginlogo" src="https://merill.net/wp-content/uploads/contentbinary/lyricspluginlogo.gif" border="0" /></a></p>
+<p><img alt="Lyricsplugin" src="https://merill.net/wp-content/uploads/contentbinary/lyricsplugin_small.jpg" border="0" /></p>
 <p>from <a href="http://www.lifehacker.com/software/download/download-of-the-day-lyrics-plugin-windows-204482.php">Lifehacker</a>: Lyrics Plugin is a piece of software tailored for music fans. To put it simply - it is an add-on to view lyrics in WinAmp or Windows Media Player. No more searching for lyrics. Just start listening to your favourite songs and lyrics will be displayed automatically. Oh, and if lyrics is not found, you can add it yourself :) </p>
 <p>[<a href="http://lyricsplugin.com/">Download</a>]</p>]]></content>
       <post-name type="text"><![CDATA[Lyrics Plugin for Windows Media Player]]></post-name>
@@ -3117,7 +3117,7 @@ Wait till Live comes up with something better!]]></content>
       <content type="text"><![CDATA[<P>Last weekend I heard about the podcast while listening to the radio. Somewhere at TNL is a geek whose into some really wicked cool stuff. The station that pioneered internet broadcasting now offers podcasts at&nbsp;<A href="http://www.tnlpodcast.com/">http://www.tnlpodcast.com/</A>. </P>
 <P>What’s better&nbsp;is that my favorite radio station is powered by my favorite platform.</P>
 <P>.NET rocks and so does TNL 101.7!</P>
-<P><A href="http://www.tnlpodcast.com/"><IMG alt=Tnlrockspodcast src="/wp-content/uploads/contentbinary/tnlrockspodcast.jpg" border=0></A></P>
+<P><A href="http://www.tnlpodcast.com/"><IMG alt=Tnlrockspodcast src="https://merill.net/wp-content/uploads/contentbinary/tnlrockspodcast.jpg" border=0></A></P>
 <P>I dunno if it is the WMP 11 Beta, but the audio played super fast sounding mostly like Alvin of the Chipmunks.</P>]]></content>
       <post-name type="text"><![CDATA[TNL Rocks with Podcasts]]></post-name>
       <authors>
@@ -3147,13 +3147,13 @@ Wait till Live comes up with something better!]]></content>
       <content type="text"><![CDATA[<p>If you want to spruce up your desktop, one decision you need to make upfront is whether to stick to themes supported by Microsoft or be more riskier and install unsupported ones.</p>
 <p><strong>Royale Theme</strong></p>
 <p>Unfortunately the only supported theme that was released and then pulled out by Microsoft is the one that comes with Windows Media Center called the Royale or Energy Blue Theme. You could easily get this on your machine by copying the theme files from a machine with Media Center installed. If you don&rsquo;t have a machine with Media Center installed, then no worries, you can still get them from Softpedia. [<a href="http://www.softpedia.com/get/Desktop-Enhancements/Themes/Royale-Theme-for-WinXP.shtml">Download</a>]</p>
-<p><img alt="Royale Theme" src="/wp-content/uploads/contentbinary/Royale_2DTheme_2Dfor_2DWinXP_2D13027_2Dthumb.png" border="0" /></p>
+<p><img alt="Royale Theme" src="https://merill.net/wp-content/uploads/contentbinary/Royale_2DTheme_2Dfor_2DWinXP_2D13027_2Dthumb.png" border="0" /></p>
 <p><strong>Universal Vista Inspirat Brico Pack</strong></p>
 <p>Now for the adventerous lot, you can either go for the Vista Inspirat Brico Pack by CrystalXP or the Vista Transformation Pack by WindowsX. Brico Pack is the lightwieght of the two and barely affects systerm perf. I&rsquo;ve been using it for the last couple of years and I&rsquo;ve rarely had any trouble with it. The Aero theme uses a very thin taskbar which increases productivity by giving me more screen real estate. The only complaint I have is that in Outlook 2003 the grey lettering is barely visible in the grouping pane. [<a href="http://www.softpedia.com/get/Desktop-Enhancements/Themes/Universal-Vista-Inspirat-Brico-Pack.shtml">Download</a>]</p>
-<p><img alt="Universal Vista Inspirat Brico Pack" src="/wp-content/uploads/contentbinary/Universal_2DVista_2DInspirat_2DBrico_2DPack_2D_2Dthumb.png" border="0" /></p>
+<p><img alt="Universal Vista Inspirat Brico Pack" src="https://merill.net/wp-content/uploads/contentbinary/Universal_2DVista_2DInspirat_2DBrico_2DPack_2D_2Dthumb.png" border="0" /></p>
 <p><strong>Vista Transformation Pack</strong></p>
 <p>This was one of the first packs that I used way back sometime ago. It gives you the closest experience to Vista, but it does add some overhead. I haven&rsquo;t tried out the newest version yet. [<a href="http://www.softpedia.com/get/System/OS-Enhancements/Vista-Transformation-Pack.shtml">Download</a>]</p>
-<p><img alt="Vista Transformation Pack" src="/wp-content/uploads/contentbinary/Vista_2DTransformation_2DPack_2D_2Dthumb.png" border="0" /></p>
+<p><img alt="Vista Transformation Pack" src="https://merill.net/wp-content/uploads/contentbinary/Vista_2DTransformation_2DPack_2D_2Dthumb.png" border="0" /></p>
 <p>Sofpedia has a <a href="http://news.softpedia.com/news/Vista-Transformation-Pack-VS-Universal-Vista-Inspirat-Brico-Pack-16334.shtml">more detailed comparison</a> between the two packs.</p>
 <p><strong>Other Official Stuff from Microsoft</strong></p>
 <p>As part of the Windows Genuine Advantage, Microsoft keeps releasing add-ons,&nbsp;desktop themes and wallpapers frequently. Again unfortunately they don&rsquo;t all show up on the same place. </p>
@@ -3243,7 +3243,7 @@ Wait till Live comes up with something better!]]></content>
       <title type="text"><![CDATA[Inline Search for IE]]></title>
       <content type="text"><![CDATA[<p>A feature that Firefox users have been enjoying all along finally comes to IE. Infact I was not happy when IE7 didn't include&nbsp;this feature&nbsp;and even now a search on <a href="http://www.ieaddons.com/">www.ieaddons.com</a> doesn't turn up any results.</p>
 <p>There is one though at <a href="http://www.core-services.fr/inline-search/">http://www.core-services.fr/inline-search/</a>&nbsp;go get it.</p>
-<p><img height="445" src="/wp-content/uploads/contentbinary/InlineSearchforIE_7EDD/inlinesearch_thumb4.jpg" width="700" /></p>]]></content>
+<p><img height="445" src="https://merill.net/wp-content/uploads/contentbinary/InlineSearchforIE_7EDD/inlinesearch_thumb4.jpg" width="700" /></p>]]></content>
       <post-name type="text"><![CDATA[Inline Search for IE]]></post-name>
       <authors>
         <author ref="admin" />
@@ -3290,7 +3290,7 @@ Wait till Live comes up with something better!]]></content>
       <title type="text"><![CDATA[XslCompiledTransform Performance]]></title>
       <content type="text"><![CDATA[<p>Have&nbsp;you&rsquo;ve ever written any code on .NET that does XSL transformations? Here&rsquo;s another strong reason why you might think of making the jump to .NET 2.0 and start taking advantage of the .NET 2.0&rsquo;s XslCompiledTransform class.</p>
 <p><a class="headermaintitle" id="_ctl0____ctl0___bt___BlogTitle" href="http://blogs.msdn.com/antosha/default.aspx">Anton Lapounov</a>&nbsp;does a <a href="http://blogs.msdn.com/antosha/archive/2006/07/24/677560.aspx">comparison</a> of&nbsp;the major XSL transformers out there and the results are eye opening.</p>
-<p><img alt="XslCompiledTransform" src="/wp-content/uploads/contentbinary/XslCompiledTransform.jpg" border="0" /></p>
+<p><img alt="XslCompiledTransform" src="https://merill.net/wp-content/uploads/contentbinary/XslCompiledTransform.jpg" border="0" /></p>
 <p>If you&rsquo;ve tried building any of your pre 2.0 applications in Visual Studio 2005, you would have already seen the warning which keeps pushing you to use the XslCompiledTransform class.</p>
 <p>The major jump in performance is due to the fact that we&rsquo;re now using an XSL compiler as opposed to the rest which are all interpreters.</p>]]></content>
       <post-name type="text"><![CDATA[XslCompiledTransform Performance]]></post-name>
@@ -3309,7 +3309,7 @@ Wait till Live comes up with something better!]]></content>
 <p>The whole experience was&nbsp;quite good, but it will be a long time before these become mainstream (I&rsquo;m only talking about Colombo). One impeding factor is that unlike in most other countries, the business model is not ad based instead an additional payment of 25/&ndash; is charged for each ticket. Given that these reservertions are only available for balcony tickets this is not a major problem.</p>
 <p>In addition to this the membership fee costs 250/&ndash; but as a promotional offer is free till August 23 (tomorrow). If I were you I would simply create a login for myself just in case. My advise to the company, drop this membership business.</p>
 <p>eTickets.lk uses a simple&nbsp;AJAXy interface to show the box plan and allows you to select the seats you want to book and add them to your shopping cart.</p>
-<p><img alt="eTickets.lk" src="/wp-content/uploads/contentbinary/eTickets.jpg" border="0" /></p>
+<p><img alt="eTickets.lk" src="https://merill.net/wp-content/uploads/contentbinary/eTickets.jpg" border="0" /></p>
 <p>The current listing shows only Liberty and Majestic cinemas, but they plan to add more stuff like concerts, theater and seminars.</p>
 <p>Oh and BTW the site is developed using ASP.NET, goody, goody!</p>]]></content>
       <post-name type="text"><![CDATA[Review: eTickets.lk]]></post-name>
@@ -3341,7 +3341,7 @@ And its great to see that they have extended the FREE registration offer!]]></co
     </post>
     <post id="2a886801-45b7-4c00-8805-948ea9f37213" date-created="2006-08-14T12:12:50" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/08/Windows-Live-Writer.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Windows Live Writer]]></title>
-      <content type="text"><![CDATA[<p>Microsoft just released Windows Live Writer today and I'm guessing this is going to replace BlogJet as my default editor. <a href="http://download.microsoft.com/download/f/9/a/f9a19f2d-cec4-4a25-9b0b-eb9655ea7561/Writer.msi">Get it here</a>.</p> <p>Just a quick summary of the features:</p> <ul> <li>Works with all great blog tools</li> <li>WYSIWYG (literally), this is done by downloading your style/theme. Your editor shows up just like your actual blog</li> <li>Uploading pictures (wow, just noticed that it has cool effects to apply, like the drop shadow you see below)Auto saving of posts (no more lost ones)</li> <li>more than one account to blog to (alas doesn't support the Group Posting that BlogJet has - the only con)</li> <li>Did I mention that it is FREE!</li></ul> <p><a href="https://merill.net/wp-content/uploads/contentbinary/bca2973c9e53_67A4/WindowsLiveWriter8.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="428" src="/wp-content/uploads/contentbinary/bca2973c9e53_67A4/WindowsLiveWriter_thumb6.jpg" width="640" border="0"></a></p>]]></content>
+      <content type="text"><![CDATA[<p>Microsoft just released Windows Live Writer today and I'm guessing this is going to replace BlogJet as my default editor. <a href="http://download.microsoft.com/download/f/9/a/f9a19f2d-cec4-4a25-9b0b-eb9655ea7561/Writer.msi">Get it here</a>.</p> <p>Just a quick summary of the features:</p> <ul> <li>Works with all great blog tools</li> <li>WYSIWYG (literally), this is done by downloading your style/theme. Your editor shows up just like your actual blog</li> <li>Uploading pictures (wow, just noticed that it has cool effects to apply, like the drop shadow you see below)Auto saving of posts (no more lost ones)</li> <li>more than one account to blog to (alas doesn't support the Group Posting that BlogJet has - the only con)</li> <li>Did I mention that it is FREE!</li></ul> <p><a href="https://merill.net/wp-content/uploads/contentbinary/bca2973c9e53_67A4/WindowsLiveWriter8.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="428" src="https://merill.net/wp-content/uploads/contentbinary/bca2973c9e53_67A4/WindowsLiveWriter_thumb6.jpg" width="640" border="0"></a></p>]]></content>
       <post-name type="text"><![CDATA[Windows Live Writer]]></post-name>
       <authors>
         <author ref="admin" />
@@ -3365,7 +3365,7 @@ Buy Xanax - buy cheap Xanax, Xanax XR, online(on line)and order alprazolam (xana
     <post id="4bcd2462-bdbc-4830-bb06-a1fd00c564f6" date-created="2006-08-02T12:16:28" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2006/08/Skype-25---Outlook-Contacts.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Skype 2.5 - Outlook Contacts]]></title>
       <content type="text"><![CDATA[<p>I&rsquo;m in love with Skype&rsquo;s new integration feature with Outlook contacts, now I can pull up phone numbers in super quick time without having to use Outlook&rsquo;s contact search.</p>
-<p><img alt="Skype" src="/wp-content/uploads/contentbinary/Skype.jpg" border="0" /></p>]]></content>
+<p><img alt="Skype" src="https://merill.net/wp-content/uploads/contentbinary/Skype.jpg" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[Skype 2.5 - Outlook Contacts]]></post-name>
       <authors>
         <author ref="admin" />
@@ -4302,7 +4302,7 @@ Microsoft’s largest assault ever on the enterprise.</p>
 <p>- The breath and depth of new technology from Microsoft is 
 staggering, from four new APIs to new versions of its Office, SharePoint, Visual 
 Studio, CRM, ERP and other apps.</p>
-<p><a href="http://www.infoworld.com/infoworld/img/40FEenterprise_ch1.gif"><img style="WIDTH: 500px; HEIGHT: 470px" alt="" hspace="0" src="/wp-content/uploads/contentbinary/40FEenterprise_ch1.gif" border="0"></a></p>
+<p><a href="http://www.infoworld.com/infoworld/img/40FEenterprise_ch1.gif"><img style="WIDTH: 500px; HEIGHT: 470px" alt="" hspace="0" src="https://merill.net/wp-content/uploads/contentbinary/40FEenterprise_ch1.gif" border="0"></a></p>
 <p>So what are you waiting for? Get your ass down to <a href="http://www.teched.lk">Tech.Ed Sri Lanka</a> and check them all 
 out.</p>]]></content>
       <post-name type="text"><![CDATA[So tell me again, why is it an interesting time to be a Windows developer?]]></post-name>
@@ -4354,7 +4354,7 @@ going to be in for a real treat.</p>
 <p>Having seen the <a href="http://www.microsoft.com/presspass/features/2005/sep05/09-13OfficeUI.mspx">screenshots</a> 
 of Office 12 and the <a href="http://channel9.msdn.com/showpost.aspx?postid=114720">video</a> on Channel 
 9, I can't wait till I get my hands on this baby.</p>
-<p><a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-Word_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="/wp-content/uploads/contentbinary/09-13Office12-Word_thumb.jpg" border="0"></a>&nbsp;<a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-Excel_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="/wp-content/uploads/contentbinary/09-13Office12-Excel_thumb.jpg" border="0"></a>&nbsp;<a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-Access_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="/wp-content/uploads/contentbinary/09-13Office12-Access_thumb.jpg" border="0"></a>&nbsp;<a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-PPT_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="/wp-content/uploads/contentbinary/09-13Office12-PPT_thumb.jpg" border="0"></a></p>]]></content>
+<p><a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-Word_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="https://merill.net/wp-content/uploads/contentbinary/09-13Office12-Word_thumb.jpg" border="0"></a>&nbsp;<a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-Excel_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="https://merill.net/wp-content/uploads/contentbinary/09-13Office12-Excel_thumb.jpg" border="0"></a>&nbsp;<a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-Access_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="https://merill.net/wp-content/uploads/contentbinary/09-13Office12-Access_thumb.jpg" border="0"></a>&nbsp;<a href="http://www.microsoft.com/presspass/images/features/2005/09-13Office12-PPT_lg.jpg"><img style="WIDTH: 100px; HEIGHT: 75px" alt="" hspace="0" src="https://merill.net/wp-content/uploads/contentbinary/09-13Office12-PPT_thumb.jpg" border="0"></a></p>]]></content>
       <post-name type="text"><![CDATA[Google Office!]]></post-name>
       <authors>
         <author ref="admin" />
@@ -4808,7 +4808,7 @@ all ways there's a difference between knowing the path and walking the path.]]><
       <title type="text"><![CDATA[Google Talk]]></title>
       <content type="text"><![CDATA[Google has started yet another war, this time taking on chat. MSN, Yahoo, Skype watchout!
 Go download from <a href="http://www.google.com/talk/">http://www.google.com/talk/</a> my username is merillf@gmail.com and I'm waiting for someone to chat with me on GTalk!<br>
-<img src="/wp-content/uploads/contentbinary/googletalk.gif" width="235" height="328" alt="" border="0">
+<img src="https://merill.net/wp-content/uploads/contentbinary/googletalk.gif" width="235" height="328" alt="" border="0">
 ]]></content>
       <post-name type="text"><![CDATA[Google Talk]]></post-name>
       <authors>
@@ -4911,7 +4911,7 @@ client for blogging.]]></content>
     <post id="34bc21e2-6630-4d67-b873-b2345bcee480" date-created="2005-07-07T22:15:27" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/07/Microsoft-Update.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Microsoft Update]]></title>
       <content type="text"><![CDATA[<p>Have you browsed to the shiny new <a href="http://update.microsoft.com/microsoftupdate/">Microsoft Update</a> site? Get all Microsoft products updated at one point (Windows and Office currently).</p>
-<p><img height="271" alt="Microsoft Update" src="/wp-content/uploads/contentbinary/05_2D7_2D2005microsoftupdate_small.jpg" width="320" border="0" /></p>]]></content>
+<p><img height="271" alt="Microsoft Update" src="https://merill.net/wp-content/uploads/contentbinary/05_2D7_2D2005microsoftupdate_small.jpg" width="320" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[Microsoft Update]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5028,7 +5028,7 @@ any ajax dll for .NET 2.0 ?
 <span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  4</span> 			btnOne.Visible = <span style="COLOR: maroon">true</span>;
 <span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  5</span> 			<span style="COLOR: blue">this</span>.BackColor = Color.Red;
 <span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  6</span> 		}</pre>
-<p><img alt="Merill" hspace="0" src="/wp-content/uploads/contentbinary/profile.jpg" align="baseline" border="0" /></p>
+<p><img alt="Merill" hspace="0" src="https://merill.net/wp-content/uploads/contentbinary/profile.jpg" align="baseline" border="0" /></p>
 <p>Some of the missing stuff though are:</p>
 <ul>
 <li>Images are not being resized</li>
@@ -5053,7 +5053,7 @@ any ajax dll for .NET 2.0 ?
       <title type="text"><![CDATA[Milk chocolate melts in your mouth, not on your ass]]></title>
       <content type="text"><![CDATA[<p>If you were wondering what my MSN personal message today was all about, here&rsquo;s the scoop.</p>
 <p><em>Models, wearing chocolate covered outfits and jewelry, eat chocolate backstage before a fashion show at the opening of the Salon Du Chocolat exhibition in Beijing Friday, June 10, 2005. The three-day event is being promoted as China's first chocolate exhibition, featuring 20 of the world's top chocolate makers, some of whom contributed to the edible dresses on display in the fashion show. (AP Photo/Greg Baker) </em></p>
-<p><img height="345" alt="R902810469" src="/wp-content/uploads/contentbinary/r902810469.jpg" width="230" border="0" />&nbsp;<img height="344" alt="Capt.bej10506101402.china_chocolate_fashion_show_bej105" src="/wp-content/uploads/contentbinary/capt.bej10506101402.china_chocolate_fashion_show_bej105.jpg" width="260" border="0" /></p>]]></content>
+<p><img height="345" alt="R902810469" src="https://merill.net/wp-content/uploads/contentbinary/r902810469.jpg" width="230" border="0" />&nbsp;<img height="344" alt="Capt.bej10506101402.china_chocolate_fashion_show_bej105" src="https://merill.net/wp-content/uploads/contentbinary/capt.bej10506101402.china_chocolate_fashion_show_bej105.jpg" width="260" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[Milk chocolate melts in your mouth, not on your ass]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5066,7 +5066,7 @@ any ajax dll for .NET 2.0 ?
       <title type="text"><![CDATA[VB's *My* for C# Developers]]></title>
       <content type="text"><![CDATA[<p><a href="http://blogs.msdn.com/danielfe">Dan Fernandez</a> has <a href="http://blogs.msdn.com/danielfe/archive/2005/06/14/429092.aspx">posted</a> about <a href="http://www.longhornblogs.com/jlowy/">Juval Lowy&rsquo;s</a> My wrapper for C#. What&rsquo;s hilarious is the name that Juval is using for the wrapper. Here&rsquo;s how it goes.</p>
 <p><em>The naming convention being that when VB refers to "itself" it uses the keyword "Me" and when C# refers to itself it "this", then logically when referring to something else, VB will use "My" and C# will use "That". VB being "Me" and "My", C# being "this" and "That".</em></p>
-<p><img height="123" alt="That" src="/wp-content/uploads/contentbinary/05_2D06_2D15_2DThat.jpg" width="183" border="0" /></p>]]></content>
+<p><img height="123" alt="That" src="https://merill.net/wp-content/uploads/contentbinary/05_2D06_2D15_2DThat.jpg" width="183" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[VB's *My* for C# Developers]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5093,7 +5093,7 @@ any ajax dll for .NET 2.0 ?
 <p>I need to see how I can&nbsp;coax <a href="http://www.kavinda.net/PermaLink,guid,9e662ded-1bdc-494b-b96d-c0f89eb47e70.aspx">Madura</a> into making one of these for me, hmm&hellip; with him being in &lsquo;luvy duvy land&rsquo; these days I might have to go with Harsha on this one.</p></div>
 <div class="PostInfos"><em><strong>David Pescovitz</strong>: This University of Waterloo engineering student hacked together a primitive air conditioner from a large fan, garbage can, some copper and vinyl tubing, and a few zipties and hose clamps. </em></div>
 <div class="PostInfos">&nbsp;</div>
-<div class="PostInfos"><em>The garbage can is filled with ice water, which is then fed by gravity (a siphon) through the copper tubing coiled along the back of the fan. The hot air passing through the tubing warms the cold water, cooling the air. Waste warm water is then pumped outside. <br /><br />The system will cool an average room to a comfortable level in approximately 15-20 minutes. Depending on flow rate, a full bucket of water will last approximately 1-3 hours. <br /><br />It doesn't rip quite as hard as central air, but for less than $30 CAD I'm not complaining.<br clear="all"><img height="225" alt="Water Cooler" src="/wp-content/uploads/contentbinary/05_2D06_2D15_2DWaterCooler.jpg" width="168" border="0" /></div></em>
+<div class="PostInfos"><em>The garbage can is filled with ice water, which is then fed by gravity (a siphon) through the copper tubing coiled along the back of the fan. The hot air passing through the tubing warms the cold water, cooling the air. Waste warm water is then pumped outside. <br /><br />The system will cool an average room to a comfortable level in approximately 15-20 minutes. Depending on flow rate, a full bucket of water will last approximately 1-3 hours. <br /><br />It doesn't rip quite as hard as central air, but for less than $30 CAD I'm not complaining.<br clear="all"><img height="225" alt="Water Cooler" src="https://merill.net/wp-content/uploads/contentbinary/05_2D06_2D15_2DWaterCooler.jpg" width="168" border="0" /></div></em>
 <p><a href="http://mirror.lerfjhax.com/www.eng.uwaterloo.ca/~gmilburn/ac/"><font color="#355ea0">Link</font></a> <em>(via <a href="http://hardware.slashdot.org/article.pl?sid=05/06/13/2036200&amp;tid=222&amp;tid=126"><font color="#355ea0">Slashdot</font></a>)</em></p>]]></content>
       <post-name type="text"><![CDATA[HOWTO make an air conditioner]]></post-name>
       <authors>
@@ -5126,7 +5126,7 @@ any ajax dll for .NET 2.0 ?
     <post id="b3bf021e-1b4f-421c-8092-e48ee3cb98e6" date-created="2005-06-09T23:44:04" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/06/IE-Tabbed-Browsing.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[IE Tabbed Browsing]]></title>
       <content type="text"><![CDATA[<p>For all you IE fans who&rsquo;ve been waiting for tabbed browsing, your waiting is all over. Get it now at MSN. <a href="http://toolbar.msn.com/">http://toolbar.msn.com</a> </p>
-<p><img height="230" alt="MSN Toolbar" src="/wp-content/uploads/contentbinary/tb_art.gif" width="260" border="0" /></p>]]></content>
+<p><img height="230" alt="MSN Toolbar" src="https://merill.net/wp-content/uploads/contentbinary/tb_art.gif" width="260" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[IE Tabbed Browsing]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5249,9 +5249,9 @@ any ajax dll for .NET 2.0 ?
       <title type="text"><![CDATA[New Passport Features]]></title>
       <content type="text"><![CDATA[<p>Has anyone noticed the newest features in the latest Microsoft Passport upgrade? My MSN account had somehow gotten locked so I was taken to this page to reset my password. Guess what there is now an audio option to read out the text so you can listen and type in the value instead of using the scrambled image. </p>
 <p>The second cool thing that I think will be used by a lot of developers is the password strength bar. As you type in your new password a progress bar below it shows how strong (unbreakable) the password is. While typing my password it started with Weak then went on to Medium and finally to Strong. This is a really good way of making your users pick and use more secure passwords.</p>
-<p><img height="339" alt="Passport with Audio" src="/wp-content/uploads/contentbinary/05_2D06_2D01_2DMsnPassport_small.jpg" width="344" border="0" /></p>
+<p><img height="339" alt="Passport with Audio" src="https://merill.net/wp-content/uploads/contentbinary/05_2D06_2D01_2DMsnPassport_small.jpg" width="344" border="0" /></p>
 <p>&nbsp;</p>
-<p><img height="349" alt="Password" src="/wp-content/uploads/contentbinary/05_2D06_2D01_2DMsnPassport2_small1.jpg" width="635" border="0" /></p>]]></content>
+<p><img height="349" alt="Password" src="https://merill.net/wp-content/uploads/contentbinary/05_2D06_2D01_2DMsnPassport2_small1.jpg" width="635" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[New Passport Features]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5381,7 +5381,7 @@ http://guydotnetxmlwebservices.blogspot.com/ ]]></content>
       <title type="text"><![CDATA[zone24x7 is hiring]]></title>
       <content type="text"><![CDATA[<p>Dhammika from <a href="http://www.zone24x7.com/home/index.htm">zone24x7</a> just forwarded this ad to me. They&rsquo;re looking for Software Engineers and Web Developers, click on the thumbnail below to see the full ad.</p>
 <p>I personally know a handful of&nbsp;the guys who work here. Starting with Dhammika (a brilliant mind) who worked with me at GBS (now <a href="http://www.atlantisonetech.com/">AOT</a>), Kanchana (she started the first QA unit at Virtusa) who also worked at GBS and Shoba one of my M.Sc. batch mates. Definitely a good place to work at.</p>
-<p><a href="https://merill.net/wp-content/uploads/contentbinary/Zone24X7.jpg"><img height="101" alt="Zone24X7" src="/wp-content/uploads/contentbinary/Zone24X7_thumb.jpg" width="128" border="0" /></a></p>]]></content>
+<p><a href="https://merill.net/wp-content/uploads/contentbinary/Zone24X7.jpg"><img height="101" alt="Zone24X7" src="https://merill.net/wp-content/uploads/contentbinary/Zone24X7_thumb.jpg" width="128" border="0" /></a></p>]]></content>
       <post-name type="text"><![CDATA[zone24x7 is hiring]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5394,10 +5394,10 @@ http://guydotnetxmlwebservices.blogspot.com/ ]]></content>
       <title type="text"><![CDATA[MVP Summit Day 1]]></title>
       <content type="text"><![CDATA[<p>There was one particular event on Day 1 that I can safely say wasn't under NDA so I'm free to blog about it. </p>
 <p>What do you think happens when 200 testosterone driven&nbsp;&lsquo;super geeks&rsquo; are entertained by some really sexy exotic dancers?</p>
-<p><img height="240" alt="Exotic Dancers" src="/wp-content/uploads/contentbinary/HPIM0345_small.jpg" width="320" border="0" />&nbsp;<img height="240" alt="Belly Dancer" src="/wp-content/uploads/contentbinary/IMG_0752_small.jpg" width="320" border="0" /></p>
+<p><img height="240" alt="Exotic Dancers" src="https://merill.net/wp-content/uploads/contentbinary/HPIM0345_small.jpg" width="320" border="0" />&nbsp;<img height="240" alt="Belly Dancer" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0752_small.jpg" width="320" border="0" /></p>
 <p>They go NUTS taking pictures without enjoying the actual show. Now, I wonder what they&rsquo;ll be doing later with those pictures&hellip;</p>
-<p><img height="240" alt="Geeks taking pics" src="/wp-content/uploads/contentbinary/IMG_0732_small.jpg" width="320" border="0" /></p>
-<p><img height="240" alt="Some more pics" src="/wp-content/uploads/contentbinary/IMG_0733_small.jpg" width="320" border="0" /></p>]]></content>
+<p><img height="240" alt="Geeks taking pics" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0732_small.jpg" width="320" border="0" /></p>
+<p><img height="240" alt="Some more pics" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0733_small.jpg" width="320" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[MVP Summit Day 1]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5441,7 +5441,7 @@ http://jinath.weblogs.us/archives/merill.bmp
     </post>
     <post id="cfc635ae-fb7d-4714-9092-7381600b2d30" date-created="2005-04-21T15:27:45" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/04/Hilarious!.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Hilarious!]]></title>
-      <content type="text"><![CDATA[<img height="327" alt="05-04-21cartoonl" src="/wp-content/uploads/contentbinary/05_2D04_2D21cartoonl.gif" width="400" border="0" />]]></content>
+      <content type="text"><![CDATA[<img height="327" alt="05-04-21cartoonl" src="https://merill.net/wp-content/uploads/contentbinary/05_2D04_2D21cartoonl.gif" width="400" border="0" />]]></content>
       <post-name type="text"><![CDATA[Hilarious!]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5504,7 +5504,7 @@ http://jinath.weblogs.us/archives/merill.bmp
       <content type="text"><![CDATA[<p><a href="http://thedeveloper.blogspot.com/">Prasanna&rsquo;s</a> session on <a href="http://www.nhibernate.org/">NHibernate</a> at this month&rsquo;s user group meeting was a really cool eye opener into the world of ORM. I&rsquo;ve heard a lot about Hibernate never truly realized that it was fast becoming so popular and is now taking on heavyweights like EJBs. </p>
 <p>With ObjectSpaces looking more like a distant dream, NHibernate is for the here and now. <a href="http://thedeveloper.blogspot.com/">Prasanna</a> did a&nbsp;really super job in explaining the concepts as well as getting down the nitty gritty and walking us through code demos to show how a refined object oriented architecture can be used to build Enterprise apps. Kudos to him!</p>
 <p>Get the slides and the demo from <a href="http://thedeveloper.blogspot.com/2005/04/april-net-user-group-meeting.html">here</a>.</p>
-<p><img height="240" alt="Prasanna" src="/wp-content/uploads/contentbinary/05_2D04_2D18_20IMG_0610_small.jpg" width="320" border="0" />&nbsp;</p>
+<p><img height="240" alt="Prasanna" src="https://merill.net/wp-content/uploads/contentbinary/05_2D04_2D18_20IMG_0610_small.jpg" width="320" border="0" />&nbsp;</p>
 <p>Oh and by the way, since our first anniversary of the .NET User Group is coming up in a couple of months we were planning on holding some sort of tournament that all our user group member could take part in. A lot of ideas were bandied about and we&rsquo;re now choosing between a six-a-side cricket tournament or an indoor cricket tournament. What do you guys think?</p>]]></content>
       <post-name type="text"><![CDATA[Colombo .NET User Group Meeting - April]]></post-name>
       <authors>
@@ -5531,7 +5531,7 @@ http://jinath.weblogs.us/archives/merill.bmp
     </post>
     <post id="ddfebbc1-3579-4c2a-a276-3c86e74a8cca" date-created="2005-04-18T16:03:23" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/04/Visual-Studio-Beta-2-Released.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Visual Studio Beta 2 Released]]></title>
-      <content type="text"><![CDATA[<p><img height="273" alt="GetvwdgraphicS" src="/wp-content/uploads/contentbinary/getvwdgraphicS.jpg" width="363" border="0" /></p>
+      <content type="text"><![CDATA[<p><img height="273" alt="GetvwdgraphicS" src="https://merill.net/wp-content/uploads/contentbinary/getvwdgraphicS.jpg" width="363" border="0" /></p>
 <p>Visual Studio Beta 2 Released along with a&nbsp;&lsquo;Go Live&rsquo; license, so you can start deploying your&nbsp;.NET 2.0 solutions on production machines themselves. What are you waiting for? Go get the download.</p>]]></content>
       <post-name type="text"><![CDATA[Visual Studio Beta 2 Released]]></post-name>
       <authors>
@@ -5553,14 +5553,14 @@ So that we can share!]]></content>
       <title type="text"><![CDATA[MVP Night]]></title>
       <content type="text"><![CDATA[<p>To continue on with yesterday&rsquo;s post, after the Imagine Cup judging was over all the MVPs got together and went for a night out. We first hung around at the pool parlor waiting for Ed, Stanley and Jinashri to turn up. I&rsquo;m not much of a pool player but Manzi was a natural. We even had a Manzi vs. Ed with Manzi coming out on top, Ed&rsquo;s excuse was that he needed some beer to steady his hands.</p>
 <p>We then headed over to the bowling alley and the MVPs fired on all guns to leave the Microsoft guys in the dust. Ruwan and Manzi did all the damage. Any MVPs in Singapore who want to take on the Sri Lankan golden boys?</p>
-<p><img height="240" alt="" src="/wp-content/uploads/contentbinary/IMG_0458_small.jpg" width="320" border="0" />&nbsp; <img height="240" alt="" src="/wp-content/uploads/contentbinary/IMG_0457_small.jpg" width="320" border="0" /></p>
+<p><img height="240" alt="" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0458_small.jpg" width="320" border="0" />&nbsp; <img height="240" alt="" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0457_small.jpg" width="320" border="0" /></p>
 <p>Ed taking aim, while Ruwan goes for his shot.</p>
 <p>&nbsp;</p>
-<p><img height="240" alt="IMG_0466" src="/wp-content/uploads/contentbinary/IMG_0466_small.jpg" width="320" border="0" />&nbsp;<img height="240" alt="IMG_0467" src="/wp-content/uploads/contentbinary/IMG_0467_small.jpg" width="320" border="0" /></p>
+<p><img height="240" alt="IMG_0466" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0466_small.jpg" width="320" border="0" />&nbsp;<img height="240" alt="IMG_0467" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0467_small.jpg" width="320" border="0" /></p>
 <p>Stanley taking it cool with the beer and Ruwan in action.</p>
-<p><img height="240" alt="IMG_0471" src="/wp-content/uploads/contentbinary/IMG_0471_small.jpg" width="320" border="0" />&nbsp; <img height="240" alt="IMG_0469" src="/wp-content/uploads/contentbinary/IMG_0469_small.jpg" width="320" border="0" /></p>
+<p><img height="240" alt="IMG_0471" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0471_small.jpg" width="320" border="0" />&nbsp; <img height="240" alt="IMG_0469" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0469_small.jpg" width="320" border="0" /></p>
 <p>Hmm&hellip; Ed and Manzi have seem to have identical bowling styles.</p>
-<p><img height="240" alt="IMG_0472" src="/wp-content/uploads/contentbinary/IMG_0472_small.jpg" width="320" border="0" /></p>
+<p><img height="240" alt="IMG_0472" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0472_small.jpg" width="320" border="0" /></p>
 <p>Hey Alan, where&rsquo;s the ball dude!</p>]]></content>
       <post-name type="text"><![CDATA[MVP Night]]></post-name>
       <authors>
@@ -5599,11 +5599,11 @@ So that we can share!]]></content>
 <li>QuickAid (Medical Volunteer System,&nbsp;University of Colombo, Medical Faculty)</li>
 <li>Mobile Reporter (Reporting everything with combined voice data and video, University of Colombo)</li>
 <li>SivuMithun (Purchasing Process for Farmers and Mudalalis, University of Moratuwa)<br />&nbsp; </li></ul>
-<p><img height="480" alt="" src="/wp-content/uploads/contentbinary/IMG_0446_small.jpg" width="640" border="0" /></p>
+<p><img height="480" alt="" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0446_small.jpg" width="640" border="0" /></p>
 <p>Ed, Sriyan (Country Manager, Microsoft) and&nbsp;Jinashri (Education Programme Manager, Microsoft)&nbsp;looking on while Duminda talks about the judging outcome.</p>
-<p><img height="480" alt="IMG_0444" src="/wp-content/uploads/contentbinary/IMG_0444_small.jpg" width="640" border="0" /></p>
+<p><img height="480" alt="IMG_0444" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0444_small.jpg" width="640" border="0" /></p>
 <p>Dr. Emerick looks on while Duminda does more talking!</p>
-<p><img height="480" alt="" src="/wp-content/uploads/contentbinary/IMG_0445_small.jpg" width="640" border="0" /></p>
+<p><img height="480" alt="" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0445_small.jpg" width="640" border="0" /></p>
 <p>Wela on the phone, while Prasanna shows off our potential, his passion!</p>]]></content>
       <post-name type="text"><![CDATA[Imagine Cup Judging]]></post-name>
       <authors>
@@ -5767,7 +5767,7 @@ So that we can share!]]></content>
     <post id="c070dcd5-217a-4cd8-b7e3-4a4ce377d472" date-created="2005-03-30T12:38:31" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/03/Glass-tombstones.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Glass tombstones]]></title>
       <content type="text"><![CDATA[<p>I wonder if I&rsquo;ll be able to get a tombstone like this when I die. (I need to add this to my TODO list!)<br /><strong>Mark Frauenfelder</strong>: Lundgren Monuments makes glass tombstones. </p>
-<p>Radiant and incredibly tactile, Lundgren Monuments are designed for the individual who defies definition, and in the setting of a memorial park or cemetery they are glowing beacons that stand out amongst the traditional stone memorials.</p><img alt="Tombstone" src="/wp-content/uploads/contentbinary/05_2D03_2D30_20Tombstone.jpg" border="0" /><br clear="all"><a href="http://www.lundgrenmonuments.com/"><font color="#355ea0">Link</font></a> <em>(Thanks, <a href="http://www.drmenlo.com/roqlarue/"><font color="#355ea0">Kirsten</font></a>!)</em>]]></content>
+<p>Radiant and incredibly tactile, Lundgren Monuments are designed for the individual who defies definition, and in the setting of a memorial park or cemetery they are glowing beacons that stand out amongst the traditional stone memorials.</p><img alt="Tombstone" src="https://merill.net/wp-content/uploads/contentbinary/05_2D03_2D30_20Tombstone.jpg" border="0" /><br clear="all"><a href="http://www.lundgrenmonuments.com/"><font color="#355ea0">Link</font></a> <em>(Thanks, <a href="http://www.drmenlo.com/roqlarue/"><font color="#355ea0">Kirsten</font></a>!)</em>]]></content>
       <post-name type="text"><![CDATA[Glass tombstones]]></post-name>
       <authors>
         <author ref="admin" />
@@ -5887,7 +5887,7 @@ We have only 8 developers :)
 <p class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt; mso-layout-grid-align: none"><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-language: NL">Trace.Write("This is written trough System.Diagnostics.Trace.Write.");<o:p></o:p></span></p>
 <p class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt; mso-layout-grid-align: none"><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-language: NL"><o:p>&nbsp;</o:p></span></p>
 <p class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none; TEXT-ALIGN: justify; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt"><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-language: NL">Debug.WriteIf(inDebug, "This is written because inDebug is true.");<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN" style="FONT-SIZE: 9pt; FONT-FAMILY: Verdana; mso-bidi-font-family: 'Courier New'"><o:p></o:p></span></p></div>
-<p><br />Having this in your code is very handy for debugging in an early stage, where you haven&rsquo;t added a logging component, such as <i>Enterprise Library</i>, yet. Or in a scenario where you don&rsquo;t want to attach the <i>Visual Studio Debugger</i>, or can&rsquo;t attach it, but still want to view some debug information from your program.<br /><br />It&rsquo;s also possible to connect to a remote computer, and intercept these debug messages remotely<br /><br /><img height="105" alt="050339debugviewremote" src="/wp-content/uploads/contentbinary/050339debugviewremote.jpg" width="410" border="0" /><br /><br />After having added code like this, the only thing that has to be done is open <i>DebugView</i> and run the program. <i>DebugView</i> would then intercept the messages and display them as following:<br /><br /><img height="190" alt="050339debugview" src="/wp-content/uploads/contentbinary/050339debugview.jpg" width="738" border="0" /><br /><br />This tool is only 240 KB in size, and completely free, which is really amazing for such a powerful and useful tool. </p>
+<p><br />Having this in your code is very handy for debugging in an early stage, where you haven&rsquo;t added a logging component, such as <i>Enterprise Library</i>, yet. Or in a scenario where you don&rsquo;t want to attach the <i>Visual Studio Debugger</i>, or can&rsquo;t attach it, but still want to view some debug information from your program.<br /><br />It&rsquo;s also possible to connect to a remote computer, and intercept these debug messages remotely<br /><br /><img height="105" alt="050339debugviewremote" src="https://merill.net/wp-content/uploads/contentbinary/050339debugviewremote.jpg" width="410" border="0" /><br /><br />After having added code like this, the only thing that has to be done is open <i>DebugView</i> and run the program. <i>DebugView</i> would then intercept the messages and display them as following:<br /><br /><img height="190" alt="050339debugview" src="https://merill.net/wp-content/uploads/contentbinary/050339debugview.jpg" width="738" border="0" /><br /><br />This tool is only 240 KB in size, and completely free, which is really amazing for such a powerful and useful tool. </p>
 <p>Source: <a href="http://weblogs.asp.net/CumpsD/archive/2005/03/28/396022.aspx">http://weblogs.asp.net/CumpsD/archive/2005/03/28/396022.aspx</a></p>]]></content>
       <post-name type="text"><![CDATA[DebugView]]></post-name>
       <authors>
@@ -5910,7 +5910,7 @@ We have only 8 developers :)
 <div class="PostInfos"><b></b></div>
 <div class="PostContent">We're always looking for ways to give you search results faster.&nbsp; The popular <a href="http://channel9.msdn.com/wiki/default.aspx/Channel9.DesktopSearchShortcuts"><font color="#355ea0">Desktop Search Shortcuts</font></a> from <a href="http://toolbar.msn.com/"><font color="#355ea0">MSN Desktop Search</font></a> are good examples of this.&nbsp; On a related note, Internet Explorer (5.0 and above) has a little known feature that lets you quickly search for something on any site: IE Search prefixes. 
 <p>After the search prefixes are set up, you can type a single word identifier (prefix) and search query in the IE address bar to send the query to any website.&nbsp; For example, the prefix "msn" can go to MSN Search and typing "msn chicken fried rice" in the IE address bar sends the query "chicken fried rice" to our web search.</p>
-<p>&nbsp;</p><img height="192" alt="05-03-29 extensions" src="/wp-content/uploads/contentbinary/05_2D03_2D29_20extensions.jpg" width="769" border="0" /> 
+<p>&nbsp;</p><img height="192" alt="05-03-29 extensions" src="https://merill.net/wp-content/uploads/contentbinary/05_2D03_2D29_20extensions.jpg" width="769" border="0" /> 
 <p><a href="http://msnsearch.members.winisp.net/files/IE_Search_Prefixes.zip"><font color="#355ea0">This script</font></a> installs the search prefixes below to your machine.&nbsp; The "Alternate" column lists additional prefixes to launch the same query (e.g. "images corvette" and "image corvette" both do the same thing).</p>
 <p>
 <table class="dontmatchme" style="FONT-SIZE: 8pt" cellspacing="4" cellpadding="2" bgcolor="#dddddd">
@@ -6193,8 +6193,8 @@ http://guydotnetxmlwebservices.blogspot.com/]]></content>
       <title type="text"><![CDATA[Back in Sri Lanka]]></title>
       <content type="text"><![CDATA[<p>Dammika wanted to know where the hell I was. Things have been pretty hectic for me since I landed in Colombo last Tuesday morning. </p>
 <p>Let me see&hellip; On Tuesday I went back to office for our weekly conference call, Wednesday I had to go to Mizra&rsquo;s birthday party (Imara&rsquo;s bro), Thursday back at work again, Friday work, badminton, Chalani&rsquo;s wedding. Saturday went to Kandy to bring back my car. Sunday shifted houses, I now live at Thalawatugoda with the Sonnadara brothers.&nbsp;We also went out to MIT and had a cool swim to relax off the weekend!</p>
-<p>I&rsquo;ve been having a lot of fun with my new camera. This is a pic from Chalani&rsquo;s wedding with Madura, Dishnika, Ashan and me at the top trying to place a horn on Dish <img src="/wp-content/uploads/contentbinary/smile3.gif" /></p>
-<p><img height="391" alt="Madura, Dishnika, Ashan, Merill" src="/wp-content/uploads/contentbinary/04_2D28_2D02ChalWedding.jpg" width="480" border="0" /></p>]]></content>
+<p>I&rsquo;ve been having a lot of fun with my new camera. This is a pic from Chalani&rsquo;s wedding with Madura, Dishnika, Ashan and me at the top trying to place a horn on Dish <img src="https://merill.net/wp-content/uploads/contentbinary/smile3.gif" /></p>
+<p><img height="391" alt="Madura, Dishnika, Ashan, Merill" src="https://merill.net/wp-content/uploads/contentbinary/04_2D28_2D02ChalWedding.jpg" width="480" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[Back in Sri Lanka]]></post-name>
       <authors>
         <author ref="admin" />
@@ -6232,7 +6232,7 @@ http://guydotnetxmlwebservices.blogspot.com/]]></content>
       <title type="text"><![CDATA[A gift for my brother]]></title>
       <content type="text"><![CDATA[<p>My brother and sister teamed up to buy me <a href="http://www.amazon.com/exec/obidos/tg/detail/-/B0007KQUP2?v=glance">this</a>, so to return the favor I bought Julius (my small bro) one heck of an MP3 player. I ordered the <a href="http://www.amazon.com/exec/obidos/tg/detail/-/B00066EK2W/ref=pd_sbs_e_1/002-1916546-3057637?v=glance&amp;s=electronics">SanDisk 1GB</a>&nbsp;player from Amazon and I feared that the sound quality poor.</p>
 <p>The first thing I did was to hook it up to my machine and copy my files over. My first surprise was how fast the copy went when compared with the Creative Muvo that Microsoft gave us MVPs. The second surprise was that this sounded better than the Muvo. Man am I envious now, my 128MB feels really cheap compared to the 1GB player (FM tuner included). Well, at least I get to use it on my long lay-overs on the way back to Colombo.</p>
-<p><img height="360" alt="SanDisk" src="/wp-content/uploads/contentbinary/05_2D02_2D19IMG_0036_2D1.jpg" width="480" border="0" /></p>]]></content>
+<p><img height="360" alt="SanDisk" src="https://merill.net/wp-content/uploads/contentbinary/05_2D02_2D19IMG_0036_2D1.jpg" width="480" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[A gift for my brother]]></post-name>
       <authors>
         <author ref="admin" />
@@ -6244,7 +6244,7 @@ http://guydotnetxmlwebservices.blogspot.com/]]></content>
     <post id="0c7ff083-88bc-42c6-ba1c-b341a77c540c" date-created="2005-02-19T11:04:06" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/02/My-home-away-from-home.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[My home away from home]]></title>
       <content type="text"><![CDATA[<p>It&rsquo;s my last day here in Boston, so I cleaned up my desk and took a snap to capture the moment. Look at how MSF&nbsp;is all the rage now.</p>
-<p><img height="360" alt="My desk in Boston" src="/wp-content/uploads/contentbinary/05_2D02_2D19IMG_0024_2D1.jpg" width="480" border="0" /></p>]]></content>
+<p><img height="360" alt="My desk in Boston" src="https://merill.net/wp-content/uploads/contentbinary/05_2D02_2D19IMG_0024_2D1.jpg" width="480" border="0" /></p>]]></content>
       <post-name type="text"><![CDATA[My home away from home]]></post-name>
       <authors>
         <author ref="admin" />
@@ -6695,7 +6695,7 @@ See you soon!]]></content>
     </post>
     <post id="307cbdd1-e5e2-4576-adb7-2ec6551e473d" date-created="2005-01-30T11:19:19" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/01/100-Metres-Buffer-Zone.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[100 Metres Buffer Zone]]></title>
-      <content type="text"><![CDATA[<p><img height="347" alt="100 Metres Buffer" src="/wp-content/uploads/contentbinary/cartoonl05_2D01_2D30.gif" width="450" border="0" /></p>
+      <content type="text"><![CDATA[<p><img height="347" alt="100 Metres Buffer" src="https://merill.net/wp-content/uploads/contentbinary/cartoonl05_2D01_2D30.gif" width="450" border="0" /></p>
 <p>[<a href="http://www.dailymirror.lk/">Daily Mirror</a>]</p>]]></content>
       <post-name type="text"><![CDATA[100 Metres Buffer Zone]]></post-name>
       <authors>
@@ -7006,7 +7006,7 @@ I actually posted it on the 20th but forgot to check the 'Publish' option (it's 
       <title type="text"><![CDATA[w.bloggar]]></title>
       <content type="text"><![CDATA[I'm testing out <a href="http://wbloggar.com/">w.bloggar</a> in the hopes that it works as well as the BlogJet when posting to dasBlog. Wish me luck.
 You should see the We Rock image if the image upload works.<p>
-<img src="/wp-content/uploads/contentbinary/werock.jpg" width="116" height="176" alt="" border="0">]]></content>
+<img src="https://merill.net/wp-content/uploads/contentbinary/werock.jpg" width="116" height="176" alt="" border="0">]]></content>
       <post-name type="text"><![CDATA[w.bloggar]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7024,7 +7024,7 @@ You should see the We Rock image if the image upload works.<p>
     </post>
     <post id="1edaed11-5df1-4558-9e85-abc3db32ac3e" date-created="2005-01-20T14:14:58" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/01/Rebuilding-Sri-Lanka.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[Rebuilding Sri Lanka]]></title>
-      <content type="text"><![CDATA[<img height="277" alt="Rebuild Sri Lanka" src="/wp-content/uploads/contentbinary/cartoonl.gif" width="400" border="0" />]]></content>
+      <content type="text"><![CDATA[<img height="277" alt="Rebuild Sri Lanka" src="https://merill.net/wp-content/uploads/contentbinary/cartoonl.gif" width="400" border="0" />]]></content>
       <post-name type="text"><![CDATA[Rebuilding Sri Lanka]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7048,7 +7048,7 @@ You should see the We Rock image if the image upload works.<p>
       <title type="text"><![CDATA[Testing BlogJet]]></title>
       <content type="text"><![CDATA[<p>I have installed an interesting application - <a href="http://blogjet.com/">BlogJet</a>. It's a cool Windows client for my blog tool (as well as for other tools). Get your copy here: <a href="http://blogjet.com/">http://blogjet.com</a></p>
 <p><em>"Computers are useless. They can only give you answers." -- Pablo Picasso</em></p>
-<p><img height="299" alt="Optimism" src="/wp-content/uploads/contentbinary/OPTIMISM_small.jpg" width="636" border="0" /></p>
+<p><img height="299" alt="Optimism" src="https://merill.net/wp-content/uploads/contentbinary/OPTIMISM_small.jpg" width="636" border="0" /></p>
 <p><em>Nadeera mailed me this image yesterday and I was feeling down in the dumps too after my car&nbsp;met with an accident (my lousy driving). But things got better as the day progressed.</em></p>]]></content>
       <post-name type="text"><![CDATA[Testing BlogJet]]></post-name>
       <authors>
@@ -7062,7 +7062,7 @@ You should see the We Rock image if the image upload works.<p>
       <title type="text"><![CDATA[Photo Gallery]]></title>
       <content type="text"><![CDATA[<P>By the way, I've got my <A href="http://photos.merill.net/ngallery/">Photo Gallery</A> up and running again. Right now I've only uploaded some pictures from my Graduation but I'm hoping to put up all the pictures I've taken in the last year.</P>
 <P>I love some of the&nbsp;cool <A href="http://www.picasa.com/">Picasa 2</A> features like Collage and the Glow effect. Check out my current desktop wallpaper that Picasa generated in a jiff.</P>
-<P><IMG height=555 alt="Picasa Collage Desktop" src="/wp-content/uploads/contentbinary/desk-2.jpg" width=640 border=0></P>]]></content>
+<P><IMG height=555 alt="Picasa Collage Desktop" src="https://merill.net/wp-content/uploads/contentbinary/desk-2.jpg" width=640 border=0></P>]]></content>
       <post-name type="text"><![CDATA[Photo Gallery]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7101,7 +7101,7 @@ You should see the We Rock image if the image upload works.<p>
 <P><SPAN>I was able to afford this thanks to Microsoft and the $150 voucher I got use at the Microsoft company store.</SPAN></P>
 <P><SPAN>Two things I'm disappointed with though is that I'm not able to login to Windows itself using the fingerprint reader as it's not enabled on a domain login. I'm guessing this is because of some security requirements, I wonder if there is a hack to get it working. The second disappointment and one that I waste a lot of time on is signing in to remote machines using Remote Desktop. Here too the fingerprint reader fails, guess both of them are related though.</SPAN></P>
 <P><SPAN>Although there is a lot of talk about the tilt feature in optical mouse, I haven't found it that useful yet. Maybe it takes time to grown on you or I've not been using any windows with horizontal scrollbars today. But the wireless mouse is really cool. I'll post pics of my desktop as soon as take a few snaps with Ashan's camera.</SPAN></P></DIV>
-<img src="/wp-content/uploads/contentbinary/prod_top-ds-opt-fpread.jpg" width="594" height="146" alt="" border="0">]]></content>
+<img src="https://merill.net/wp-content/uploads/contentbinary/prod_top-ds-opt-fpread.jpg" width="594" height="146" alt="" border="0">]]></content>
       <post-name type="text"><![CDATA[My own fingerprint reader]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7149,7 +7149,7 @@ color:navy'>&nbsp;</span></p>
 
 </div>
 
-<div class="inlinedMailPictureBox"><a href="https://merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg"><img border="0" class="inlinedMailPicture" src="/wp-content/uploads/contentbinary/tzunami%20started-thumb.dasblog.JPG"></a><br><a class="inlinedMailPictureLink" href="https://merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg">tzunami started.jpg</a></div><p></p>]]></content>
+<div class="inlinedMailPictureBox"><a href="https://merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg"><img border="0" class="inlinedMailPicture" src="https://merill.net/wp-content/uploads/contentbinary/tzunami%20started-thumb.dasblog.JPG"></a><br><a class="inlinedMailPictureLink" href="https://merill.net/wp-content/uploads/contentbinary/tzunami%20started.jpg">tzunami started.jpg</a></div><p></p>]]></content>
       <post-name type="text"><![CDATA[Want to find out how the Tsunamic REALLY started...]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7161,7 +7161,7 @@ color:navy'>&nbsp;</span></p>
     <post id="888f62f3-02eb-45df-8d3b-5a1be21c1c21" date-created="2005-01-08T14:07:47" date-modified="0001-01-01T16:00:00" approved="true" post-url="/post/2005/01/The-Tsunami-Effect.aspx" type="normal" hasexcerpt="false" views="0">
       <title type="text"><![CDATA[The Tsunami Effect]]></title>
       <content type="text"><![CDATA[<DIV class=Section1>
-<P><IMG height=358 alt="The Tsunami Effect" src="/wp-content/uploads/contentbinary/tsuanamieffect.gif" width=450 border=0></P></DIV>]]></content>
+<P><IMG height=358 alt="The Tsunami Effect" src="https://merill.net/wp-content/uploads/contentbinary/tsuanamieffect.gif" width=450 border=0></P></DIV>]]></content>
       <post-name type="text"><![CDATA[The Tsunami Effect]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7180,7 +7180,7 @@ color:navy'>&nbsp;</span></p>
 <P>Bruce Scott was one of the first employees at Oracle (then&nbsp; Software Development Laboratories). He co-founded Gupta Technology (now known as Centura Software) in 1984 with Umang Gupta, and later became CEO and founder of&nbsp; PointBase, Inc.</SPAN></P>
 <P>Bruce was co-author and co-architect of Oracle V1, V2&nbsp; and V3.</SPAN></P>
 <P>The SCOTT schema (EMP and DEPT tables), with password TIGER, was&nbsp; created by him. Tiger was the name of his cat.</SPAN></P></DIV>
-<DIV class=inlinedMailPictureBox><A href="https://merill.net/wp-content/uploads/contentbinary/scott.gif"><IMG class=inlinedMailPicture src="/wp-content/uploads/contentbinary/scott-thumb.dasblog.JPG" border=0></A><BR><A class=inlinedMailPictureLink href="https://merill.net/wp-content/uploads/contentbinary/scott.gif">scott.gif</A></DIV>]]></content>
+<DIV class=inlinedMailPictureBox><A href="https://merill.net/wp-content/uploads/contentbinary/scott.gif"><IMG class=inlinedMailPicture src="https://merill.net/wp-content/uploads/contentbinary/scott-thumb.dasblog.JPG" border=0></A><BR><A class=inlinedMailPictureLink href="https://merill.net/wp-content/uploads/contentbinary/scott.gif">scott.gif</A></DIV>]]></content>
       <post-name type="text"><![CDATA[Who is Scott?]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7223,7 +7223,7 @@ color:navy'>&nbsp;</span></p>
       <title type="text"><![CDATA[Messenger 7]]></title>
       <content type="text"><![CDATA[<DIV class=Section1>
 <P>Go get Messenger 7 <A href="http://messenger.msn.com/beta/download/downloadx.aspx">now</A>! The coolest part for me is being able to sign in on Offline mode.</P>
-<P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana"><IMG height=721 src="/wp-content/uploads/contentbinary/image0011234567.jpg" width=221 border=0></SPAN></P></DIV>]]></content>
+<P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana"><IMG height=721 src="https://merill.net/wp-content/uploads/contentbinary/image0011234567.jpg" width=221 border=0></SPAN></P></DIV>]]></content>
       <post-name type="text"><![CDATA[Messenger 7]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7258,7 +7258,7 @@ user would be able to complete what I did.</p>
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'>&nbsp;</span></p>
 
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-border=0 width=407 height=443 src="/wp-content/uploads/contentbinary/image001123456.jpg"
+border=0 width=407 height=443 src="https://merill.net/wp-content/uploads/contentbinary/image001123456.jpg"
 alt="Use Photo Story 3 to bring holiday memories to life" class=W></span></p>
 
 </div>
@@ -7316,7 +7316,7 @@ test plan for just this feature runs into 300+ pages!</span></p>
 <div class=Section1>
 
 <p class=MsoNormal><img width=75 height=95
-src="/wp-content/uploads/contentbinary/image00112.gif" align=left hspace=12><span
+src="https://merill.net/wp-content/uploads/contentbinary/image00112.gif" align=left hspace=12><span
 style='font-size:10.0pt;font-family:Verdana'>There is a wealth of knowledge on
 testing over at <a href="http://www.testing.com/">www.testing.com</a> by Brian Marick,
 any tester and even developer worth their salt would find this site invaluable.
@@ -7451,7 +7451,7 @@ harass.</span></p>
       <content type="text"><![CDATA[<DIV class=Section1>
 <P class=MsoNormal>Dammika forwarded a link to this <A href="http://sl.cricinfo.com/link_to_database/ARCHIVE/CRICKET_NEWS/2004/AUG/024931_23YARDS_16AUG2004.html">article</A> on Murali, a must read for anyone who as an opinion on Murali&#8217;s bowling action. I would love to see the documentary on him that was shown on Channel 5 (or has it been already shown?).</P>
 <P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG height=89 src="/wp-content/uploads/contentbinary/image00112345.jpg" width=180 border=0>&nbsp;</P>
+<P class=MsoNormal><IMG height=89 src="https://merill.net/wp-content/uploads/contentbinary/image00112345.jpg" width=180 border=0>&nbsp;</P>
 <P class=MsoNormal>[Updated: Link]</P></DIV>]]></content>
       <post-name type="text"><![CDATA[Murali's redemption, and our arrogance]]></post-name>
       <authors>
@@ -7487,7 +7487,7 @@ Please make sure you have refreshed/reloaded the page your were on before this o
       <content type="text"><![CDATA[<DIV class=Section1>
 <DIV>
 <P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">One of my friends forwarded this to me. Would you risk entering this place?</SPAN></P></DIV>
-<P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Verdana"></SPAN></P></DIV><IMG class=inlinedMailPicture style="WIDTH: 504px; HEIGHT: 335px" height=310 src="/wp-content/uploads/contentbinary/pic19668.jpg" width=446 border=0> 
+<P class=MsoNormal><SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Verdana"></SPAN></P></DIV><IMG class=inlinedMailPicture style="WIDTH: 504px; HEIGHT: 335px" height=310 src="https://merill.net/wp-content/uploads/contentbinary/pic19668.jpg" width=446 border=0> 
 <DIV></DIV>]]></content>
       <post-name type="text"><![CDATA[The eighth wonder!]]></post-name>
       <authors>
@@ -7505,7 +7505,7 @@ Please make sure you have refreshed/reloaded the page your were on before this o
 <P class=MsoNormal><FONT face=Arial size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Using the Shared Network option I was able to configure the Longhorn installation to use my network config and was happily browsing my own site and logged in to Messenger on the Longhorn build (the tease screenshot below). Overall I’m quite impressed with this WinHEC build (which was released in May 2004). It’s quite fast, I didn’t notice the much talked about Explorer leak (I allocated 730MB RAM to the virtual machine) and configured it to run at maximum speed.<o:p></o:p></SPAN></FONT></P>
 <P class=MsoNormal><FONT face=Arial size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">I wrote and ran my first XAML application and boy what a feeling, I can’t wait to start writing some serious code!<o:p></o:p></SPAN></FONT></P>
 <P class=MsoNormal><FONT face=Arial size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><o:p>&nbsp;</o:p></SPAN></FONT></P>
-<P class=MsoNormal><FONT face=Arial size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><A href="https://merill.net/wp-content/uploads/contentbinary/image0011234.jpg" target=_blank border="0"><IMG id=" x0000 i1025" height=600 src="/wp-content/uploads/contentbinary/image0011234.jpg" width=800 border=0></A><o:p></o:p></SPAN></FONT></P></DIV>]]></content>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><A href="https://merill.net/wp-content/uploads/contentbinary/image0011234.jpg" target=_blank border="0"><IMG id=" x0000 i1025" height=600 src="https://merill.net/wp-content/uploads/contentbinary/image0011234.jpg" width=800 border=0></A><o:p></o:p></SPAN></FONT></P></DIV>]]></content>
       <post-name type="text"><![CDATA[I'm Longhorn'ing now!]]></post-name>
       <authors>
         <author ref="admin" />
@@ -7633,7 +7633,7 @@ it a spin&#8230;<o:p></o:p></span></font></p>
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><a href="http://www.icerocket.com/"><font color=black><span
 style='color:windowtext;text-decoration:none'><img border=0 width=210
-height=99 id=" x0000 i1025" src="/wp-content/uploads/contentbinary/image0011.gif" vspace=2
+height=99 id=" x0000 i1025" src="https://merill.net/wp-content/uploads/contentbinary/image0011.gif" vspace=2
 alt="Go Icerocket Home"></span></font></a><o:p></o:p></span></font></p>
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
@@ -7686,7 +7686,7 @@ font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><img width=242 height=218 id=" x0000 i1025"
-src="/wp-content/uploads/contentbinary/image001123.jpg"><o:p></o:p></span></font></p>
+src="https://merill.net/wp-content/uploads/contentbinary/image001123.jpg"><o:p></o:p></span></font></p>
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
@@ -7697,7 +7697,7 @@ font-family:Arial'>FYI: <st1:country-region w:st="on"><st1:place w:st="on">Sri
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><img width=167 height=229 id=" x0000 i1028"
-src="/wp-content/uploads/contentbinary/image0021.jpg"><o:p></o:p></span></font></p>
+src="https://merill.net/wp-content/uploads/contentbinary/image0021.jpg"><o:p></o:p></span></font></p>
 
 </div>
 
@@ -7721,12 +7721,12 @@ href="http://manzis.blogspot.com/">Manoj</a> came up with these great looking lo
 for our user group. Which one do you prefer?</span></p>
 
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-border=0 width=164 height=80 src="/wp-content/uploads/contentbinary/image0031.jpg"></span></p>
+border=0 width=164 height=80 src="https://merill.net/wp-content/uploads/contentbinary/image0031.jpg"></span></p>
 
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'>&nbsp;</span></p>
 
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-border=0 width=185 height=125 src="/wp-content/uploads/contentbinary/image004.jpg"></span></p>
+border=0 width=185 height=125 src="https://merill.net/wp-content/uploads/contentbinary/image004.jpg"></span></p>
 
 </div>
 
@@ -7793,7 +7793,7 @@ Manzi
  <tr>
   <td valign=top style='border:none;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-  width=150 height=202 src="/wp-content/uploads/contentbinary/image0011.jpg"
+  width=150 height=202 src="https://merill.net/wp-content/uploads/contentbinary/image0011.jpg"
   alt="Was this a decisive moment? Tillakaratne Dilshan celebrates his spectacular catch of Rahul Dravid in the Asia Cup final  &copy; AFP"
   border=0></span></p>
   </td>
@@ -7854,7 +7854,7 @@ you better watch out.</span></p>
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'>&nbsp;</span></p>
 
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-border=0 width=45 height=16 src="/wp-content/uploads/contentbinary/image001.gif">&nbsp;</span></p>
+border=0 width=45 height=16 src="https://merill.net/wp-content/uploads/contentbinary/image001.gif">&nbsp;</span></p>
 
 </div>
 

@@ -13,4 +13,4 @@ categories:
 ---
 <P>If you have Vista running try this. Open an Explorer window, move your mouse to the top <STRIKE>right</STRIKE> left corner (thanks <A href="http://www.kavinda.net">Kavinda</A>) and double-click.</P>
 <P>What happens next?</P>
-<P><A href="https://merill.net/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer4.jpg" atomicselection="true"><IMG height=475 src="/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer_thumb2.jpg" width=621 border=0></A></P>
+<P><A href="https://merill.net/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer4.jpg" atomicselection="true"><IMG height=475 src="https://merill.net/wp-content/uploads/binary/InvisiblebackwardcompatibilityinVista_E13A/Computer_thumb2.jpg" width=621 border=0></A></P>

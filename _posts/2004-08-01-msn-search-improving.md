@@ -28,7 +28,7 @@ you better watch out.</span></p>
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'>&nbsp;</span></p>
 
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-border=0 width=45 height=16 src="/wp-content/uploads/contentbinary/image001.gif">&nbsp;</span></p>
+border=0 width=45 height=16 src="https://merill.net/wp-content/uploads/contentbinary/image001.gif">&nbsp;</span></p>
 
 </div>
 

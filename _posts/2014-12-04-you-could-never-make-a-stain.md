@@ -12,4 +12,4 @@ categories:
   - News
 format: image
 ---
-<a href="https://merill.net/wp-content/uploads/2014/12/loving.jpg"><img class="alignnone size-full wp-image-896" src="/wp-content/uploads/2014/12/loving.jpg" alt="loving" width="1600" height="1200" /></a>
+<a href="https://merill.net/wp-content/uploads/2014/12/loving.jpg"><img class="alignnone size-full wp-image-896" src="https://merill.net/wp-content/uploads/2014/12/loving.jpg" alt="loving" width="1600" height="1200" /></a>

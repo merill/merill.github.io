@@ -17,4 +17,4 @@ For the love of god why is the language filter on MSDN a list of checkboxes that
 <p>
 You&#39;d expect the guys at MSDN to have figured out how cookies work and remember the language you selected. But no, that would take the fun out of switching off each language one by one for each and every page.
 </p>
-<img src="/wp-content/uploads/files/MSDN-Language-Selection2.png" border="0" alt="" />
+<img src="https://merill.net/wp-content/uploads/files/MSDN-Language-Selection2.png" border="0" alt="" />

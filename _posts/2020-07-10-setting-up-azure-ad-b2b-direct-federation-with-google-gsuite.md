@@ -15,10 +15,10 @@ If you are looking to configure [Azure AD B2B Direct Federation](https://docs.mi
 **SAML Attribute Mapping**
 * Primary email > http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress
 
-![](/images/uploads/gsuite-saml-app-1.png)
+![](https://merill.net/images/uploads/gsuite-saml-app-1.png)
 
-![](/images/uploads/gsuite-saml-app-2.png)
+![](https://merill.net/images/uploads/gsuite-saml-app-2.png)
 
 Once this is setup your guest users coming in from the specified domain can use their GSuite identity to sign in/SSO instead of having to create a Microsoft Account and password.
 
-![](/images/uploads/azure-ad-direct-federation-gsuite-demo.gif)
+![](https://merill.net/images/uploads/azure-ad-direct-federation-gsuite-demo.gif)

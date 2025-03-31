@@ -51,15 +51,15 @@ Here's a visual walk through to limit the maximum memory usage to 512MB for yo
 
 1. Start SQL Server Management Studio (or SSMS Express) and connect to your SQL Server instance (SharePoint in this case): <em>localhost\SharePoint</em>
 
-<em> </em> <a href="https://merill.net/wp-content/uploads/2010/05/SqlServerConnectSharePoint.png"><img class="alignnone size-medium wp-image-681" title="SqlServerConnectSharePoint" src="/wp-content/uploads/2010/05/SqlServerConnectSharePoint-300x229.png" alt="" width="300" height="229" /></a>
+<em> </em> <a href="https://merill.net/wp-content/uploads/2010/05/SqlServerConnectSharePoint.png"><img class="alignnone size-medium wp-image-681" title="SqlServerConnectSharePoint" src="https://merill.net/wp-content/uploads/2010/05/SqlServerConnectSharePoint-300x229.png" alt="" width="300" height="229" /></a>
 
 2. Right-click on the instance node and select Properties.
 
-<a href="https://merill.net/wp-content/uploads/2010/05/SqlServer-Properties.png"><img class="alignnone size-medium wp-image-683" title="SqlServer-Properties" src="/wp-content/uploads/2010/05/SqlServer-Properties-300x251.png" alt="" width="300" height="251" /></a>
+<a href="https://merill.net/wp-content/uploads/2010/05/SqlServer-Properties.png"><img class="alignnone size-medium wp-image-683" title="SqlServer-Properties" src="https://merill.net/wp-content/uploads/2010/05/SqlServer-Properties-300x251.png" alt="" width="300" height="251" /></a>
 
 3. Click on the Memory node you'll notice that the Maximum Server Memory is set to 2,147,483,647MB change it to a lower limit like 256 or 512MB. Click OK and your all set.
 
-<a href="https://merill.net/wp-content/uploads/2010/05/SqlServer-Memory.png"><img class="alignnone size-medium wp-image-682" title="SqlServer-Memory" src="/wp-content/uploads/2010/05/SqlServer-Memory-300x269.png" alt="" width="300" height="269" /></a>
+<a href="https://merill.net/wp-content/uploads/2010/05/SqlServer-Memory.png"><img class="alignnone size-medium wp-image-682" title="SqlServer-Memory" src="https://merill.net/wp-content/uploads/2010/05/SqlServer-Memory-300x269.png" alt="" width="300" height="269" /></a>
 
 If you prefer SQL the same can be done with the following commands.
 

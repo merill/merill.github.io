@@ -17,4 +17,4 @@ categories:
 ---
 Want to know where all the Intune Data Centers are located? Here's a handy link <a href="http://intunedatacentermap.azurewebsites.net">http://intunedatacentermap.azurewebsites.net</a>
 
-<img class="alignnone wp-image-1170 size-large" src="/wp-content/uploads/2018/04/Intune_Datacenters-1024x415.jpg" alt="" width="660" height="267" />
+<img class="alignnone wp-image-1170 size-large" src="https://merill.net/wp-content/uploads/2018/04/Intune_Datacenters-1024x415.jpg" alt="" width="660" height="267" />

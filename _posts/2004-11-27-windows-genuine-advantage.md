@@ -33,7 +33,7 @@ user would be able to complete what I did.</p>
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'>&nbsp;</span></p>
 
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana'><img
-border=0 width=407 height=443 src="/wp-content/uploads/contentbinary/image001123456.jpg"
+border=0 width=407 height=443 src="https://merill.net/wp-content/uploads/contentbinary/image001123456.jpg"
 alt="Use Photo Story 3 to bring holiday memories to life" class=W></span></p>
 
 </div>

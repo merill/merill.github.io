@@ -29,4 +29,4 @@ Is your MacOS dock jittering and driving you nuts? In my case this was being cau
 
 The issue is most probably being caused by the last app you added to the list (in my case it was Synergy).
 
-<img class="alignnone wp-image-1117 size-large" src="/wp-content/uploads/2017/12/Jittery-1024x878.jpg" alt="" width="660" height="566" />
+<img class="alignnone wp-image-1117 size-large" src="https://merill.net/wp-content/uploads/2017/12/Jittery-1024x878.jpg" alt="" width="660" height="566" />

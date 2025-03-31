@@ -18,5 +18,5 @@ A couple of people have emailed me asking for the GUI version of the dasBlog to 
 Please let me know if you find any bugs and remember that I&#39;ve only created a simple UI wrapper over the <a href="http://www.paulvanbrenk.com/blog/2006/12/27/BlogMLSupportForDasBlogBeta.aspx">excellent work</a> done by Paul. 
 </p>
 <p>
-<img src="/wp-content/uploads/files/DasBlogML-Screenshot.JPG" alt="" />
+<img src="https://merill.net/wp-content/uploads/files/DasBlogML-Screenshot.JPG" alt="" />
 </p>

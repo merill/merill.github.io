@@ -36,7 +36,7 @@ The DevTest Labs is a neat Azure service that gives you a virtual machine runnin
 <strong>IFTT</strong>
 
 The dollars can add up quickly when you leave a high end virtual machine running on Azure. Using a combo of Azure Runbooks, web hooks and IFTT buttons, I was able to set up a nice widget that would let me quickly start up and shut down my VM. Using iOS widgets and IFTT, it was just a swipe away from the home screen on my iPad/iPhone to start up my VM.
-<img src="/wp-content/uploads/2017/08/IMG_0316-300x225.png" alt="" width="300" height="225" class="alignnone size-medium wp-image-1100" />
+<img src="https://merill.net/wp-content/uploads/2017/08/IMG_0316-300x225.png" alt="" width="300" height="225" class="alignnone size-medium wp-image-1100" />
 
 <strong>Jump Desktop Connect</strong>
 
