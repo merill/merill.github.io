@@ -10,7 +10,7 @@ categories:
   - Utilities
 ---
 <p>Or just two on this occassion. But man what a tool, Filemon and Regmon have been mashed-up into <a href="http://www.microsoft.com/technet/sysinternals/processesandthreads/processmonitor.mspx">one</a>. Better yet not just a mashup it has been written from the ground up and includes a number of enhancements.</p>
-<p><img alt="Procmon-main" src="https://merill.net/wp-content/uploads/binary/procmon_2Dmain.gif" border="0" /></p>
-<p><img alt="Procmon-proc" src="https://merill.net/wp-content/uploads/binary/procmon_2Dproc.gif" border="0" /></p>
+<p><img alt="Procmon-main" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/binary/procmon_2Dmain.gif" border="0" /></p>
+<p><img alt="Procmon-proc" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/binary/procmon_2Dproc.gif" border="0" /></p>
 <p>One less .exe on my Must Have program folder under <a href="http://www.microsoft.com/technet/sysinternals">SysInternals</a>.</p>
 <p>Download Process Monitor from <a href="http://www.microsoft.com/technet/sysinternals/processesandthreads/processmonitor.mspx">here</a>.</p>

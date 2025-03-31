@@ -5,7 +5,7 @@ tags: []
 excerpt: Graph PowerShell Analyzer is an app that helps you convert Azure AD PowerShell scripts to Graph PowerShell.
 date: 2022-04-25 20:27:52 +0000
 ---
-![Screenshot of Graph PowerShell Analyzer](https://merill.net/images/uploads/gps.png "https://graphpowershell.merill.net")
+![Screenshot of Graph PowerShell Analyzer]({{ site.url }}{{ site.baseurl }}/images/uploads/gps.png "https://graphpowershell.merill.net")
 
 Hey folks, I took part in a hackathon last week and built the Graph PowerShell Conversion Analyzer. Hopefully, this will help a bit as you upgrade your AzureAD & MSOnline PowerShell scripts to Graph PowerShell.
 
@@ -19,18 +19,18 @@ This will generate a report of all the Azure AD PowerShell and MSOnline commands
 
 This is where I still need to do a lot more work to make it really useful.
 
-![Screenshot of Analysis Report](https://merill.net/images/uploads/fq97krbaiaeof-i.jpeg)
+![Screenshot of Analysis Report]({{ site.url }}{{ site.baseurl }}/images/uploads/fq97krbaiaeof-i.jpeg)
 
 Where possible you also get direct links to both the Graph PowerShell command reference as well as the Graph API reference (which usually has more relevant info).
 
 No more hunting around and searching the docs!
 
-![Screenshot showing links to the docs](https://merill.net/images/uploads/fq99di3auaas7g.jpeg)
+![Screenshot showing links to the docs]({{ site.url }}{{ site.baseurl }}/images/uploads/fq99di3auaas7g.jpeg)
 
 The last bit is where you the community can really help us and each other out. We've started an open repository of sample Graph PowerShell scripts at [**https://aka.ms/graphsamples**](https://aka.ms/graphsamples "https://aka.ms/graphsamples")
 
 We would love to make this the largest collection of Graph PowerShell sample scripts. It's open to everyone to contribute so please share your scripts (even one-liners).
 
-![Screenshot of the Graph samples community](https://merill.net/images/uploads/fq99wh1aiairqhi.jpeg)
+![Screenshot of the Graph samples community]({{ site.url }}{{ site.baseurl }}/images/uploads/fq99wh1aiairqhi.jpeg)
 
 Let me know what you think. If you have any ideas on how this can be improved I'm all ears!

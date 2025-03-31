@@ -25,4 +25,4 @@ The <a href="http://azure.microsoft.com/en-us/documentation/articles/install-con
 
 Fortunately the standalone installer is available on GitHub at <a href="https://github.com/Azure/azure-sdk-tools/releases">https://github.com/Azure/azure-sdk-tools/releases</a>
 
-<a href="https://merill.net/wp-content/uploads/2014/12/AzurePowershell.png"><img class="alignnone size-full wp-image-977" src="https://merill.net/wp-content/uploads/2014/12/AzurePowershell.png" alt="AzurePowershell" width="646" height="250" /></a>
+<a href="https://merill.net/wp-content/uploads/2014/12/AzurePowershell.png"><img class="alignnone size-full wp-image-977" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/2014/12/AzurePowershell.png" alt="AzurePowershell" width="646" height="250" /></a>

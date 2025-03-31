@@ -11,5 +11,5 @@ dsq_thread_id:
 categories:
   - Sri Lankan
 ---
-<p><img height="347" alt="100 Metres Buffer" src="https://merill.net/wp-content/uploads/contentbinary/cartoonl05_2D01_2D30.gif" width="450" border="0" /></p>
+<p><img height="347" alt="100 Metres Buffer" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/cartoonl05_2D01_2D30.gif" width="450" border="0" /></p>
 <p>[<a href="http://www.dailymirror.lk/">Daily Mirror</a>]</p>

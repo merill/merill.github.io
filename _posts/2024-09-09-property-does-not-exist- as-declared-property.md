@@ -38,7 +38,7 @@ The `administrativeUnit` object like the `group` object can contain different ty
 
 Here's a visual representation of the directory object inheritance hierarchy.
 
-![Illustration showing directory object inheritance hierarchy with the DirectoryObject base type and child types](https://merill.net/images/uploads/graphdirectoryobjects.png)
+![Illustration showing directory object inheritance hierarchy with the DirectoryObject base type and child types]({{ site.url }}{{ site.baseurl }}/images/uploads/graphdirectoryobjects.png)
 
 When you create a group or an administrative unit, you can add users, devices, and other groups to it. Each of these objects will have their unique set of properties.
 
@@ -46,7 +46,7 @@ When you create a group or an administrative unit, you can add users, devices, a
 
 When you query for members in a group or an administrative unit, you are querying against all the objects in the container.
 
-![Screenshot of an Entra group that contains users, groups and devices](https://merill.net/images/uploads/entra-group-list.png)
+![Screenshot of an Entra group that contains users, groups and devices]({{ site.url }}{{ site.baseurl }}/images/uploads/entra-group-list.png)
 
 So while you can query against special properties like `id` and `displayName` you cannot directly query against any of the other properties.
 
@@ -77,6 +77,6 @@ Which can be fixed by qualifying the query with the `microsoft.graph.user` objec
 
 Here's the TLDR;
 
-![alt text](https://merill.net/images/uploads/GraphFilter.png)
+![alt text]({{ site.url }}{{ site.baseurl }}/images/uploads/GraphFilter.png)
 
 Hope this helps!

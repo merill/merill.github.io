@@ -11,4 +11,4 @@ dsq_thread_id:
 categories:
   - Sri Lankan
 ---
-<img height="277" alt="Rebuild Sri Lanka" src="https://merill.net/wp-content/uploads/contentbinary/cartoonl.gif" width="400" border="0" />
+<img height="277" alt="Rebuild Sri Lanka" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/cartoonl.gif" width="400" border="0" />

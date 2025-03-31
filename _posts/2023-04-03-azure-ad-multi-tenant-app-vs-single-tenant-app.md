@@ -10,7 +10,7 @@ In some instances, it was the devs in the org asking for this, in other instance
 
 Here are some things to watch out for 👇
 
-![](https://merill.net/images/uploads/azureadsingletenantappvsmultitenantapp.jpg)
+![]({{ site.url }}{{ site.baseurl }}/images/uploads/azureadsingletenantappvsmultitenantapp.jpg)
 
 Multi-tenant apps are meant for ISVs and SaaS vendors to create an instance of an app in 'their own tenant'. Examples of such apps are ServiceNow and SalesForce.
 

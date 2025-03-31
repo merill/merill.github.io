@@ -29,4 +29,4 @@ I love some of the cool <a href="http://www.picasa.com/">Picasa 2</a> features 
 
 &nbsp;
 
-<img src="https://merill.net/wp-content/uploads/contentbinary/desk-2.jpg" alt="Picasa Collage Desktop" width="640" height="555" border="0" />
+<img src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/desk-2.jpg" alt="Picasa Collage Desktop" width="640" height="555" border="0" />

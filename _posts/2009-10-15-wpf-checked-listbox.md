@@ -116,6 +116,6 @@ tags:
 
 <p>And walla!</p>
 
-<p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="WPF-CheckedListBox" border="0" alt="WPF-CheckedListBox" src="https://merill.net/wp-content/uploads/2009/10/WPFCheckedListBox.png" width="330" height="159" /> </p>
+<p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="WPF-CheckedListBox" border="0" alt="WPF-CheckedListBox" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/2009/10/WPFCheckedListBox.png" width="330" height="159" /> </p>
 
 <p>Now the IsChecked property will reflect the value in the UI and vice versa. If you need real-time notification when someone checks/unchecks then you simply need to raise the PropertyChanged event in the CheckedListItem class.</p>

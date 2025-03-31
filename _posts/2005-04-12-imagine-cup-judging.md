@@ -19,9 +19,9 @@ categories:
 <li>QuickAid (Medical Volunteer System,&nbsp;University of Colombo, Medical Faculty)</li>
 <li>Mobile Reporter (Reporting everything with combined voice data and video, University of Colombo)</li>
 <li>SivuMithun (Purchasing Process for Farmers and Mudalalis, University of Moratuwa)<br />&nbsp; </li></ul>
-<p><img height="480" alt="" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0446_small.jpg" width="640" border="0" /></p>
+<p><img height="480" alt="" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/IMG_0446_small.jpg" width="640" border="0" /></p>
 <p>Ed, Sriyan (Country Manager, Microsoft) and&nbsp;Jinashri (Education Programme Manager, Microsoft)&nbsp;looking on while Duminda talks about the judging outcome.</p>
-<p><img height="480" alt="IMG_0444" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0444_small.jpg" width="640" border="0" /></p>
+<p><img height="480" alt="IMG_0444" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/IMG_0444_small.jpg" width="640" border="0" /></p>
 <p>Dr. Emerick looks on while Duminda does more talking!</p>
-<p><img height="480" alt="" src="https://merill.net/wp-content/uploads/contentbinary/IMG_0445_small.jpg" width="640" border="0" /></p>
+<p><img height="480" alt="" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/IMG_0445_small.jpg" width="640" border="0" /></p>
 <p>Wela on the phone, while Prasanna shows off our potential, his passion!</p>

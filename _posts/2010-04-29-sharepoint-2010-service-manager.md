@@ -27,9 +27,9 @@ This release handles both the full version of SQL Server as well as SQL Express 
 
 Here are a couple of screenshots. Get the setup file from CodePlex at <a href="http://sharepointserviceman.codeplex.com/">http://sharepointserviceman.codeplex.com/</a>.
 
-<a href="https://merill.net/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager.png"><img class="alignnone size-full wp-image-661" title="SharePoint 2010 Service Manager" src="https://merill.net/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager.png" alt="" width="564" height="531" /></a>
+<a href="https://merill.net/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager.png"><img class="alignnone size-full wp-image-661" title="SharePoint 2010 Service Manager" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager.png" alt="" width="564" height="531" /></a>
 
-<a href="https://merill.net/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager-In-Action.png"><img class="alignnone size-full wp-image-662" title="SharePoint-2010-Service-Manager-In-Action" src="https://merill.net/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager-In-Action.png" alt="" width="577" height="540" /></a>
+<a href="https://merill.net/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager-In-Action.png"><img class="alignnone size-full wp-image-662" title="SharePoint-2010-Service-Manager-In-Action" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/2010/04/SharePoint-2010-Service-Manager-In-Action.png" alt="" width="577" height="540" /></a>
 
 I'd like to thank my colleagues at <a href="http://www.uniqueworld.net/">UniqueWorld</a> including <a href="http://www.neilphillips.com/">Neil</a>, <a href="http://rehmangul.wordpress.com/">Rehman</a> and <a href="http://sharepointsix.blogspot.com/">Dougie</a> who tested the first version and gave valuable feedback.
 

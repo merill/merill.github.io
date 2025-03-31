@@ -12,10 +12,10 @@ The query for the group is fairly simple and goes like this
 
     (device.deviceOSType -in ["iOS","IPhone", "IPad", "IPod"]) -and (device.deviceOSVersion -ne "12.4")
 
-![Dynamic membership rule](https://merill.net/assets/2019-08-06_22h04_08.png)
+![Dynamic membership rule]({{ site.url }}{{ site.baseurl }}/assets/2019-08-06_22h04_08.png)
 
 Wait for the group to be populated (might take anywhere from a few minutes to an hour or more depending on how many devices you have in your Azure AD).
 
 Next go to Intune >  Devices > Send custom notifications to compose and send out the notifications to your users. You can keep sending this everyday and since this is just a dynamic group it will target the remaining devices that haven't been updated.
 
-![Intune custom notifications](https://merill.net/assets/2019-08-06_22h09_49.png)
+![Intune custom notifications]({{ site.url }}{{ site.baseurl }}/assets/2019-08-06_22h09_49.png)

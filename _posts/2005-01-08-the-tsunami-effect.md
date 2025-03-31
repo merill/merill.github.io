@@ -10,4 +10,4 @@ categories:
   - Sri Lankan
 ---
 <DIV class=Section1>
-<P><IMG height=358 alt="The Tsunami Effect" src="https://merill.net/wp-content/uploads/contentbinary/tsuanamieffect.gif" width=450 border=0></P></DIV>
+<P><IMG height=358 alt="The Tsunami Effect" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/tsuanamieffect.gif" width=450 border=0></P></DIV>

@@ -30,7 +30,7 @@ it a spin&#8230;<o:p></o:p></span></font></p>
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;
 font-family:Arial'><a href="http://www.icerocket.com/"><font color=black><span
 style='color:windowtext;text-decoration:none'><img border=0 width=210
-height=99 id=" x0000 i1025" src="https://merill.net/wp-content/uploads/contentbinary/image0011.gif" vspace=2
+height=99 id=" x0000 i1025" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/image0011.gif" vspace=2
 alt="Go Icerocket Home"></span></font></a><o:p></o:p></span></font></p>
 
 <p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;

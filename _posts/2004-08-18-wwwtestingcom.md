@@ -16,7 +16,7 @@ categories:
 <div class=Section1>
 
 <p class=MsoNormal><img width=75 height=95
-src="https://merill.net/wp-content/uploads/contentbinary/image00112.gif" align=left hspace=12><span
+src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/image00112.gif" align=left hspace=12><span
 style='font-size:10.0pt;font-family:Verdana'>There is a wealth of knowledge on
 testing over at <a href="http://www.testing.com/">www.testing.com</a> by Brian Marick,
 any tester and even developer worth their salt would find this site invaluable.

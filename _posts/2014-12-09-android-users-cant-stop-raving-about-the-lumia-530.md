@@ -24,4 +24,4 @@ format: image
 ---
 Came across these comments on the 1/2 price Telstra Lumia 530 deal for $39 <a href="https://www.ozbargain.com.au/node/173750">https://www.ozbargain.com.au/node/173750</a>
 
-<a href="https://merill.net/wp-content/uploads/2014/12/Lumia-530-Raving.png"><img class="alignnone size-full wp-image-974" src="https://merill.net/wp-content/uploads/2014/12/Lumia-530-Raving.png" alt="Lumia 530 Raving" width="620" height="568" /></a>
+<a href="https://merill.net/wp-content/uploads/2014/12/Lumia-530-Raving.png"><img class="alignnone size-full wp-image-974" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/2014/12/Lumia-530-Raving.png" alt="Lumia 530 Raving" width="620" height="568" /></a>

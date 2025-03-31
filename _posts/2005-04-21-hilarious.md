@@ -11,4 +11,4 @@ dsq_thread_id:
 categories:
   - Jokes
 ---
-<img height="327" alt="05-04-21cartoonl" src="https://merill.net/wp-content/uploads/contentbinary/05_2D04_2D21cartoonl.gif" width="400" border="0" />
+<img height="327" alt="05-04-21cartoonl" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/contentbinary/05_2D04_2D21cartoonl.gif" width="400" border="0" />

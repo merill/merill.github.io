@@ -33,11 +33,11 @@ Connect-MgGraph -ClientId <Your new app clientid> -TenantId <your tenant id>
 
 Here are a few screenshots to help guide you.
 
-![Screenshot showing how the app should be created](https://merill.net/images/uploads/graphpowershellcustomappsigninconfig.png "Microsoft Graph PowerShell app configuration")
+![Screenshot showing how the app should be created]({{ site.url }}{{ site.baseurl }}/images/uploads/graphpowershellcustomappsigninconfig.png "Microsoft Graph PowerShell app configuration")
 
 Remember to use the ClientId and TenantId parameters when signing in.
 
-![Screenshot signing in with the new app in PowerShell](https://merill.net/images/uploads/graphpowershellcustomappsignin.png)
+![Screenshot signing in with the new app in PowerShell]({{ site.url }}{{ site.baseurl }}/images/uploads/graphpowershellcustomappsignin.png)
 
 ## Restricted user access
 
