@@ -16,3 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
 end
 gem "webrick", "~> 1.7"
+
+gem "csv", "~> 3.3"
+
+gem "bigdecimal", "~> 3.1"

@@ -1,12 +1,15 @@
 ---
-title: 'Get-MgUser_List1: Expect simple name=value query, but observe property ''assignedLicenses''
-  of complex type ''AssignedLicense''.'
+title: >-
+  Get-MgUser_List1: Expect simple name=value query, but observe property
+  'assignedLicenses' of complex type 'AssignedLicense'.
 category: azuread
 tags:
-- powershell
-- graph
-date: 2022-04-15 22:27:52 +0000
+  - powershell
+  - graph
+date: '2022-04-15 22:27:52 +0000'
+_template: post
 ---
+
 Are you seeing this message when trying to get user license information using the Graph API. 
 
 _Expect simple name=value query, but observe property 'assignedLicenses' of complex type 'AssignedLicense'.

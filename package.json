@@ -1,0 +1,19 @@
+{
+  "name": "merill.net",
+  "version": "1.0.0",
+  "description": "Repo for the site [merill.net](https://merill.net)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^2.7.3"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.9.3",
+    "@types/node": "^22.13.14"
+  }
+}
