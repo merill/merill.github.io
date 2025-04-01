@@ -40,7 +40,7 @@ words_per_minute          : 200
 comments:
   provider                : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
 feed:
-  posts_limit             : # 999
+  posts_limit             : 999
   path                    : # blank (default) uses feed.xml
   hide                    : # true, false (default)
 search                    : true
