@@ -25,7 +25,7 @@ categories:
 ---
 &nbsp;
 
-I recently had a very good experience with HSBC, after going through a <a style="text-decoration: none;" href="http://aaacreditguide.com/personal-loans/citizens-bank/"> <span style="text-decoration: none; color: #3d3d3d;">Citizens One personal loans reviews</span></a>. I applied for a personal loan from
+I recently had a very good experience with HSBC. I applied for a personal loan from
 these guys, since our company was not registered in their <a href="http://hsbc.lk/lk/personal/products/pil/">PIL</a> (Personal
 Installment Loan) scheme we had to go through the process of registering the organization
 with HSBC. This process took about 3 days and then my loan was approved literally

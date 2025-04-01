@@ -25,7 +25,7 @@ categories:
 ---
 One small tip for parents.
 
-My happiest memories as a child, and the ones imprinted most indelibly on my heart, typically involve a happy or enthusiastic adult <a href="https://bestforthekids.com/girls-toys-gifts/">apart from toys</a> — a teacher who infused fun into our physics lessons, an uncle who took us on bike rides to Galle face whenever we visited Colombo and a coach who loved his job.
+My happiest memories as a child, and the ones imprinted most indelibly on my heart, typically involve a happy or enthusiastic adult apart from toys — a teacher who infused fun into our physics lessons, an uncle who took us on bike rides to Galle face whenever we visited Colombo and a coach who loved his job.
 
 But the happiest of happy moments always involved my parents. When my dad laughed or my mom got excited about something, time stood still and my heart threatened to burst. I delighted to see them delighted; their enthusiasm and joy instantly and naturally transferred to me because I loved to see them happy.
 

@@ -30,6 +30,6 @@ tags:
 ---
 I’ve been having this frustrating issue for the last month where the laptop would take about 10 minutes before it was able to connect to the internet. This happened even when the machine came back from sleep/suspend mode.
 
-The Wifi connection would be detected immediate but I would not get an IP from the DHCP server. I always had to fiddle around by disconnecting and connecting a few times. I was almost pulling my hair out by the end of my debug process, I even went out and bought the <a href="http://reviewimo.com/best-wi-fi-range-extenders-10-best-wi-fi-boosters-run-down/">best wi-fi range extender</a> I could find - thinking the signal was just weak.
+The Wifi connection would be detected immediate but I would not get an IP from the DHCP server. I always had to fiddle around by disconnecting and connecting a few times. I was almost pulling my hair out by the end of my debug process, I even went out and bought the best wi-fi range extender I could find - thinking the signal was just weak.
 
 Well today I got down the source. The problem was to do with the Virtual Machine Network Services that were installed when I added Virtual PC. Once I went into the WiFi Adapter properties and removed the Virtual Machine Network Services I was able to get my PC back to instant connectivity.

@@ -34,7 +34,7 @@ Take for example the list of options that you have available in the 'configure' 
 
 <img class="alignnone size-full wp-image-1040" src="{{ site.url }}{{ site.baseurl }}/wp-content/uploads/2016/08/integrated-applications-azure.png" alt="integrated-applications-azure" width="930" height="648" />
 
-Where this gets a little scary is with the option that says 'Users may give applications permission to access their data'. Depending on the type of permission requested by the application the user consents to in the consent page of the app (shown during the sign on process), they can potentially give third party applications access to their email, content in SharePoint Online etc. <a href="https://bestforthekids.com">as shown by Roger</a> from BestForTheKids.
+Where this gets a little scary is with the option that says 'Users may give applications permission to access their data'. Depending on the type of permission requested by the application the user consents to in the consent page of the app (shown during the sign on process), they can potentially give third party applications access to their email, content in SharePoint Online etc.
 
 Where I come from this is a big fat no from security. We typically require the security team vetting every SaaS application where the checks include performing vendor assessments, finding out what information is stored and how secure it is, whether the content is stored in Australia (data sovereignty).
 

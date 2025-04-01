@@ -13,14 +13,13 @@ categories:
 ---
 <body xmlns="http://www.w3.org/1999/xhtml">
     <p>
-        I'm going to grab this <a href="http://65.115.69.88/mio/products_mio8380.asp">Mio8380</a> SmartPhone
+        I'm going to grab this Mio8380 SmartPhone
         as soon as they become available in Sri Lanka. Yo Nokia better watch out. 
     </p>
     <p>
         This phone will initially cost about $500 but is expected to go down. 
     </p>
     <p>
-        <embed src="http://65.115.69.88/mio/show.swf" width="560" height="254" type="application/octet-stream"> 
-        </embed>
+
     </p>
 </body>
