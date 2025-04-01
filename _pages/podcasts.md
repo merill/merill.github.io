@@ -1,6 +1,7 @@
 ---
 title: Podcasts
 permalink: /podcasts/
+hide: true
 ---
 
 # Podcasts

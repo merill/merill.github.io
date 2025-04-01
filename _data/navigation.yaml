@@ -1,10 +1,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "About me"
-    url: /about/
-  - title: "Podcasts"
-    url: /podcasts/
+  # - title: "About me"
+  #   url: /about/
+  # - title: "Podcasts"
+  #   url: /podcasts/
     
 projects:
  - title: My Apps & Projects
