@@ -26,7 +26,7 @@ Hi folks 👋, I'm a Product Manager at Microsoft.
 * 🤖 [lokka.dev](https://lokka.dev) - An AI agent tool that brings the power of Microsoft Graph to AI agents and LLMs.
 * 🩻 [Graph X-Ray](https://graphxray.merill.net) - Fiddler for Microsoft! Convert your actions in the Azure Portal to Graph PowerShell commands.
 * 🦒 [Graph Permissions Explorer](https://graphpermissions.merill.net) - Site that shows all the Graph APIs and data exposed for a given Graph Permission.
-* 🚮 [Uninstall-Graph](https://uninstall-graph.merill.net) - Completely uninstalls and removes all Microsoft Graph PowerShell modules from your system.
+* 🚮 [Uninstall-Graph](https://uninstall-graph.merill.net) - PowerShell module that does one thing. Completely uninstalls and removes all Microsoft Graph PowerShell modules from your system.
 
 ## things I've built for Microsoft Entra
 
