@@ -1,16 +1,17 @@
 ---
-title: "Merill's blog"
-permalink: /blog/
+title: "Merill's Blog"
+layout: single
 author_profile: true
 sidebar:
   nav: "projects"
 classes: wide
 ---
 
-{% for post in site.posts limit:5 %}
-  <article>
-    <h2>
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+<div class="blog-posts">
+{% for post in site.posts limit:10 %}
+  <article class="archive__item">
+    <h2 class="archive__item-title">
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
     </h2>
     {% include page__meta.html type=include.type %}
     {{ post.content }}
@@ -18,9 +19,15 @@ classes: wide
       {% if site.data.ui-text[site.locale].share_on_label %}
         <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
       {% endif %}
-
       <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ post.title | url_encode }}%20{{ post.url | absolute_url | url_encode }}" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
     </section>
   </article>
-
 {% endfor %}
+</div>
+
+<div class="blog-archive-links" style="margin-top: 2em; text-align: center;">
+  <p>Looking for older posts?</p>
+  <a href="/year-archive/" class="btn btn--primary">Browse All Posts by Year</a>
+  <a href="/categories/" class="btn btn--primary">Browse by Category</a>
+  <a href="/tags/" class="btn btn--primary">Browse by Tag</a>
+</div>
