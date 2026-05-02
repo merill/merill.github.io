@@ -235,6 +235,16 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
+      <img src="/assets/images/projects/vscode-mcp.svg" alt="VS Code MCP Install Button Generator logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://vscodemcp.com">VS Code MCP Install Button Generator</a></h3>
+      <p>Create one-click VS Code install badges and links for Model Context Protocol servers.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
       <img src="/assets/images/projects/graphxray.svg" alt="Graph X-Ray logo">
     </div>
     <div class="project-card-body">
@@ -277,6 +287,16 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://idPowerToys.merill.net">idPowerToys</a></h3>
       <p>Microsoft Entra Conditional Access visualizer. Understand and troubleshoot your CA policies.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/entra-url-builder.svg" alt="Entra Sign-in URL Builder logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://signin.merill.net">Entra Sign-in URL Builder</a></h3>
+      <p>Generate Microsoft Entra OAuth 2.0 authorization and admin consent URLs.</p>
     </div>
   </div>
 
