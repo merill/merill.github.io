@@ -157,7 +157,7 @@ hidden: true
 
 <section class="home-hero">
   <div class="home-hero-copy">
-    <p class="home-eyebrow">Microsoft identity, Graph, and community tools</p>
+    <p class="home-eyebrow">Microsoft AI, Security, Graph, and community tools</p>
     <h1 class="home-title">Hi, I'm Merill.</h1>
     <p class="home-intro">I build practical tools, share about Microsoft AI, Security, Entra and Graph, and share resources for admins, developers, and security teams.</p>
   </div>
