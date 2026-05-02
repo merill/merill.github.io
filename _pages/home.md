@@ -5,101 +5,164 @@ hidden: true
 ---
 
 <style>
+.page__content .home-page {
+  max-width: none;
+}
+.page__inner-wrap > header {
+  display: none;
+}
 .project-section {
-  margin-bottom: 2.5em;
+  margin-bottom: 3rem;
 }
 .project-section h2 {
-  border-bottom: 2px solid #f0f0f0;
-  padding-bottom: 0.4em;
-  margin-bottom: 1em;
+  margin: 0 0 1rem;
+  font-size: 1.15rem;
+  font-weight: 750;
+  letter-spacing: -0.025em;
+  border: 0;
 }
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1.25em;
-  margin-bottom: 1em;
+  grid-template-columns: 1fr;
+  gap: 1px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border: 1px solid var(--home-border, #e5eaf1);
+  border-radius: 18px;
+  background: var(--home-border, #e5eaf1);
+}
+@media (min-width: 640px) {
+  .project-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1024px) {
+  .project-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 .project-card {
+  position: relative;
   display: flex;
   align-items: flex-start;
-  gap: 1em;
-  padding: 1.2em;
-  border: 1px solid #e1e4e8;
-  border-radius: 8px;
-  background: #fff;
-  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  gap: 0.9rem;
+  min-height: 150px;
+  padding: 1.15rem;
+  border: 0;
+  border-radius: 0;
+  background: var(--home-card, #fff);
+  transition: background-color 0.15s ease, transform 0.15s ease;
   text-decoration: none;
   color: inherit;
 }
 .project-card:hover {
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  border-color: #c8c8c8;
+  background: var(--home-card-hover, #f7f9fc);
+  transform: translateY(-1px);
   text-decoration: none;
 }
 .project-card-logo {
   flex-shrink: 0;
-  width: 56px;
-  height: 56px;
+  width: 42px;
+  height: 42px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .project-card-logo img {
-  max-width: 56px;
-  max-height: 56px;
-  border-radius: 6px;
+  max-width: 42px;
+  max-height: 42px;
+  border-radius: 9px;
   object-fit: contain;
 }
 .project-card-logo .fa-icon-fallback {
-  font-size: 2em;
-  color: #586069;
-  width: 56px;
-  height: 56px;
+  font-size: 1.25rem;
+  color: #334155;
+  width: 42px;
+  height: 42px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f1f3f5;
-  border-radius: 6px;
+  background: #eef4ff;
+  border-radius: 9px;
 }
 .project-card-body {
   flex: 1;
   min-width: 0;
 }
 .project-card-body h3 {
-  margin: 0 0 0.3em 0;
-  font-size: 1.05em;
-  font-weight: 600;
+  margin: 0 0 0.35rem 0;
+  font-size: 0.98rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
 }
 .project-card-body h3 a {
-  color: #0366d6;
+  color: var(--home-text, #172033);
   text-decoration: none;
 }
 .project-card-body h3 a:hover {
-  text-decoration: underline;
+  color: #2563eb;
+  text-decoration: none;
+}
+.project-card-body h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
 }
 .project-card-body p {
   margin: 0;
-  font-size: 0.88em;
-  color: #586069;
-  line-height: 1.45;
-}
-.intro-text {
-  font-size: 1.1em;
-  margin-bottom: 2em;
+  font-size: 0.82rem;
+  color: var(--home-muted, #5b677a);
+  line-height: 1.5;
 }
 .project-card-stat {
   display: inline-block;
-  font-size: 0.78em;
+  font-size: 0.72rem;
   font-weight: 600;
-  color: #0366d6;
-  background: #f1f8ff;
-  padding: 0.15em 0.5em;
-  border-radius: 4px;
-  margin-top: 0.35em;
+  color: #1d4ed8;
+  background: #eff6ff;
+  padding: 0.18rem 0.45rem;
+  border-radius: 999px;
+  margin-top: 0.55rem;
+}
+.home-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.home-hero-copy {
+  min-width: 0;
+}
+.home-hero-logo {
+  flex: 0 0 auto;
+  width: min(28vw, 210px);
+  max-width: 210px;
+  border-radius: 24px;
+  filter: drop-shadow(0 18px 35px rgba(15, 23, 42, 0.16));
+}
+@media (max-width: 640px) {
+  .home-hero {
+    align-items: flex-start;
+    flex-direction: column-reverse;
+  }
+  .home-hero-logo {
+    width: 96px;
+    border-radius: 18px;
+  }
 }
 </style>
 
-<p class="intro-text">Hi folks, I'm Merill Fernando, a Product Manager at Microsoft. Welcome to my personal home on the internet. This is where I share the projects and tools I've built for the Microsoft community.</p>
+<div class="home-page">
+
+<section class="home-hero">
+  <div class="home-hero-copy">
+    <p class="home-eyebrow">Microsoft identity, Graph, and community tools</p>
+    <h1 class="home-title">Hi, I'm Merill.</h1>
+    <p class="home-intro">I build practical tools, share about Microsoft AI, Security, Entra and Graph, and share resources for admins, developers, and security teams.</p>
+  </div>
+  <img class="home-hero-logo" src="/assets/images/projects/msailogo.png" alt="Microsoft AI logo">
+</section>
 
 <div class="project-section">
 <h2>Writing & Talks</h2>
@@ -107,7 +170,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <span class="fa-icon-fallback"><i class="fas fa-pen-nib"></i></span>
+      <img src="/assets/images/projects/blog.svg" alt="My Personal Blog logo">
     </div>
     <div class="project-card-body">
       <h3><a href="/blog/">My Personal Blog</a></h3>
@@ -128,7 +191,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/projects/entranews.png" alt="Entra.Chat logo">
+      <img src="/assets/images/projects/entrachat.png" alt="Entra.Chat logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://entra.chat">Entra.Chat</a></h3>
@@ -157,7 +220,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/splash/cmd.png" alt="cmd.ms logo">
+      <img src="/assets/images/projects/cmdms.svg" alt="cmd.ms logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://cmd.ms">cmd.ms</a></h3>
@@ -168,11 +231,21 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
+      <img src="/assets/images/projects/yako.png" alt="Yako logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://getyako.com">Yako</a></h3>
+      <p>A beautiful browser start page for Microsoft users and admins. Instantly access 900+ Microsoft portals from your new tab.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
       <span class="fa-icon-fallback"><i class="fas fa-envelope-open-text"></i></span>
     </div>
     <div class="project-card-body">
-      <h3><a href="https://mc.merill.net">M365 Message Center Archive</a></h3>
-      <p>Searchable archive of all Microsoft 365 Message Center posts.</p>
+      <h3><a href="https://mc.merill.net">M365 Message Center &amp; Roadmap Archive</a></h3>
+      <p>Searchable archive of Microsoft 365 Message Center posts and Roadmap updates.</p>
     </div>
   </div>
 
@@ -196,16 +269,6 @@ hidden: true
     </div>
   </div>
 
-  <div class="project-card">
-    <div class="project-card-logo">
-      <img src="/assets/images/projects/yako.png" alt="Yako logo">
-    </div>
-    <div class="project-card-body">
-      <h3><a href="https://getyako.com">Yako</a></h3>
-      <p>A beautiful browser start page for Microsoft users and admins. Instantly access 900+ Microsoft portals from your new tab.</p>
-    </div>
-  </div>
-
 </div>
 </div>
 
@@ -215,11 +278,11 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/projects/graphpm.svg" alt="graph.pm logo">
+      <img src="/assets/images/projects/graphxray.svg" alt="Graph X-Ray logo">
     </div>
     <div class="project-card-body">
-      <h3><a href="https://graph.pm">graph.pm</a></h3>
-      <p>Microsoft Graph Skill for AI agents. Search 27,700+ Graph APIs and curated samples locally, in milliseconds.</p>
+      <h3><a href="https://graphxray.merill.net">Graph X-Ray</a></h3>
+      <p>Fiddler for Microsoft! Convert your actions in the Azure Portal to Graph PowerShell commands.</p>
     </div>
   </div>
 
@@ -235,21 +298,11 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/projects/vscode-mcp.svg" alt="VS Code MCP Install Button Generator logo">
+      <img src="/assets/images/projects/graphpm.svg" alt="graph.pm logo">
     </div>
     <div class="project-card-body">
-      <h3><a href="https://vscodemcp.com">VS Code MCP Install Button Generator</a></h3>
-      <p>Create one-click VS Code install badges and links for Model Context Protocol servers.</p>
-    </div>
-  </div>
-
-  <div class="project-card">
-    <div class="project-card-logo">
-      <img src="/assets/images/projects/graphxray.svg" alt="Graph X-Ray logo">
-    </div>
-    <div class="project-card-body">
-      <h3><a href="https://graphxray.merill.net">Graph X-Ray</a></h3>
-      <p>Fiddler for Microsoft! Convert your actions in the Azure Portal to Graph PowerShell commands.</p>
+      <h3><a href="https://graph.pm">graph.pm</a></h3>
+      <p>Microsoft Graph Skill for AI agents. Search 27,700+ Graph APIs and curated samples locally, in milliseconds.</p>
     </div>
   </div>
 
@@ -270,6 +323,16 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://uninstall-graph.merill.net">Uninstall-Graph</a></h3>
       <p>PowerShell module that completely uninstalls and removes all Microsoft Graph PowerShell modules from your system.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/vscode-mcp.svg" alt="VS Code MCP Install Button Generator logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://vscodemcp.com">VS Code MCP Install Button Generator</a></h3>
+      <p>Create one-click VS Code install badges and links for Model Context Protocol servers.</p>
     </div>
   </div>
 
@@ -358,4 +421,6 @@ hidden: true
   </div>
 
 </div>
+</div>
+
 </div>
