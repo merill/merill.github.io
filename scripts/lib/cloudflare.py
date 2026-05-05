@@ -61,6 +61,7 @@ SITES: list[Site] = [
     Site(key="lokka.dev", zone_id="a0e07884417766a7fd5edf97ecd06eed"),
     Site(key="graph.pm", zone_id="86e542369b5c343bb4348aba345d3f92"),
     Site(key="vscodemcp.com", zone_id="7d31153d3161ca5058f6f1784c183671"),
+    Site(key="cybersecpods.com", zone_id="827dcf45b712b711ea49e9bad1a92cd5"),
     # merill.net zone total -> Graph Permissions Explorer card.
     Site(
         key="graphpermissions.merill.net",

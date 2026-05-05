@@ -280,6 +280,18 @@ hidden: true
     </div>
   </div>
 
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/cybersecpods.png" alt="CyberSecPods logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://cybersecpods.com">CyberSecPods</a></h3>
+      <p>The home of cybersecurity podcasts. Curated shows on threat intel, identity, cloud security, red team, blue team, and more.</p>
+      {%- assign cf = site.data.stats.cloudflare["cybersecpods.com"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
+    </div>
+  </div>
+
 </div>
 </div>
 
