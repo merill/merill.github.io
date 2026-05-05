@@ -241,7 +241,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <span class="fa-icon-fallback"><i class="fas fa-envelope-open-text"></i></span>
+      <img src="/assets/images/projects/mc-merill.ico" alt="M365 Message Center &amp; Roadmap Archive logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://mc.merill.net">M365 Message Center &amp; Roadmap Archive</a></h3>
@@ -251,7 +251,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <span class="fa-icon-fallback"><i class="fas fa-graduation-cap"></i></span>
+      <img src="/assets/images/projects/github-favicon.svg" alt="Refined Microsoft Learn logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://github.com/merill/refined-microsoft-learn">Refined Microsoft Learn</a></h3>
@@ -261,11 +261,38 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <span class="fa-icon-fallback"><i class="fab fa-bluesky"></i></span>
+      <img src="/assets/images/projects/bluesky-ms.ico" alt="bluesky.ms logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://bluesky.ms">bluesky.ms</a></h3>
       <p>Discover Microsoft folks on Bluesky. Find and connect with the Microsoft community.</p>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<div class="project-section">
+<h2>AI Skills</h2>
+<div class="project-grid">
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/graphpm.svg" alt="Microsoft Graph skill logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://skills.sh/merill/msgraph/msgraph">Microsoft Graph</a></h3>
+      <p>Agent skill to search, look up, and call any of the 27,700+ Microsoft Graph APIs locally with no network calls.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/mc-merill.ico" alt="M365 Message Center skill logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://skills.sh/merill/mc/microsoft-365-message-center-archive">M365 Message Center</a></h3>
+      <p>Agent skill to search, summarize, and cite Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts.</p>
     </div>
   </div>
 
@@ -318,7 +345,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <span class="fa-icon-fallback"><i class="fas fa-trash-alt"></i></span>
+      <img src="/assets/images/projects/uninstall-graph.png" alt="Uninstall-Graph logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://uninstall-graph.merill.net">Uninstall-Graph</a></h3>
@@ -328,7 +355,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/projects/vscode-mcp.svg" alt="VS Code MCP Install Button Generator logo">
+      <img src="/assets/images/projects/vscodemcp.svg" alt="VS Code MCP Install Button Generator logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://vscodemcp.com">VS Code MCP Install Button Generator</a></h3>
@@ -355,7 +382,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/projects/entra-url-builder.svg" alt="Entra Sign-in URL Builder logo">
+      <img src="/assets/images/projects/signin-merill.svg" alt="Entra Sign-in URL Builder logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://signin.merill.net">Entra Sign-in URL Builder</a></h3>
@@ -365,7 +392,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <span class="fa-icon-fallback"><i class="fas fa-file-csv"></i></span>
+      <img src="/assets/images/projects/github-favicon.svg" alt="aka.ms/AppNames logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://aka.ms/AppNames">aka.ms/AppNames</a></h3>
@@ -392,7 +419,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/projects/ztexplorer.svg" alt="Zero Trust Explorer logo">
+      <img src="/assets/images/projects/zerotrustexplorer.svg" alt="Zero Trust Explorer logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://zerotrustexplorer.merill.net">Zero Trust Explorer</a></h3>
@@ -402,7 +429,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/splash/aadexporter.png" alt="Entra Exporter logo">
+      <img src="/assets/images/projects/github-favicon.svg" alt="Entra Exporter logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://github.com/microsoft/EntraExporter">Entra Exporter</a></h3>
@@ -412,7 +439,7 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
-      <img src="/assets/images/splash/msid.png" alt="MSIdentityTools logo">
+      <img src="/assets/images/projects/msidentitytools.ico" alt="MSIdentityTools logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://aka.ms/msid">MSIdentityTools</a></h3>
