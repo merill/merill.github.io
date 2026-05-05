@@ -24,12 +24,12 @@ hidden: true
 .project-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1px;
+  gap: 0;
   overflow: hidden;
   margin-bottom: 1rem;
   border: 1px solid var(--home-border, #e5eaf1);
   border-radius: 18px;
-  background: var(--home-border, #e5eaf1);
+  background: var(--home-card, #fff);
 }
 @media (min-width: 640px) {
   .project-grid {
@@ -50,6 +50,10 @@ hidden: true
   padding: 1.15rem;
   border: 0;
   border-radius: 0;
+  /* Draw 1px divider lines on every side using an outline-like shadow.
+     Cards sit flush (gap: 1px collapses visually) and the shadows form
+     the gridlines between cards without bleeding through empty cells. */
+  box-shadow: 0 0 0 1px var(--home-border, #e5eaf1);
   background: var(--home-card, #fff);
   transition: background-color 0.15s ease, transform 0.15s ease;
   text-decoration: none;
