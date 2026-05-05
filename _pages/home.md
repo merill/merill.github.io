@@ -256,8 +256,6 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://mc.merill.net">M365 Message Center &amp; Roadmap Archive</a></h3>
       <p>Searchable archive of Microsoft 365 Message Center posts and Roadmap updates.</p>
-      {%- assign cf = site.data.stats.cloudflare["mc.merill.net"] -%}
-      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -373,8 +371,6 @@ hidden: true
       <p>PowerShell module that completely uninstalls and removes all Microsoft Graph PowerShell modules from your system.</p>
       {%- assign s = site.data.stats.psgallery["Uninstall-Graph"] -%}
       {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
-      {%- assign cf = site.data.stats.cloudflare["uninstall-graph.merill.net"] -%}
-      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -404,8 +400,6 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://idPowerToys.merill.net">idPowerToys</a></h3>
       <p>Microsoft Entra Conditional Access visualizer. Understand and troubleshoot your CA policies.</p>
-      {%- assign cf = site.data.stats.cloudflare["idpowertoys.merill.net"] -%}
-      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -416,8 +410,6 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://signin.merill.net">Entra Sign-in URL Builder</a></h3>
       <p>Generate Microsoft Entra OAuth 2.0 authorization and admin consent URLs.</p>
-      {%- assign cf = site.data.stats.cloudflare["signin.merill.net"] -%}
-      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -455,8 +447,6 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://zerotrustexplorer.merill.net">Zero Trust Explorer</a></h3>
       <p>Interactive explorer for the Microsoft Zero Trust framework. Visualize and navigate Zero Trust architecture and controls.</p>
-      {%- assign cf = site.data.stats.cloudflare["zerotrustexplorer.merill.net"] -%}
-      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 

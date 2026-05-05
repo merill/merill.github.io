@@ -1,16 +1,17 @@
 """Cloudflare GraphQL Analytics fetcher.
 
-Pulls 30-day pageView counts per site from the public GraphQL Analytics API
-and returns a {key: count} mapping where `key` is whatever string is used
-as a card lookup in stats.yml — usually a hostname.
+Pulls 30-day pageView counts per zone from the public GraphQL Analytics API
+and returns a {zone_key: count} mapping.
 
-A SITES list below maps each tracked card to a (zone_name, zone_id, hostname)
-triple. When `hostname` is None we sum the entire zone (one zone == one site).
-When `hostname` is set we filter to that exact hostname inside the shared zone
-(used for *.merill.net subdomains).
+Only zones where the project domain == the zone are tracked here. Cloudflare
+Free's httpRequests1dGroups dataset is aggregated at the zone level and does
+NOT support hostname filtering, so subdomains of a shared zone (e.g.
+*.merill.net) cannot be split out without the Web Analytics beacon or a
+paid plan with adaptiveGroups retention. Those cards intentionally don't
+get a Cloudflare badge.
 
-Authentication is via a single Bearer token passed in CLOUDFLARE_API_TOKEN.
-The token only needs Zone:Analytics:Read scope.
+Authentication is via a Bearer token in CLOUDFLARE_API_TOKEN, scope:
+  Zone -> Analytics -> Read  (on All zones, or on the specific zones below)
 
 Reference:
   https://developers.cloudflare.com/analytics/graphql-api/
@@ -34,25 +35,25 @@ WINDOW_DAYS = 30
 
 @dataclass(frozen=True)
 class Site:
-    """A single tracked site.
+    """A single tracked Cloudflare zone.
 
-    `key`       Stable identifier used as the YAML key under cloudflare:.
-                Usually equal to the public hostname.
-    `zone_id`   Cloudflare zone ID (32-char hex).
-    `hostname`  If set, restrict the query to this exact request hostname
-                (needed when several sites share one zone, e.g. *.merill.net).
-                If None, sum the entire zone.
+    `key`     Stable identifier used as the YAML key under cloudflare:.
+              Equal to the public hostname / zone name.
+    `zone_id` Cloudflare zone ID (32-char hex).
     """
 
     key: str
     zone_id: str
-    hostname: str | None = None
 
 
 # Zone IDs come from `cloudflare zones list`. To track an additional card,
 # add a new Site() entry here AND wire the matching key into _pages/home.md.
+#
+# Subdomains (*.merill.net) are intentionally NOT tracked individually here
+# — see module docstring for the reasoning. As a single exception, the
+# merill.net zone total is attributed to the Graph Permissions Explorer
+# card (graphpermissions.merill.net is the dominant subdomain by traffic).
 SITES: list[Site] = [
-    # --- One zone == one site (no hostname filter) ---
     Site(key="maester.dev", zone_id="a153599f0ecad99b19f2e71986a761f7"),
     Site(key="cmd.ms", zone_id="c9a63474a8b4304664a85b352cb8519b"),
     Site(key="getyako.com", zone_id="628baf20d90649a562b19d3b2e0c319e"),
@@ -60,72 +61,24 @@ SITES: list[Site] = [
     Site(key="lokka.dev", zone_id="a0e07884417766a7fd5edf97ecd06eed"),
     Site(key="graph.pm", zone_id="86e542369b5c343bb4348aba345d3f92"),
     Site(key="vscodemcp.com", zone_id="7d31153d3161ca5058f6f1784c183671"),
-    # --- Subdomains of merill.net (shared zone, filtered by hostname) ---
-    Site(
-        key="mc.merill.net",
-        zone_id="c41e33746f7a903ec87f23ac3f991943",
-        hostname="mc.merill.net",
-    ),
+    # merill.net zone total -> Graph Permissions Explorer card.
     Site(
         key="graphpermissions.merill.net",
         zone_id="c41e33746f7a903ec87f23ac3f991943",
-        hostname="graphpermissions.merill.net",
-    ),
-    Site(
-        key="uninstall-graph.merill.net",
-        zone_id="c41e33746f7a903ec87f23ac3f991943",
-        hostname="uninstall-graph.merill.net",
-    ),
-    Site(
-        key="idpowertoys.merill.net",
-        zone_id="c41e33746f7a903ec87f23ac3f991943",
-        hostname="idpowertoys.merill.net",
-    ),
-    Site(
-        key="signin.merill.net",
-        zone_id="c41e33746f7a903ec87f23ac3f991943",
-        hostname="signin.merill.net",
-    ),
-    Site(
-        key="zerotrustexplorer.merill.net",
-        zone_id="c41e33746f7a903ec87f23ac3f991943",
-        hostname="zerotrustexplorer.merill.net",
     ),
 ]
 
 
 # httpRequests1dGroups query. We sum pageViews across the 30-day window.
-# When a hostname filter is needed we add `clientRequestHTTPHost` to the
-# filter object — it's an indexable dimension on this dataset.
-#
 # We deliberately avoid `groupBy` so a single row comes back per zone (faster
 # and keeps the parsing dead simple).
-_QUERY_WHOLE_ZONE = """
+_QUERY_ZONE_TOTALS = """
 query ZoneTotals($zone: String!, $since: Date!, $until: Date!) {
   viewer {
     zones(filter: { zoneTag: $zone }) {
       httpRequests1dGroups(
         limit: 365
         filter: { date_geq: $since, date_lt: $until }
-      ) {
-        sum { pageViews }
-      }
-    }
-  }
-}
-""".strip()
-
-_QUERY_HOSTNAME = """
-query HostnameTotals($zone: String!, $since: Date!, $until: Date!, $host: String!) {
-  viewer {
-    zones(filter: { zoneTag: $zone }) {
-      httpRequests1dGroups(
-        limit: 365
-        filter: {
-          date_geq: $since,
-          date_lt: $until,
-          clientRequestHTTPHost: $host
-        }
       ) {
         sum { pageViews }
       }
@@ -183,23 +136,11 @@ def _sum_pageviews(payload: dict) -> int:
 
 def fetch_pageviews(site: Site, token: str, since: str, until: str) -> int:
     """Return the 30-day summed pageViews for a single Site."""
-    if site.hostname is None:
-        payload = _post_graphql(
-            token,
-            _QUERY_WHOLE_ZONE,
-            {"zone": site.zone_id, "since": since, "until": until},
-        )
-    else:
-        payload = _post_graphql(
-            token,
-            _QUERY_HOSTNAME,
-            {
-                "zone": site.zone_id,
-                "since": since,
-                "until": until,
-                "host": site.hostname,
-            },
-        )
+    payload = _post_graphql(
+        token,
+        _QUERY_ZONE_TOTALS,
+        {"zone": site.zone_id, "since": since, "until": until},
+    )
     return _sum_pageviews(payload)
 
 
@@ -224,13 +165,12 @@ def fetch_all(token: str | None = None) -> tuple[dict[str, int], list[str]]:
     counts: dict[str, int] = {}
     failures: list[str] = []
     for site in SITES:
-        label = site.hostname or site.key
         try:
             count = fetch_pageviews(site, token, since, until)
         except RuntimeError as exc:
-            print(f"WARN  cloudflare {label}: {exc}")
+            print(f"WARN  cloudflare {site.key}: {exc}")
             failures.append(site.key)
             continue
         counts[site.key] = count
-        print(f"OK    cloudflare {label}: {count:,} pageviews (last {WINDOW_DAYS}d)")
+        print(f"OK    cloudflare {site.key}: {count:,} pageviews (last {WINDOW_DAYS}d)")
     return counts, failures
