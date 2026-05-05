@@ -10,22 +10,22 @@
 psgallery:
   # PowerShell Gallery cumulative download counts.
   Maester:
-    downloads: 550319
+    downloads: 550159
     display: "550k"
-    updated: "2026-05-05T04:58:57Z"
+    updated: "2026-05-05T03:21:09Z"
   EntraExporter:
-    downloads: 303745
+    downloads: 303733
     display: "304k"
-    updated: "2026-05-05T04:58:57Z"
-  "Uninstall-Graph":
-    downloads: 5578
+    updated: "2026-05-05T03:21:09Z"
+  Uninstall-Graph:
+    downloads: 5577
     display: "5.6k"
-    updated: "2026-05-05T04:58:57Z"
+    updated: "2026-05-05T03:21:09Z"
   MSIdentityTools:
-    downloads: 458480
+    downloads: 458472
     display: "458k"
-    updated: "2026-05-05T04:58:57Z"
+    updated: "2026-05-05T03:21:09Z"
   ZeroTrustAssessment:
-    downloads: 101515
+    downloads: 101511
     display: "102k"
-    updated: "2026-05-05T04:58:57Z"
+    updated: "2026-05-05T03:21:09Z"
