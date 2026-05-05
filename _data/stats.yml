@@ -1,34 +1,31 @@
-# PowerShell Gallery download stats.
+# Auto-generated stats consumed by _pages/home.md.
 #
-# This file is auto-updated daily by .github/workflows/update-stats.yml
-# and consumed by _pages/home.md to render install counts on project cards.
+# This file is rewritten daily by .github/workflows/update-stats.yml
+# (which runs scripts/update-stats.py). Manual edits will be overwritten
+# on the next run.
 #
-# Manual edits will be overwritten by the next workflow run. To change which
-# packages are tracked, edit scripts/update-psgallery-stats.py.
-#
-# Each entry uses the PowerShell Gallery package Id as the key.
-#   downloads: integer total download count from the Gallery
-#   display:   pre-formatted short string (e.g. "458k") used in templates
-#   updated:   ISO 8601 UTC timestamp of the last successful refresh
+# To change which packages or sites are tracked, edit
+# scripts/lib/psgallery.py and scripts/lib/cloudflare.py.
 
 psgallery:
+  # PowerShell Gallery cumulative download counts.
   Maester:
-    downloads: 550153
+    downloads: 550319
     display: "550k"
-    updated: "2026-05-05T03:00:22Z"
+    updated: "2026-05-05T04:58:57Z"
   EntraExporter:
-    downloads: 303723
+    downloads: 303745
     display: "304k"
-    updated: "2026-05-05T03:00:22Z"
-  Uninstall-Graph:
-    downloads: 5577
+    updated: "2026-05-05T04:58:57Z"
+  "Uninstall-Graph":
+    downloads: 5578
     display: "5.6k"
-    updated: "2026-05-05T03:00:22Z"
+    updated: "2026-05-05T04:58:57Z"
   MSIdentityTools:
-    downloads: 458464
+    downloads: 458480
     display: "458k"
-    updated: "2026-05-05T03:00:22Z"
+    updated: "2026-05-05T04:58:57Z"
   ZeroTrustAssessment:
-    downloads: 101510
+    downloads: 101515
     display: "102k"
-    updated: "2026-05-05T03:00:22Z"
+    updated: "2026-05-05T04:58:57Z"

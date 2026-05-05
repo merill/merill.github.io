@@ -125,6 +125,9 @@ hidden: true
   border-radius: 999px;
   margin-top: 0.55rem;
 }
+.project-card-stat + .project-card-stat {
+  margin-left: 0.35rem;
+}
 .home-hero {
   display: flex;
   align-items: center;
@@ -216,6 +219,8 @@ hidden: true
       <p>Open source Microsoft test automation framework and security analyzer for your tenant.</p>
       {%- assign s = site.data.stats.psgallery.Maester -%}
       {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
+      {%- assign cf = site.data.stats.cloudflare["maester.dev"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -227,6 +232,8 @@ hidden: true
       <h3><a href="https://cmd.ms">cmd.ms</a></h3>
       <p>Your Microsoft Cloud command line. Quick shortcuts to jump to any admin portal or documentation page.</p>
       <span class="project-card-stat">56k monthly active users</span>
+      {%- assign cf = site.data.stats.cloudflare["cmd.ms"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -237,6 +244,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://getyako.com">Yako</a></h3>
       <p>A beautiful browser start page for Microsoft users and admins. Instantly access 900+ Microsoft portals from your new tab.</p>
+      {%- assign cf = site.data.stats.cloudflare["getyako.com"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -247,6 +256,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://mc.merill.net">M365 Message Center &amp; Roadmap Archive</a></h3>
       <p>Searchable archive of Microsoft 365 Message Center posts and Roadmap updates.</p>
+      {%- assign cf = site.data.stats.cloudflare["mc.merill.net"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -267,6 +278,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://bluesky.ms">bluesky.ms</a></h3>
       <p>Discover Microsoft folks on Bluesky. Find and connect with the Microsoft community.</p>
+      {%- assign cf = site.data.stats.cloudflare["bluesky.ms"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -322,6 +335,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://lokka.dev">lokka.dev</a></h3>
       <p>An AI agent tool that brings the power of Microsoft Graph to AI agents and LLMs.</p>
+      {%- assign cf = site.data.stats.cloudflare["lokka.dev"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -332,6 +347,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://graph.pm">graph.pm</a></h3>
       <p>Microsoft Graph Skill for AI agents. Search 27,700+ Graph APIs and curated samples locally, in milliseconds.</p>
+      {%- assign cf = site.data.stats.cloudflare["graph.pm"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -342,6 +359,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://graphpermissions.merill.net">Graph Permissions Explorer</a></h3>
       <p>Browse all Microsoft Graph APIs and see exactly what data is exposed for each Graph Permission.</p>
+      {%- assign cf = site.data.stats.cloudflare["graphpermissions.merill.net"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -354,6 +373,8 @@ hidden: true
       <p>PowerShell module that completely uninstalls and removes all Microsoft Graph PowerShell modules from your system.</p>
       {%- assign s = site.data.stats.psgallery["Uninstall-Graph"] -%}
       {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
+      {%- assign cf = site.data.stats.cloudflare["uninstall-graph.merill.net"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -364,6 +385,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://vscodemcp.com">VS Code MCP Install Button Generator</a></h3>
       <p>Create one-click VS Code install badges and links for Model Context Protocol servers.</p>
+      {%- assign cf = site.data.stats.cloudflare["vscodemcp.com"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -381,6 +404,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://idPowerToys.merill.net">idPowerToys</a></h3>
       <p>Microsoft Entra Conditional Access visualizer. Understand and troubleshoot your CA policies.</p>
+      {%- assign cf = site.data.stats.cloudflare["idpowertoys.merill.net"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -391,6 +416,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://signin.merill.net">Entra Sign-in URL Builder</a></h3>
       <p>Generate Microsoft Entra OAuth 2.0 authorization and admin consent URLs.</p>
+      {%- assign cf = site.data.stats.cloudflare["signin.merill.net"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 
@@ -428,6 +455,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://zerotrustexplorer.merill.net">Zero Trust Explorer</a></h3>
       <p>Interactive explorer for the Microsoft Zero Trust framework. Visualize and navigate Zero Trust architecture and controls.</p>
+      {%- assign cf = site.data.stats.cloudflare["zerotrustexplorer.merill.net"] -%}
+      {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
   </div>
 

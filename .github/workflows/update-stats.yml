@@ -1,22 +1,30 @@
-name: Update PSGallery stats
+name: Update home page stats
 
-# Refreshes _data/stats.yml with the latest PowerShell Gallery download
-# counts so project cards on the home page show up-to-date install numbers.
+# Refreshes _data/stats.yml with the latest stats from every configured
+# source (PowerShell Gallery, Cloudflare) so project cards on the home
+# page show up-to-date install / pageview numbers.
 #
-# The actual fetching/formatting lives in scripts/update-psgallery-stats.py.
-# To track a different set of packages, edit the PACKAGES list there.
+# The actual fetching/formatting lives in scripts/update-stats.py and the
+# per-source modules under scripts/lib/. To track a different package or
+# site, edit lib/psgallery.py or lib/cloudflare.py.
+#
+# Required repo secret:
+#   CLOUDFLARE_API_TOKEN  Cloudflare API token, scope Zone:Analytics:Read.
+#                         If absent, the cloudflare: section is skipped
+#                         silently and only PSGallery stats refresh.
 
 on:
   schedule:
-    # Daily at 03:00 UTC. Off-peak for both the PSGallery API and GH Actions.
+    # Daily at 03:00 UTC. Off-peak for both upstream APIs and GH Actions.
     - cron: "0 3 * * *"
   workflow_dispatch: {}
   push:
-    # Re-run automatically when either the script or the data file changes,
-    # so a PR that adds a new tracked package refreshes stats on merge.
+    # Re-run automatically when the updater code changes, so a PR that
+    # adds a new tracked source refreshes stats on merge.
     branches: [master]
     paths:
-      - "scripts/update-psgallery-stats.py"
+      - "scripts/update-stats.py"
+      - "scripts/lib/**"
       - ".github/workflows/update-stats.yml"
 
 permissions:
@@ -38,8 +46,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch download counts
-        run: python3 scripts/update-psgallery-stats.py
+      - name: Fetch stats
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python3 scripts/update-stats.py
 
       - name: Commit changes
         run: |
@@ -51,5 +61,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _data/stats.yml
-          git commit -m "chore(stats): refresh PSGallery download counts"
+          git commit -m "chore(stats): refresh home page stats"
           git push
