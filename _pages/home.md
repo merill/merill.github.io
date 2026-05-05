@@ -231,7 +231,6 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://cmd.ms">cmd.ms</a></h3>
       <p>Your Microsoft Cloud command line. Quick shortcuts to jump to any admin portal or documentation page.</p>
-      <span class="project-card-stat">56k monthly active users</span>
       {%- assign cf = site.data.stats.cloudflare["cmd.ms"] -%}
       {%- if cf.display -%}<span class="project-card-stat">{{ cf.display }} monthly visits</span>{%- endif -%}
     </div>
