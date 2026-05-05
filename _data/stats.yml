@@ -12,55 +12,55 @@ psgallery:
   Maester:
     downloads: 550327
     display: "550k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   EntraExporter:
     downloads: 303751
     display: "304k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "Uninstall-Graph":
     downloads: 5578
     display: "5.6k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   MSIdentityTools:
     downloads: 458489
     display: "458k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   ZeroTrustAssessment:
     downloads: 101521
     display: "102k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
 
 cloudflare:
   # Cloudflare pageViews summed over the last 30 days.
   "maester.dev":
     pageviews: 172057
     display: "172k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "cmd.ms":
     pageviews: 123753
     display: "124k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "getyako.com":
     pageviews: 23503
     display: "24k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "bluesky.ms":
     pageviews: 3039
     display: "3.0k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "lokka.dev":
     pageviews: 8328
     display: "8.3k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "graph.pm":
     pageviews: 7969
     display: "8.0k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "vscodemcp.com":
     pageviews: 9754
     display: "9.8k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
   "graphpermissions.merill.net":
     pageviews: 789059
     display: "789k"
-    updated: "2026-05-05T05:29:04Z"
+    updated: "2026-05-05T05:29:27Z"
