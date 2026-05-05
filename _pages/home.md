@@ -214,7 +214,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://maester.dev">Maester</a></h3>
       <p>Open source Microsoft test automation framework and security analyzer for your tenant.</p>
-      <span class="project-card-stat">128k tenants</span>
+      {%- assign s = site.data.stats.psgallery.Maester -%}
+      {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
     </div>
   </div>
 
@@ -310,6 +311,7 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://graphxray.merill.net">Graph X-Ray</a></h3>
       <p>Fiddler for Microsoft! Convert your actions in the Azure Portal to Graph PowerShell commands.</p>
+      <span class="project-card-stat">19k monthly active users</span>
     </div>
   </div>
 
@@ -350,6 +352,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://uninstall-graph.merill.net">Uninstall-Graph</a></h3>
       <p>PowerShell module that completely uninstalls and removes all Microsoft Graph PowerShell modules from your system.</p>
+      {%- assign s = site.data.stats.psgallery["Uninstall-Graph"] -%}
+      {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
     </div>
   </div>
 
@@ -429,11 +433,25 @@ hidden: true
 
   <div class="project-card">
     <div class="project-card-logo">
+      <img src="/assets/images/projects/github-favicon.svg" alt="Zero Trust Assessment logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://github.com/microsoft/zerotrustassessment/">Zero Trust Assessment</a></h3>
+      <p>PowerShell module that checks your tenant configuration and recommends ways to improve the security configuration.</p>
+      {%- assign s = site.data.stats.psgallery.ZeroTrustAssessment -%}
+      {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
       <img src="/assets/images/projects/github-favicon.svg" alt="Entra Exporter logo">
     </div>
     <div class="project-card-body">
       <h3><a href="https://github.com/microsoft/EntraExporter">Entra Exporter</a></h3>
       <p>PowerShell module that exports all the configuration and data of a Microsoft Entra tenant.</p>
+      {%- assign s = site.data.stats.psgallery.EntraExporter -%}
+      {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
     </div>
   </div>
 
@@ -444,6 +462,8 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://aka.ms/msid">MSIdentityTools</a></h3>
       <p>Collection of useful PowerShell cmdlets for common Azure AD and Microsoft Entra functionality.</p>
+      {%- assign s = site.data.stats.psgallery.MSIdentityTools -%}
+      {%- if s.display -%}<span class="project-card-stat">{{ s.display }} installs</span>{%- endif -%}
     </div>
   </div>
 

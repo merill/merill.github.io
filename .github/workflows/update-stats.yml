@@ -1,0 +1,55 @@
+name: Update PSGallery stats
+
+# Refreshes _data/stats.yml with the latest PowerShell Gallery download
+# counts so project cards on the home page show up-to-date install numbers.
+#
+# The actual fetching/formatting lives in scripts/update-psgallery-stats.py.
+# To track a different set of packages, edit the PACKAGES list there.
+
+on:
+  schedule:
+    # Daily at 03:00 UTC. Off-peak for both the PSGallery API and GH Actions.
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    # Re-run automatically when either the script or the data file changes,
+    # so a PR that adds a new tracked package refreshes stats on merge.
+    branches: [master]
+    paths:
+      - "scripts/update-psgallery-stats.py"
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch download counts
+        run: python3 scripts/update-psgallery-stats.py
+
+      - name: Commit changes
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- _data/stats.yml; then
+            echo "No changes to _data/stats.yml; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/stats.yml
+          git commit -m "chore(stats): refresh PSGallery download counts"
+          git push
