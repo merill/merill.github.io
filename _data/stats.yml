@@ -10,61 +10,61 @@
 psgallery:
   # PowerShell Gallery cumulative download counts.
   Maester:
-    downloads: 556610
-    display: "557k"
-    updated: "2026-05-10T06:10:42Z"
+    downloads: 557562
+    display: "558k"
+    updated: "2026-05-11T06:39:07Z"
   EntraExporter:
-    downloads: 305315
-    display: "305k"
-    updated: "2026-05-10T06:10:42Z"
+    downloads: 305609
+    display: "306k"
+    updated: "2026-05-11T06:39:07Z"
   "Uninstall-Graph":
-    downloads: 5688
+    downloads: 5692
     display: "5.7k"
-    updated: "2026-05-10T06:10:42Z"
+    updated: "2026-05-11T06:39:07Z"
   MSIdentityTools:
-    downloads: 459567
+    downloads: 459767
     display: "460k"
-    updated: "2026-05-10T06:10:42Z"
+    updated: "2026-05-11T06:39:07Z"
   ZeroTrustAssessment:
-    downloads: 102109
+    downloads: 102166
     display: "102k"
-    updated: "2026-05-10T06:10:42Z"
+    updated: "2026-05-11T06:39:07Z"
 
 cloudflare:
   # Cloudflare pageViews summed over the last 30 days.
   "maester.dev":
-    pageviews: 185227
-    display: "185k"
-    updated: "2026-05-10T06:10:42Z"
+    pageviews: 187738
+    display: "188k"
+    updated: "2026-05-11T06:39:07Z"
   "cmd.ms":
-    pageviews: 112825
-    display: "113k"
-    updated: "2026-05-10T06:10:42Z"
+    pageviews: 108251
+    display: "108k"
+    updated: "2026-05-11T06:39:07Z"
   "getyako.com":
-    pageviews: 27960
+    pageviews: 27850
     display: "28k"
-    updated: "2026-05-10T06:10:42Z"
+    updated: "2026-05-11T06:39:07Z"
   "bluesky.ms":
-    pageviews: 3178
+    pageviews: 3171
     display: "3.2k"
-    updated: "2026-05-10T06:10:42Z"
+    updated: "2026-05-11T06:39:07Z"
   "lokka.dev":
-    pageviews: 8503
-    display: "8.5k"
-    updated: "2026-05-10T06:10:42Z"
-  "graph.pm":
-    pageviews: 8376
+    pageviews: 8427
     display: "8.4k"
-    updated: "2026-05-10T06:10:42Z"
+    updated: "2026-05-11T06:39:07Z"
+  "graph.pm":
+    pageviews: 8441
+    display: "8.4k"
+    updated: "2026-05-11T06:39:07Z"
   "vscodemcp.com":
-    pageviews: 10553
+    pageviews: 11084
     display: "11k"
-    updated: "2026-05-10T06:10:42Z"
+    updated: "2026-05-11T06:39:07Z"
   "cybersecpods.com":
-    pageviews: 14428
-    display: "14k"
-    updated: "2026-05-10T06:10:42Z"
+    pageviews: 18785
+    display: "19k"
+    updated: "2026-05-11T06:39:07Z"
   "graphpermissions.merill.net":
-    pageviews: 869800
-    display: "870k"
-    updated: "2026-05-10T06:10:42Z"
+    pageviews: 881133
+    display: "881k"
+    updated: "2026-05-11T06:39:07Z"
