@@ -12,59 +12,59 @@ psgallery:
   Maester:
     downloads: 624960
     display: "625k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
   EntraExporter:
     downloads: 322269
     display: "322k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
   "Uninstall-Graph":
     downloads: 6715
     display: "6.7k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
   MSIdentityTools:
     downloads: 471816
     display: "472k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
   ZeroTrustAssessment:
     downloads: 108945
     display: "109k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
 
 cloudflare:
   # Cloudflare pageViews summed over the last 30 days.
   "maester.dev":
-    pageviews: 288242
+    pageviews: 288327
     display: "288k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
   "cmd.ms":
-    pageviews: 138400
-    display: "138k"
-    updated: "2026-07-30T04:02:03Z"
+    pageviews: 141354
+    display: "141k"
+    updated: "2026-07-31T04:09:18Z"
   "getyako.com":
-    pageviews: 23960
-    display: "24k"
-    updated: "2026-07-30T04:02:03Z"
+    pageviews: 23248
+    display: "23k"
+    updated: "2026-07-31T04:09:18Z"
   "bluesky.ms":
-    pageviews: 3707
-    display: "3.7k"
-    updated: "2026-07-30T04:02:03Z"
+    pageviews: 3796
+    display: "3.8k"
+    updated: "2026-07-31T04:09:18Z"
   "lokka.dev":
-    pageviews: 10162
+    pageviews: 10294
     display: "10k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
   "graph.pm":
-    pageviews: 9482
+    pageviews: 9461
     display: "9.5k"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
   "vscodemcp.com":
-    pageviews: 25735
-    display: "26k"
-    updated: "2026-07-30T04:02:03Z"
+    pageviews: 29679
+    display: "30k"
+    updated: "2026-07-31T04:09:18Z"
   "cybersecpods.com":
-    pageviews: 74065
-    display: "74k"
-    updated: "2026-07-30T04:02:03Z"
+    pageviews: 75091
+    display: "75k"
+    updated: "2026-07-31T04:09:18Z"
   "graphpermissions.merill.net":
-    pageviews: 1572543
+    pageviews: 1552949
     display: "1.6m"
-    updated: "2026-07-30T04:02:03Z"
+    updated: "2026-07-31T04:09:18Z"
