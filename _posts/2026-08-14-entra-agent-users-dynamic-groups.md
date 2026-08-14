@@ -25,8 +25,6 @@ Broad membership rules are the problem. An agent user can already match one with
 
 ![Microsoft Learn documentation explaining how agent user accounts are evaluated by dynamic membership rules](/images/uploads/2026/entra-agent-users-dynamic-groups.png)
 
-The documentation change was [committed on 13 August 2026](https://github.com/MicrosoftDocs/entra-docs/commit/af37138d7608db0579438118337d71a3ea3f27c3). It reads as a clarification of existing behavior, not an announcement that the product behavior has changed.
-
 ## Why agent users look like users to dynamic group rules
 
 There are two identities to keep straight in Microsoft Entra Agent ID.
