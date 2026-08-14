@@ -4,7 +4,7 @@ permalink: /about/
 hide: true
 ---
 
-I'm a Product Manager at Microsoft in the Microsoft Entra, Customer Acceleration Team (CAT). In my day job I help some of Microsoft's largest enterprise customers deploy Microsoft Entra succesfully. I also collaborate with product and engineering teams on new Microsoft Entra features with a focus on the Identity side of Microsoft Graph.
+I'm an ex-Microsoft Entra Product Manager and the #1 Entra fan. At Microsoft, I worked in the Microsoft Entra Customer Acceleration Team (CAT), helping large enterprise customers deploy Entra and collaborating with product and engineering teams on identity and Microsoft Graph.
 
 In my free time I like to build tools and apps to help the community and also share my knowledge through social media. Below you can find some of the things I've built and contributed to.
 
