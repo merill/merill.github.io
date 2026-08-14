@@ -17,6 +17,8 @@ projects:
       url: https://maester.cloud
     - title: "Entra.News"
       url: https://entra.news
+    - title: "Lokka"
+      url: https://lokka.dev
     - title: "Graph X-Ray"
       url: https://graphxray.merill.net/
     - title: "cmd.ms"
