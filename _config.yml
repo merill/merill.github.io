@@ -28,7 +28,7 @@ title                     : "merill.net"
 title_separator           : "-"
 subtitle                  : "my utmost for his highest, my best for his glory"
 name                      : "Merill Fernando"
-description               : "Ramblings of an Identity Microsoftie"
+description               : "Practical notes on Microsoft Entra, AI, Security, and Graph"
 url                       : "https://merill.net" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                   : "" # the subpath of your site, e.g. /blog
 repository                : "merill/merill.github.io"
