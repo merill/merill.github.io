@@ -60,7 +60,7 @@ baidu_site_verification   :
 twitter:
   username: "merill"
 og_image: "/assets/images/merill-og.png" #Open Graph/Twitter default site image
-og_image_alt: "Merill Fernando — #1 Entra Fan"
+og_image_alt: "Merill Fernando · #1 Entra Fan"
 
 social:
   type:  # Person or Organization (defaults to Person)
