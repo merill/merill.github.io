@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
-  # - title: "About me"
-  #   url: /about/
+  - title: "About"
+    url: /about/
   # - title: "Podcasts"
   #   url: /podcasts/
     

@@ -192,7 +192,7 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="https://entra.news">Entra.News</a></h3>
       <p>My weekly newsletter for Microsoft admins and cybersecurity folks on the latest in Microsoft Entra.</p>
-      <span class="project-card-stat">18k readers</span>
+      <span class="project-card-stat">19k readers</span>
     </div>
   </div>
 
