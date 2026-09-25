@@ -5,6 +5,8 @@ main:
     url: /blog/
   - title: "About"
     url: /about/
+  - title: "Sponsor"
+    url: https://github.com/sponsors/merill
   # - title: "Podcasts"
   #   url: /podcasts/
     

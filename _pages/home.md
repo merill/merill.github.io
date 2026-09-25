@@ -504,4 +504,6 @@ hidden: true
 </div>
 </div>
 
+{% include sponsors.html %}
+
 </div>
