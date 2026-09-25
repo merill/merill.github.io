@@ -183,6 +183,8 @@ hide: true
   <p class="about-built-more"><a href="/">See everything I’ve built →</a></p>
 </section>
 
+{% include sponsors.html variant="about" %}
+
 <section class="about-two-column">
   <div>
     <p class="about-eyebrow">Writing &amp; conversations</p>
