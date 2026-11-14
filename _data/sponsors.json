@@ -1,0 +1,323 @@
+{
+  "company": [
+    {
+      "name": "Increment",
+      "url": "https://www.increment.inc",
+      "logo": "https://raw.githubusercontent.com/maester365/maester/main/website/public/img/sponsors/increment.png",
+      "github": ""
+    },
+    {
+      "name": "CyberDrain",
+      "url": "https://cyberdrain.com",
+      "logo": "https://raw.githubusercontent.com/maester365/maester/main/website/public/img/sponsors/cyberdrain.png",
+      "github": "CyberDrain"
+    }
+  ],
+  "cloud": [
+    {
+      "name": "Derek Morgan",
+      "url": "https://www.linkedin.com/in/derek-morgan-14370775",
+      "image": "/assets/images/sponsors/09017074ab4ed4bf757c.webp",
+      "initials": "DM"
+    },
+    {
+      "name": "Stefan Wey / Alweys",
+      "url": "https://alweys.ch/maester",
+      "image": "/assets/images/sponsors/39f9e2d956b53b0abdae.webp",
+      "initials": "SW"
+    },
+    {
+      "name": "Conflux Cloud",
+      "url": "https://confluxcloud.tech/",
+      "image": "/assets/images/sponsors/5cf02907d02abb1553c6.webp",
+      "initials": "CC"
+    },
+    {
+      "name": "Greenwire Solutions",
+      "url": "https://greenwiresolutions.com/",
+      "image": "/assets/images/sponsors/bfa9bae7685418fa3d59.webp",
+      "initials": "GS"
+    },
+    {
+      "name": "Erica Zelickowski",
+      "url": null,
+      "image": null,
+      "initials": "EZ"
+    },
+    {
+      "name": "Ben Seaba",
+      "url": "https://www.linkedin.com/in/benjamin-seaba-83a29957/",
+      "image": null,
+      "initials": "BS"
+    },
+    {
+      "name": "St Vincent's Institute",
+      "url": "https://www.svi.edu.au/",
+      "image": "/assets/images/sponsors/324812ba9622c879e187.webp",
+      "initials": "SV"
+    },
+    {
+      "name": "Devote",
+      "url": "https://devote.com/",
+      "image": "/assets/images/sponsors/fcb2fc8b06b83ce5ca48.webp",
+      "initials": "D"
+    },
+    {
+      "name": "Crimson Owl Technologies",
+      "url": "https://www.crimsonowl.eu/",
+      "image": "/assets/images/sponsors/7c88cc42895abfdcf144.webp",
+      "initials": "CO"
+    },
+    {
+      "name": "Zitac",
+      "url": "https://www.zitac.se/en/",
+      "image": "/assets/images/sponsors/9de61813ef0fdc9ec3dc.webp",
+      "initials": "Z"
+    },
+    {
+      "name": "Stevez Gomes",
+      "url": "https://linkedin.com/in/stevezgomes",
+      "image": "/assets/images/sponsors/4d97e2fe7990aa14ab04.webp",
+      "initials": "SG"
+    },
+    {
+      "name": "TDC Erhverv",
+      "url": "https://tdc.dk/",
+      "image": "/assets/images/sponsors/e5ec7a43b2f61b29a557.webp",
+      "initials": "TE"
+    },
+    {
+      "name": "UpTime IT Management",
+      "url": "https://www.uptime.net.nz/",
+      "image": "/assets/images/sponsors/32511fc46d55e9450cd6.webp",
+      "initials": "UI"
+    },
+    {
+      "name": "Jan Bakker",
+      "url": "https://janbakker.tech/",
+      "image": "/assets/images/sponsors/56081d5c46bde81c8ca3.webp",
+      "initials": "JB"
+    },
+    {
+      "name": "Declarative Ltd",
+      "url": "https://declarative.nz/",
+      "image": "/assets/images/sponsors/096d430e86a197189937.webp",
+      "initials": "DL"
+    },
+    {
+      "name": "Blue Hybrid",
+      "url": "https://bluehybrid.io/",
+      "image": "/assets/images/sponsors/e609b8df43f592f9989d.webp",
+      "initials": "BH"
+    },
+    {
+      "name": "Steel Shed",
+      "url": "https://steelshed.com/",
+      "image": "/assets/images/sponsors/270fbf47b62bf60816f5.webp",
+      "initials": "SS"
+    },
+    {
+      "name": "GRC Softwaremanagement AG",
+      "url": "https://www.grcag.eu/",
+      "image": "/assets/images/sponsors/ef6a4012f6807360161e.webp",
+      "initials": "GS"
+    },
+    {
+      "name": "Bastien Perez",
+      "url": "https://perezbastien.com/",
+      "image": "/assets/images/sponsors/667837f6912b500cd34f.webp",
+      "initials": "BP"
+    },
+    {
+      "name": "Horizons Consulting, Inc.",
+      "url": "https://www.hrizns.com/",
+      "image": "/assets/images/sponsors/0a36be621116d4cd3825.webp",
+      "initials": "HC"
+    },
+    {
+      "name": "conode Systemhaus GmbH",
+      "url": "https://conode.de/",
+      "image": "/assets/images/sponsors/555e1f77f4c86369fe35.webp",
+      "initials": "CS"
+    },
+    {
+      "name": "SECOTRON (Thomas Geens)",
+      "url": "https://www.secotron.eu/",
+      "image": "/assets/images/sponsors/58d8c0a35d73696589c7.webp",
+      "initials": "ST"
+    },
+    {
+      "name": "Jeff Weitz",
+      "url": "https://www.linkedin.com/in/cjweitz/",
+      "image": null,
+      "initials": "JW"
+    },
+    {
+      "name": "Thomas & Hutton",
+      "url": "https://www.thomasandhutton.com/",
+      "image": "/assets/images/sponsors/4158ac37ae8a46cf1b96.webp",
+      "initials": "TH"
+    },
+    {
+      "name": "De Technische Jongens",
+      "url": "https://www.detechnischejongens.nl/",
+      "image": "/assets/images/sponsors/f98ecfe6ba8ab64e673f.webp",
+      "initials": "DT"
+    },
+    {
+      "name": "MSX Security - Marcus Burnap",
+      "url": "https://uk.linkedin.com/company/msx-security",
+      "image": "/assets/images/sponsors/6f008d33a6c083ecc961.webp",
+      "initials": "MS"
+    },
+    {
+      "name": "Nymbol IT Solutions",
+      "url": "https://nymbolit.com/",
+      "image": "/assets/images/sponsors/449fed52da470605e9e8.webp",
+      "initials": "NI"
+    },
+    {
+      "name": "AppControl.ai -Kim Oppalfens",
+      "url": "https://www.appcontrol.ai/",
+      "image": "/assets/images/sponsors/047d517cccd833923aeb.webp",
+      "initials": "AA"
+    },
+    {
+      "name": "Jesper Raarup",
+      "url": "https://www.linkedin.com/in/jraarup/",
+      "image": "/assets/images/sponsors/3e2d69c7af4f94ede63a.webp",
+      "initials": "JR"
+    },
+    {
+      "name": "Ultra Tendency International GmbH",
+      "url": "https://ultratendency.com/",
+      "image": "/assets/images/sponsors/b82f45a321907867f212.webp",
+      "initials": "UT"
+    },
+    {
+      "name": "365cloud GmbH",
+      "url": "https://365cloud.ch/",
+      "image": "/assets/images/sponsors/0b7904a293120685d5fe.webp",
+      "initials": "3G"
+    },
+    {
+      "name": "CSC Pauly",
+      "url": "https://www.cscpauly.de/",
+      "image": "/assets/images/sponsors/2350d35a76c884bb1da3.webp",
+      "initials": "CP"
+    },
+    {
+      "name": "Jian An Lim",
+      "url": "https://linkedin.com/in/limja",
+      "image": null,
+      "initials": "JA"
+    },
+    {
+      "name": "zwobyte",
+      "url": "https://zwobyte.de/",
+      "image": "/assets/images/sponsors/ba0e674b821de4836b22.webp",
+      "initials": "Z"
+    },
+    {
+      "name": "Gijs Meulenbroek",
+      "url": "https://www.linkedin.com/in/gijs-meulenbroek/",
+      "image": null,
+      "initials": "GM"
+    },
+    {
+      "name": "Jérémy (Wakers)",
+      "url": "https://www.linkedin.com/in/jeremysanglier/",
+      "image": null,
+      "initials": "JW"
+    },
+    {
+      "name": "Quantei",
+      "url": "https://www.quantei.com/",
+      "image": "/assets/images/sponsors/cd9560b4408d89b50155.webp",
+      "initials": "Q"
+    },
+    {
+      "name": "Lutz Mueller-Hipper",
+      "url": "https://www.linkedin.com/in/lmhipper/",
+      "image": "/assets/images/sponsors/dc1797fa3fc5b59bbfb8.webp",
+      "initials": "LM"
+    },
+    {
+      "name": "Sword Group",
+      "url": "https://www.sword-group.com/",
+      "image": "/assets/images/sponsors/0f56220beb3d1d4d4a60.webp",
+      "initials": "SG"
+    },
+    {
+      "name": "NIL, part of Conscia",
+      "url": "https://nil.com/",
+      "image": "/assets/images/sponsors/1efc906470db3997e23e.webp",
+      "initials": "NP"
+    },
+    {
+      "name": "Brainpulse IT",
+      "url": "https://brainpulse.it/",
+      "image": "/assets/images/sponsors/0103a169c8a1293f3562.webp",
+      "initials": "BI"
+    },
+    {
+      "name": "Paul Schnackenburg",
+      "url": "https://www.expertitsolutions.com.au/",
+      "image": "/assets/images/sponsors/b84b0a7c8d9d92763de3.webp",
+      "initials": "PS"
+    },
+    {
+      "name": "CloudNovum",
+      "url": null,
+      "image": null,
+      "initials": "C"
+    },
+    {
+      "name": "Langtech Inc.",
+      "url": "https://www.langtech.com/",
+      "image": "/assets/images/sponsors/63bb0a0b9200a5c4393e.webp",
+      "initials": "LI"
+    },
+    {
+      "name": "Fortytwo.io",
+      "url": "https://fortytwo.io/",
+      "image": "/assets/images/sponsors/bfcadac32f6537f8b585.webp",
+      "initials": "FI"
+    },
+    {
+      "name": "IKT-People ApS",
+      "url": "https://ikt-people.dk/",
+      "image": "/assets/images/sponsors/0a252d7eb5013526fcf1.webp",
+      "initials": "IP"
+    }
+  ],
+  "github": [
+    {
+      "login": "AntonWilloughby",
+      "name": "Anton W",
+      "url": "https://github.com/AntonWilloughby",
+      "website": null,
+      "avatar": "https://avatars.githubusercontent.com/u/116081795?s=160&u=1bdb1e57f4d22047416d323258ad47b41e322b12&v=4",
+      "org": false,
+      "tier": "Backers"
+    },
+    {
+      "login": "goldjg",
+      "name": "Graham Gold",
+      "url": "https://github.com/goldjg",
+      "website": "https://infosec.exchange/@cirriustech",
+      "avatar": "https://avatars.githubusercontent.com/u/43296126?s=160&u=aa7708ff07ca0136bd038bb4a8af036e0386ca21&v=4",
+      "org": false,
+      "tier": "Backers"
+    },
+    {
+      "login": "pslorenz",
+      "name": "Steven Lorenz",
+      "url": "https://github.com/pslorenz",
+      "website": null,
+      "avatar": "https://avatars.githubusercontent.com/u/3477436?s=160&u=268b71a0b45f1abe5649aba1af380e287734bdcc&v=4",
+      "org": false,
+      "tier": "Backers"
+    }
+  ]
+}

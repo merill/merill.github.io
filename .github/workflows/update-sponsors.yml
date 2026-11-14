@@ -1,0 +1,72 @@
+name: Update sponsor wall
+
+# Refreshes _data/sponsors.json, the consolidated sponsor wall shown on
+# https://merill.net/sponsor/. Sources, in the order they appear on the page:
+#
+#   1. Company sponsors of Maester  (maester365/maester: website/sponsors/featured.yml)
+#   2. Maester Cloud supporters     (https://maester.cloud/api/founding-members)
+#   3. Public GitHub sponsors       (GitHub GraphQL, tiers from merill/sponsors)
+#
+# The fetching lives in scripts/update-sponsors.py. No secrets are needed:
+# the built-in GITHUB_TOKEN can read public sponsors. If a source fails, its
+# group keeps the previous data and the run is marked failed.
+
+on:
+  schedule:
+    # Daily at 04:30 UTC, after merill/sponsors (00:00) and the stats refresh (03:00).
+    - cron: "30 4 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [master]
+    paths:
+      - "scripts/update-sponsors.py"
+      - ".github/workflows/update-sponsors.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-sponsors
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow (thumbnails for supporter images)
+        run: pip install --disable-pip-version-check pillow
+
+      - name: Fetch sponsors
+        id: fetch
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update-sponsors.py
+
+      - name: Commit changes
+        run: |
+          set -euo pipefail
+          git add _data/sponsors.json assets/images/sponsors
+          if git diff --cached --quiet; then
+            echo "No sponsor changes; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(sponsors): refresh sponsor wall"
+          git pull --rebase
+          git push
+
+      - name: Report source failures
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "One or more sponsor sources failed; the wall kept its previous data for them."
+          exit 1

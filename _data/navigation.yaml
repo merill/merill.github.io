@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
+  - title: "Sponsor"
+    url: /sponsor/
   # - title: "About me"
   #   url: /about/
   # - title: "Podcasts"
