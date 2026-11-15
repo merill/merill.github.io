@@ -1,6 +1,6 @@
 name: Update sponsor wall
 
-# Refreshes _data/sponsors.json, the consolidated sponsor wall shown on
+# Refreshes _data/sponsor_wall.json, the consolidated sponsor wall shown on
 # https://merill.net/sponsor/. Sources, in the order they appear on the page:
 #
 #   1. Company sponsors of Maester  (maester365/maester: website/sponsors/featured.yml)
@@ -54,7 +54,7 @@ jobs:
       - name: Commit changes
         run: |
           set -euo pipefail
-          git add _data/sponsors.json assets/images/sponsors
+          git add _data/sponsor_wall.json assets/images/sponsors
           if git diff --cached --quiet; then
             echo "No sponsor changes; nothing to commit."
             exit 0

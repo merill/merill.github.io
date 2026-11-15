@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update _data/sponsors.json, the consolidated sponsor wall on /sponsor/.
+"""Update _data/sponsor_wall.json, the consolidated sponsor wall on /sponsor/.
 
 Three sources, shown on the page in this order:
 
@@ -51,7 +51,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-DATA_FILE = REPO_ROOT / "_data" / "sponsors.json"
+DATA_FILE = REPO_ROOT / "_data" / "sponsor_wall.json"
 IMAGE_DIR = REPO_ROOT / "assets" / "images" / "sponsors"
 IMAGE_URL_PATH = "/assets/images/sponsors"
 THUMB_SIZE = 144  # pixels; shown at 36px, so sharp on high-density screens

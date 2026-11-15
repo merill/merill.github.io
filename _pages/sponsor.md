@@ -985,7 +985,7 @@ description: "Sponsor Merill Fernando's free, open source tools for the Microsof
 </section>
 
 <section id="wall">
-  {%- assign wall = site.data.sponsors -%}
+  {%- assign wall = site.data.sponsor_wall -%}
   {%- assign wall_total = wall.company.size | plus: wall.cloud.size | plus: wall.github.size -%}
   <p class="sp-eyebrow">Sponsor wall</p>
   <h2 class="sp-h2">Thank you to the {{ wall_total }} sponsors backing this work.</h2>
