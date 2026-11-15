@@ -6,7 +6,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Sponsor"
-    url: https://github.com/sponsors/merill
+    url: /sponsor/
   # - title: "Podcasts"
   #   url: /podcasts/
     

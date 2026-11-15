@@ -1,0 +1,156 @@
+<!-- start custom footer snippets -->
+{% unless page.url == "/sponsor/" %}
+<style>
+.sponsor-fab {
+  position: fixed;
+  right: max(16px, env(safe-area-inset-right, 0px));
+  bottom: max(16px, env(safe-area-inset-bottom, 0px));
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  border: 1px solid #3d2326;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #161617 0%, #1f1012 100%);
+  box-shadow: 0 14px 34px rgba(15, 23, 42, 0.28);
+  font-family: var(--merill-font-sans, "Inter", sans-serif);
+  animation: sponsor-fab-in 0.6s cubic-bezier(0.22, 1, 0.36, 1) 1.2s both;
+}
+.sponsor-fab[hidden] {
+  display: none;
+}
+.sponsor-fab a.sponsor-fab-link {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.5rem 0.35rem 0.5rem 0.5rem;
+  color: #fff;
+  text-decoration: none;
+}
+.sponsor-fab-flame {
+  position: relative;
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: #2a1618;
+}
+.sponsor-fab-flame::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 0 rgba(246, 133, 31, 0.55);
+  animation: sponsor-fab-pulse 2.6s ease-out infinite;
+}
+.sponsor-fab-flame img {
+  width: 22px;
+  height: 22px;
+  transform-origin: 50% 90%;
+  animation: sponsor-fab-flicker 1.9s ease-in-out infinite;
+}
+.sponsor-fab-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.25;
+}
+.sponsor-fab-text span {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #c9bfbf;
+}
+.sponsor-fab-text strong {
+  font-size: 0.86rem;
+  font-weight: 700;
+  background: linear-gradient(100deg, #ffb057 0%, #ff6f61 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.sponsor-fab a.sponsor-fab-link:hover .sponsor-fab-text strong {
+  text-decoration: underline;
+  text-decoration-color: #ff8a5c;
+  text-underline-offset: 3px;
+}
+.sponsor-fab a.sponsor-fab-link:focus-visible,
+.sponsor-fab-close:focus-visible {
+  outline: 2px solid #ffb057;
+  outline-offset: 2px;
+  border-radius: 999px;
+}
+.sponsor-fab-close {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  margin: 0 0.4rem 0 0.15rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: #8f8585;
+  font-size: 1.05rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.sponsor-fab-close:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+}
+@keyframes sponsor-fab-in {
+  from { opacity: 0; transform: translateY(18px) scale(0.96); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes sponsor-fab-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(246, 133, 31, 0.5); }
+  70%, 100% { box-shadow: 0 0 0 12px rgba(246, 133, 31, 0); }
+}
+@keyframes sponsor-fab-flicker {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.07, 1.12) rotate(-3deg); }
+  50% { transform: scale(0.97, 1.03) rotate(2deg); }
+  75% { transform: scale(1.05, 1.1) rotate(-1deg); }
+}
+@media (max-width: 30em) {
+  .sponsor-fab-text span {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .sponsor-fab,
+  .sponsor-fab-flame::before,
+  .sponsor-fab-flame img {
+    animation: none;
+  }
+}
+@media print {
+  .sponsor-fab {
+    display: none;
+  }
+}
+</style>
+<div class="sponsor-fab" id="sponsor-fab">
+  <a class="sponsor-fab-link" href="/sponsor/">
+    <span class="sponsor-fab-flame"><img src="/assets/images/projects/maester.svg" alt=""></span>
+    <span class="sponsor-fab-text"><span>Free tools, self-funded</span><strong>Sponsor my work →</strong></span>
+  </a>
+  <button class="sponsor-fab-close" id="sponsor-fab-close" type="button" aria-label="Hide sponsor button">×</button>
+</div>
+<script>
+(function () {
+  var fab = document.getElementById("sponsor-fab");
+  var key = "sponsorFabHiddenUntil";
+  try {
+    if (Number(localStorage.getItem(key)) > Date.now()) fab.hidden = true;
+  } catch (e) {}
+  document.getElementById("sponsor-fab-close").addEventListener("click", function () {
+    fab.hidden = true;
+    try {
+      localStorage.setItem(key, String(Date.now() + 30 * 24 * 60 * 60 * 1000));
+    } catch (e) {}
+  });
+})();
+</script>
+{% endunless %}
+<!-- end custom footer snippets -->

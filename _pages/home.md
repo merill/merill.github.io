@@ -148,6 +148,48 @@ hidden: true
   border-radius: 24px;
   filter: drop-shadow(0 18px 35px rgba(15, 23, 42, 0.16));
 }
+.home-sponsor {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  max-width: 100%;
+  margin-top: 1.25rem;
+  padding: 0.4rem 0.95rem 0.4rem 0.5rem;
+  border: 1px solid #f3cfc4;
+  border-radius: 999px;
+  background: linear-gradient(100deg, #fff7f0 0%, #fff1ef 100%);
+  color: #172033;
+  font-size: 0.86rem;
+  line-height: 1.3;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+}
+.home-sponsor:hover {
+  border-color: #ee3d3a;
+  box-shadow: 0 8px 20px rgba(210, 44, 49, 0.14);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+.home-sponsor img {
+  flex: 0 0 auto;
+  width: 20px;
+  height: 20px;
+}
+.home-sponsor span {
+  padding-right: 0.6rem;
+  border-right: 1px solid #f0c9bd;
+  color: #5b677a;
+}
+.home-sponsor strong {
+  color: #c8202b;
+  font-weight: 700;
+}
+@media (max-width: 480px) {
+  .home-sponsor span {
+    display: none;
+  }
+}
 @media (max-width: 640px) {
   .home-hero {
     align-items: flex-start;
@@ -167,6 +209,7 @@ hidden: true
     <p class="home-eyebrow">Microsoft AI, Security, Graph, and community tools</p>
     <h1 class="home-title">Hi, I'm Merill.</h1>
     <p class="home-intro">I build practical tools, share about Microsoft AI, Security, Entra and Graph, and share resources for admins, developers, and security teams.</p>
+    <a class="home-sponsor" href="/sponsor/"><img src="/assets/images/projects/maester.svg" alt=""><span>Free and self-funded</span><strong>Sponsor my work →</strong></a>
   </div>
   <img class="home-hero-logo" src="/assets/images/projects/msailogo.png" alt="Microsoft AI logo">
 </section>
@@ -182,6 +225,17 @@ hidden: true
     <div class="project-card-body">
       <h3><a href="/blog/">My Personal Blog</a></h3>
       <p>My random thoughts and an archive of everything I post on social media.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/adminnews.png" alt="Admin.News logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://admin.news">Admin.News</a></h3>
+      <p>The home of our weekly and daily newsletters for Microsoft admins, covering Entra, Intune, Defender, Active Directory, Purview and Microsoft AI.</p>
+      <span class="project-card-stat">34k+ subscribers</span>
     </div>
   </div>
 
@@ -204,6 +258,56 @@ hidden: true
       <h3><a href="https://entra.chat">Entra.Chat</a></h3>
       <p>My weekly podcast on Microsoft Entra covering the latest news, features, and best practices.</p>
       <span class="project-card-stat">8k listeners</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/intunenews.png" alt="Intune News logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://intune.admin.news">Intune News</a></h3>
+      <p>The weekly roundup of Microsoft Intune updates worth knowing, edited by Andrew Taylor.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/defendernews.png" alt="Defender News logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://defender.admin.news">Defender News</a></h3>
+      <p>The weekly roundup of Microsoft Defender, Sentinel and Exposure Management updates, edited by Fabian Bader.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/adnews.png" alt="AD News logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://ad.admin.news">AD News</a></h3>
+      <p>Active Directory, Windows Server, hardening and Patch Tuesday each week, edited by David Horak.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/purviewnews.png" alt="Purview News logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://purview.admin.news">Purview News</a></h3>
+      <p>Information protection, DLP, insider risk and eDiscovery in one weekly read, edited by Ewelina Paczkowska.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-logo">
+      <img src="/assets/images/projects/msailogo.png" alt="Microsoft AI News logo">
+    </div>
+    <div class="project-card-body">
+      <h3><a href="https://msai.ms">Microsoft AI News</a></h3>
+      <p>A weekly guide to Microsoft AI and Copilot, edited by Joanne Hayek.</p>
     </div>
   </div>
 
