@@ -297,9 +297,9 @@
       "name": "Anton W",
       "url": "https://github.com/AntonWilloughby",
       "website": null,
-      "avatar": "https://avatars.githubusercontent.com/u/116081795?s=160&u=1bdb1e57f4d22047416d323258ad47b41e322b12&v=4",
+      "avatar": "https://avatars.githubusercontent.com/u/116081795?s=160&u=a2fd0f2a1a0f786712bcb86a7fca00072d8cfd74&v=4",
       "org": false,
-      "tier": "Backers"
+      "tier": "Company Sponsors"
     },
     {
       "login": "goldjg",
@@ -308,7 +308,7 @@
       "website": "https://infosec.exchange/@cirriustech",
       "avatar": "https://avatars.githubusercontent.com/u/43296126?s=160&u=aa7708ff07ca0136bd038bb4a8af036e0386ca21&v=4",
       "org": false,
-      "tier": "Backers"
+      "tier": "Sponsors"
     },
     {
       "login": "pslorenz",
@@ -317,7 +317,7 @@
       "website": null,
       "avatar": "https://avatars.githubusercontent.com/u/3477436?s=160&u=268b71a0b45f1abe5649aba1af380e287734bdcc&v=4",
       "org": false,
-      "tier": "Backers"
+      "tier": "Sponsors"
     }
   ]
 }
