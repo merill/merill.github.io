@@ -7,6 +7,8 @@ main:
     url: /about/
   - title: "Sponsor"
     url: /sponsor/
+  - title: "Shop"
+    url: https://shop.merill.net
   # - title: "Podcasts"
   #   url: /podcasts/
     
